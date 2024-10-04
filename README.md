@@ -2,7 +2,7 @@
 OpenThaiRAG is an open-source Retrieval-Augmented Generation (RAG) framework designed specifically for Thai language processing. This project combines the power of vector databases, large language models, and information retrieval techniques to provide accurate and context-aware responses to user queries in Thai.
 
 ## Maintainer
-Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th)
+Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team.
 
 ## Key Features
 
