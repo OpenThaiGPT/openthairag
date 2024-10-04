@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 from pymilvus import connections, Collection, FieldSchema, CollectionSchema, utility, DataType
 from transformers import AutoTokenizer, AutoModel
 import torch
@@ -102,26 +102,10 @@ def rerank_documents(query_embedding, document_embeddings):
     ranked_documents = sorted(enumerate(similarities.flatten()), key=lambda x: x[1], reverse=True)
     return ranked_documents
 
-# Function to generate text using vllm
-def generate_vllm_response(prompt):
-    url = f'http://{VLLM_HOST}/v1/completions'
-    headers = {'Content-Type': 'application/json'}
-    data = {
-        "model": ".",
-        "prompt": f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n",
-        "max_tokens": 512,
-        "temperature": 0.7,
-        "top_p": 0.8,
-        "top_k": 40,
-        "stop": ["<|im_end|>"]
-    }
-    response = requests.post(url, headers=headers, data=json.dumps(data))
-    return response.json()['choices'][0]['text']
-
 # Flask route for index page
 @app.route("/", methods=["GET"])
 def index():
-    return "Hello", 200
+    return "Welcome to OpenThaiRAG!", 200
 
 # Flask route for indexing text
 @app.route("/index", methods=["POST"])
@@ -224,12 +208,18 @@ def list_all_documents():
 # Flask route for handling user queries
 @app.route("/query", methods=["POST"])
 def query():
-    # Get user query from request
+    # Get user query and parameters from request
     data = request.get_json()
-    query_text = data["query"]
-
+    prompt = data.get("prompt", "")
+    stream = data.get("stream", False)
+    temperature = data.get("temperature", 0.7)
+    max_tokens = data.get("max_tokens", 512)
+    top_p = data.get("top_p", 1.0)
+    top_k = data.get("top_k", -1)
+    
     # Step 1: Generate query embedding
-    query_embedding = generate_embedding(query_text).numpy().flatten().tolist()
+    query_embedding = generate_embedding(prompt).numpy().flatten().tolist()
+    
     # Prepare search parameters
     search_param = {
         "metric_type": "L2",
@@ -245,6 +235,7 @@ def query():
         output_fields=["id", "text", "embedding"],
         expr=None
     )
+    
     # Extract document texts and embeddings
     retrieved_documents = []
     document_embeddings = []
@@ -268,13 +259,44 @@ def query():
     # Step 4: Prepare prompt for VLLM with top re-ranked documents
     prompt = f"Based on the following documents, answer the query:\n\n"
     prompt += "\n\n".join([doc.get('text') for doc in top_documents])
-    prompt += f"\n\nQuery: {query_text}"
+    prompt += f"\n\nQuery: {prompt}"
 
     # Step 5: Generate final response with VLLM
-    output = generate_vllm_response(prompt)
-
-    # Return response to the client
-    return jsonify({"query": query_text, "response": output})
+    if stream:
+        def generate():
+            response = requests.post(
+                f'http://{VLLM_HOST}/v1/completions',
+                json={
+                    "model": ".",
+                    "prompt": f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n",
+                    "max_tokens": max_tokens,
+                    "temperature": temperature,
+                    "top_p": top_p,
+                    "top_k": top_k,
+                    "stream": True,
+                    "stop": ["<|im_end|>"]
+                },
+                stream=True
+            )
+            for line in response.iter_lines():
+                if line:
+                    yield f"data: {line.decode('utf-8')}\n\n"
+            yield "data: [DONE]\n\n"
+        return Response(generate(), mimetype='text/event-stream')
+    else:
+        response = requests.post(
+            f'http://{VLLM_HOST}/v1/completions',
+            json={
+                "model": ".",
+                "prompt": f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n",
+                "max_tokens": max_tokens,
+                "temperature": temperature,
+                "top_p": top_p,
+                "top_k": top_k,
+                "stop": ["<|im_end|>"]
+            }
+        )
+        return response.json()
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)

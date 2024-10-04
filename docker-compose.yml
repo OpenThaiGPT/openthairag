@@ -7,12 +7,12 @@ services:
       - "5000:5000"
     volumes:
       - ./app:/app
-    depends_on:
-      - milvus
     environment:
       - MILVUS_HOST=milvus
       - MILVUS_PORT=19530
       - VLLM_HOST=172.17.0.1:8000
+    depends_on:
+      - milvus
 
   milvus:
     container_name: milvus-standalone
