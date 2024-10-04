@@ -4,6 +4,9 @@ OpenThaiRAG is an open-source Retrieval-Augmented Generation (RAG) framework des
 ## Maintainer
 Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team.
 
+## License
+Apache 2.0
+
 ## Key Features
 
 - **Vector Database Integration**: Utilizes Milvus for efficient storage and retrieval of document embeddings.
