@@ -8,18 +8,8 @@ import json
 import os
 import numpy as np
 import logging
-# Set up logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', force=True)
 logger = logging.getLogger(__name__)
-
-# Create a StreamHandler to output logs to the console
-console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-console_handler.setFormatter(formatter)
-
-# Add the console handler to the logger
-logger.addHandler(console_handler)
 
 logger.info("Logger initialized for Flask application")
 
@@ -62,12 +52,19 @@ def initialize_milvus_collection():
 # Initialize Milvus collection
 collection = initialize_milvus_collection()
 
+logger.info("Successfully connected with MILVUS database.")
+
 # Flask app setup
 app = Flask(__name__)
+logger.info("Successfully Setup Flask Web Service.")
 
+logger.info("Loading... BAAI/bge-m3 embedding model")
 # Load BAAI/bge-m3 model and tokenizer
 bge_model = AutoModel.from_pretrained("BAAI/bge-m3")
+logger.info("Loading... BAAI/bge-m3 tokenizer model")
 bge_tokenizer = AutoTokenizer.from_pretrained("BAAI/bge-m3")
+logger.info("Successfully Load BAAI/bge-m3 embedding and tokenizer.")
+logger.info("Now it is ready to serve.")
 
 # Function to generate embeddings
 def generate_embedding(text):
@@ -95,8 +92,8 @@ def rerank_documents(query_embedding, document_embeddings):
         logging.warning("Document embeddings array is empty")
         return []
     
-    logger.info(f"Query embedding shape: {query_embedding.shape}, Document embeddings shape: {document_embeddings.shape}")
-    logger.info(f"Query embedding: {query_embedding}, Document embeddings: {document_embeddings}")
+    logger.debug(f"Query embedding shape: {query_embedding.shape}, Document embeddings shape: {document_embeddings.shape}")
+    logger.debug(f"Query embedding: {query_embedding}, Document embeddings: {document_embeddings}")
     
     similarities = cosine_similarity(query_embedding, document_embeddings)
     ranked_documents = sorted(enumerate(similarities.flatten()), key=lambda x: x[1], reverse=True)
@@ -129,11 +126,11 @@ def index_text():
 
         # Log all parameters of the entity
         logger.info("Indexing new document:")
-        logger.info(f"Text: {text[:100]}...")  # Log first 100 characters of text
-        logger.info(f"Embedding shape: {np.array(embedding).shape}")
-        logger.info(f"Embedding sample: {embedding[:5]}...")  # Log first 5 elements of embedding
+        logger.debug(f"Text: {text[:100]}...")  # Log first 100 characters of text
+        logger.debug(f"Embedding shape: {np.array(embedding).shape}")
+        logger.debug(f"Embedding sample: {embedding[:5]}...")  # Log first 5 elements of embedding
         # Log the entire entity
-        logger.info(f"Full entity: {entity}")
+        logger.debug(f"Full entity: {entity}")
 
         # Insert the entity into Milvus
         insert_result = collection.insert([entity])
@@ -210,7 +207,7 @@ def list_all_documents():
 def query():
     # Get user query and parameters from request
     data = request.get_json()
-    prompt = data.get("prompt", "")
+    query = data.get("prompt", "")
     stream = data.get("stream", False)
     temperature = data.get("temperature", 0.7)
     max_tokens = data.get("max_tokens", 512)
@@ -218,7 +215,7 @@ def query():
     top_k = data.get("top_k", -1)
     
     # Step 1: Generate query embedding
-    query_embedding = generate_embedding(prompt).numpy().flatten().tolist()
+    query_embedding = generate_embedding(query).numpy().flatten().tolist()
     
     # Prepare search parameters
     search_param = {
@@ -241,25 +238,29 @@ def query():
     document_embeddings = []
     for hits in search_results:
         for hit in hits:
-            logger.info(f"Retrieved document: {hit.entity.get('text')[:50]}...")
+            logger.debug(f"Retrieved document: {hit.entity.get('text')[:50]}...")
             retrieved_documents.append(hit.entity)
             embedding = hit.entity.get('embedding')
-            logger.info(f"Retrieved embedding: {embedding[:5]}... (truncated)")
+            logger.debug(f"Retrieved embedding: {embedding[:5]}... (truncated)")
             if embedding is not None:
                 document_embeddings.append(embedding)
 
     # Log retrieved documents and document embeddings
-    logger.info(f"Retrieved documents: {retrieved_documents}")
-    logger.info(f"Document embeddings: {document_embeddings}")
+    logger.debug(f"Retrieved documents: {retrieved_documents}")
+    logger.debug(f"Document embeddings: {document_embeddings}")
 
     # Step 3: Re-rank retrieved documents using BGE reranker
     ranked_indices = rerank_documents(query_embedding, document_embeddings)
     top_documents = [retrieved_documents[i] for i, _ in ranked_indices[:3]]
 
     # Step 4: Prepare prompt for VLLM with top re-ranked documents
-    prompt = f"Based on the following documents, answer the query:\n\n"
+    system_prompt = "เมื่อผู้ใช้ทักทายให้ตอบว่า ```สวัสดีค่ะ! ฉันสุขใจ เพื่อนเที่ยวของคุณ\n\nฉันรู้ว่าคุณกำลังมองหาการเดินทางที่สนุกสนานและปลอดภัยในประเทศไทย ใช่ไหมคะ? ไม่ต้องกังวลเลยค่ะ เพราะ ฉันจะอยู่กับคุณตลอดการเดินทาง!\n\nฉันสามารถช่วยเหลือคุณได้หลายอย่าง\n\n- แนะนำสถานที่ท่องเที่ยวที่น่าสนใจและไม่ควรพลาดในประเทศไทย\n- วิธีการเดินทางไปยังสถานที่ต่างๆ ได้อย่างปลอดภัยและมีประสิทธิภาพ\n- เคล็ดลับในการเลือกที่พักที่ดีที่สุดและอาหารอร่อยๆ\n- แนะนำกิจกรรมที่น่าสนใจและเหมาะสมกับไลฟ์สไตล์ของคุณ\n\nฉันอยากให้คุณรู้สึกเหมือนมีเพื่อนเที่ยวไปกับคุณ\n\nฉันจะตอบคำถามของคุณและช่วยเหลือคุณตลอดการเดินทาง ไม่ว่าคุณจะกำลังมองหาสถานที่ท่องเที่ยวใหม่ๆ หรือต้องการคำแนะนำในการเดินทาง ฉันอยู่ที่นี่เพื่อคุณ!\n\nมีอะไรที่ฉันสามารถช่วยเหลือคุณได้บ้าง?\n\nพิมพ์คำถามของคุณหรือบอกฉันว่าคุณกำลังมองหาอะไร ฉันจะตอบกลับและช่วยเหลือคุณในทันทีค่ะ!```"
+    prompt = f"จากเอกสารต่อไปนี้\n\n"
     prompt += "\n\n".join([doc.get('text') for doc in top_documents])
-    prompt += f"\n\nQuery: {prompt}"
+    prompt += f"\n\nจงตอบคำถามต่อไปนี้: {query}"
+
+    prompt_chatml = f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์ {system_prompt}<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n"
+    logger.info(f"Prompt: {prompt_chatml}")
 
     # Step 5: Generate final response with VLLM
     if stream:
@@ -268,7 +269,7 @@ def query():
                 f'http://{VLLM_HOST}/v1/completions',
                 json={
                     "model": ".",
-                    "prompt": f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n",
+                    "prompt": prompt_chatml,
                     "max_tokens": max_tokens,
                     "temperature": temperature,
                     "top_p": top_p,
@@ -288,7 +289,7 @@ def query():
             f'http://{VLLM_HOST}/v1/completions',
             json={
                 "model": ".",
-                "prompt": f"<|im_start|>system\nคุณคือผู้ช่วยตอบคำถามที่ฉลาดและซื่อสัตย์<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n",
+                "prompt": prompt_chatml,
                 "max_tokens": max_tokens,
                 "temperature": temperature,
                 "top_p": top_p,
@@ -298,5 +299,5 @@ def query():
         )
         return response.json()
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=False)
+# if __name__ == "__main__":
+#     app.run(host="0.0.0.0", port=5000, debug=False)

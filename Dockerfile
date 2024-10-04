@@ -18,8 +18,8 @@ COPY requirements.txt /app/
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application code into the container
-COPY . /app
+# Copy all files from the app directory into the container
+COPY ./app/* /app
 
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
@@ -30,5 +30,5 @@ ENV FLASK_ENV=production
 ENV LOG_LEVEL=INFO
 
 # Run web.py using gunicorn when the container launches
-CMD ["python","web.py"]
-# CMD ["gunicorn", "--bind", "0.0.0.0:5000", "web:app"]
+# CMD ["python","web.py"]
+CMD ["gunicorn", "-c", "/app/gunicorn_config.py", "web:app"]
