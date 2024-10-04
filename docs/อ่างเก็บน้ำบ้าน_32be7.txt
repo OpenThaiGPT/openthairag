@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำบ้านจรัส (ไม่มี)
+Content: มีเนื้อที่ 1,328 ไร่ ความจุ 15 ล้านลูกบาศก์เมตร ใช้เป็นท่าเทียบเรือสำหรับนำนักท่องเที่ยวเดินทางเข้าเยี่ยมชนน้ำตกไตรคีรี ใช้เวลาเพียง 45 นาที นับเป็นสถานที่ท่องเที่ยวที่ได้รับความนิยมจากนักท่องเที่ยวเป็นอย่างมาก เนื่องจากสามารถเดินทางด้วยเรือ พร้อมกับชมทัศนียภาพที่สวยงามสองฝั่งได้ด้วย
+
+Nearby Location: อยู่ที่ตำบลจรัส อำเภอบัวเชด ติดกับน้ำตกไตรคีรี
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: จรัส
+District: บัวเชด
+Province: สุรินทร์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.418091, 103.9476315
+UUID: e2ff8347-4933-4b47-9dfe-dc12c46bce08
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

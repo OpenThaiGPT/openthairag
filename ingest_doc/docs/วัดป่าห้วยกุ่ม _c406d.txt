@@ -1,0 +1,37 @@
+Title: วัดป่าห้วยกุ่ม (Wat Pa Huai Kum)
+Content: แวดล้อมไปด้วยต้นไม้ สภาพโดยทั่วไปยังไม่มีสิ่งอำนวยความสะดวกมากนัก เหมาะแก่การฝึกจิตและนั่งวิปัสนาธรรมโดยแท้จริง
+
+Nearby Location: ใกล้กับเขื่อนห้วยกุ่ม ตำบลหนองโพนงาม อำเภอเกษตรสมบูรณ์
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: กุดเลาะ
+District: เกษตรสมบูรณ์
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 4412 9081
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.4311872, 101.806895
+UUID: 890f5698-5535-4365-b35e-8718579c585a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

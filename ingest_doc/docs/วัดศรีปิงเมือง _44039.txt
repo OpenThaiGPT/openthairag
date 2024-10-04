@@ -1,0 +1,36 @@
+Title: วัดศรีปิงเมือง (Wat Si Ping Muang)
+Content: พระธาตุศรีปิงเมือง อายุยาวนานกว่า 900 ปี
+
+Nearby Location: อยู่ในโบราณสถานเวียงลอ ตำบลลอ อำเภอจุน 
+Address: หมู่ 1 บ้านลอ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ลอ
+District: จุน
+Province: พะเยา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 054 447199
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเข้าชมได้ทุกวัน ตั้งแต่เวลา 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.4494521, 100.091815
+UUID: cad97fe4-29c0-4d4e-ad1c-3e8bd2f2d979
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

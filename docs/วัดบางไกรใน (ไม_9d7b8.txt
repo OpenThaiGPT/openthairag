@@ -1,0 +1,36 @@
+Title: วัดบางไกรใน (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมคลองบางไกรนอก ตำบลบางขุนกอง
+Address: 101 หมู่ 4
+Region: ภาคกลาง
+Alley: 
+Road: นครอินทร์
+Subdistrict: 
+District: บางกรวย
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 0 2924 9457
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8194389, 100.4395468
+UUID: 76641c5d-f562-485e-be02-049c6a57e0fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

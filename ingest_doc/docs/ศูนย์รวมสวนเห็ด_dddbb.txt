@@ -1,0 +1,36 @@
+Title: ศูนย์รวมสวนเห็ดบ้านอรัญญิก (Suan Hat Ban Aranyik Center)
+Content: 
+
+Nearby Location: ถนนพุทธมณฑลสาย 4 ตำบลกระทุ่มล้ม อำเภอสามพราน ใกล้โรงพยาบาลนิติจิตเวช
+Address: 3/1 หมู่ 8
+Region: ภาคกลาง
+Alley: 
+Road: พุทธมณฑลสาย 4
+Subdistrict: 
+District: สามพราน
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 2441 9263 08 5833 2011
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันเสาร์ 09.00 15.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7625452, 100.3289962
+UUID: 80248ecd-49db-43bb-86e5-b0dcc02767d7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: กองหินเพลิง
+Content: ที่เขาเรียกว่า  กองหินเพลิง  เนื่องจากมีกองปะการังที่มีขนาดใหญ่โต ทำให้ท้องทะเลเป็นสีเหลืองดูเหมือนไฟกำลังรุกไหม้ อยู่ใต้ทะเล นั้นเอง
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: กระแสบน
+District: แกลง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 096 787 9549
+Email: 
+Website: 
+Facebook: https://www.facebook.com/RayongDiveCenter/?locale=th_TH
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เป็นจุดดำน้ำ ไม่มีเวลาเปิดปิด
+Activity: 
+Suitable Duration: ต.ค.   พ.ค.
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6530402, 101.5884082
+UUID: cf5f4c24-0ef6-44c4-adc1-530ed39eda86
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

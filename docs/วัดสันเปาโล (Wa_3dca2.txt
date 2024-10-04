@@ -1,0 +1,36 @@
+Title: วัดสันเปาโล (Wat San Paolo)
+Content: เป็นวัดของพวกบาทหลวงเยซูอิต สร้างขึ้นในรัชสมัยสมเด็จพระนารายณ์ฯ ปัจจุบันหรือเพียงผนังด้านหนึ่งและหอดูดาว บริเวณโดยรอบมีต้นไม้ใหญ่ร่มรื่น คำว่า "สันเปาโล" คงมาจากคำว่าเซ็นตปอลหรือเซ็นเปาโล ชาวบ้านมักเรียกว่า "ตึกสันเปาโล"
+
+Nearby Location: ตั้งอยู่บนถนนร่วมมิตร ทางเข้าวิทยาลัยนาฏศิลป์ลพบุรี ตำบลทะเลชุบศร อำเภอเมืองลพบุรี
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: ร่วมมิตร
+Subdistrict: 
+District: เมืองลพบุรี
+Province: ลพบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.8346531, 100.6480815
+UUID: 3cd07ad4-1446-4485-b997-bb2a32b0bd21
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

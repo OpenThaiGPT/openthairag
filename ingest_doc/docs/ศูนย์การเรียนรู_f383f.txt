@@ -1,0 +1,36 @@
+Title: ศูนย์การเรียนรู้การเกษตรแบบพึ่งพาตนเองบ้านเนินขามอันเนื่องมาจากพระราชดำริ (Baan Nern Kham Self Learning Agricultural Center)
+Content: เป็นศูนย์การเรียนรู้เศรษฐกิจพอเพียงชุมชน เป็นแหล่งสาธิตการเกษตรปลอดสารพิษที่สามารถให้บริการแก่ประชาชนโดยรอบพื้นที่โครงการ จำนวน 19 หมู่บ้าน
+
+Nearby Location: ตั้งอยู่ที่บ้านหนองระกำ ตำบลเนินขาม อำเภอเนินขาม 
+Address: หมู่ 6 บ้านหนองระกำ 
+Region: ภาคกลาง
+Alley: 
+Road: ทางหลวง 3211
+Subdistrict: 
+District: เนินขาม
+Province: ชัยนาท
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 5640 5009, 0 5694 6345 ต่อ 11   18
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.9622222,99.9116667
+UUID: e684429b-06df-401a-8c72-f4a9108f64bc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

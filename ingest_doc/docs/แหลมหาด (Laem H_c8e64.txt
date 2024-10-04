@@ -1,0 +1,36 @@
+Title: แหลมหาด (Laem Had)
+Content: เป็นชายหาดที่ยาวมาก ชายหาดมีลักษณะเป็นผงแป้งสีขาวเนียน ประกอบกับร่มเงาของต้นมะพร้าวและต้นสนที่แสนอบอุ่น การเดินทางไปยังแหลมหาดสามารถไปได้ทั้งทางเรือและทางรถยนต์
+
+Nearby Location: อยู่ที่เกาะยาวใหญ่  ตำบลพุรใน
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เกาะยาว
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 6942 7999
+Email: 
+Website: www.koyaonoi.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.08230049999999, 98.5986406999999
+UUID: 1c122cb9-7a29-48e3-a5f3-d13800a8107c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

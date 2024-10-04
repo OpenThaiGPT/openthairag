@@ -1,0 +1,36 @@
+Title: เชียงรายไนท์บาซ่าร์ (Chiang Rai Night Bazaar)
+Content: จำหน่ายสินค้าพื้นบ้าน สินค้าทำมือ สินค้าหัตถกรรม นอกจากนี้ภายในบริเวณยังมีร้านอาหาร เวทีการแสดง รำไทย และสะล้อ ซอ ซึง ซึ่งเป็นการแสดงดนตรีพื้นบ้านและอนุรักษ์ศิลปะแบบล้านนาเอาไว้
+
+Nearby Location: ใกล้สถานีขนส่งจังหวัดเชียงราย หรือลานกลางเวียง ตำบลเวียง  
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: ประสพสุข
+Subdistrict: 
+District: เมืองเชียงราย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 5371 1752
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 18.00 23.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.9053883, 99.834141
+UUID: 0afef85d-cc7e-4fea-b7b8-d8e1c093d4d3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

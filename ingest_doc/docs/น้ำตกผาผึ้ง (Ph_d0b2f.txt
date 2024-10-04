@@ -1,0 +1,36 @@
+Title: น้ำตกผาผึ้ง (Pha Phueng Waterfall)
+Content: น้ำตกผาผึ้ง (ชั้นที่ ๓) อยู่สูงขึ้นไปตามซอกเขา ห่างจากน้ำตกลานสาง ๗๕๐ เมตร เป็นน้ำตกที่ตั้งอยู่ใจกลางหุบเขา มีลักษณะเป็นหน้าผาเรียบมีความลาดชันประมาณ ๗๐ องศา สูง ๓๐ เมตร ลำห้วยลานสางเมื่อไหลมาถึงหน้าผาน้ำจะไหลบ่าแผ่กระจายเป็นฝอยละอองลาดไปตามหน้าผาลดหลั่นลงมาตามชั้นหินเล็ก ๆ เป็นบริเวณกว้างลงสู่แอ่งน้ำเบื่องล่าง
+
+Nearby Location: ตั้งอยู่ในอุทยานแห่งชาติลานสาง อยู่ห่างจากน้ำตกลานสางประมาณ 600 เมตร
+Address: อุทยานแห่งชาติลานสาง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองตาก
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.773371, 99.0023399999999
+UUID: 68f9f889-5832-401f-97d7-ab079164b169
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

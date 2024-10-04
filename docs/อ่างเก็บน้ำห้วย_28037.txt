@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำห้วยแก้ว (Huai Kaeo Reservoir)
+Content: อ่างเก็บน้ำห้วยแก้วเป็นหนึ่งในโครงการสนองพระราชดำริ  น้ำคือชีวิต  ตั้งอยู่บ้านร่มโพธิ์ทอง ตำบลแม่แฝก อำเภอสันทราย จังหวัดเชียงใหม่ ชาวบ้านส่วนใหญ่ได้รับประโยชน์จากการใช้น้ำในอ่างพอสมควรทั้งน้ำเพื่อการเกษตรและอุปโภคบริโภค
+
+Nearby Location: อยู่ในมหาวิทยาลัยเชียงใหม่ ตำบลสุเทพ อำเภอเมืองเชียงใหม่
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ช้างคลาน
+District: เมืองเชียงใหม่
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 54430900
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.04120649999999, 99.02959229999999
+UUID: a41c5603-ab9b-42da-b623-0246bd16a30a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

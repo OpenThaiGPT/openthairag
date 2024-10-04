@@ -1,0 +1,36 @@
+Title: เรือแม่โขง พาราไดซ์ครุซ (Mekhong Paradise Cruise)
+Content: บริการเรือล่องชมวิว 2 ฝั่งโขง ของเอกชนรายแรกของนครพนม จุดเด่นคือเป็นเรือขนาดใหญ่ สามารถจัดเลี้ยงบนเรือล่องได้
+
+Nearby Location: ท่าขึ้นเรือ ตรงเขื่อนริมแม่น้ำโขง ตรงข้ามกับตลาดอินโดจีน
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: สุนทรวิจิตร
+Subdistrict: กุรุคุ
+District: เมืองนครพนม
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 042512551, 081380 4673
+Email: 
+Website: https://www.facebook.com/MekongParadiseCruise/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เรือออกทุกวัน เวลา 18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 200.0
+Fee (TH Kid): 
+Fee (EN): 200.0
+Fee (EN Kid): 
+Remark: 
+Location: 17.4020328, 104.7893676
+UUID: 8ddc4f4f-3c4a-430e-ada7-e9e617d9aa17
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

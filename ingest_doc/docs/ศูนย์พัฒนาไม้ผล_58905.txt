@@ -1,0 +1,36 @@
+Title: ศูนย์พัฒนาไม้ผล ตามพระราชดำริ จังหวัดจันทบุรี (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ตำบลท่าหลวง อำเภอมะขาม
+Address: หมู่ 8 บ้านทุ่งโตนด
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: มะขาม
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 08 7237 3077, 0 3937 3136
+Email: 
+Website: www.ldd.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.7268563, 102.1176149
+UUID: dad6761a-5f4d-4a9e-b2b6-4eb043fa21a3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

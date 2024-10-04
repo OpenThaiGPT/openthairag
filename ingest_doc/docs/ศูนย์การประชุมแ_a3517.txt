@@ -1,0 +1,36 @@
+Title: ศูนย์การประชุมแห่งชาติสิริกิติ์ (Queen Sirikit National Convention Center)
+Content: 
+
+Nearby Location: อยู่ใกล้โรงงานยาสูบ เขตคลองเตย
+Address: 60
+Region: ภาคกลาง
+Alley: 
+Road: รัชดาภิเษกตัดใหม่
+Subdistrict: 
+District: คลองเตย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์ประชุมฯ
+Facilities Contact: 
+Telephone: 0 2229 3000
+Email: info@qsncc.com
+Website: www.qsncc.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7245354, 100.5589822
+UUID: b528b8b0-9559-4dc5-8d32-3cfb880cc0bc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

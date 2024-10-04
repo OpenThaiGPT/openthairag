@@ -1,0 +1,36 @@
+Title: ท่าอากาศยานดอนเมือง (Don Muang International Airport)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนวิภาวดีรังสิต แขวงสนามบิน เขตดอนเมือง
+Address: 222 หมู่ 10
+Region: ภาคกลาง
+Alley: 
+Road: วิภาวดีรังสิต
+Subdistrict: 
+District: ดอนเมือง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: จุดผ่านแดน/ชายแดน
+Facilities Contact: 
+Telephone: 0 2535 1253, 0 2535 1111
+Email: 
+Website: www.airportthai.co.th/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9199052, 100.6019304
+UUID: 815e1a07-1916-4928-9282-7a60f5530a64
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

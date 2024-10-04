@@ -1,0 +1,37 @@
+Title: พระตำหนักปางตอง (Pang Tong Palace)
+Content: ตัวเรือนประทับแรมตั้งอยู่บนยอดเขาสูงที่บ้านปางตอง ในโครงการพัฒนาพื้นที่สูงปางตอง
+
+Nearby Location: ตั้งอยู่บ้านปางตอง ตำบลหมอกจำแป่ ใกล้กับวนอุทยานน้ำตกผาเสื่อ
+Address: บ้านปางตอง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองแม่ฮ่องสอน
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 5306 1531
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 8.30 16.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.501624977034574,97.94566794104003
+UUID: 66479855-56b0-40c5-8965-cf6cfaa4e35f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

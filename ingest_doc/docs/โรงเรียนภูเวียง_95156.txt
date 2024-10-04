@@ -1,0 +1,36 @@
+Title: โรงเรียนภูเวียงวิทยายน (Phu Wiang Wittayayon School)
+Content: 
+
+Nearby Location: อยู่ตำบลในเมือง อำเภอภูเวียง
+Address: หมู่ 6 บ้านเมืองใหม่
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูเวียง
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 4343 8203
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6784612, 102.2947841
+UUID: 90ad1e99-8958-4ae4-a4dd-1a4167083fff
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

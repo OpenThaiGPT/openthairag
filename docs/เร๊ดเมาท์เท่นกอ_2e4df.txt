@@ -1,0 +1,36 @@
+Title: เร๊ดเมาท์เท่นกอล์ฟคอร์ส (Red Mountain Golf Club)
+Content: สนามกอล์ฟชั้นนำ 18 หลุม 72 พาร์ บนเนื้อที่ 7200 หลา เหมากับนักกอล์ฟที่มองหาความท้าทายใหม่ ๆ เปิดให้บริการครั้งแรกเมื่อ พฤษภาคม พ.ศ. 2550 ออกแบบโดย Jonathan Morrow
+
+Nearby Location: อยู่บนถนนวิชิตสงคราม ตำบลกะทู้ อำเภอกะทู้
+Address: 38 หมู่ 5
+Region: ภาคใต้
+Alley: 
+Road: วิชิตสงคราม
+Subdistrict: 
+District: กะทู้
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 7632 1934
+Email: reservation@phuket.trips.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 21.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 5100.0
+Fee (TH Kid): 5100.0
+Fee (EN): 5100.0
+Fee (EN Kid): 5100.0
+Remark: 
+Location: 7.839574506130906,98.338623046875
+UUID: 72e0970b-8fe0-48d8-a879-c954fe1d3405
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

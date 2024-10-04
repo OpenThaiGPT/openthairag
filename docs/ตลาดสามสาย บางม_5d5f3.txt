@@ -1,0 +1,36 @@
+Title: ตลาดสามสาย บางม่วง
+Content: ตลาดน้ำบางม่วงเน้นขายของกิน มีวัดให้แวะไหว้พระทำบุญ
+
+Nearby Location: บางม่วง นนทบุรี
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางใหญ่
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.8305417, 100.4116531
+UUID: 8fc64862-2146-4aea-9f27-c090e5cfc07a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

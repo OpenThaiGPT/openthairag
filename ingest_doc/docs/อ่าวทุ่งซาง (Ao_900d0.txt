@@ -1,0 +1,36 @@
+Title: อ่าวทุ่งซาง (Ao Thung Sang)
+Content: เป็นอ่าวที่งดงาม มีชายหาดขาวสวยงามร่มรื่น เหมาะแก่การพักผ่อนหย่อนใจนั่งรับลมทะเลเย็นๆ กับความงามของอ่าวทุ่งซาง เพราะเคยเป็นที่ถ่ายทำโฆษณาของหลายแบรนด์ดัง ระดับประเทศ
+
+Nearby Location: อยู่ที่บ้านบางจาก ตำบลชุมโค อำเภอปะทิว
+Address: หมู่ 5 บ้านบางจาก
+Region: ภาคใต้
+Alley: 
+Road: ปะทิว บางจาก
+Subdistrict: เขาไชยราช
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.7717168, 99.4118932
+UUID: 8ac0f69c-845d-43f4-8b52-aa787853ab30
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

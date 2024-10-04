@@ -1,0 +1,36 @@
+Title: ประตูเมือง (City Gate)
+Content: สร้างขึ้นในสมัยรัชกาลที่ 3 พ.ศ.2374 ซึ่งพระองค์ได้ทรงย้ายมาจากเมืองกาญจนบุรีเก่า ตำบลลาดหญ้า มาอยู่ในที่ปัจจุบัน ด้านหน้าประตูจึงได้สร้างพระบรมราชานุสาวรีย์ รัชการที่3 ไว้เพื่อรำลึกพระมหากรุณาธิคุณ
+
+Nearby Location: ตั้งอยู่บริเวณชุมชนปากแพรก บริเวณด้านหลังประตูเมืองเป็นที่ตั้งของพระบรมราชานุสาวรีย์สมเด็จพระ นั่งเกล้าเจ้าอยู่หัว (รัชกาลที่ 3)
+Address: 119
+Region: ภาคกลาง
+Alley: 
+Road: ปากแพรก 
+Subdistrict: บ้านใต้
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: กำแพงเมือง/คูเมือง
+Facilities Contact: 
+Telephone: 0 3451 1502
+Email: kan@muangkancity.go.th
+Website: www.muangkancity.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันเสาร์ 17.00 22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.020167628225328, 99.52974379062653
+UUID: 0e152636-48c2-4728-8539-cf8b4acebc21
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

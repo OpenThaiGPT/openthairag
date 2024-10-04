@@ -1,0 +1,36 @@
+Title: ไดโนปาร์ค (Dino Park)
+Content: มินิกอล์ฟขนาด 18 หลุม ในบรรยากาศโลกบ้านปีซึ่งมีไดโนเสาร์และภูเขาไฟระเบิด ด้วยเทคนิคแสงสีเสียงน่าตื่นเต้น
+
+Nearby Location: อยู่บริเวณด้านหน้าของมารีนาภูเก็ต ตำบลกะรน เมืองภูเก็ต
+Address: 
+Region: ภาคใต้
+Alley: หาดกะรน ซ. 7
+Road: 
+Subdistrict: 
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสนุก/สวนน้ำ
+Facilities Contact: 
+Telephone: 0 7633 0625
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00   24.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 60.0
+Fee (TH Kid): 60.0
+Fee (EN): 60.0
+Fee (EN Kid): 60.0
+Remark: 
+Location: 7.841445128997506,98.2984972000122
+UUID: ee2a8814-8479-47d6-a833-44010987e3b7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

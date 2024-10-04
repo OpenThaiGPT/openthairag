@@ -1,0 +1,36 @@
+Title: ถ้ำโจร (Tham Jaon)
+Content: เป็นถ้ำขนาดเล็กมี ๓ ห้อง งดงามด้วยม่านหินย้อยในแต่ละโถงถ้ำ เล่ากันว่าอดีตเคยเป็นที่อาศัยของโจรมาก่อน
+
+Nearby Location: อยู่ในอุทยานแห่งชาติถ้ำผาไท อำเภองาว
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: งาว
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 5422 0364
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7792597, 99.9465077
+UUID: 6666b981-d9af-4497-94b7-31f4a082cc3a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

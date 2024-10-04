@@ -1,0 +1,36 @@
+Title: หมู่บ้านเครื่องปั้นดินเผา (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ในเกาะเกร็ด ตำบลเกาะเกร็ด
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ปากเกร็ด
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์หัตถกรรม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9077337, 100.4958678
+UUID: e4f149cf-2191-4de4-a2da-6af5a0b9a1e4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

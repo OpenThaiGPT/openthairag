@@ -1,0 +1,37 @@
+Title: ศูนย์การเรียนรู้เมืองฉะเชิงเทรา(KCC) (Knowledge Center of Chacheongsao (KCC))
+Content: เกิดขึ้นจากความร่วมมือร่วมใจระหว่างสำนักงานอุทยานการเรียนรู้ สำนักงานบริหารและพัฒนาองค์ความรู้ (องค์การมหาชน)และเทศบาลเมืองฉะเชิงเทรา มุ่งหมายที่จะกระจายองค์ความรู้และขยายโอกาสในการเข้าถึงแหล่งเรียนรู้ ในลักษณะห้องสมุดมีชีวิตให้แก่เด็ก เยาวชนและประชาชนในจังหวัดฉะเชิงเทรา
+
+Nearby Location: ห่างจากสถานีรถไฟฉะเชิงเทรา 2 กิโลเมตร ห่างจากวัดหลวงพ่อโสธร 3 กิโลเมตร
+Address: 47/2
+Region: ภาคตะวันออก
+Alley: 
+Road: นรกิจ
+Subdistrict: 
+District: เมืองฉะเชิงเทรา
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 38511673
+Email: 
+Website: http://www.kcc.or.th/, www.facebook.com/kccofchachoengsao
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันอังคาร วันศุกร์ 10.00 18.00 น.
+ทุกวันเสาร์ อาทิตย์ 09.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.69302712494641,101.07546918916319
+UUID: 379165e5-6996-4c0a-a60d-6a678d981655
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

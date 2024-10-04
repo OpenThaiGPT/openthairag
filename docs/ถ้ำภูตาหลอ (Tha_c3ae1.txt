@@ -1,0 +1,36 @@
+Title: ถ้ำภูตาหลอ (Tham Pu Ta Lo)
+Content: ถ้ำภูตาหลอ ตั้งอยู่ที่บ้านวังสวาบ ห่างจากที่ว่าการอำเภอภูผาม่าน 17 กิโลเมตร รถยนต์เข้าถึงได้เฉพาะในฤดูแล้ง เป็นถ้ำที่โอ่งโถง พื้นที่ประมาณไร่เศษ เพดานถ้ำสูงประมาณ 5 7 เมตร มีหินงอกหินย้อยซึ่งยังอยู่ในสภาพที่เป็นธรรมชาติ พื้นถ้ำเป็นดินเรียบอากาศภายในเย็นสบาย หินบางก้อนมีลักษณะคล้ายหินเขี้ยวหนุมาน
+
+Nearby Location: อยู่ในอุทยานแห่งชาติภูผาม่าน บ้านวังสวาบ ตำบลวังสวาบ อำเภอชุมแพ
+Address: อุทยานแห่งชาติภูผาม่าน  บ้านวังสวาบ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูผาม่าน
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 7521 3260
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.7282863, 101.8486273
+UUID: 14b672da-c24a-419f-a916-e4a29951703d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

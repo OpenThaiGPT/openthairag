@@ -1,0 +1,36 @@
+Title: ไร่องุ่นอัลซิดินี่ (Alcidini Winery)
+Content: เป็นไร่องุ่นแห่งเดียวในประเทศที่มีการปลูกแบบขั้นไร่องุ่นบรรยากาศสบายตลอดปีที่จังหวัดนครราชสีมา เนื่องจากพื้นที่ที่ปลูกมีความอุดมสมบูรณ์เหมาะที่จะปลูกองุ่นได้เป็นอย่างดี ซึ่งทางไร่ก็สามารถปลูกองุ่นได้หลากหลายสายพันธุ์ทั้งแบบนำเข้ามาจากต่างประเทศและไม่นำเข้า
+
+Nearby Location: อยู่ที่บ้านเพิ่มสมบัติ ตำบลวังกะทะ ห่างตลาดน้ำเขาใหญ่ประมาณ 5 กิโลเมตร
+Address: 176 หมู่ 22 บ้านเพิ่มสมบัติ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 0784 6969
+Email: info@alcidini.com
+Website: www.alcidini.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.543704307358881,101.60261579680059
+UUID: 090ab40b-989b-4aea-abde-ef849d92f5a4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

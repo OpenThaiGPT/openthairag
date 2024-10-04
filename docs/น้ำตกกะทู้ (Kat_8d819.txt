@@ -1,0 +1,40 @@
+Title: น้ำตกกะทู้ (Kathu Waterfall)
+Content: เป็นน้ำตกที่มีขนาดค่อนข้างเล็ก มีความร่มรื่น ด้วยแมกไม้นานาพรรณนานาชนิด
+
+Nearby Location: ใกล้ที่ว่าการอำเภอกระทู้ ตำบลกะทู้
+Address: หมู่ 6
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: กะทู้
+District: กะทู้
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone:  076 321500
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  ทุกวัน
+
+เวลาที่แนะนำ
+
+08.00  17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.929014842001533,98.32755088806152
+UUID: de573cea-51f2-49c1-916b-1905cf25b3b0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศาลหลักเมือง มหาสารคาม (Mahasarakam the City Pillar Shrine)
+Content: สร้างขึ้นเมื่อปี พ.ศ. 2408 เมื่อท้าวมหาชัย เจ้าเมืองมหาสารคามคนแรกได้รวบรวมไพร่พลจากร้อยเอ็ดมาตั้งเมืองใหม่ได้สร้างหลักเมืองและอัญเชิญเจ้าพ่อหลักเมืองมาประทับเพื่อเป็นสิ่งศักดิ์สิทธ์คู่บ้านคู่เมืองนับเป็นอีกสถานที่หนึ่งที่ชาวจังหวัดมหาสารคามให้ความเคารพนับถือกันมาก
+
+Nearby Location: อยู่ติดถนนนครสวรรค์ ตำบลในเมือง อำเภอเมืองมหาสารคาม อยู่ใกล้โรงเรียนสารคามวิทยาคม
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: นครสวรรค์
+Subdistrict: 
+District: เมืองมหาสารคาม
+Province: มหาสารคาม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 4372 5573
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.2016007, 103.2812446
+UUID: 8084cbd4-d17a-4b77-b209-0e91b8e1aecf
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

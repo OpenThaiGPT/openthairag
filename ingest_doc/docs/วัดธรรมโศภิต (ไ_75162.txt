@@ -1,0 +1,36 @@
+Title: วัดธรรมโศภิต (ไม่มี)
+Content: ภายในวิหารประดิษฐานพระพุทธรูปปางนาคปกขนาดใหญ่ที่สุดในจังหวัดอุทัยธานี และบรรจุพระพิมพ์วัดพลับไว้ที่ฐานพระพุทธรูป
+
+Nearby Location: ตั้งอยู่ถนนศรีอุทัย ตำบลอุทัยใหม่ เมืองอุทัยธานี ใกล้โรงเรียนเทศบาลวัดธรรมโศภิต
+Address: 774
+Region: ภาคเหนือ
+Alley: 
+Road: ศรีอุทัย
+Subdistrict: เกาะเทโพ
+District: เมืองอุทัยธานี
+Province: อุทัยธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5651 1168
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.3881652, 100.0295557
+UUID: c861ea1a-3704-4bd0-898d-585de83c31a2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

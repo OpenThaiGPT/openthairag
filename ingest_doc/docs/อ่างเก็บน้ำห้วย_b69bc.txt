@@ -1,0 +1,38 @@
+Title: อ่างเก็บน้ำห้วยไร่ (Huay Rai Reservoir)
+Content: เป็นอ่างเก็บน้ำขนาดกลาง มีพื้นที่น้ำสดใสและทิวทัศน์ที่สวยงาม โดยเฉพาะ
+ในฤดูหนาว เพราะชาวบ้านจะปลูกปอทองเหลืองอร่ามและยังมีแพท่องเที่ยว
+ซึ่งมีพวงมาลัยบังคับทิศทางได้ อันเป็นเอกลักษณ์ของภูมิปัญญาชาวบ้านและมีอาหารบริการ
+
+Nearby Location: ใกล้วัดป่าพรไพรวัลย์ บ้านสระแก้ว ตำบลดงสวรรค์ อำเภอนากลาง
+Address: หมู่ 9  บ้านสระแก้ว
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: นากลาง
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 4231 6729
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.307222,102.188611
+UUID: 211a53c8-9cb8-45d3-8d34-7b5bdde07173
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

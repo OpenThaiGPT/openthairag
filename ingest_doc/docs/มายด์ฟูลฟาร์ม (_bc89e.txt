@@ -1,0 +1,36 @@
+Title: มายด์ฟูลฟาร์ม (Mindful Farm)
+Content: การท่องเที่ยวเชิงเกษตร   สอนการทำฟาร์มผักและผลไม้อินทรีย์   สอนการทำบ้านดิน   มีการฝึกโยคะ และทำสมาธิ   ร่วมกิจกรรมในชุมชน เพื่อรับรู้วิถีชีวิตในชนบท
+
+Nearby Location: หมู่บ้านปางเดิม ตำบลแม่สาบ อำเภอสะเมิง
+Address: 123 หมู่ 4 บ้านปางเติม
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แม่สาบ
+District: สะเมิง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 086 196 0304
+Email: mildfulfarmers123@gmail.com
+Website: www.mindfulfarmers.org/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.9502728, 98.672601
+UUID: 65c274b1-d55d-4a5c-92d7-390f8badbd9b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดวังยายฉิม (Wat Yang Yai Chim)
+Content: ชมโบสถ์มหาอุตทรงไทยลาว ที่สร้างขึ้นเมื่อปี พ.ศ. 2468 สักการะ หลวงพ่อโชคดี พระสีวลี และเจ้าแม่ตะเคียนทอง อายุกว่า 1000 ปี
+
+Nearby Location: อยู่ใกล้โครงการส่งน้ำ+บำรุงเขื่อนขุนด่านปราการ ตำบลหินตั้ง
+Address: หมู่ 6  บ้านวังยายฉิม
+Region: ภาคตะวันออก
+Alley: 
+Road: ศรีนาวา นครนายก
+Subdistrict: 
+District: เมืองนครนายก
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 9932 4656
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.26590416383722,101.2878143124542
+UUID: 2d8e50ed-bc68-4ac0-88eb-f4e92824071b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

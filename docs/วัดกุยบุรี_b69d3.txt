@@ -1,0 +1,36 @@
+Title: วัดกุยบุรี
+Content: 
+
+Nearby Location: อยู่ติดกับแม่น้ำกุยบุรี 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: เพชรเกษม
+Subdistrict: กุยบุรี
+District: กุยบุรี
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 32681422
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.0665786, 99.8581396
+UUID: bcddae19-7007-437e-89c7-4540073d3a68
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

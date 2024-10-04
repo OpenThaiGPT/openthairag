@@ -1,0 +1,36 @@
+Title: เขื่อนห้วยกุ่ม (Huai Kum Dam)
+Content: เป็นเขื่อนดินสร้างขึ้นเพื่อรับน้ำจากเขื่อนจุฬาภรณ์ เก็บกักน้ำไว้ใช้ในการเกษตร และเป็นสถานที่ท่องเที่ยวของจังหวัดอีกแห่งหนึ่งที่มีทิวทัศน์สวยงามร่มรื่น
+
+Nearby Location: อยู่ที่บ้านปากห้วยกุ่ม ตำบลหนองโพนงาม ห่างจากที่ว่าการอำเภอเกษตรสมบูรณ์ 32 กิโลเมตร อยู่ตอนล่างของเขื่อนจุฬาภรณ์
+Address: บ้านปากห้วยกุ่ม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: กุดเลาะ
+District: เกษตรสมบูรณ์
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 044 129 080
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.422460191200372,101.79425239562988
+UUID: bac59f53-d276-4f48-a8e4-532fc1621297
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

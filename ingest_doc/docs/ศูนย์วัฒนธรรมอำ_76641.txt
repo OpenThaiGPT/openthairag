@@ -1,0 +1,36 @@
+Title: ศูนย์วัฒนธรรมอำเภอบางพลี (Bang Phli District Cultural Center)
+Content: ตั้งอยู่ในโรงเรียนบางพลีราษฎร์บำรุง เป็นพิพิธภัณฑ์พื้นบ้าน ชั้นบน จัดแสดงภูมิปัญญา และวัฒนธรรมในอดีต ที่มีการแลกเปลี่ยนกันระหว่างคนหลายเชื้อชาติ
+
+Nearby Location: ตั้งอยู่ในโรงเรียนบางพลีราษฎร์บำรุง หมู่ 8 ตำบลบางพลีใหญ่ 
+Address: 154 หมู่ 8
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: บางพลี
+Province: สมุทรปราการ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2751 1504 7
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันศุกร์ 09.00 16.00 น. (ปิดเสาร์ อาทิตย์ และวันนักขัตฤกษ์)
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6335741, 100.7548851
+UUID: ac1b995b-286e-4516-9b02-df82dde30ac3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

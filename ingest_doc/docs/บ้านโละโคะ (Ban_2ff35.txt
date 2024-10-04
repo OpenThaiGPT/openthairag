@@ -1,0 +1,36 @@
+Title: บ้านโละโคะ (Ban Lo Ko)
+Content: บ้านโละโคะ ตั้งอยู่ในเขตอุทยานแห่งชาติคลองวังเจ้า อำเภอโกสัมพีนคร จังหวัดกำแพงเพชร ชาวบ้านส่วนใหญ่เป็นกะเหรี่ยง ทำอาชีพเกษตรกรรม ปลูกข้าว ข้าวโพด มันสัมปะหลัง เป็นต้น
+
+Nearby Location: ห่างจากที่ทำการอุทยานแห่งชาติคลองวังเจ้า ประมาณ 14 กิโลเมตร
+Address: บ้านโละโคะ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: โกสัมพี
+District: โกสัมพีนคร
+Province: กำแพงเพชร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 093 7900935
+Email: 
+Website: https://www.facebook.com/Khlongwangchao/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 16.432449222618, 99.11417796690368
+UUID: f8f17de6-145a-419d-a074-24e285d960c0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

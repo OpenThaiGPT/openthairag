@@ -1,0 +1,36 @@
+Title: วัดเถรพลาย (Wat Ten Plai)
+Content: 
+
+Nearby Location: ใกล้หมู่บ้านอนุรักษ์ควายไทย ตำบลวังน้ำซับ อำเภอศรีประจันต์
+Address: 145 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีประจันต์
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 6044 6655
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00  17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.643909933377946, 100.14492996129371
+UUID: 4520e0cd-93da-4dea-ab15-16598c34c66f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

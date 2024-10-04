@@ -1,0 +1,36 @@
+Title: สะพานมหาดไทยอุทิศ (ไม่มี)
+Content: 
+
+Nearby Location: ใกล้ภูเขาทอง ถัดไปจากสะพานผ่านฟ้าลีลาศทางทิศใต้ประมาณ 100 เมตร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: บริพัตร
+Subdistrict: 
+District: ป้อมปราบศัตรูพ่าย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7556907, 100.5062129
+UUID: baa8b0f1-4df6-4898-b5d6-835c8129d3aa
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

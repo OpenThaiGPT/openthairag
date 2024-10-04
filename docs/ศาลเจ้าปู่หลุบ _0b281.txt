@@ -1,0 +1,36 @@
+Title: ศาลเจ้าปู่หลุบ (Chao Pu Lub Shrine)
+Content: เป็นศาลที่เคารพนับถือของประชาชนทั่วไป
+
+Nearby Location: ริมถนนหนองบัวลำภู อุดรธานี ทางหลวงหมายเลข 210 ห่างจากตัวเมืองประมาณ 3 กิโลเมตร
+Address: หมู่ 7 บ้านห้วยเชียง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: หนองบัวลำภู   อุดร
+Subdistrict: 
+District: เมืองหนองบัวลำภู
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: อนุสาวรีย์/อนุสรณ์สถาน
+Facilities Contact: 
+Telephone: 0 4236 0690
+Email: 
+Website: www.nongbualamphu.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.2282833,102.462268
+UUID: 28e6b16f-655f-4ea8-af36-f430ae218bba
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: กู่แก้วสี่ทิศบ้านหว้าน (ไม่มี)
+Content: 
+
+Nearby Location: อยู่บ้านหว้านคำ ตำบลหว้านคำ อำเภอราษ๊ไศล
+Address: หมู่ 1 บ้านหว้านคำ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ราษีไศล
+Province: ศรีสะเกษ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.3708702, 104.1848882
+UUID: a3e029f0-f73f-4741-9d12-bacc46ee11fe
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

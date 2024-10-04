@@ -1,0 +1,36 @@
+Title: อีซี่คาร์ท พัทยา (Easy Kart)
+Content: อีซี่คาร์ท พัทยา คือสนามแห่งแรกที่ให้บริการเช่ารถโกคาร์ทและระบบการบริการด้านความบันเทิงอย่างมืออาชีพ
+
+Nearby Location: อยู่ใกล้ Walking Street ตำบลหนองปรือ
+Address: 361/83 หมู่ 10
+Region: ภาคตะวันออก
+Alley: 
+Road: พระตำหนัก
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 08 6028 0880, 08 6103 1033
+Email: 
+Website: www.easykart.net
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 01.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.922535, 100.8683599
+UUID: de21aae7-a2c3-4ced-b2bb-c8e96c70cff7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

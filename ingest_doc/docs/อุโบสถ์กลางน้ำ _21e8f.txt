@@ -1,0 +1,36 @@
+Title: อุโบสถ์กลางน้ำ วังน้อย (ไม่มี)
+Content: อุโบสถ์กลางน้ำ วังน้อย  ตั้งอยู่ใน วัดมหาจุฬาลงกรณราชูทิศ อ.วังน้อย
+
+Nearby Location: ถนนพหลโยธินหลักกิโลเมตรที่ 55 อำเภอวังน้อย 
+Address: 79 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: ข้าวงาม
+District: วังน้อย
+Province: พระนครศรีอยุธยา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 081 423 1042
+Email: Watmahachula@mcu.ac.th
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.1925919, 100.6224667
+UUID: 424d0610-bfff-4f43-97a4-e31988c47da1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

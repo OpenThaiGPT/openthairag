@@ -1,0 +1,36 @@
+Title: เกาะวัวกันตัง (Ko Wua Kan Tang)
+Content: เกาะวัวกันตัง เป็นที่นิยมของคนที่ชอบการดำน้ำตื้น พายเรือแคนู หรือ คายัค หรือแม้แต่การเที่ยวชมชายหาด โดยเกาะนั้นตั้งอยู่ บริเวณทางด้านเหนือของอุทยานแห่งชาติหมู่เกาะอ่างทอง โดยบริเวณนั้นมีลักษณะเป็นเกาะแก่งอยู่ติดกันเป็นแนวยาว เป็นจุดที่มีแนวปะการังและหาดทรายขาวสะอาด นอกจากนี้แล้ว กิจกรรมดำน้ำดู ปะการังเป็นที่นิยมอย่างมาก เนื่องจากปะการังบริเวณนี้จะมีความสวยงามมาก
+
+Nearby Location: อยู่ในอุทยานแห่งชาติหมู่เกาะอ่างทอง อยู่เลยจากเกาะแม่เกาะไปทางทิศเหนือ
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7728 6025, 0 7728 6588, 0 7728 0222
+Email: angthong_np@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 80.0
+Fee (TH Kid): 40.0
+Fee (EN): 400.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 9.6708333, 99.6775
+UUID: fcbf3fb7-ffec-4a44-8fb7-d49aff9506b3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

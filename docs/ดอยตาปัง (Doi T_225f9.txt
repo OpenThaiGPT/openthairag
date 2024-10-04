@@ -1,0 +1,36 @@
+Title: ดอยตาปัง (Doi Ta Pang)
+Content: 
+
+Nearby Location: อยู่ที่บ้านบนดอย ตำบลเขาทะเล อำเภอสวี
+Address: หมู่ 7 บ้านบนดอย
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: เขาค่าย
+District: สวี
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 09 8821 9831
+Email: 
+Website: www.facebook.com/dtpktl
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 05.00 20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.179993, 98.9005069
+UUID: f006183f-0d38-41e3-bcbe-2cef97f3cae1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ห้วยจอกหลวง (ไม่มี)
+Content: แหล่งอนุรักษ์ต้นน้ำห้วยจอกหลวง มีการปลูกดอกไม้เมืองหนาวหลายชนิด ตั้งอยู่บนภูเขาและมีทิวทัศน์สวยงามมาก ห่างจากอำเภอปายประมาณ 43 กิโลเมตร เหมาะแก่การท่องเที่ยวในฤดูหนาว
+
+Nearby Location: อยู่บริเวณป่าแม่ยะ บ้านขุนแม่ยะ ตำบลแม่ฮี้ อำเภอปาย อยู่ห่างจากอำเภอปายประมาณ 43 กิโลเมตร
+Address: บ้านขุนแม่ยะ 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปาย
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 5347 1669, 0 5369 9575
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.2802532, 98.3964938
+UUID: d396983a-f2c2-4531-bc26-79d55dd88e99
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: หมู่เกาะกระ (The Group of Kra Islands)
+Content: หมู่  เกาะ  กระ เป็นเกาะขนาดเล็ก ตั้งอยู่ทางทิศตะวันตกของเกาะหมาก เป็นเขตสัมปทานรังนกนางแอ่น และเป็นแหล่งดำน้ำดูปะการังที่สวยงาม
+
+Nearby Location: ตั้งอยู่ทางทิศตะวันออกของเกาะหมาก
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: เกาะกูด
+District: เกาะกูด
+Province: ตราด
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดเป็นจุดดำน้ำอย่างเดียว
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 11.8177778, 102.3972222
+UUID: 5d7ff83d-9021-471f-9856-d7c5596245a6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: สำนักวิปัสสนากรรมฐานสวนพุทธธรรมวัดชายนา (ไม่มี)
+Content: ตั้งอยู่ที่ถนนพัฒนาการทุ่งปรัง หลังวัดท้าวโคตร เป็นสถานที่ที่มีการสอนวิปัสสนากรรมฐานแก่ชาวไทยและชาวต่างประเทศ โดยท่านพุทธทาสภิกขุเป็นผู้เริ่มดำเนินการ เพื่อให้เป็นสาขาของวัดสวนโมกข์ บรรยากาศในวัดร่มรื่นด้วยต้นไม้ใหญ่
+
+Nearby Location: อยู่ที่ถนนพัฒนาการทุ่งปรัง หลังวัดท้าวโคตร ตำบลในเมือง นครศรีธรรมราช
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: พัฒนาการทุ่งปรัง
+Subdistrict: 
+District: เมืองนครศรีธรรมราช
+Province: นครศรีธรรมราช
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สถานปฏิบัติธรรม
+Facilities Contact: 
+Telephone: 0 7534 7480
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 8.40485998435899,99.96652214651886
+UUID: 5dbfa99d-04ee-4db5-ad23-6812e523d3d2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

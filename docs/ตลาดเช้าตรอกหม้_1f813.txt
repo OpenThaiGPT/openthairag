@@ -1,0 +1,37 @@
+Title: ตลาดเช้าตรอกหม้อ (ไม่มี)
+Content: “ชุมชนตรอกหม้อ” หรือ “ชุมชนราชบพิธพัฒนา” เป็นชุมชนที่มีอายุมาตั้งแต่สมัยก่อนสงครามโลกครั้งที่ 2 โดยมีชื่อเรียกที่รู้จักกันในตอนนั้นว่า “ ชุมชนเสาชิงช้า” เพราะเป็นชุมชนที่อยู่ใกล้กับเสาชิงช้าข้างวัดสุทัศน์เทพวราราม
+
+Nearby Location: อยู่ใกล้กับกระทรวงมหาดไทย ถนนราชบพิธ  แขวงวัดราชบพิธ เขตพระนคร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ ศุกร์ 06.00  15.00น.
+วันเสาร์ อาทิตย์ 06.00  12.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7495696, 100.4992209
+UUID: 0e751bbf-9409-43af-9285-781b90af11a3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

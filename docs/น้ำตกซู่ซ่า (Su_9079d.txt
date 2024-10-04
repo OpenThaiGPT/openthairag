@@ -1,0 +1,36 @@
+Title: น้ำตกซู่ซ่า (Sua Sa Waterfall)
+Content: เป็นน้ำตกที่ทะลุจากซอกเขาเป็นทางยาวประมาณ 100 เมตร ขนานไปกับลำน้ำ
+
+Nearby Location: ตั้งอยู่ที่บ้านแม่สุยะ ตำบลห้วยผา อำเภอเมืองแม่ฮองสอน
+Address: บ้านแม่สุยะ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองแม่ฮ่องสอน
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5361 3450, 0 5369 2012
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.524442383094176, 98.09174980224518
+UUID: 7d8c00c3-2b35-4fb9-8551-49976ea7ec01
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

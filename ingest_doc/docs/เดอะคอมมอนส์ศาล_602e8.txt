@@ -1,0 +1,36 @@
+Title: เดอะคอมมอนส์ศาลาแดง (The Commons Saladaeng)
+Content: คอมมูนิตี้มอลล์ The Commons ศาลาแดง แหล่งรวมนัดพบปะที่เต็มไปด้วยร้านอาหาร คาเฟ่เจ้าดัง เดินทางไม่ยากด้วย BTS ลงสถานีศาลาแดง หรือ MRT สีลม สามารถเดินถึงเลย
+
+Nearby Location: ศาลาแดงซอย 1 ถนนสีลม เขตบางรัก กรุงเทพ
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางรัก
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 08 9152 2677
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.7259544, 100.5386113
+UUID: 02c083d0-8791-4762-9f74-7a039bc1f568
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

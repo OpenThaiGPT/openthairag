@@ -1,0 +1,37 @@
+Title: ศูนย์ศึกษาและอนุรักษ์นกยูงไทยในถิ่นกำเนิด
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านแม่ป้อก ตำบลศรีวิชัย อำเภอลี้ 
+Address: หมู่ 4 บ้านแม่ป้อก
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ลี้
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ศูนย์ศึกษาธรรมชาติ/พิพิธภัณธ์ธรรมชาติ (พืชพันธุ์)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.0795468, 98.8491232
+UUID: 8f86dd0e-4f6e-44fc-9f20-a41b52aefdc9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

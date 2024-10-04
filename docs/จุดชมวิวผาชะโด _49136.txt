@@ -1,0 +1,36 @@
+Title: จุดชมวิวผาชะโด (Pha Chado or Chado Cliff)
+Content: อยู่ในเขตอุทยานแห่งชาติตะรุเตา ส่วนย่อยเกาะอาดัง ราวี  ลักษณะเป็นหน้าผาหิน ที่นี่เป็นจุดชมพระอาทิตย์ขึ้นและตกในท้องทะเลจังหวัดสตูลที่มีความสวยงามอีกจุดหนึ่ง นอกจากนี้ยังสามารถมองเห็นมุมสูงของเกาะหลีเป๊ะได้อีกด้วย
+
+Nearby Location: อยู่บนเกาะอาดัง ห่างจากเกาะตะรุเตาไปทางทิศตะวันตก 40 กิโลเมตร เป็นที่ตั้งของหน่วยพิทักษ์อุทยานแห่งชาติตะรุเตา
+Address: บ้านเกาะอาดัง
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสตูล
+Province: สตูล
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 074 783597 / 074 783485
+Email: tarutaosatun.go@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 6.508574171749532,99.3028450012207
+UUID: b7d16d72-d1a9-482f-8134-8ff60c555888
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

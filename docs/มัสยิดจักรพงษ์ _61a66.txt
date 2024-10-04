@@ -1,0 +1,36 @@
+Title: มัสยิดจักรพงษ์ (Chakraphong Mosque)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยตรอกสุเหร่าจักรพงษ์ ถนนจักรพงษ์ เขตพระนคร
+Address: 70
+Region: ภาคกลาง
+Alley: ตรอกสุเหร่าจักรพงษ์
+Road: จักรพงษ์
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2281 3243, 08 1837 9901
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.00  17.00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.761844, 100.497008
+UUID: 5bc9c419-5910-4adc-8948-2b09e6e74529
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

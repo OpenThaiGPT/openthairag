@@ -1,0 +1,36 @@
+Title: ทะเลบัวแดง (Red Lotus Sea)
+Content: ทะเลบัวแดง แห่งใหม่ ในพื้นที่บ้านบะหว้า ต.ท่าเรือ ซึ่งเป็นหนองน้ำสาธารณประโยชน์ ที่มีบัวแดงเกิดเองตามธรรมชาติ เป็นพื้นที่กว่า 10 ไร่ ทำให้ช่วงอากาศหนาวจะมีดอกบัวบานสวยงาม สร้างความสนใจให้กับประชานนักท่องเที่ยว
+
+Nearby Location: อยู่ที่บ้านบะหว้า ตำบลท่าเรือ อำเภอนาหว้า
+Address: บ้านบะหว้า
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: ท่าเรือ
+District: นาหว้า
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 0 4253 3505
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06.00 11.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.0473669, 103.6135678
+UUID: b7b88c61-82e1-4fc4-8cd3-f420fc68d895
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

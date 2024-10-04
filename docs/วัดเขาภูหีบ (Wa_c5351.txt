@@ -1,0 +1,37 @@
+Title: วัดเขาภูหีบ (Watkhaophuheep)
+Content: ภายในเขาภูหีบมีถ้ำหินปูนขนาดกลางลักษณะเป็นโพรงต่อเนื่องกัน แยกเป็นห้องๆ มีช่องทางให้เดินบางจุดต้องลอดเข้าไป มีหินงอก หินย้อย สวยงาม รูปร่างแปลกตาสวยงาม ซึ่งมีนักท่องเที่ยวเดินทางเข้าไปชมความสวยงามอยู่เป็นประจำบริเวณวัดตั้งเชิงเขามีต้นไม้ให้ความร่มรื่นและสวยงามตามธรรมชาติ
+
+Nearby Location: ตั้งอยู่ที่ถ้ำเขาภูหีบ ตำบลไทยอุดม อำเภอคลองหาด
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ไทยอุดม
+District: คลองหาด
+Province: สระแก้ว
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3725 2050, 08 1175 4626
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันเวลา 07.00 17.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.3867210081622,102.25358121919248
+UUID: 59905a69-e5d4-47be-acf1-ac14fe2ccb5c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดสุวรรณรัตนาราม (Wat Suwan Rattanaram)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ตำบลลำเลียง อำเภอกระบุรี
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: กระบุรี
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.3256788, 98.7718862
+UUID: 46f1e6ac-b407-4254-a6f2-c39c76ed809f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

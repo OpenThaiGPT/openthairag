@@ -1,0 +1,36 @@
+Title: หาดลกแพะ (Hat Lok Phae)
+Content: 
+
+Nearby Location: อยู่ที่บ้านอ่าวคราม ใกล้หาดลกกำ ตำบลด่านสวี อำเภอสวี
+Address: หมู่ 11 บ้านอ่าวคราม
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: สวี
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.2168806, 99.2222771
+UUID: e5dc2cf4-894f-472d-a07f-2f47acdee1b0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

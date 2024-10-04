@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์การกระจายเสียง (Broadcasting Museum)
+Content: เดิมเป็นอาคารเครื่องส่งกระจายเสียง สร้างเมื่อ พ.ศ. 2498
+
+Nearby Location: ตั้งอยู่ที่อาคารหอประชุมชั้น 2 กรมประชาสัมพันธ์ แขวงสามเสนใน
+Address: 
+Region: ภาคกลาง
+Alley: อารีสัมพันธ์ 
+Road: พระราม 6
+Subdistrict: 
+District: พญาไท
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2618 2323 ต่อ 2212,2214
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ ศุกร์ 10.00 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7807784, 100.5450702
+UUID: c31eaa04-518b-4c67-9f66-ad8d09fc7d69
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

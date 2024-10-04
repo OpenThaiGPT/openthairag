@@ -1,0 +1,36 @@
+Title: วัดโขลงสุวรรณคีรี
+Content: วัดโขลงสุวรรณคีรี เป็นวัดในพระพุทธศาสนา สังกัดมหานิกาย ตั้งอยู่ที่ตำบลคูบัว อำเภอเมือง จังหวัดราชบุรี ตั้งมาประมาณ 59 ปี เป็นวัดที่มีความสำคัญในฐานะเป็นศูนย์กลางของชาวพุทธตั้งแต่อดีต ภายในบริเวณวัดยังพบโบราณสถานบ้านคูบัว ซึ่งเป็นหลักฐานสำคัญที่แสดงถึงความเจริญรุ่งเรืองในอดีตของยุคทวารวดี
+
+Nearby Location: ตำบลคูบัว อำเภอเมือง จังหวัดราชบุรี
+Address: 120 หมู่ 6
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: คูบัว
+District: เมืองราชบุรี
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 095 150 5199 , 032 315 684
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันตั้งแต่เวลา 08.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.4875577, 99.834572
+UUID: 08136d4a-762b-4cc7-8bd4-625f4b50cc79
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

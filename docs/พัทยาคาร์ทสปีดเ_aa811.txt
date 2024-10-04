@@ -1,0 +1,36 @@
+Title: พัทยาคาร์ทสปีดเวย์ (Pattaya Kart Speedway)
+Content: พัทยาคาร์ทสปีดเวย์ มีพื้นที่กว้างใหญ่ภายในแบ่งออกเป็นหลายส่วน เป็นส่วนสนามแข่งรถโกคาร์ท สนามฝึกหัดขับสำหรับเด็กและมือใหม่ ความยาว 400 เมตร สนามโกคาร์ตออฟโรด สำหรับนักขับมืออาชีพ มีความยาว 800 เมตร
+
+Nearby Location: ถนนเทพประสิทธิ์ ซอย 9 พัทยาใต้
+Address: 248/10  หมู่ 12  
+Region: ภาคตะวันออก
+Alley: 
+Road: เทพประสิทธิ์
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 3842 2044,0 3830 0434
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 500.0
+Fee (TH Kid): 300.0
+Fee (EN): 500.0
+Fee (EN Kid): 300.0
+Remark: 
+Location: 12.905129, 100.8828271
+UUID: 2cb179d6-b855-4c87-902a-1cd998740053
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

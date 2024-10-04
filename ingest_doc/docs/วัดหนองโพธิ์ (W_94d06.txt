@@ -1,0 +1,37 @@
+Title: วัดหนองโพธิ์ (Wat Nong Pho)
+Content: สิ่งที่น่าสนใจภายในวัด สักการะพระบรมสารีริกธาตุ กราบรูปเหมือนหลวงพ่อนนท์พระเกจิอาจารย์ผู้เรืองวิทยาคม และสักการะสิ่งศักดิ์สิทธิ์มากมาย
+
+Nearby Location: ใกล้วัดนาบุญ ที่ทำการผู้ใหญ่บ้านหมู่ 3 ตำบลศรีนาวา
+Address: หมู่ 3
+Region: ภาคตะวันออก
+Alley: 
+Road: ทางหลวงหมายเลข 3239
+Subdistrict: ศรีนาวา
+District: เมืองนครนายก
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 7613 8412
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันเวลา 06.00 16 00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.210080870113561,101.2508212857208
+UUID: d10e65f4-275e-441e-9315-209339589b45
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

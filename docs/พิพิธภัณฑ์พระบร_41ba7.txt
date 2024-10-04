@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์พระบรมธาตุ (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ปากซอย 2 ถนนมเหสักข์ อยู่ตรงข้ามกับอาคารโอเอสวอร์นเนอร์ ทาวเวอร์
+Address: 242 250 อาคารศูนย์พลอยเอเชีย
+Region: ภาคกลาง
+Alley: 2
+Road: มเหสักข์ 
+Subdistrict: 
+District: บางรัก
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 08 6337 4255, 08 1914 5891
+Email: 
+Website: www.sac.or.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7254187, 100.5189489
+UUID: f49c004a-7983-48e3-975a-27fbe5361108
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศาลหลักเมือง (Surat Thani City Shrine)
+Content: ศาลหลักเมืองสุราษฎร์ธานี ตั้งอยู่ถนนหน้าเมือง &ndash; ถนนตลาดใหม่ ตำบลตลาด สร้างขึ้นในวโรกาสที่ในหลวงรัชการที่ 9 ทรงครองราชย์ครบ 50 ปี ในรูปแบบสถาปัตยกรรมศรีวิชัยประยุกต์ เสาหลักเมืองแกะสลักเป็นพระพักตร์ของพระอวโลกิเตศวรสี่หน้า ไม่เหมือนที่อื่นซึ่งจะแกะสลักเป็นพระพรหมสี่หน้า ใช้ไม้ราชพฤกษ์อายุร่วม 132 ปี นำมาแกะสลัก ส่วนในตอนกลางคืนจะมีการเปิดไฟสลับสีที่สวยงาม
+
+Nearby Location: ถ.หน้าเมือง รืมเขื่อนแม่น้ำตาปี ตรงข้ามศาลเด็กและเยาวชน จ.สุราษฎร์ธานี
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: หน้าเมือง
+Subdistrict: ตลาด
+District: เมืองสุราษฎร์ธานี
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 7727 2513
+Email: 
+Website: https://www.suratthanitourism.com/tour/surat thani city pillar shrine/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 07.00   19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.139280699999999, 99.32167729999999
+UUID: c9e705e1-d6b0-4594-802a-eaadfade34f8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,37 @@
+Title: อุทยานแห่งชาตินายูง น้ำโสม (Nayung Namsom National Park)
+Content: มีแหล่งท่องเที่ยวที่น่าสนใจคือน้ำตกยูงทอง เป็นน้ำตกตั้งอยู่บนสันเขาภูพาน
+
+Nearby Location: อยู่ที่บ้านสว่าง อำเภอนายูง ใกล้เทศบาลตำบลนายูง อยู่ห่างจากตัวเมืองอุดรธานีประมาณ 103 กิโลเมตร
+Address: หมู่ 2 บ้านสว่าง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: นายูง
+Province: อุดรธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อุทยานแห่งชาติ
+Facilities Contact: 
+Telephone: 08 5646 1352
+Email: 
+Website: park.dnp.go.th/visitor/nationparkshow.php?PTA_CODE=9136
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30   16.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.896667,102.15
+UUID: b09777a4-5b4d-44fa-a53f-25ae4ab8b0ef
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

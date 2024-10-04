@@ -1,0 +1,37 @@
+Title: ภูลมโล (Phu Lom Lo)
+Content: แหล่งท่องเที่ยว  "ภูลมโล" เป็นแหล่งท่องเที่ยวที่มีทำเลที่ตั้ง อยู่ในเขตพื้นที่อุทยานแห่งชาติภูหินร่องกล้า  ซึ่งเป็นรอยต่อสามจังหวัด  คือ  จังหวัดพิษณุโลก  จังหวัดเลย  และจังหวัดเพชรบูรณ์  เป็นแหล่งท่องเที่ยวทางธรรมชาติ  ทางธรณีวิทยา  ทางภูมิศาสตร์  และประวัติศาตร์เชิงอนุรักษ์
+
+Nearby Location: ตั้งอยู่ในเขตอุทยานแห่งชาติภูหินร่องกล้า
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: ด่านซ้าย หล่มสัก
+Subdistrict: 
+District: ด่านซ้าย
+Province: เลย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 0791 4748 (คุณอัญสา)
+Email: kajewd101@hotmail.com
+Website: https://www.facebook.com/PhuhinrongklaNP/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน ช่วงเวลาที่เหมาะสม เดือนธันวาคม กุมภาพันธ์ของทุกปี เพราะภูเขาจะกลายเป็นสีชมภูด้วยดอกนางพญาเสือโคร่ง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 500.0
+Fee (EN Kid): 300.0
+Remark: 
+Location: 13.9202778,99.7666667
+UUID: 894809dd-02a2-4ccd-9df8-7d0c9166b863
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

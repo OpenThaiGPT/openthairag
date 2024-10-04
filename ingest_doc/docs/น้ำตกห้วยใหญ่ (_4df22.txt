@@ -1,0 +1,36 @@
+Title: น้ำตกห้วยใหญ่ (Huai Yai Waterfall)
+Content: เป็นน้ำตกขนาดใหญ่ สูง 60 เมตร กว้าง 30 เมตร พื้นที่ในความดูแลของ อบต. ไทยสามัคคี โดย อบต.ได้เข้าไปดำเนินการปรับปรุงภูมิทัศน์และถนนเพื่อพัฒนาเป็นแหล่งท่อง เที่ยว เป็นน้ำตกที่ไหลลงจากคลองห้วยใหญ่ ลักษณะของน้ำตกมีทั้งหมด 5 ชั้น ซึ่งเชื่อมต่อกับน้ำตกสวนห้อมของ ต.วังน้ำเขียว ซึ่งน้ำตกห้วยใหญ่จะมีน้ำมากในช่วงเดือนกรกฎาคม เดือนตุลาคม
+
+Nearby Location: อยู่ทางทิศตะวันตกของอุทยานฯ จะอยู่ในพื้นที่ หมู่ 6 บ้านห้วยใหญ่ใต้ ตำบลไทยสามัคคี 
+Address:  
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: แก่งดินสอ
+District: นาดี
+Province: ปราจีนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: อยู่ในเขตพื้นที่ของอำเภอวังน้ำเขียว จังหวัดนครราชสีมา
+Location: 14.280739760468157, 102.08227344314834
+UUID: f117d207-d4a4-4897-958f-e34640481a27
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

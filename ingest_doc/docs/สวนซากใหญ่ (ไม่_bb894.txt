@@ -1,0 +1,36 @@
+Title: สวนซากใหญ่ (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ที่หมู่ 11 ตำบลพลิ้ว อำเภอแหลมสิงห์
+Address: 25 หมู่ 11
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: เกาะเปริด
+District: แหลมสิงห์
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 06 1569 2651, 08 7048 6615
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 200.0
+Fee (TH Kid): 200.0
+Fee (EN): 200.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 12.4995809, 102.1471279
+UUID: f63c84e7-140d-49dd-a184-d13a43f985e3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

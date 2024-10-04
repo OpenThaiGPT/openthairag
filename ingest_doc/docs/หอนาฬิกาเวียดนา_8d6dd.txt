@@ -1,0 +1,36 @@
+Title: หอนาฬิกาเวียดนามอนุสรณ์ (Vietnamese Memorial Clock Tower)
+Content: ตั้งอยู่บนถนนสุนทรวิจิตร เป็นสิ่งที่ชาวเวียดนามสร้างไว้เพื่อเป็นอนุสรณ์แก่ชาวนครพนม เมื่อคราวย้ายกลับปิตุภูมิประเทศเวียดนาม สร้างขึ้นเมื่อ พ.ศ.2503 สูงประมาณ 50 เมตร
+
+Nearby Location: ถ.สุนทรวิจิตร ริมแม่น้ำโขง บริเวณถนนคนเดิน ตำบลในเมือง อำเภอเมืองนครพนม
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: สุนทรวิจิตร
+Subdistrict: กุรุคุ
+District: เมืองนครพนม
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 042 516 337
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้เข้าชมตลอดเวลา
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.403843626336318, 104.78777588827204
+UUID: 00717729-4986-4157-9183-0760da1f8bca
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

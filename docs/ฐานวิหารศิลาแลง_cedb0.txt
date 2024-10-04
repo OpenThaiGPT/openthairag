@@ -1,0 +1,36 @@
+Title: ฐานวิหารศิลาแลงทวารวดี
+Content: ตั้งอยู่ในวนอุทยานพุม่วง หมู่ที่ 5 ตำบลจระเข้สามพัน  อำเภออู่ทอง จังหวัดสุพรรณบุรี
+
+Nearby Location: ตั้งอยู่ในวนอุทยานพุม่วง หมู่ที่ 5 ตำบลจระเข้สามพัน  อำเภออู่ทอง จังหวัดสุพรรณบุรี
+Address: หมู่ที่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: อู่ทอง
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 089   9483018
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ไม่มี
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.308585231592538, 99.95856369361819
+UUID: 218a1ca0-4f7c-4f2c-9072-8b89563ca5b3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ห้องสมุดการ์ตูนไทย (ไม่มี)
+Content: 
+
+Nearby Location: ห้องสมุดการ์ตูนไทยตั้งอยู่กลางซอยพญานาค ข้างโรงเรียนกิ่งเพชร ถนนเพชรบุรี เขตราชเทวี  
+Address:  
+Region: ภาคกลาง
+Alley: พญานาค
+Road: เพชรบุรี  
+Subdistrict: 
+District: ราชเทวี
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 0 2215 2258  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7495974, 100.5469155
+UUID: dce617b1-7b80-48f4-b9a6-e1cd896e386a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

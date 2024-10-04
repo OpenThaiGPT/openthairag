@@ -1,0 +1,36 @@
+Title: ถ้ำพระ (Tham Phra)
+Content: ถ้ำพระ อยู่ใกล้เคียงกับถ้ำค้างคาว เป็นถ้ำที่มีลักษณะยาวเฉียงขึ้นด้านบนสามารถเดินทะลุถึงยอดภูผาม่านได้แต่เส้นทางค่อนข้างลำบากภายในถ้ำมีหินงอกหินย้อยสวยงามและมีเสาหินขนาดใหญ่ รถยนต์สามารถเข้าถึงได้ตลอดทั้งปี แต่เหมาะที่จะท่องเที่ยวในฤดูหนาวเนื่องจากในฤดูฝนมีน้ำไหลผ่านถ้ำทำให้มีตะไคร่จับก้อนหิน
+
+Nearby Location: อยู่ใกล้กับถ้ำค้างคาว ตำบลภูผาม่าน อำเภอภูผาม่าน
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูผาม่าน
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6655527, 101.8961453
+UUID: 3adef026-9dbc-4c99-9a48-633eae7afcad
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

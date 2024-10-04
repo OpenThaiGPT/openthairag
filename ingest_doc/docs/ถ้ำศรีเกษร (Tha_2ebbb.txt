@@ -1,0 +1,36 @@
+Title: ถ้ำศรีเกษร (Tham Sri Keson)
+Content: โดย ถ้ำศรีเกษร มีจำนวงน 3 ชั้น คือ ชั้นใต้ดิน , ชั้นที่ 1 , ชั้นที่ 2 ภายในถ้ำมีประวัติของนางศรีเกสร ที่อาศัยอยู่เป็นเวลานับพัน ๆปี ซึ่งมีหลายสิ่งหลายอย่างภายในถ้ำที่บอกถึง เรื่องราวของนางศรีเกสร รวมไปถึงความสวยงามของหินย้อยที่สลับซับซ้อน เป็นประติมากรรมที่ธรรมชาติได้สร้างสรรค์ขึ้นอย่างสวยงาม ให้นักท่องเที่ยวเข้ามาศึกษาและเยี่ยม ชมความสวยงามของถ้ำศรีเกสร
+
+Nearby Location: ตำบลเขาพระ อำเภอรัตภูมิ ห่างจากตัวเมืองหาดใหญ่ 40 กิโลเมตร
+Address: หมู่ 4  บ้านสีสอน
+Region: ภาคใต้
+Alley:  
+Road: 
+Subdistrict: 
+District: รัตภูมิ
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 08 1798 0390
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.0671312, 100.1621497
+UUID: 18cac59e-2474-463d-a37b-9bb57f7b4fd5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

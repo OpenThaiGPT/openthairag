@@ -1,0 +1,36 @@
+Title: บ้านหัวทุ่ง (Ban Hua Tung)
+Content: ตั้งอยู่ในพื้นที่ตำบลเชียงดาว อำเภอเชียงดาว เป็นชุมชนที่ผมรู้สึกอิจฉาเพราะที่นี่นอกจากจะได้สัมผัสกับดอยหลวงเชียงดาวแบบใกล้ชิดแล้ว ยังได้สัมผัสกับธรรมชาติที่สวยงาม
+
+Nearby Location: ใกล้ดอยหลวงเชียงดาว ตำบลเชียงดาว อำเภอเชียงดาว ห่างจากตัวเมืองเชียงใหม่ประมาณ 85 กิโลเมตร
+Address: หมู่ 14 บ้านหัวทุ่ง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: เชียงดาว
+District: เชียงดาว
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 08 6184 9559 (ผู้ใหญ่บ้าน), 08 7173 6478
+Email: 
+Website: https://wikicommunity.sac.or.th/community/505
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จ ศ 8.00 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.4129719, 98.9546898
+UUID: fc0e3c40-e512-45f2-99df-cc117066ddaf
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

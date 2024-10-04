@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตบางซื่อ (The BMA Local Museum Bang Sue)
+Content: จัดตั้งเพื่อทำหน้าที่ในการศึกษารวบรวมข้อมูล วัตถุสิ่งของ และองค์ความรู้ที่เกี่ยวข้องกับเรื่องราวทางประวัติศาสตร์ภูมิปัญญาท้องถิ่น โดยทำการเชื่อมโยงให้เห็นถึงสภาพแวดล้อมทางกายภาพ วิถีชีวิตของกลุ่มคนในชุมชน สังคม ประเพณีวัฒนธรรม ระบบเศรษฐกิจ ตลอดจนเทคโนโลยีที่เกิดขึ้นในท้องถิ่น
+
+Nearby Location: ตั้งอยู่ที่ชั้น 2 โรงเรียนพระปริยัติธรรม วัดสร้อยทอง ถนนประชาราษฏร์สาย 1 เขตบางซื่อ  
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: ประชาราษฏร์ 1
+Subdistrict: 
+District: บางซื่อ
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2585 5101
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ วันอาทิตย์ เวลา 10.00น. 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.813121534906927, 100.51832713526557
+UUID: 3508eaef-c7f3-45e0-9a0b-c16b46a39175
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

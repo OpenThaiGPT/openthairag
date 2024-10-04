@@ -1,0 +1,36 @@
+Title: เขื่อนแม่กวงอุดมธารา (Mae Guang Udom Thara Dam)
+Content: เป็นโครงการเนื่องมาจากพระราชดำริฯ สามารถส่งน้ำทางการเกษตรในท้องที่ อ. ดอยสะเก็ด อ. สันกำแพง และบางส่วนของ จังหวัดลำพูน เขื่อนแม่กวงเป็นเขื่อนที่มีทิวทัศน์ และลักษณะสวยงามตามธรรมชาติอีกแห่งหนึ่ง
+
+Nearby Location: ตั้งอยู่ในเขตหมู่บ้านวังธาร ตำบลลวงเหนือ อำเภอดอยสะเก็ด
+Address: บ้านวังธาร
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ลวงเหนือ
+District: ดอยสะเก็ด
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 053 865 685
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 6.00 18.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.9246722, 99.1225023
+UUID: ffd089f0-95e7-4ae0-9236-318cdbf81ba0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

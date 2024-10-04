@@ -1,0 +1,36 @@
+Title: วิหารพุทธชยันตี มูลนิธิสว่างคีรีธรรม (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ในมูลนิธิสว่างคีรีธรรม ห่างจากแขวงการทางเลยประมาณ 1 กิโลเมตร
+Address: 80/1
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: เลย ด่านซ้าย
+Subdistrict: 
+District: เมืองเลย
+Province: เลย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 4286 1466
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.491004, 101.7108586
+UUID: bccc8eaa-57b1-4616-94ca-f27e045b2b01
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

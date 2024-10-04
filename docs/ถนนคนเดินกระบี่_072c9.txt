@@ -1,0 +1,36 @@
+Title: ถนนคนเดินกระบี่ (Krabi Walking Street)
+Content: ถนนคนเดินเมืองกระบี่ จะมีการปิดถนนให้ ซื้อ ขาย ของกัน เฉพาะวัน ศุกร์ เสาร์ และ อาทิตย์นะครับ เริ่มตั้งแต่ประมาณ ห้าโมงเย็น จนถึง สี่ถึงห้าทุ่ม บริเวณนี้จะมีของกิน ของใช้ ของเล่น ของสารพัด จะเอามาขายกัน ของมือสอง ผลิตภัณฑ์ที่ทำด้วยมือ นั่งทำกันตรงนั้นเลยก็มีหลายอย่าง
+
+Nearby Location: ตั้งอยู่ใจกลางเมืองกระบี่(หลังห้างโวค)  ตำบลปากน้ำ
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: มหาราช
+Subdistrict: ปากน้ำ
+District: เมืองกระบี่
+Province: กระบี่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 7562 0601
+Email: 
+Website: www.facebook.com/157795767759180/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันศุกร์ วันอาทิตย์ 15.00   23.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.064243592905368,98.91635477542877
+UUID: 589985aa-9c9e-4e13-849d-81da8aeaab59
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

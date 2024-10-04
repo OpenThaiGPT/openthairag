@@ -1,0 +1,36 @@
+Title: ตลาดยิ่งเจริญ (Ying Charaen Market)
+Content: 
+
+Nearby Location: ตั้งอยู่ย่านสะพานใหม่ ถนนพหลโยธิน แขวงอนุสาวรีย์ เขตบางเขน
+Address: 259/99 หมู่ 7
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: บางเขน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2972 3405 7
+Email: 
+Website: www.talad.yingcharaen.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 04.00 08.00น. ศูนย์อาหาร 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8971116, 100.608774
+UUID: c6c38573-0909-45ee-bf29-2812c58e942d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

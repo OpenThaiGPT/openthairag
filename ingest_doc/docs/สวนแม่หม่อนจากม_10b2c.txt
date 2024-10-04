@@ -1,0 +1,36 @@
+Title: สวนแม่หม่อนจากมัลเบอรร์รี่
+Content: มีสวนแม่หม่อนจากมัลเบอร์รี่ สวนต้นวนิลาและไอติมโฮมเมด
+
+Nearby Location: 201 หมู่ 5 ต.วังหมี อ.วังน้ำเขียว
+Address: 201
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:  
+Road: 
+Subdistrict: ไทยสามัคคี
+District: วังน้ำเขียว
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: ติดต่อและสอบถามทางเพจ FACEBOOK 
+Telephone: 081 304 0980
+Email: maemonfarm@gmail.com
+Website: 
+Facebook: https://www.facebook.com/maemonfarm?locale=th_TH
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   17.00
+Activity: 
+Suitable Duration: ส่วนมากต้นวนิลาจะได้ผลผลิตดีฤดูช่วงฤดูร้อน 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.3654295, 101.8463555
+UUID: 03d98c2b-0793-4c95-9d62-86aed37f3d0a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

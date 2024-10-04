@@ -1,0 +1,36 @@
+Title: น้ำตกเขาพระนารายณ์ (Khao Phra Narai Waterfall)
+Content: ตั้งอยู่เขตตำบลกะเปอร์ ห่างจากที่ว่าการอำเภอกะเปอร์ประมาณ 3 กิโลเมตร มีทางแยกผ่านป่ากะเปอร์เข้าไปอีก 2 กิโลเมตร เป็นน้ำตกที่สวยงาม บริเวณโดยรอบเป็นป่าไม้บรรยากาศร่มรื่น
+
+Nearby Location: อยู่ใกล้โรงเรียนกะเปอร์วิทยา ตำบลกะเปอร์ ห่างจากที่ว่าการอำเภอกะเปอร์ประมาณ 3 กิโลเมตร
+Address: หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 4 (เพชรเกษม)
+Subdistrict: 
+District: กะเปอร์
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.603733997266943, 98.5818712280037
+UUID: 69addc74-14dd-4a14-ab49-f9dd7aee0262
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

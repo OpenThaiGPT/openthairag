@@ -1,0 +1,36 @@
+Title: ศูนย์พัฒนาและสงเคราะห์ชาวเขา จังหวัดเชียงราย (Chiangrai Hilltirbe Develop and Welfare Center)
+Content: ศูนย์พัฒนาและสงเคราะห์ชาวเขาจังหวัดเชียงรายบริการที่พักแบบโฮมสเตย์บ้านหัวยรินจะคือจะบูสีแสนสุขร่มฟ้าสยามยางคำนุหัวแม่คำ
+
+Nearby Location: ทางหลวงจังหวัดหมายเลข 1130  ตำบลป่าซาง อำเภอแม่จัน
+Address: 97 หมู่ 15 
+Region: ภาคเหนือ
+Alley: 
+Road: ป่าซาง   แม่สลวง
+Subdistrict: 
+District: แม่จัน
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 5360 2579
+Email: sdc_12news@hotmail.com
+Website: www.crsdc12.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.1785354, 99.7704866999999
+UUID: 962003f7-96bc-4047-b1e3-e741b4719e91
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

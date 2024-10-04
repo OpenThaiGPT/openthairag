@@ -1,0 +1,36 @@
+Title: สวนมรุพงษ์ (Marupong Park)
+Content: ป้อมเมืองฉะเชิงเทรา อยู่ที่ถนนมรุพงษ์ สร้างในสมัยรัชกาลที่ 3 ในปี พ.ศ. 2337 โดยมีกรมหลวงรณเรศเป็นแม่กองก่อสร้าง เพื่อป้องกันข้าศึกศัตรูมารุกราน ในสมัยรัชกาลที่ 5 ใช้เป็นที่ตั้งมั่นกองทัพในการปราบกบฎอั้งยี่ ซึ่งเป็นพ่อค้าฝิ่นเถื่อนชาวจีนที่ก่อความวุ่นวายปล้นสะดมก์ชาวเมือง บริเวณหน้าป้อมจัดเป็นสวนสาธารณะสำหรับพักผ่อนหย่อนใจ ชมทิวทัศน์แม่น้ำบางปะกง มีปืนใหญ่ตั้งอยู่ตามกำแพงเมือง
+
+Nearby Location: อยู่บริเวณถนนหน้าเมือง ใกล้กับริมแม่น้ำบางปะกง
+Address:  
+Region: ภาคตะวันออก
+Alley:  
+Road: หน้าเมือง
+Subdistrict: หน้าเมือง
+District: เมืองฉะเชิงเทรา
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 038 511 027
+Email:  
+Website:  
+Facebook: https://www.facebook.com/profile.php?id=100069051225363&locale=th_TH
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน ตลอด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6828906, 101.0726862
+UUID: ca51225d-7b1a-476b-9a63-c8f89a800bd5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

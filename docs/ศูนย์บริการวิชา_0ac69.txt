@@ -1,0 +1,36 @@
+Title: ศูนย์บริการวิชาการด้านพันธุ์พืชและปัจจัยการผลิตภูเก็ต (Phuket Service Center for Crops and Production Resources)
+Content: เป็นแหล่งท่องเที่ยวเชิงเกษตร เป็นสถานที่ให้ความรู้เกี่ยวกับการผลิตยางพาราครบวงจร รวมถึงข้อมูลด้านสมุนไพรจากสวนป่าสมุนไพรไทย
+
+Nearby Location: ใกล้โรงเรียนเมืองถลาง ถนนเทพกษัตรี 166 ตำบลเทพกระษัตรี อำเภอถลาง
+Address: หมู่ 9
+Region: ภาคใต้
+Alley: 
+Road: เทพกระษัตรี
+Subdistrict: 
+District: ถลาง
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 7662 1157
+Email: r.phuket@yahoo.com
+Website: www.doa.go.th/agrotour/station_phuket
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.065510543348598, 98.34176441747954
+UUID: 06c5fea0-f3a4-4809-a52c-44c624a82ced
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

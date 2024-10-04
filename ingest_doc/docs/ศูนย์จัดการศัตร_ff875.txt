@@ -1,0 +1,36 @@
+Title: ศูนย์จัดการศัตรูพืชชุมชนตำบลหนองโรง
+Content: กลุ่มเกษตรกรผู้ปลูกมันสำปะหลัง แก้ไขปัญหาเพลี้ยแป้งมันสำปะหลัง โดยการเลี้ยงแมลงศัตรูธรรมชาติ กำจัดเพลี้ยใช้สมุนไพรในการไล่แมลง และเพิ่มผลผลิตโดยการทำปุ๋ยอินทรีย์ใช้เอง
+
+Nearby Location: บ้านรางยอม
+Address: 12 หมู่8 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ดอนเจดีย์
+District: พนมทวน
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 084 3154079  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.1826508, 99.6206163
+UUID: 178b4983-2ab0-4bb1-bd50-416db38ab02c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

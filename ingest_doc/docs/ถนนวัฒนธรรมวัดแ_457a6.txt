@@ -1,0 +1,36 @@
+Title: ถนนวัฒนธรรมวัดแคนางเลิ้ง (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ย่านนางเลิ้ง ถนนนครสวรรค์ เขตป้อมปราบศัตรูพ่าย
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: นครสวรรค์
+Subdistrict: 
+District: ป้อมปราบศัตรูพ่าย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 2281 0281 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7514954, 100.5108479
+UUID: b4cea9be-e2b2-45e8-9c28-5528cdc004d4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

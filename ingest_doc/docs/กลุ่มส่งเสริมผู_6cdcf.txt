@@ -1,0 +1,36 @@
+Title: กลุ่มส่งเสริมผู้ปลูกกล้วยไม้ (ไม่มี)
+Content: เป็นแหล่งเพาะปลูกกล้วยไม้สกุลหวาย โดยมีสวนกล้วยไม้หลายสวนที่เปิดให้นักท่องเที่ยวเยี่ยมชม
+
+Nearby Location: ตั้งอยู่ตำบลบ้านใหม่ อำเภอบางใหญ่
+Address: 25/4 หมู่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางใหญ่
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 1649 1076 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8448335, 100.3610179
+UUID: 83cc0b7f-fa0b-4fd1-88ae-871e6ce01901
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

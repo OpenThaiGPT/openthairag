@@ -1,0 +1,36 @@
+Title: วัดหรงบน (Wat Long Bon)
+Content: เป็นวัดเก่าแก่ที่มีมาตั้งแต่สมัยกรุงศรีอยุธยา เป็นวัดซึ่งประดิษฐานอมตะสังขารของหลวงปู่เขียว ผู้รักสันโดษ พูดน้อย เคร่งครัดในพระธรรมวินัย ใจดีและมีเมตตา มีเรื่องราวเกี่ยวกับปาฎิหาริย์ รวมถึงวาจาสิทธิ์
+
+Nearby Location: ตำบล บางตะพง อำเภอ ปากพนัง นครศรีธรรมราช 80140
+Address:  
+Region: ภาคใต้
+Alley:  
+Road:  
+Subdistrict: 
+District: ปากพนัง
+Province: นครศรีธรรมราช
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 17.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 8.219967095234567,100.15946262406918
+UUID: 307013a1-cf1b-47d8-8e82-e486b2bd283d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

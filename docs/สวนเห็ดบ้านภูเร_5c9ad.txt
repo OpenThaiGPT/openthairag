@@ -1,0 +1,37 @@
+Title: สวนเห็ดบ้านภูเรือ (ไม่มี)
+Content: เป็นที่เพาะเห็ดหอมและจำหน่ายเห็ดหอมที่มีชื่อแห่งหนึ่งของอำเภอภูเรือ
+เป็นแหล่งท่องเที่ยวเชิงเกษตร
+
+Nearby Location: อยู่ที่บ้านสานตม ตำบลสานตม อำเภอภูเรือ
+Address: 109 หมู่ 1 บ้านสานตม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูเรือ
+Province: เลย
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 1873 8236, 08 9618 5222
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.4378687, 101.4683941
+UUID: 6a040482-4c49-4a39-b244-e35326152ed8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

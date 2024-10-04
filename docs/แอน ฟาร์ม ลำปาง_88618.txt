@@ -1,0 +1,37 @@
+Title: แอน ฟาร์ม ลำปาง (Ann's Farm Lampang)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านสบเมาะ
+Address: 8-ส.ค.
+Region: ภาคเหนือ
+Alley:  
+Road:  
+Subdistrict: 
+District: เมืองลำปาง
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 088 2698888
+Email: krissananan@hotmail.com
+Website:  
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จันทร์   ศุกร์ เปิดเวลา 08.00   19.00 น.
+เสาร์   อาทิตย์ เปิดเวลา 08.00   20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 0.0
+Fee (EN): 20.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.426453, 99.5006143
+UUID: cf69b01a-1dbf-4073-adf8-c99b33d6b584
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: สวนน้ำตรังวิลล่า (Trang Villa)
+Content: 
+
+Nearby Location: 
+Address: 404
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: เกาะสุกร
+District: ปะเหลียน
+Province: ตรัง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสนุก/สวนน้ำ
+Facilities Contact: 
+Telephone: 095 4195536
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริกาทุกวัน ตั้งแต่เวลา 10.30   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 180.0
+Fee (TH Kid): 180.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.294898353479681,99.67479818391415
+UUID: 02afe079-2ee0-416b-af71-89c0d2ae66b4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

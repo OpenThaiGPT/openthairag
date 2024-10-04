@@ -1,0 +1,36 @@
+Title: ศูนย์นิทรรศการและการประชุมไบเทค (Bangkok International Trade Exhibition Center|BITEC)
+Content: 
+
+Nearby Location: ใกล้ภัตตาคารมังกรหลวง สี่แยกบางนา
+Address: 88
+Region: ภาคกลาง
+Alley: 
+Road: บางนา ตราด กิโลเมตร 1
+Subdistrict: 
+District: บางนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์ประชุมฯ
+Facilities Contact: 
+Telephone: 0 2366 9797, 0 2726 1999
+Email: info@bitec.net
+Website: www.bitec.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.667502,100.641788
+UUID: 01e50b6e-c4a1-4412-ae33-da9c8f6fef36
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: เกาะแตน (Ko Tan)
+Content: เป็นเกาะที่ยังคงมีธรรมชาติสวยงาม โดยเฉพาะป่าโกงกางและบริเวณด้านหลังเกาะเป็นแหล่งดำน้ำดูปะการัง และสิ่งที่น่าสนใจบนเกาะนี้ คือ ไม่มีสุนัขอาศัยอยู่
+
+Nearby Location: ตั้งอยู่หมู่ที่ 2 ตำบลตลิ่งงาม ทางทิศใต้ของเกาะสมุย 
+Address: หมู่ 2
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.368659599999999, 99.9437136
+UUID: 32e11bda-7bfb-4fe3-bfac-b954a0ae529c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

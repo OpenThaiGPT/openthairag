@@ -1,0 +1,36 @@
+Title: ตลาดน้ำวัดจำปา (อุทยาน ร.3) (ไม่มี)
+Content: 
+
+Nearby Location: บริเวณหน้าวัดจำปา แขวงบางพรม ตลิ่งชัน
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: พุทธมณฑลสาย 1
+Subdistrict: 
+District: ตลิ่งชัน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ตลาดน้ำ/ตลาดโบราณ
+Facilities Contact: 
+Telephone: 08 6047 4183
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เสาร์ อาทิตย์ 09.00 15.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7685865, 100.4298884
+UUID: c5cb4d20-80ae-4cf2-be29-f37d258a00cb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

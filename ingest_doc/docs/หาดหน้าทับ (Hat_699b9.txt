@@ -1,0 +1,37 @@
+Title: หาดหน้าทับ (Hat Naatab)
+Content: หาดหน้าทับ
+ตั้งอยู่บริเวณหมู่ที่ 1,2 ต.บางสน เป็นที่ว่างมีหาดทรายขาวสะอาด เป็นที่พักเรือของชาวประมงในท้องถิ่น อยู่ทงทิศตะวันออกของที่ว่าการอำเภอปะทิว ระยะทางประมาณ 4 กม.
+
+Nearby Location: อยู่บริเวณทิศตะวันตกของปากคลองบางสน ตำบลบางสน อำเภอปะทิว
+Address: หมู่ 1  2
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.687426169989488, 99.34684568853494
+UUID: a9342f25-3711-4e46-a59d-04f86edda386
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

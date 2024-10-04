@@ -1,0 +1,36 @@
+Title: ปากน้ำตาปี (Pak Nam Tapi)
+Content: ตั้งอยู่หมู่ที่ 3 ตำบลบางกุ้ง ห่างจากตัวเมืองสุราษฎร์ธานีประมาณ 7 กิโลเมตร ตามเส้นทาง สุราษฎร์ธานี ปากน้ำ ถนนบ้านดอน การเดินทาง จากตัวเมืองมีคิวรถตุ๊กตุ๊กวิ่งให้บริการ ปากน้ำตาปีมีร้านจำหน่ายสินค้าอาหารทะเล และร้านอาหารทะเลอยู่หลายร้าน สามารถรับประทานอาหารทะเลที่สด เเละขึ้นชื่อของจังหวัดสุราษฎร์ธานี พร้อมชมทิวทัศน์บรรยากาศความเป็นธรรมชาติของทะเลอ่าวบ้านดอน
+
+Nearby Location: อยู่ตำบลบางกุ้ง อำเภอเมือง ห่างจากเมืองสุราษฎร์ธานี 7 กิโลเมตร
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: ปากน้ำตาปี
+Subdistrict: บางกุ้ง
+District: เมืองสุราษฎร์ธานี
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone:   
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.184006645735538, 99.36984486391945
+UUID: 5efa231e-c765-4532-8273-6bf5de04bbb7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

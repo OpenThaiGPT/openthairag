@@ -1,0 +1,36 @@
+Title: ศูนย์สารสนเทศลิปตพัลลภ (Liptapanlop Information Technology Center)
+Content: ที่นี่เป็นศูนย์บริการข้อมูลการเดินทางท่องเที่ยวในจังหวัดต่าง ๆ ในภาคตะวันออกเฉียงเหนือและเป็นจุดพักรถเพื่อเปลี่ยนอิริยาบถและผ่อนคลายความตึงเครียดจากการเดินทาง โดยมีสิ่งอำนวยความสะดวกครบครันไว้รองรับ
+
+Nearby Location: ห่างจากสวนท้าวสุรนารี 1 กิโลเมตร ใกล้ที่พักริมทางลำตะคอง ตำบลหนองสาหร่าย อำเภอปากช่อง
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: มิตรภาพ 
+Subdistrict: 
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.836335098043325,101.55106589198112
+UUID: acb7e3ba-ebef-4996-85d2-c371b3a5a531
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

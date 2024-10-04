@@ -1,0 +1,37 @@
+Title: จุดชมวิวบริเวณสะพานเฉลิมพระเกียรติ (Chalerm Prakiat Bridge)
+Content: เป็นสะพานที่เชี่อมข้ามทะเลระยะทางประมาณ 500 เมตร  สามารถมองเห็นทัศนียภาพของทะเล ภูเขาและเห็นวิถีชีวิตชาวประมง  เพราะมีท่าเทียบเรือขนาดเล็กอยู่ ยามเย็นจะเห็นเรือประมงออกหาปลาซึ่งแล่นตามกันออกไปทะเลเป็นภาพที่สวยงาม  นอกจากนี้ยังมีอาหารซึ่งชาวประมงนำมาขายเอง
+
+Nearby Location: อยู่ที่ตำบลตะกาดเง้า อำเภอท่าใหม่ ใกล้วัดปากน้ำแขมหนู
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่าใหม่
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 3946 0172 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.5389453, 101.9484955
+UUID: 9f927d79-d2b9-45bc-87bd-83f3c8762b70
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: โฮมสเตย์บ้านนาอุดม (Ban Na Udom Home Stay)
+Content: 
+
+Nearby Location: ตั้งอยู่ตำบลหนองไฮ อำเภอเสนานิคม อยู่ใกล้วัดโนนสว่าง
+Address: 57 หมู่ 3 บ้านนาอุดม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เสนานิคม
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 08 4472 1814
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.028408, 104.78699
+UUID: 84801ef3-1903-4e18-8cff-ef223ef6cb6e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

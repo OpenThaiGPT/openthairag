@@ -1,0 +1,36 @@
+Title: วัดแม่เจ้าอยู่หัว (Wat Mae Chao Yuhua)
+Content: เป็นวัดเก่าแก่ภายในมีรูปปั้นแม่เจ้าอยู่หัว  (พระนางเลือดขาว)  ซึ่งเป็นสนมเอกของพระเจ้าศรีธรรมาโศกราช  ประดิษฐานอยู่ประชาชนมีความเชื่อและศรัทธาในบารมีของแม่เจ้าอยู่หัว
+
+Nearby Location: ตั้งอยู่ริมคลองฆ้อง ตำบลแม่เจ้าหัว อำเภอเชียรใหญ่
+Address: หมู่ 3
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เชียรใหญ่
+Province: นครศรีธรรมราช
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 8.09471681039536,100.10376923608395
+UUID: 3326ec46-7a46-4774-8bd6-8e6e60ae8f41
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

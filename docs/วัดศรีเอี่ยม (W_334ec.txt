@@ -1,0 +1,36 @@
+Title: วัดศรีเอี่ยม (Wat Sri Lam)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนบางนา ตราด กิโลเมตร 4 เขตบางนา แขวงบางนา 
+Address: 111 หมู่ 11
+Region: ภาคกลาง
+Alley: 
+Road: บางนา ตราด กิโลเมตร 4 
+Subdistrict: 
+District: บางนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2744 0132 กด 1, 08 9962 7294, 08 1869 4383
+Email: 
+Website: http.//watsriaim.blogspot.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 05.00 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6688254, 100.6437134
+UUID: 8bd2b50b-051d-4324-b4ee-2c27d3c0bd6c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

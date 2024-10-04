@@ -1,0 +1,38 @@
+Title: พิพิธภัณฑสถานแห่งชาติกำแพงเพชร (Kamphaeng Phet  National  Museum)
+Content: กรมศิลปากรจัดตั้งเป็นพิพิธภัณฑสถานประจำแหล่งประวัติศาสตร์และโบราณคดี เพื่อเก็บรวบรวม สงวนรักษา และจัดแสดงโบราณวัตถุ ศิลปวัตถุ ที่ได้จากการดำเนินงานทางโบราณคดีภายในเขตจังหวัดกำแพงเพชร เพื่ออนุรักษ์และเผยแพร่ความรู้ทางวิชาการโบราณคดี ประวัติศาสตร์ และศิลปกรรมท้องถิ่นของจังหวัดกำแพงเพชร
+
+Nearby Location: ติดกับพิพิธภัณฑสถานจังหวัดกำแพงเพชร เฉลิมพระเกียรติ
+Address: 120
+Region: ภาคเหนือ
+Alley: 
+Road: ปิ่นดำริห์ 
+Subdistrict: คณฑี
+District: เมืองกำแพงเพชร
+Province: กำแพงเพชร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 5571 1570
+Email: kpp_museum14@hotmail.com
+Website: www.facebook.com/kamphaengphetnationalmuseum/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00 16.00 น. 
+ปิดวันจันทร์ วันอังคารและวันหยุดนักขัตฤกษ์
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 
+Fee (EN): 100.0
+Fee (EN Kid): 
+Remark: 
+Location: 16.488376,99.522300
+UUID: 03d9f60e-363f-4bb2-adc2-8f2e7f373c32
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

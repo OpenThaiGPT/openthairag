@@ -1,0 +1,36 @@
+Title: หนองน้ำพุ (Nhong Nam Phu)
+Content: หนองน้ำพุซึ่งตั้งอยู่ใกล้กับเทือกเขาดอยนางนอนพบหลักหมุดที่ดินโผล่ปักบนถนนริม  หนองน้ำพุ  หนองน้ำมหัศจรรย์ถ้าปรบมือเสียงดังน้ำก็ผุดที่ชาวบ้านใช้ประโยชน์ร่วมกันมานานและยังมีรูปปั้นพญานาคตั้งกลางหนอง
+
+Nearby Location: ตั้งอยู่ในพื้นที่บ้านจ้อง ใกล้ถ้ำหลวง ตำบลโป่งผา อำเภอแม่สาย
+Address: บ้านจ้อง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: โป่งผา
+District: แม่สาย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 053 646 627
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชม.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.3776857, 99.87772079999999
+UUID: 2d259120-8763-4b8d-b053-c312201e414c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตดุสิต (The BMA Local Museum Dusit)
+Content: 
+
+Nearby Location: อาคารไม้หน้าพิพิธภัณฑ์เด็กสวนเกียกกาย ถนนทหาร แขวงถนนนครไชยศรี เขตดุสิต 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: ทหาร 
+Subdistrict: 
+District: ดุสิต
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2241 3490
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ วันอาทิตย์ เวลา 10.00น. 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7981071, 100.5195895
+UUID: 53e7efe9-15d1-471a-afc1-70e99f178278
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

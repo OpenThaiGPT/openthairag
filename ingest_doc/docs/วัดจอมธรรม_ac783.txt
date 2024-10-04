@@ -1,0 +1,36 @@
+Title: วัดจอมธรรม
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แม่ทา
+District: แม่ออน
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 085 713 1558
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.6322625, 99.2825578
+UUID: 32d0d65f-6ad5-41a8-b1d8-9e389e4d5c03
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

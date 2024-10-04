@@ -1,0 +1,38 @@
+Title: องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ (อพวช.) (National Science Museum)
+Content: องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ (อพวช.) พิพิธภัณฑ์วิทยาศาสตร์ เป็นสถานที่จัดแสดงนิทรรศการและกิจกรรมทางวิทยาศาสตร์ ที่เป็นการสื่อสารความรู้ให้กับนักท่องเที่ยว ได้เข้าใจสาระทางวิทยาศาสตร์และเทคโนโลยีได้โดยง่าย และสามารถนำไปประยุกต์ใช้ในชีวิตประจำวัน
+
+Nearby Location: ก่อนถึงหออัครศิลปิน ตรงข้ามวัดแสวงสามัคคีธรรม
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: รังสิต นครนายก
+Subdistrict: 
+District: คลองหลวง
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2577 9999 ต่อ 2122   2123
+Email: info@nsm.or.th
+Website: www.nsm.or.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันอังคาร วันศุกร์ 09.30 16.00 น.
+วันเสาร์ วันอาทิตย์และวันหยุดนักขัตฤกษ์ เวลา 09.30 17.00 น.
+(ปิดทำการทุกวันจันทร์)
+Activity: 
+Suitable Duration: 
+Fee (TH): 100.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.0485424, 100.7173413
+UUID: 6868b68d-2e1f-47dc-9084-7b8da91a2e0a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

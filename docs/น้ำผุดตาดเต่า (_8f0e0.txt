@@ -1,0 +1,36 @@
+Title: น้ำผุดตาดเต่า (Nam Phut Tat Tao)
+Content: 
+
+Nearby Location: ตั้งอยู่ในเขตพื้นที่ของบ้านวังผาดำ ตำบลวังสวาบ อำเภอภูผาม่าน
+Address: บ้านวังผาดำ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูผาม่าน
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6836804, 101.8487405
+UUID: 9447ff03-e235-4801-b02f-a65499b24e26
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

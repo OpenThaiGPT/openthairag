@@ -1,0 +1,36 @@
+Title: เขตอนุรักษ์สัตว์ป่าถ้ำเขาพลู (Tham Khao Phlu Wildlife Conservation Area)
+Content: มีลักษณะเป็นเทือกเขาหินปูนทอดยาวขนานไปกับถนนรูปทรงสวยงาม เป็นแหล่งอาศัยของค่างแว่นถิ่นใต้
+
+Nearby Location: ใกล้โรงเรียนวัดถ้ำเขาพลู ตำบลชุมโค อำเภอปะทิว
+Address: หมู่ 7 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขตรักษาพันธุ์สัตว์ป่า
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.thai.taurtsmthailand.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.7272873, 99.3174475
+UUID: 1433a9bf-6bf3-41be-870b-e15aed96001f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

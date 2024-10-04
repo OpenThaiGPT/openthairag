@@ -1,0 +1,36 @@
+Title: โรงพิมพ์ธนบัตร ธนาคารแห่งประเทศไทยแห่งที่ 2 (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่หมู่ 2 ถนนบรมราชชนนี ตำบลขุนแก้ว อำเภอนครชัยศรี
+Address: 18 หมู่ 2
+Region: ภาคกลาง
+Alley: 
+Road: บรมราชชนนี
+Subdistrict: 
+District: นครชัยศรี
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2356 8687
+Email: 
+Website: www.bot.or.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันศุกร์ 09.00 12.00 น. ยกเว้นวันหยุดธนาคาร
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7782689, 100.2224705
+UUID: 868d0646-937f-4f96-b19e-9281c487b36e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

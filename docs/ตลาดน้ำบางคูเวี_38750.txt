@@ -1,0 +1,36 @@
+Title: ตลาดน้ำบางคูเวียง (Bang Khu Wiang Floating Market)
+Content: ชาวบ้านจะนำผลไม้ตามฤดูกาลบรรทุกเรือมาค้าขายกันที่นี่ นอกจากนี้ยังมีอาหารและสินค้าอื่น ๆ
+
+Nearby Location: ตั้งอยู่ปากคลองบางคูเวียง ตำบลบางคูเวียง อำเภอบางกรวย
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางกรวย
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 2449 4360, 0 2449 4994 (เทศบาลตำบลปลายบาง)
+Email: 
+Website: www.plaibang.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ตลาดจะมีช่วงเช้าระหว่างเวลา 06.00   08.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.727839630702178, 100.52411123971264
+UUID: 4d0f94d0-eed6-4d30-b239-2aa81a052ad8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

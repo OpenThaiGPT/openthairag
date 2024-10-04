@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ล้อต๊อก (ไม่มี)
+Content: เป็นพิพิธภัณฑ์จัดแสดงสิ่งของเครื่องใช้ในชีวิตประจำวัน
+
+Nearby Location: ตั้งอยู่ที่บ้านสวนล้อต๊อก ตำบลบางเล่า อำเภอคลองเขื่อน
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: คลองเขื่อน
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 08 7111 3351, 0 3851 4812, 0 3851 5186
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการ 13.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7871967, 101.1504111
+UUID: e3722e93-34d0-4df4-8e08-2c146bd5b31a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

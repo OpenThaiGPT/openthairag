@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ของจิ๋ว สัญจร (Thai Miniature Tour)
+Content: พิพิธภัณฑ์ของจิ๋วเคลื่อนที่แห่งแรกของเมืองไทย ก่อตั้งเมื่อปี พ.ศ. 2541 โดยคุณปิยะนุช ศกุนตนาค
+
+Nearby Location: ตั้งอยู่หมู่บ้านเศรษฐกิจ ซอยเศรษฐกิจ 46 ถนนเพชรเกษม แขวงบางแคเหนือ เขตบางแค 
+Address: 420/278 หมู่บ้านเศรษฐกิจ
+Region: ภาคกลาง
+Alley: เศรษฐกิจ 46
+Road: เพชรเกษม
+Subdistrict: 
+District: บางแค
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 
+Email: violet_0602@hotmail.com
+Website: www.thaiminiature.net
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 10.00 20.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 
+Fee (EN): 40.0
+Fee (EN Kid): 
+Remark: 
+Location: 13.725312216089899, 100.37642866740117
+UUID: 38772bd3-768a-4865-a586-b309506f1828
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

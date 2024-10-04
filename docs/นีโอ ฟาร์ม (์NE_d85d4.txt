@@ -1,0 +1,36 @@
+Title: นีโอ ฟาร์ม (์NEO Farm)
+Content: Neo Farm สถานที่สำหรับทุกคนทุกวัย เพราะมีกิจกรรมหลากหลาย ร้านกาแฟ + สอนถ่ายภาพ + มุมถ่ายภาพ + จำหน่ายไม้ประดับ + ชมฝูงควายเผือก + ปั่นเรือเป็ด + ให้อาหารปลา กิจกรรมมากมายสนุกได้ทั้งครอบครัว(ไม่เสียค่าเข้า)
+
+Nearby Location: อำเภอบางแพ จังหวัดราชบุรี
+Address: 109
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: โพหัก
+District: บางแพ
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 082   424 5697
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันตั้งแต่เวลา 09.30   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.6652057, 100.0439772
+UUID: a28fdec6-1ce3-4298-a900-8a230faff75f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

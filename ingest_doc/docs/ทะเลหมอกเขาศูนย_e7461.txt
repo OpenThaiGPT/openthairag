@@ -1,0 +1,36 @@
+Title: ทะเลหมอกเขาศูนย์
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: กะเปียด
+District: ฉวาง
+Province: นครศรีธรรมราช
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 8619 6144
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.48489394694034, 99.46942090988159
+UUID: fdbc3e5f-e3a8-4385-95aa-43fdfefb5c74
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

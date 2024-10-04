@@ -1,0 +1,36 @@
+Title: วัดหัวกระบือ (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยเทียนทะเล 19  ถนนบางขุนเทียน ชายทะเล  เขตบางขุนเทียน 
+Address: 
+Region: ภาคกลาง
+Alley: เทียนทะเล 19
+Road: บางขุนเทียน ชายทะเล
+Subdistrict: 
+District: บางขุนเทียน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2897 2273, 0 2415 0532, 08 9170 2373
+Email: 
+Website: www.wathuakrabeu.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์,พุธ,ศุกร์,อาทิตย์ 06.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.61765076197635, 100.44731199968685
+UUID: 86b70a66-72c6-4687-a21c-79a011593b51
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

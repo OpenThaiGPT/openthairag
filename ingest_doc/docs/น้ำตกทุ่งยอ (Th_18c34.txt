@@ -1,0 +1,36 @@
+Title: น้ำตกทุ่งยอ (Thung Yor Waterfall)
+Content: น้ำตกทุ่งยอ  อยู่ห่างจากอำเภอปะทิวประมาณ 9 กิโลเมตร เป็นน้ำตกขนาดเล็กบริเวณรอบๆ ร่มรื่นด้วยเงาไม้ มีร้านขายอาหารเครื่องดื่ม เป็นสถานที่พักผ่อนหย่อนใจที่งดงามแห่งหนึ่ง
+
+Nearby Location: ใกล้ถ้ำน้ำลอดเขาพลู ตำบลชุมโค อำเภอปะทิว
+Address: หมู่ 11
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.7130323, 99.1539178
+UUID: 0d4ec078-2198-4eaf-b44e-7857a4f23b9b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

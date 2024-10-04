@@ -1,0 +1,36 @@
+Title: น้ำตกไพรวัลย์ (Praiwan Waterfall)
+Content: น้ำตกไพรวัลย์ ตั้งอยู่ในหน่วยพิทักษ์ป่าบ้านพูด เขตรักษาพันธุ์สัตว์ป่าเขาบรรทัด ตำบลคลองเฉลิม เส้นทางเข้าชมใช้เส้นทางจากบ้านคลองหมวยไปตามถนนตำบลลำสินธุ์ บ้านกงหรา (ทางหลวงหมายเลข 4122) ประมาณ 20 กม. ทางเข้าน้ำตกอยู่ทางทิศตะวันตก เป็นทางลูกรังระยะทาง 3 กม. เป็นน้ำตกขนาดใหญ่ มีความงดงามตามธรรมชาติ เงียบสงบ และร่มเย็น อุดมไปด้วยพันธุ์ไม้นานาชนิด
+
+Nearby Location: ตั้งอยู่ในหน่วยพิทักษ์ป่าบ้านพูด เขตรักษาพันธุ์สัตว์ป่าเขาบรรทัด ตำบลคลองเฉลิม อำเภอกงหรา
+Address: หมู่ 8 บ้านพูด
+Region: ภาคใต้
+Alley: 
+Road: หมายเลข 4122 คลองหมวย   ป่าบอน
+Subdistrict: 
+District: กงหรา
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.Klongchalerm.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.360688239094608,99.9616300582886
+UUID: cae59a06-ded2-401e-b0b0-40d19e4d4e31
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

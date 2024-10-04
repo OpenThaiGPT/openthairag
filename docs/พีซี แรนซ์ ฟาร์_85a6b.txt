@@ -1,0 +1,38 @@
+Title: พีซี แรนซ์ ฟาร์ม (P.C. Ranch Farm)
+Content: แหล่งท่องเที่ยวแห่งใหม่ในจังหวัดหนองบัวลำภู ใกล้กับตัวเมืองอุดรธานี ที่ๆทุกคนมาเพื่อสัมผัสกลิ่นไอยุค Cowboy เรียนขี่ม้า และสัมผัสอย่างใกล้ชิดกับฝูงสัตว์มากมาย พร้อมมุมถ่ายรูปสวยๆ กิจกรรมสนุกๆอีกหลากหลาย และสิ่งอำนวยความสะดวกอีกมากมาย
+                                           
+ที่เที่ยวหนองบัวลำภู,ที่เที่ยวอุดรธานี,ฟาร์ม,กิจกรรม,ท่องเที่ยว,ธรรมชาติ,outdoor,activities,cowboy,สอนขี่ม้า,สเต้กอร่อย
+
+Nearby Location: อยู่ในหมู่บ้านโนนทัน ตำบลโนนทัน ห่างจากตัวจังหวัดหนองบัวลำภูประมาณ 15 กิโลเมตร
+Address: 237 หมู่ 1 บ้านโนนทัน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองหนองบัวลำภู
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 4222 1907 , 0819752222
+Email: pcranch@pcranch.net
+Website: www.pcranch.net
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 09.00 17.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 300.0
+Fee (TH Kid): 300.0
+Fee (EN): 300.0
+Fee (EN Kid): 300.0
+Remark: 
+Location: 17.1426929, 102.3922135
+UUID: 9cd814cd-72f1-4676-862c-964010473550
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

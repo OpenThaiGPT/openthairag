@@ -1,0 +1,36 @@
+Title: ศูนย์หัตถกรรมกระจูดวรรณี
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: พนางตุง
+District: ควนขนุน
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ศูนย์ศึกษาธรรมชาติ/พิพิธภัณธ์ธรรมชาติ (พืชพันธุ์)
+Facilities Contact: 
+Telephone:  074 610 415
+Email: Varnicraft@gmail.com
+Website: 
+Facebook: https://www.facebook.com/varnicraft2/
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.790256599999999, 100.0978268
+UUID: 9c6bf240-fdec-474a-a2f7-882a2d10590c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

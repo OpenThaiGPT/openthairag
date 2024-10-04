@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์เรือนไทย (ไม่มี)
+Content: เป็นศาลาทรงไทย 2 หลังคู่ ใช้เป็นที่เก็บรวบรวมและแสดงเครื่องมือเครื่องใช้ของเก่าแก่โบราณจากภูมิปัญญาชาวบ้านในตำบลและจากท้องถิ่นอื่น จึงได้อนุรักษ์ไว้ให้อนุชนรุ่นหลังได้ศึกษาเกี่ยวกับวิถีชีวิตของชาวบ้าน ซึ่งหาดูได้ยาก
+
+Nearby Location: อยู่ใกล้โรงเรียนบ้านมาบสามเกลียว ตำบลดอนหัวฬ่อ
+Address: หมู่ 7
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชลบุรี
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 3844 0112 ต่อ 711,712
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.4377257, 101.0526614
+UUID: 293c6f2f-bf9d-4a45-976c-6bccecb0719b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

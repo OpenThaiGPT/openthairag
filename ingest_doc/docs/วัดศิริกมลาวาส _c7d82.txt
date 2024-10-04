@@ -1,0 +1,36 @@
+Title: วัดศิริกมลาวาส (Wat Siri Kamalawat)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนลาดพร้าววังหิน แขวงลาดพร้าว เขตลาดพร้าว ใกล้เทสโก้โลตัสวังหิน
+Address: 583
+Region: ภาคกลาง
+Alley: 
+Road: ลาดพร้าววังหิน
+Subdistrict: 
+District: ลาดพร้าว
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2942 3258, 0 2570 8193
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 04.30 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8253509, 100.5910663
+UUID: 91e18da9-516c-45f6-81f3-708e6b278cfe
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

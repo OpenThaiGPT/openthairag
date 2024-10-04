@@ -1,0 +1,36 @@
+Title: ศาลเจ้าพ่อเขาใหญ่ (Chao Pho Khao Yai Shrine)
+Content: ตั้งอยู่บนเขา มีลักษณะเป็นถ้ำ ซึ่งดัดแปลงเป็นศาสนสถานที่ผสมผสานด้วยสถาปัตยกรรมไทย จีน
+
+Nearby Location: ใกล้รอยพระพุทธบาท ถนนอัษฎางษ์ ตำบลท่าเทววงษ์
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: อัษฎางค์
+Subdistrict: 
+District: เกาะสีชัง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.1682022, 100.8066827
+UUID: 65f94417-a776-454a-bbc9-48cdc17cc8c8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

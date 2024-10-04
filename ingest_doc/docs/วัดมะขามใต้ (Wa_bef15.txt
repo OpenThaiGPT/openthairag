@@ -1,0 +1,36 @@
+Title: วัดมะขามใต้ (Wat Makarm)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมฝั่งตะวันตกของแม่น้ำเจ้าพระยา ด้านทิศใต้ของตัวเมือง ใช้ถนนสาย 345 จากแยกสวนสมเด็จ วิ่งข้ามสะพานนนทบุรี(สะพานนวลฉวี) และวิ่งไปอีกประมาณ 1 กิโลเมตร มีทางแยกขวาไปวัดอีก 1 กิโลเมตร
+Address: 1 หมู่ 3
+Region: ภาคกลาง
+Alley: 
+Road: โสภา
+Subdistrict: 
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0110485, 100.5356616
+UUID: f755857e-e459-4727-acb4-4b1fc48376d4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

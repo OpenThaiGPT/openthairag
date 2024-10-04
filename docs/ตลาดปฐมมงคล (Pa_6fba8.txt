@@ -1,0 +1,36 @@
+Title: ตลาดปฐมมงคล (Pathom Mongkol Market)
+Content: 
+
+Nearby Location: 
+Address: 129
+Region: ภาคกลาง
+Alley: 
+Road: ทวารวดี
+Subdistrict: พระปฐมเจดีย์
+District: เมืองนครปฐม
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 081 851 6225 , 034 241 959
+Email: chairat9854@gmail.com
+Website: www.pathommongkolmarket.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันตลอด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8159983, 100.066817
+UUID: d1219841-a178-4be2-8b56-89564775b578
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

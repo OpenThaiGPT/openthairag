@@ -1,0 +1,36 @@
+Title: มูลนิธิจักรพันธุ์ โปษยกฤต (Chakrabhand Foundation)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยสุขุมวิท 63 แขวงคลองตันเหนือ เขตวัฒนา
+Address: 49/1  
+Region: ภาคกลาง
+Alley: สุขุมวิท 63
+Road: สุขุมวิท
+Subdistrict: 
+District: วัฒนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2394 7754
+Email: 
+Website: www.chakrabnand.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7274807, 100.5850961
+UUID: 7a52572f-f167-408f-a8bd-257a7dd8e8cc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ถนนโค้งพับผ้า
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: บ่อเกลือใต้
+District: บ่อเกลือ
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.069117, 101.126108
+UUID: a6e681a7-e361-41b8-88b4-e9f38dae5c91
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

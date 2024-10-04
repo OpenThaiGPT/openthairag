@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำวังเฮือ (Wang Hue Dam)
+Content: อ่างเก็บน้ำอยู่ริมถนน เหมาะแก่การแวะพักผ่อนหย่อนใจ ริมอ่างเก็บน้ำเป็นทิวเขา มีทิวทัศน์สวยงามโดยเฉพาะยามพระอาทิตย์ตกดิน
+
+Nearby Location: อยู่ห่างจากเมืองลำปางประมาณ 18 กิโเมตร โดยใช้เส้นทางหลวงหมายเลข 11 (ไปทางเด่นชัย แพร่) 
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองลำปาง
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.22383733944207, 99.58150364230096
+UUID: 8487d6fd-d6de-4bd6-989b-b697cc585fdc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

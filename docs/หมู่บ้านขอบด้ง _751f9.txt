@@ -1,0 +1,37 @@
+Title: หมู่บ้านขอบด้ง (Khop Dong Village)
+Content: เป็นหมู่บ้านของชาวมูเซอดำและมูเซอแดงที่ตั้งอยู่ที่บริเวณสันขอบอ่างระหว่างเขตดอยอ่างขางและอำเภอฝาง ห่างจากสถานีเกษตรหลวงอ่างขางไปอีกประมาณ 4 กิโลเมตร เป็นจุดให้บริการอาหารและที่พักสำหรับนักท่องเที่ยว และยังเป็นที่จำหน่ายสินค้าหัตถกรรม ของที่ระลึก และผลไม้ดอง
+
+Nearby Location: ตั้งอยู่ระหว่างสถานีเกษตรหลวงดอยอ่างขางกับบ้านนอแล 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ฝาง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: หมู่บ้าน
+Facilities Contact: 
+Telephone: 0 5388 6366
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.9264418, 99.0527213
+UUID: c64f2e25-b9a1-411c-9f0d-6744807f067a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

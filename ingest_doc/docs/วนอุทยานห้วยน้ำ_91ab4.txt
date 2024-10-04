@@ -1,0 +1,36 @@
+Title: วนอุทยานห้วยน้ำซับ
+Content: วนอุทยานห้วยน้ำซับ ตั้งอยู่ที่ตำบลทองมงคล อำเภอบางสะพาน จังหวัดประจวบคีรีขันธ์  อยู่ในเขตป่าสงวนแห่งชาติป่าพุน้ำเค็ม ตำบลทองมงคล อำเภอบางสะพาน จังหวัดประจวบคีรีขันธ์ มีพืนที่ 5200 ไร่
+
+Nearby Location: จากถนนเพชรเกษมบริเวณหลักกิโลเมตร ที่ 389 มุ่งหน้าลงใต้ไปอีกประมาณ 500 เมตร เลี้ยวซ้ายเข้าไประยะทาง 2 กิโลเมตร ถึงบริเวณเชิงเขา
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ทองมงคล
+District: บางสะพาน
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 032 818588
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน เวลา 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 11.2087839, 99.42966849999999
+UUID: 10d31381-b01f-4adb-9a45-79fd67f3584d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

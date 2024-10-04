@@ -1,0 +1,36 @@
+Title: กองพลทหารม้าที่ 2 รักษาพระองค์ (Kings Gurd, 2nd Cavalry Division)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท ใกล้สถานีรถไฟฟ้าบีทีเอส สนามเป้า
+Address: 206
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: พญาไท
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 2297 5110, 0 2279 3557
+Email: cavd2_dpa@rta.mi.th
+Website: http.//www.cav2div.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7700656, 100.5439212
+UUID: 870f048b-4a70-4211-80e2-2f29cc32d0d8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

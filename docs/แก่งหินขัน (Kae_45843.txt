@@ -1,0 +1,36 @@
+Title: แก่งหินขัน (Kaeng Hin Khan)
+Content: แก่งหินขัน ตั้งอยู่ที่บ้านหินขัน ตำบลโคกสาร อำเภอชานุมาน จังหวัดอำนาจเจริญ เป็นแก่งหินตั้งอยู่กลางแม่น้ำโขง ติดชายแดนไทย ลาว ลักษณะเป็นร่องหินเกิดจากการกัดเซาะของกระแสน้ำเป็นเวลาหลายพันปี
+
+Nearby Location: ตั้งอยู่กลางแม่น้ำโขง ติดชายแดนไทย ลาว ห่างจากตัวอำเภอไปทางใต้ประมาณ 13 กิโลเมตร
+Address: บ้านหินขัน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ชานุมาน
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.1277799, 105.0325893
+UUID: 1d86cab8-f390-4339-934f-18778fa8a91e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

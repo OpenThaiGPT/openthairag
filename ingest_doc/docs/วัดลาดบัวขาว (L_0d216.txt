@@ -1,0 +1,36 @@
+Title: วัดลาดบัวขาว (Lat Bua Khao Temple)
+Content: ก่อตั้งเมื่อปี2437 โดยหลวงพระธรรมจักร ปัจจุบันพระครูใบฏีกาชุมพลสุนทรวิจารณ์ เป็นเจ้าอาวาส
+
+Nearby Location: ตั้งอยู่ถนนสุขาภิบาล 3 ตำบลหัวไทร อำเภอบางคล้า
+Address: 100 หมู่ 6
+Region: ภาคตะวันออก
+Alley: 
+Road: สุขาภิบาล 3
+Subdistrict: ท่าทองหลาง
+District: บางคล้า
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: พระครูใบฎีกา จักกฤช มหาปุญโญ 083 0229357 (เจ้าอาวาสวัดลาดบัวขาว)
+Email: 
+Website: 
+Facebook: https://www.facebook.com/LardboukaoTemple/?locale=th_TH
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8283127, 101.2177853
+UUID: 556c3022-f488-4d5a-9e4b-612fee5a0e6d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

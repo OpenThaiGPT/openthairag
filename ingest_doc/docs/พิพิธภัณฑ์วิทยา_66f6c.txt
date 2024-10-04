@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์วิทยาศาสตร์ จามจุรีสแควร์ (จตุรัสวิทยาศาสตร์) (NSM Science Square)
+Content: 
+
+Nearby Location: อยู่ที่ชั้น 4 จามจุรีสแควร์ สามย่าน เขตปทุมวัน
+Address: 319 จามจุรีสแควร์ ชั้น 4
+Region: ภาคกลาง
+Alley: 
+Road: พญาไท
+Subdistrict: 
+District: ปทุมวัน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2160 5141
+Email: nsmsciencesquare@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.30 19.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 50.0
+Fee (TH Kid): 90.0
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7330646, 100.5299929
+UUID: 02eca5f8-f46d-49b4-b46d-1b2a924df0c6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

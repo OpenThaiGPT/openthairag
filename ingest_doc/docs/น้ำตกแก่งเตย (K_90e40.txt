@@ -1,0 +1,36 @@
+Title: น้ำตกแก่งเตย (Kaeng Toey Waterfall)
+Content: 
+
+Nearby Location: ใกล้น้ำตกธารทิพย์ ตำบลครน อำเภอสวี
+Address: หมู่ 11 บ้านช่องรอ
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 41
+Subdistrict: 
+District: สวี
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.2399374, 99.093748
+UUID: 3777a1be-c82f-4b2f-8cc4-c49a175ca530
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

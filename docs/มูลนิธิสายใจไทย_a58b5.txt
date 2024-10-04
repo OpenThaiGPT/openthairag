@@ -1,0 +1,36 @@
+Title: มูลนิธิสายใจไทย (Saigaithai Foundation)
+Content: 
+
+Nearby Location: อยู่ตรงข้ามกับโรงเรียนอรรถวิทย์พาณิชยการ ถนนสรรพวุธ เขตบางนา
+Address: 265
+Region: ภาคกลาง
+Alley: 
+Road: สรรพาวุธ  
+Subdistrict: 
+District: บางนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์หัตถกรรม
+Facilities Contact: 
+Telephone: 0 2183 5115
+Email: saigaithai265@hotmail.com
+Website: www.saigaithai.or.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.30 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6750444, 100.5948953
+UUID: 08e9573d-4644-4794-9edf-7502442b3355
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดพระคงฤาษี (Wat Phra Kong Ruesi)
+Content: เป็นวัดที่สร้างขึ้นในสมัยพระนางจามเทวี ครองเมืองหริภุญชัย ในวัดนี้มี พระคง ซึ่งเป็นพระเครื่องที่มีความศักดิ์สิทธิ์ และเป็นที่นับถืออีกองค์หนึ่งของเมืองลำพูน
+
+Nearby Location: ใกล้สถานีตำรวจเมืองลำพูน ตำบลในเมือง  
+Address: 71
+Region: ภาคเหนือ
+Alley: 
+Road: พระคงฤาษี
+Subdistrict: 
+District: เมืองลำพูน
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.5837282, 99.008241
+UUID: 35c5957d-2b20-4e40-9aa1-30b0d2d83681
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

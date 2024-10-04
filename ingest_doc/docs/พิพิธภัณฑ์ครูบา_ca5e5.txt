@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ครูบาศรีวิชัย
+Content: 
+
+Nearby Location: ตั้งอยู่ในวัดบ้านปาง ตำบลศรีวิชัย อำเภอลี้  
+Address: 181 หมู่ 1 บ้านปาง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ลี้
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1098186, 98.8867135
+UUID: 6839a4b5-d1bd-44f8-93c7-a22762a9eaeb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

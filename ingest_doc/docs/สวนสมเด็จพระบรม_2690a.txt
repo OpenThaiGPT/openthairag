@@ -1,0 +1,37 @@
+Title: สวนสมเด็จพระบรมไตรโลกนาถ (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ก่อนถึงอำเภอวังทอง จะเห็นป้ายทางเข้าค่ายสมเด็จพระบรมไตรโลกนาถ ตำบลสมอแข
+Address: หมู่ 2 บ้านลาดบัวขาว
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองพิษณุโลก
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 5531 1453 5 ต่อ 4837
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จันทร์ ศุกร์ 08.00   16.30 น. 
+เสาร์ อาทิตย์ 09.00   20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.7989564, 100.2151578
+UUID: 71ab9bd8-299e-40ab-8969-5c1b0ce6ea35
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดนันตาราม (Wat Nan Ta Ram)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่บ้านทุ่งบานเย็น ตำบลหย่วน อำเภอเชียงคำ  
+Address: 1 หมู่ 13 บ้านทุ่งบานเย็น 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: หย่วน
+District: เชียงคำ
+Province: พะเยา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 054 451636/088 9599156
+Email: 
+Website: www.watnantaram.net
+Facebook: https://www.facebook.com/wat.nantaram?mibextid=hu50Ix
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเข้าชมได้ทุกวัน ตั้งแต่เวลา 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.5282367, 100.3031277
+UUID: 368db05a-e997-4029-b6ee-a20bf593a160
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

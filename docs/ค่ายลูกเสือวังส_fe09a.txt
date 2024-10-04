@@ -1,0 +1,36 @@
+Title: ค่ายลูกเสือวังสวนแก้ว (Wang Suan Kaew Camp)
+Content: ค่ายลูกเสือสำหรับฝึกเยาวชนต่อต้านยาเสพติด แหล่งเรียนรู้และขุมทรัพย์ทางปัญญา เน้นฝึกระเบียบวินัยให้กับเยาวชน
+
+Nearby Location: เลยโรงพยาบาลศรีประจันต์ประมาณ 2 กิโลเมตร ตำบลวังน้ำซับ อำเภอศรีประจันต์ 
+Address: 181/2 หมู่ 4
+Region: ภาคกลาง
+Alley:  
+Road:  
+Subdistrict: 
+District: ศรีประจันต์
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์ประชุมฯ
+Facilities Contact: 
+Telephone: 08 1919 5699
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.6382231,100.1499066
+UUID: 96e41771-0a61-4a52-8196-8bfa0be4a5bb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ซูคาต้า คาเฟ่ (Zucata Cafe')
+Content: คาเฟ่สวนสัตว์เปิดใหม่ บนเนื้อที่กว้างขวางถึง 28 ไร่ ด้านหน้าทางเข้า มีจุดไฮไลท์ สำหรับเด็กๆ เช่น เครื่องบิน รถทหาร รถถัง ที่ตั้งโชว์ไว้ให้ถ่ายรูป ภายในมีสัตว์หลายชนิด อาทิ ยีราฟ อัลปาก้า ม้าแคระ กวาง กระต่าย เต่า หงษ์ขาว หงษ์ดำ และสัตว์อื่นๆอีกมากมาย ภายในให้บริการอาหารและเครื่องดื่ม พร้อมจำหน่ายอาหารให้สัตว์ภายในสวนด้วย เปิดให้บริการฟรี ทุกวัน
+
+Nearby Location: สาย347ปทุมธานี บางปะหัน มุ่งหน้าบางปะหัน ช่วงกม.27 ใกล้กับวัดลาดระโหง
+Address:  
+Region: ภาคกลาง
+Alley:  
+Road:  
+Subdistrict: เกาะเกิด
+District: บางปะอิน
+Province: พระนครศรีอยุธยา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 095 328 7995
+Email: zucatacate@gmail.com
+Website: 
+Facebook: Zucata Cafe'
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00   19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.2535503, 100.5343095
+UUID: 5d7eed3d-3e00-4ba5-b0f2-24637eb1a54d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

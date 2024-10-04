@@ -1,0 +1,36 @@
+Title: น้ำตกปางสา (Pang Sa Waterfall)
+Content: น้ำตกปางสา ตั้งอยู่หมู่ที่ 17 บ้านปางสา ต.ป่าตึง อ.แม่จัน จ.เชียงราย เป็นสถานที่ท่องเที่ยวแห่งหนึ่งของตำบลป่าตึง มีความสวยงาม
+
+Nearby Location: ตั้งอยู่ในเขตอุทยานแห่งชาติลำน้ำกก ตำบลป่าตึง อำเภอแม่จัน
+Address: หมู่ 17 บ้านปางสา  
+Region: ภาคเหนือ
+Alley: 
+Road: แม่จัน  ฝาง
+Subdistrict: 
+District: แม่จัน
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5318 0023
+Email: admin@patung.go.th
+Website: www.patung.go.th/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.1053991, 99.655807
+UUID: e09fc3e6-161b-426f-8de3-e5ac5a644f86
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

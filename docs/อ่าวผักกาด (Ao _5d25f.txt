@@ -1,0 +1,37 @@
+Title: อ่าวผักกาด (Ao Puk Kard)
+Content: อยู่ทางทิศใต้ของเกาะสุรินทร์ใต้ เป็นจุดดำน้ำตื้นที่มีแนวปะการังเขากวาง เป็นอ่าวที่ดำน้ำได้ทั้งน้ำตื้นและน้ำลึก
+
+Nearby Location: อยู่ในพื้นที่อุทยานแห่งชาติหมู่เกาะสุรินทร์ อำเภอคุระบุรี อยู่ทางทิศใต้ของเกาะสุรินทร์ใต้ 
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: คุระบุรี
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แหล่งปะการังน้ำลึก/น้ำตื้น
+Facilities Contact: 
+Telephone: 0 7647 2145, 0 7647 2146
+Email: 
+Website: www.mukosurin.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00 16.00 น. (ขึ้นอยู่กับอุทยานและสภาพอากาศ)
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 9.376156069141155, 97.86800611375052
+UUID: 739f0b55-38d0-44fd-a897-b5f0c91fce0c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

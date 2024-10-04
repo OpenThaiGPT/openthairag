@@ -1,0 +1,37 @@
+Title: สนามกอล์ฟแหลมฉบัง อินเตอร์เนชั่นเนล คันทรีคลับ (Laem Chabang International Country Club)
+Content: แหลมฉบัง อินเตอร์แนชั่นแนล คันทรี คลับ เป็นสนามกอล์ฟ 27 หลุม ออกแบบโดย Jack Nicklaus
+
+Nearby Location: อยู่ใกล้กับอมตะซิตี้ 
+Address: 106/8 หมู่ 4
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีราชา
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 3837 2273
+Email: 
+Website: laemchabanggolf.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.0287382, 101.0399402
+UUID: fc991f94-5c9d-4dfc-8417-b6a8be157d4d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

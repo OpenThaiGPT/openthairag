@@ -1,0 +1,36 @@
+Title: ซุ้มประตูเฉลิมพระเกียรติฯ (ไม่มี)
+Content: วงเวียนโอเดียน เป็นวงเวียนตั้งอยู่บริเวณหัวถนนเยาวราช เป็นจุดตัดของถนนเจริญกรุง, ถนนเยาวราช และถนนมิตรภาพไทย จีน อยู่ในเขตสัมพันธวงศ์ กรุงเทพมหานคร
+
+Nearby Location: ตั้งอยู่บริเวณวงเวียนโอเดียน ถนนเยาวราช
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: เยาวราช
+Subdistrict: 
+District: สัมพันธวงศ์
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 0 2233 1224 8 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7371759, 100.5129822
+UUID: 634084ab-b49c-4640-9393-2085fd617756
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

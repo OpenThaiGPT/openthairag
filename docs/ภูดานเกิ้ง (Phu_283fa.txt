@@ -1,0 +1,36 @@
+Title: ภูดานเกิ้ง (Phu Dan Kueng)
+Content: ภูดานเกิ้ง ตั้งอยู่ที่บ้านนาปุ่ง ตำบลคำชะอี เป็นภูเขาที่มีลักษณะเป็นลานหินกว้างขนาดใหญ่ มีดอกไม้นานาพันธุ์และต้นปรงขึ้นอยู่โดยรอบเป็นจำนวนมาก มีหินเทิบและน้ำตกอยู่บริเวณลานหิน จึงเป็นแหล่งท่องเที่ยวเชิงอนุรักษ์ ที่เหมาะสำหรับการตั้งแคมป์และเดินป่า
+
+Nearby Location: อยู่บ้านนาปุ่ง ตำบลคำชะอี อำเภอคำชะอี
+Address: บ้านนาปุ่ง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:  
+Road: 
+Subdistrict: คำชะอี
+District: คำชะอี
+Province: มุกดาหาร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 042 642145
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.529137, 104.4847739
+UUID: 2c972ef4-4523-405f-acef-1c845dfbc6f8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

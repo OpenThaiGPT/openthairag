@@ -1,0 +1,36 @@
+Title: วัดสักใหญ่
+Content: เป็นวัดเก่าแก่ สร้างขึ้นโดยพระเจ้าตากสินมหาราช พระองค์ได้พระราชทานทรัพย์ส่วนพระองคืร่วมกับ บรรพบุรุษในถิ่นนี้จัดสร้างวัดสักขึ้น ที่วัดนี้มีหลวงพ่อสุโขทัย เป็นพระพุทธรูปที่งามยิ่งองค์หนึ่ง
+
+Nearby Location: ตั้งอยู่ที่ตำบลวัดชลอ อำเภอบางกรวย
+Address: 104 หมู่ 9 
+Region: ภาคกลาง
+Alley: 
+Road: บางกรวย ไทรน้อย
+Subdistrict: บางกรวย
+District: บางกรวย
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2443 0610 9 ต่อ 103
+Email: 
+Website: www.bangkruaicity.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8134652, 100.4691511
+UUID: f05bcf52-284f-4162-be5a-f3f0e393a6a3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

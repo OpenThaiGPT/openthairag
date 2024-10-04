@@ -1,0 +1,36 @@
+Title: สวนสมเด็จพระศรีนครินทร์ฉะเชิงเทรา (Suan Somdet Phra Srinagarindra Park Chachoengsao)
+Content: บนเนื้อที่ประมาณ 90 ไร่ เป็นสวนสาธารณะที่มีสระน้ำขนาดใหญ่อยู่กลางสวน มีทางเดินโดยรอบสระและต้นไม้ขึ้นร่มรื่น เหมาะเป็นสถานที่พักผ่อนหย่อนใจ
+
+Nearby Location: ตั้งอยู่หน้าศาลากลางจังหวัดฉะเชิงเทรา สำนักงานที่ดิน ตำบลหน้าเมือง อำเภอฉะเชิงเทรา
+Address: 
+Region: ภาคตะวันออก
+Alley: หน้าศาลากลางจังหวัด
+Road: สวนสมเด็จ
+Subdistrict: 
+District: เมืองฉะเชิงเทรา
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 3851 1027
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6887138, 101.0669915
+UUID: 234ffa6a-4579-438d-abbf-a84b9dcf6093
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

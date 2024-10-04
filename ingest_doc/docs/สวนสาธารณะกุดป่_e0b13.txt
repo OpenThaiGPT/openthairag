@@ -1,0 +1,36 @@
+Title: สวนสาธารณะกุดป่อง (Kut Pong Park)
+Content: 
+
+Nearby Location: อยู่ด้านหลังศาลเจ้าพ่อกุดป่อง (ศาลหลักเมือง) ตำบลกุดป่อง
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: เจริญรัฐ
+Subdistrict: 
+District: เมืองเลย
+Province: เลย
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 4281 1140 (เทศบางเมืองเลย)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.4848383, 101.729249
+UUID: c35ae79b-7925-443a-a16d-e20348c92484
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

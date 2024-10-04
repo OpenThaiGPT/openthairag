@@ -1,0 +1,37 @@
+Title: สวนพฤกษชาติภูเก็ต (Phuket Botanic Garden)
+Content: สวนแสดงพันธุ์พืช พันธุ์ไม้ หลากหลายสวน เช่น สวนกล้วยไม้ สวนบัว สวนป่าร้อนชื้น สวนบาหลี สวนญี่ปุ่น สวนสมุนไพร สวนเฟิร์น สวนปาล์ม สวนไม้เลื้อย ฯลฯ
+
+Nearby Location: ใกล้วัดฉลอง ตำบลฉลอง เมืองภูเก็ต
+Address: 98/89 หมู่ 4 
+Region: ภาคใต้
+Alley: เจ้าฟ้า 48
+Road: เจ้าฟ้า
+Subdistrict: 
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: สวนพฤกษศาสตร์
+Facilities Contact: 
+Telephone: 0 7636 7076,0 7636 7095
+Email: info@phuketbotanicgarden.com
+Website: phuketbotanicgarden.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพฤหัสบดี วันอังคาร 9.00 17.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 100.0
+Fee (TH Kid): 50.0
+Fee (EN): 500.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 7.846759352609591,98.34282875061035
+UUID: 8b4c5e16-d142-436c-b5ca-d1938e728c28
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

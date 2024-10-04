@@ -1,0 +1,36 @@
+Title: วัดยุคันธราวาส (ไม่มี)
+Content: สร้างเมื่อ พ.ศ. 2410 โดยสมเด็จพระสังฆราช (สา ปุสสเทว) และพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว
+
+Nearby Location: ตั้งอยู่ที่บ้านสวนเจ้า ตำบลบางเลน อำเภอบางใหญ่
+Address: 22 หมู่ 7 บ้านสวนเจ้า
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางใหญ่
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2920 0939 (อบต. บางเลน)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  16.30 น.ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8370663, 100.4295703
+UUID: 51387c75-159d-4512-8b73-73b089a48a7a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

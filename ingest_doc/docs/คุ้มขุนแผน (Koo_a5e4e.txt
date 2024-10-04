@@ -1,0 +1,36 @@
+Title: คุ้มขุนแผน (Koom Khun Phan)
+Content: 
+
+Nearby Location: ตั้งอยู่ในวัดแค ตำบลรั้วใหญ่ เมืองสุพรรณบุรี 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: สมภารคง 
+Subdistrict: 
+District: เมืองสุพรรณบุรี
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 0 3552 1899
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.487115081187444, 100.11676798344219
+UUID: 627d6f56-27d8-4e1a-a7e5-5efe4dbda55c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

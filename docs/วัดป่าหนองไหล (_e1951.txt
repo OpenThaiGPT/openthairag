@@ -1,0 +1,36 @@
+Title: วัดป่าหนองไหล (Wat Pa Nong Lai)
+Content: 
+
+Nearby Location: อยู่ตำบลสร้างถ่อน้อย อำเภอหัวตะพาน ห่างจากตัวอำเภอหัวตะพานประมาณ 9 กิโลเมตร 
+Address: หมู่ 8 บ้านหนองไหล
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: หัวตะพาน
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.6174636, 104.5232901
+UUID: 10fe121b-844a-49b6-9d74-7f8fd2752be0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

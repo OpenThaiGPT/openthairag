@@ -1,0 +1,36 @@
+Title: น้ำตกพลาญทอง (Plan Thong Waterfall)
+Content: 
+
+Nearby Location: อยู่ในอุทยานแห่งชาติภูผาม่าน ตำบลนาหนองทุ่ม
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ชุมแพ
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 4321 0163
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.7578805, 101.9562015
+UUID: b42d36b0-02e1-4674-9fb5-6c9ec5d9de6c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

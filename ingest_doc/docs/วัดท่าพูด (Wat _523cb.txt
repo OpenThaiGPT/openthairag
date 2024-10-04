@@ -1,0 +1,36 @@
+Title: วัดท่าพูด (Wat Tha Phut)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมแม่น้ำท่าจีน ตำบลไร่ขิง อำเภอสามพราน
+Address: 3316
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: สามพราน
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: กำแพงเมือง/คูเมือง
+Facilities Contact: 
+Telephone: 0 3428 8852, 0 3432 1122
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7474138, 100.2756737
+UUID: 19eaf545-3f82-4cc6-b6ef-d10b9ee62e3f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

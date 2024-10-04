@@ -1,0 +1,36 @@
+Title: ศูนย์เรียนรู้โครงการตามพระราชประสงค์หุบกะพง (Hup Kaphong Royal Project)
+Content: เป็นแหล่งเรียนรู้สำหรับประชาชนที่สนใจศึกษาดูงานโครงการตามพระราชดำริ เพื่อนำไปปรับใช้ในการพัฒนาอาชีพ โดยจัดทำเป็นศูนย์นิทรรศการในอาคารคุ้มเกล้า
+
+Nearby Location: ตั้งอยู่ที่ตำบลเขาใหญ่ อำเภอชะอำ และอยู่ห่างอำเภอหัวหิน 34 กิโลเมตร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เขาใหญ่
+District: ชะอำ
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 3247 1543, 0 3247 1100
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.8183048, 99.9399222999999
+UUID: e259a295-917c-497f-8646-d2b7bbcfad7a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

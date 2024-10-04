@@ -1,0 +1,36 @@
+Title: ไร่รจนา (Rajana Farm)
+Content: 
+
+Nearby Location: อยู่ที่ตำบลด่านช้าง อำเภอนากลาง เยื้องๆวัดมงคลนาปี
+Address: หมู่ 12
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: นากลาง
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 5359 1488
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.345438, 102.1175404
+UUID: 235436b9-9779-41c2-9b43-efb98cbab488
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

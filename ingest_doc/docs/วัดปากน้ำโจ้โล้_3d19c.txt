@@ -1,0 +1,36 @@
+Title: วัดปากน้ำโจ้โล้
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ปากน้ำ
+District: บางคล้า
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7420824, 101.2090467
+UUID: 92bba4c4-af19-4d4e-9b24-127df99b258f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

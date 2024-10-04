@@ -1,0 +1,36 @@
+Title: ศูนย์จำหน่ายหัตถกรรมบ้านคำพระ (ไม่มี)
+Content: เป็นศูนย์จำหน่ายผลิตภัณฑ์หัตถกรรมของกลุ่มแม่บ้าน มีสินค้าหลากหลายชนิด โดยเฉพาะผ้าขิต และผลิตภัณฑ์แปรรูปจากผ้าขิต
+
+Nearby Location: ตั้งอยู่ที่บ้านคำพระ ริมทางหลวงสายอำเภอหัวตะพาน อำนาจเจริญ ห่างจากที่ว่าการอำเภอหัวตะพานประมาณ 2 กิโลเมตร
+Address: 106 หมู่ 3 บ้านคำพระ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: สายน้ำสี่ หัวตะพาน บ้านขมิ้น
+Subdistrict: 
+District: หัวตะพาน
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 08 7876 4851
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.7596955, 104.4721253
+UUID: d894d9c1-720f-4e99-b0f2-b986cd877e34
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

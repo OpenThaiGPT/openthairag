@@ -1,0 +1,36 @@
+Title: วัดมหาธาตุ (Mahathat Temple)
+Content: ประกอบด้วยวิหารแบบล้านนาซึ่งอยู่ด้านหน้า ถัดไปเป็นพระบรมธาตุทุ่งยั้งบรรจุพระบรมสารีริกธาตุของพระพุทธเจ้า เป็นเจดีย์เก่าแก่แบบลังกาทรงกลมฐานเป็นรูปสี่เหลี่ยม 3 ชั้น ฐานล่างมีเจดีย์องค์เล็กๆ เป็นบริวารอยู่ 4 มุม ฐานชั้นที่ 3 มีซุ้มคูหา 4 ด้าน สันนิษฐานว่าได้บูรณะขึ้นภายหลัง
+
+Nearby Location: อยู่ในตำบลในเมือง อำเภอพิชัย
+Address: หมู่ 3 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: คอรุม
+District: พิชัย
+Province: อุตรดิตถ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 10.0
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.2916155, 100.0870067
+UUID: f354afc0-7eb2-4431-a14e-a94790070069
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

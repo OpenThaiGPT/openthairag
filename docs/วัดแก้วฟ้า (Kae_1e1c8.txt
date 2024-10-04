@@ -1,0 +1,36 @@
+Title: วัดแก้วฟ้า (Kaewfar Temple)
+Content: วัดนี้สันนิษฐานว่าสร้างขึ้นเมื่อประมาณ พ.ศ. 2095 สมัยรัชกาลสมเด็จพระมหาจักรพรรดิ ชื่อ วัดแก้วฟ้า น่าจะเกี่ยวเนื่องกับเหตุการณ์ทางประวัติศาสตร์ในยุคกรุงศรีอยุธยาตอนต้น คือ สมเด็จพระไชย
+
+Nearby Location: ตั้งอยู่ริมคลองบางกอกน้อย ตำบลบางขนุน อำเภอบางกรวย
+Address: 45 หมู่ 5
+Region: ภาคกลาง
+Alley: คลองบางกอกน้อย
+Road: 
+Subdistrict: 
+District: บางกรวย
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2447 5446, 0 2879 9971
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  14.00 น.จันทร์  อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8181946, 100.4660294
+UUID: 491b0905-cf71-412e-8a88-98ad5abf9eba
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

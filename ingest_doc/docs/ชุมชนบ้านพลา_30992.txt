@@ -1,0 +1,36 @@
+Title: ชุมชนบ้านพลา
+Content: รวมกลุ่มเพื่อการท่องเที่ยว จัดงานถนนคนเดิน เดินกิน ถิ่นพลา และจัดกิจกรรมอาสาสมัครอนุรักษ์สิ่งแวดล้อม เช่นเก็บขยะชายทะเล ปลูกป่าชายเลน ทำซั้งปลา เป็นต้น
+
+Nearby Location: ชุมชนบ้านพลา
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: บ้านฉาง
+District: บ้านฉาง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 0 3869 5234 7
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 12.6949877, 101.2245084
+UUID: 3088db16-b804-45f0-9e62-b3cd9999bde0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

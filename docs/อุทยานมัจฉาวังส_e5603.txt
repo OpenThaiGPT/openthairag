@@ -1,0 +1,36 @@
+Title: อุทยานมัจฉาวังสังกะวาด (Sangawat Fish Park)
+Content: อุทยานแห่งนี้เป็นสถานที่พักผ่อนหย่อนใจของประชาชนทั่วไปที่นิยมมาให้อาหารปลาจะพบปลาตะเพียน ในปัจจุบันปลาสังกะวาสหาดูได้ยาก มีลักษณะคล้ายกับปลาเนื้ออ่อน นอกจากนี้ภายในวัดหวายเหนียวยังมีพิพิธภัณฑ์พื้นบ้าน
+
+Nearby Location: จากสะพานจันทรุเบกษา เลี้ยวขวาตรงไปตามถนนเลียบแม่น้ำแม่กลองประมาณ 3 กิโลเมตร
+Address: หมู่ 4
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่ามะกา
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 0 3454 2654
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.90677,99.76215
+UUID: 98ec293b-6aff-4d35-ad7d-8c910157ddad
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

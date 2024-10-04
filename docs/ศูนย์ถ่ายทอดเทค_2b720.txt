@@ -1,0 +1,36 @@
+Title: ศูนย์ถ่ายทอดเทคโนโลยีทางการเกษตร (Agricultural Technology Transfer and Demonstration Center)
+Content: ศูนย์ถ่ายทอดเทคโนโลยีทางการเกษตร (ฟาร์มกล้วยไม้) 32 หมู่ 5 ต.หนองนกไข่ อ.กระทุ่มแบน จ.สมุทรสาคร
+
+Nearby Location: อยู่ใกล้วัดบางยาง ตำบลหนองนกไข่ อำเภอเกระทุ่มแบน
+Address: 32 หมู่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: กระทุ่มแบน
+Province: สมุทรสาคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 3449 9399
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.665313757263103, 100.19050412131953
+UUID: 29260015-ab0d-44b6-adf8-d1af25affdd8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

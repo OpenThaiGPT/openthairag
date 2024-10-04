@@ -1,0 +1,36 @@
+Title: ผาเก็บตะวัน (Pha Keb Tawan)
+Content: เป็นแหล่งท่องเที่ยวทางธรรมชาติ มีจุดกางเต็นท์ สามารถมาชมวิวทิวทัศน์ และชมพระอาทิตย์ตกได้อย่างดงาม ช่วงเช้าจะเห็นหมอกบางๆ ช่วงหน้าฝนจะเห็นทะเลหมอก
+
+Nearby Location: ตั้งอยู่ที่อุทยานแห่งชาติทับลาน ตำบลไทยสามัคคี ใกล้สวนลุงไกร
+Address: หน่วยพิทักษ์อุทยานแห่งชาติที่ 11
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: วังน้ำเขียว
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 6251 6496
+Email: 
+Website: https://www.facebook.com/ThapLan.NP
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 30.0
+Fee (TH Kid): 30.0
+Fee (EN): 30.0
+Fee (EN Kid): 30.0
+Remark: 
+Location: 14.319217055644168,101.93074196577072
+UUID: d8f4aa90-b609-4806-9aa4-5df353387dc7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

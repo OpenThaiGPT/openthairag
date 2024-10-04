@@ -1,0 +1,36 @@
+Title: น้ำตกแม่กำปอง (Mea Kampong Waterfall)
+Content: ตั้งอยู่ที่ บ้านแม่กำปอง หมู่ 3 ตำบลห้วยแก้ว กิ่งอำเภอแม่ออน จังหวัดเชียงใหม่ ห่างจากตัวเมืองเชียงใหม่เพียง 50 กิโลเมตร
+
+Nearby Location: ใกล้วัดแม่กำปอง ตำบลห้วยแก้ว อำเภอแม่ออน
+Address: หมู่ 3 บ้านแม่กำปอง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ห้วยแก้ว
+District: แม่ออน
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 053 315 111, 053 315 113
+Email: 
+Website: www.nea kampong.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.8627143, 99.3559305
+UUID: ae224b67-7680-4a12-8c5b-082d43dc508f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

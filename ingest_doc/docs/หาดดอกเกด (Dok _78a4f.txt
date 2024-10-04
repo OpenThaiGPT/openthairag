@@ -1,0 +1,36 @@
+Title: หาดดอกเกด (Dok Ked Bay)
+Content: 
+
+Nearby Location: อยู่ใกล้องค์การบริหารส่วนตำบลลำคลอง ริมฝั่งเขื่อนลำปาว อำเภอเมืองกาฬสินธุ์
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองกาฬสินธุ์
+Province: กาฬสินธุ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6075022, 103.437431
+UUID: 9e7b8120-b400-4914-9b9a-ad672022d6b7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์แรงงานไทย (Thai Labour Museum)
+Content: ตั้งอยู่ในอาคารที่ทำการเก่าของสหภาพแรงงานการรถไฟมักกะสัน ถนนนิคมรถไฟมักกะสัน เขตราชเทวี จัดแสดงเรื่องราวความเป็นมาของประวัติศาสตร์แรงงานไทย แบ่งออกเป็น 7 ห้อง
+
+Nearby Location: ตั้งอยู่ในอาคารที่ทำการเก่าของสหภาพแรงงานการรถไฟมักกะสัน ถนนนิคมรถไฟมักกะสัน 
+Address: 503/20
+Region: ภาคกลาง
+Alley:  
+Road: นิคมรถไฟมักกะสัน
+Subdistrict: 
+District: ราชเทวี
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2251 3173 
+Email: 
+Website: http.//www.thailabourmuseum.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ อาทิตย์ 10.00 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.75299672,100.5495282
+UUID: e5062fe1-15a6-4b55-a2e7-0b2779f7fd71
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

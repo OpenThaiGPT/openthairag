@@ -1,0 +1,36 @@
+Title: วนอุทยานภูผาแดง (Phu Pha Daeng Forest Park)
+Content: วนอุทยานภูผาแดง เป็นแหล่งท่องเที่ยวทางธรรมชาติ สามารถเดินศึกษาเส้นทางธรรมชาติ ชมจุดชมวิว ส่องสัตว์ได้
+
+Nearby Location: อยู่ใกล้สำนักสงฆ์ถ้ำผาจันได ห่างจากอำเภอหนองบัวลำภูประมาณ 70 กิโลเมตร
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: สุวรรณคูหา
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: วนอุทยาน
+Facilities Contact: 
+Telephone: 0 4222 1725
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.5760835, 102.3337912
+UUID: b2be0975-1dc2-4d4b-85dc-9b997dd18985
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

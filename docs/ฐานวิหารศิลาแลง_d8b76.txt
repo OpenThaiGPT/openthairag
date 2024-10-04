@@ -1,0 +1,36 @@
+Title: ฐานวิหารศิลาแลงสมัยทวารวดี (Laterite  Base of Draravati Building)
+Content: สันนิษฐานว่าใช้เป็นที่สำหรับกษัตริย์ทำพิธีบวงสรวงสังเวยเพื่อคล้องช้างป่า
+
+Nearby Location: อยู่ในวนอุทยานพุม่วง ตำบลจรเข้สามพัน อำเภออู่ทอง
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: อู่ทอง
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 08 1943 5188
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.35498543429664, 99.85529674680922
+UUID: cc36050a-f934-4a95-b274-c9dd5865b2b9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

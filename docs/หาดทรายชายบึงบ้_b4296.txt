@@ -1,0 +1,36 @@
+Title: หาดทรายชายบึงบ้านละเวง (Hat Sai Chai Bueng Ban Laweng)
+Content: ชายบึงบ้านละเวง มีสภาพแวดล้อมและธรรมชาติงดงามแปลกตาแก่ผู้ที่พบเห็น ลักษณะของหาดทรายแห่งนี้ คือ มีบึงขนาดใหญ่เคียงข้างหาดทรายขาวสะอาด ให้บรรยากาศแตกต่างจากหาดทรายอื่น
+
+Nearby Location: อยู่ใกล้กับวัดไม้แก่น ตั้งอยู่ที่ หมู่ 3 บ้านละเวง ตำบลดอนทราย อำเภอไม้แก่น 
+Address: หมู่ 3 บ้านละเวง
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ไม้แก่น
+Province: ปัตตานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 0 7333 0937
+Email: 
+Website: www.pattaniocal.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 6.61,101.667222
+UUID: d06ec6fc-b6f5-4f26-9cde-a9ff822ca69d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

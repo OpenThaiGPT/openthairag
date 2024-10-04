@@ -1,0 +1,36 @@
+Title: สวนไทรโยค แอดเวนเจอร์ พาร์ค (Suan Saiyok Adventure Park)
+Content: เปิดให้บริการทุกวัน สามารถจองเป็นหมู่คณะ หรือเดินทางไปที่รีสอร์ทเพื่อซื้อบัตรเครื่องเล่นได้
+
+Nearby Location: ติดสถานีรถไฟและสะพานถ้ำกระแซ ตำบลลุ่มสุ่ม อำเภอไทรโยค
+Address: 30/1 หมู่ 10
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ลุ่มสุ่ม
+District: ไทรโยค
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสนุก/สวนน้ำ
+Facilities Contact: 
+Telephone: 0 3453 1548, 093432 9839, 09 1762 3899, 08 5296 1390
+Email: info@suansaiyok.com
+Website: www.suansaiyok.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0984542, 99.1688411
+UUID: 84a8cbbe-59ef-489d-9f3f-45b0e2378ea6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

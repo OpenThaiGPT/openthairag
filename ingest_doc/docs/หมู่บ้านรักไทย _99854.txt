@@ -1,0 +1,36 @@
+Title: หมู่บ้านรักไทย (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่บ้านรักไทย ตำบลชมพู อำเภอเนินมะปราง  
+Address: 177 หมู่ 7 บ้านรักไทย
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เนินมะปราง
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 08 7207 5736
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 200.0
+Fee (TH Kid): 200.0
+Fee (EN): 200.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 16.7383527, 100.641124
+UUID: 5bb4e152-2fe9-401f-b622-43e29b98a4d6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

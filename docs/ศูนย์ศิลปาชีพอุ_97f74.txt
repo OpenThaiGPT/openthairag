@@ -1,0 +1,38 @@
+Title: ศูนย์ศิลปาชีพอุบลราชธานี (Ubon Ratchathani Support Center)
+Content: เป็นหนึ่งในแหล่งท่องเที่ยวตามโครงการ "เปิดทองหลังพระ" ภายในศูนย์มีพื้นที่กว่า 2,000 ไร่ มีจุดท่องเที่ยวที่ควรค่าแก่การชื่นชมมากมายเช่น ฟาร์มตัวอย่างตามแนวทฤษฏีใหม่ ศูนย์แสดงนิทรรศการผ้าพื้นเมืองอีสาน นอกจากนี้ยังเป็นศูนย์จำหน่าย ผลิตภัณฑ์ของสมาชิกศูนย์ศิลปาชีพจากทั่วประเทศ
+
+Nearby Location: อยู่ในมหาวิทยาลัยราชภัฎอุบลราชธานี (วิทยาเขตบ้านยางน้อย)
+Address: บ้านยางน้อย
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เขื่องใน
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 4547 3592
+Email: UBNsupport@hotmail.com
+Website: www.ubnsupport.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30น.
+
+เปิดทำการทุกวัน ไม่เว้นวันหยุดราชการ
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.355211066104743,104.6208930015564
+UUID: 7c4b9fd1-9e88-48c8-9b4b-d79102b3290e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

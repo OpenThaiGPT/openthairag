@@ -1,0 +1,36 @@
+Title: สวนผลไม้กุลภัช (Kulapas Fruit Garden)
+Content: เป็นสวนท่องเที่ยวเชิงเกษตร นักท่องเที่ยวสามารถเดินเข้าชมสวน ภายในสวนมีบรรยากาศร่มรื่น เต็มไปด้วยผลไม้นานาชนิด เช่น เงาะ ทุเรียน มังคุด ฯลฯ มีเรือนไทยแบบโบราณให้ถ่ายรูป และมีชุดไทยให้ใส่ถ่ายรูป
+
+Nearby Location: ตั้งอยู่หมู่ 8 ตำบลป่าอ้อ อำเภอลานสัก 
+Address: 220/2 หมู่ 8 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ทุ่งนางาม
+District: ลานสัก
+Province: อุทัยธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 082 886 3400
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.424449630655907, 99.49481601295403
+UUID: a3d4ac96-4912-4b5b-b08e-1e4d2ef3242c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: แหลมจองถนน (Laem Jong Thanon)
+Content: เป็นหมู่บ้านชาวประมง อยู่ตำบลจองถนน จากตัวเมืองพัทลุงไปตามเส้นทางสายเพชรเกษม เลี้ยวซ้ายผ่านอำเภอเขาชัยสนไปประมาณ 12 กิโลเมตร ระยะทางห่างจากตัวเมือง 39 กิโลเมตร อยู่บนเนินดินและลาดชันลงไปยังชายหาดทะเลสาบสงขลา สามารถมองเห็นทิวทัศน์ เกาะแก่งต่างๆ และยังมีร้านอาหารบริการแก่นักท่องเที่ยวอีกด้วย
+
+Nearby Location: ตั้งอยู่ที่ตำบลจองถนน อำเภอเขาชัยสน ห่างจากตัวเมืองพัทลุงประมาณ 39 กิโลเมตร
+Address: หมู่ 1 บ้านจองถนน
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาชัยสน
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.497749550912741,100.22551515942384
+UUID: 63d16029-52bf-4943-9b8a-6a845c434402
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

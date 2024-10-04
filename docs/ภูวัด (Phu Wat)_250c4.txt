@@ -1,0 +1,36 @@
+Title: ภูวัด (Phu Wat)
+Content: ภูวัดมีลักษณะทั่วไปคล้ายกับภูโพนทอง เป็นภูเขาหินทรายที่มีต้นไม้น้อยใหญ่ปกคลุม ตั้งห่างจากภูโพนทองไปทาง ทิศเหนือประมาณ 1 กิโลเมตร เหมาะที่จะพัฒนาให้เป็นสถานที่ท่องเที่ยวอย่างยิ่ง เพราะสามารถเดินทางขึ้นสู่ยอดเขา ได้สะดวกและป่าไม้ยังมีความอุดมสมบุรณ์
+
+Nearby Location: ตั้งอยู่ตำบลโพนทอง อำเภอเสนางคนิคม ห่างจากภูโพนทองไปทางทิศเหนือประมาณ 1 กิโลเมตร
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เสนานิคม
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 4387 3480
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.0819444, 104.7502778
+UUID: 0d605442-7a4a-4bc1-a471-75b0ed303437
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

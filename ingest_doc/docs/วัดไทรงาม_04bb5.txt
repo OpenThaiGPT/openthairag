@@ -1,0 +1,36 @@
+Title: วัดไทรงาม
+Content: 
+
+Nearby Location:  
+Address: ม.11 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่าตะเกียบ
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 091 087 7256
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.4822239, 101.5528792
+UUID: 977c50fa-19c1-4467-a0df-3998b945749b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ถ้ำจำหม่าฟ้า (Tham Jummafa)
+Content: 
+
+Nearby Location: อยู่ที่หมู่ 8 ตำบลทาขุมเงิน อำเภอแม่ทา  
+Address: หมู่ 8
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่ทา
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.3316768, 99.0349976999999
+UUID: 07efd3e2-1113-4134-a5d1-407ee8758be3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

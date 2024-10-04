@@ -1,0 +1,36 @@
+Title: วัดศาลเจ้า (Wat San Chao)
+Content: 
+
+Nearby Location: ตั้งอยู่ตำบลบ้านกลาง อำเภอเมืองปทุมธานี ติดริมแม่น้ำเจ้าพระยา
+Address: 2/1 หมู่ 3 บ้านคลองเชียงราก
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: บางกะดี
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2975 6302, 0 2581 5144
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.00303339698432, 100.5413818359375
+UUID: d66a6011-a095-4f0d-8daa-86f9633027d1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: เขาเขียน (Khao Khian)
+Content: เป็นทางผ่านที่จะไปยังเกาะปันหยี บริเวณหน้าผาจะมีรูปเขียนสีเป็นภาพสัตว์ชนิดต่าง ๆ สันนิษฐานว่าเป็นภาพวาดโดยนักเดินเรือสมัยโบราณที่แวะมาจอดพักหลบมรสุม ซึ่งกรมศิลปากรได้ทำการ ศึกษาว่ามีอายุไม่ต่ำกว่า ๓,๐๐๐ ปี
+
+Nearby Location: ตั้งอยู่ในอุทยานแห่งชาติอ่าวพังงา
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองพังงา
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.30691650611052,98.45823201013184
+UUID: 5f09b14f-5df9-4cc8-856f-0c4b08928658
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

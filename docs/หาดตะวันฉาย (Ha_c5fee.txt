@@ -1,0 +1,36 @@
+Title: หาดตะวันฉาย (Hat Tawan Chai (Tawan Chai Beach))
+Content: เป็นชายหาดกว้างยาวขนานไปกับทิวมะพร้าว เหมาะสำหรับการพักผ่อนและชมวิถีชีวิตชาวประมง
+
+Nearby Location: ใกล้มหาวิทยาแม่โจ้ วิทยาเขตชุมพร ตำบลละแม อำเภอละแม
+Address: หมู่ 3
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 4019
+Subdistrict: 
+District: ละแม
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.8014, 99.1387879999999
+UUID: c20e2a60-ee1e-4bb4-abbe-b9a832ddb542
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

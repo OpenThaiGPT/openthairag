@@ -1,0 +1,36 @@
+Title: สนามกอล์ฟแฮปปี้ซิตี้ (Happy City Golf)
+Content: สนามกอล์ฟนี้ไม่ไกลจากตัวเมืองเชียงรายรอบข้างมีภูเขาบรรยากาศดีมาก
+
+Nearby Location: อยู่ที่ตำบลเมืองชุม อำเภอเวียงชัย ห่างจากสนามบินนานาชาติเชียงราย 15 กิโลเมตร
+Address: 22 หมู่ 10
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: เมืองชุม
+District: เวียงชัย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 091 076 2074
+Email: 
+Website: www.happycitygolfresort.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 06.00 19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.8657622, 99.949722
+UUID: bfb988be-0aa8-429e-aab5-a2c7c5d63a02
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

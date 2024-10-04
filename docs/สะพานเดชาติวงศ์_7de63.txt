@@ -1,0 +1,36 @@
+Title: สะพานเดชาติวงศ์
+Content: เป็นสะพานที่สำคัญแห่งหนึ่งของประเทศไทย กรมทางหลวงวางแผนสร้างข้ามแม่น้ำเจ้าพระยา เพื่อให้เป็นประตูสู่ภาคเหนือ เมื่อปี 2485 เป็นสะพานคอนกรีตเสริมเหล็กมีความยาว 404.5 เมตร ทางรถกว้าง 6.50 เมตร ทางเท้าข้างสะพาน 1 เมตร ยังเป็นจุดชมวิวแม่น้ำสองสีที่สวยงามที่สุดอีกจุดหนึ่ง
+
+Nearby Location: ตั้งอยู่บนถนนพหลโยธิน ก่อนเข้าสู่ใจกลางเมืองนครสวรรค์
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: พหลโยธิน 
+Subdistrict: 
+District: เมืองนครสวรรค์
+Province: นครสวรรค์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 15.6877617, 100.1237202
+UUID: e3aec8c3-78c7-4d88-b735-05116405b4c0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

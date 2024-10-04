@@ -1,0 +1,36 @@
+Title: วัดเด่นชัย (Wat Den Chai)
+Content: เป็นวัดที่ประดิษฐานของพระเจ้าแสนแซ่ พระพุทธรูปสมัยเชียงแสนเนื่้อสัมฤทธ์ พระอันศักดิ์สิทธื์ของชาวอำเภอเด่นชัยและประชาชนในจังหวัดแพร่
+
+Nearby Location: ใกล้เทศบาลตำบลเด่นชัย ถนนสายแพร่ เด่นชัย ตำบลเด่นชัย อำแภอเด่นชัย
+Address: 385/1
+Region: ภาคเหนือ
+Alley: 5
+Road: แพร่ เด่นชัย
+Subdistrict: เด่นชัย
+District: เด่นชัย
+Province: แพร่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 08 9757 5872  083 616 4810  088 142 9904
+Email: kramthongzaa@gmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.9846002, 100.0501728
+UUID: 9ad716ed-6596-4eb3-a789-6ae885d034ef
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

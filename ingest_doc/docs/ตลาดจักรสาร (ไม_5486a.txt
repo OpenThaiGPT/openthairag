@@ -1,0 +1,36 @@
+Title: ตลาดจักรสาร (ไม่มี)
+Content: เป็นย่านตลาดเก่าของพนัสนิคม มีร้านค้าบ้านเรือนไม้แบบเก่าหลายหลัง จำหน่ายข้าวของเครื่องใช้ที่จักสานด้วยไม้ไผ่ ซึ่งเป็นหัตถกรรมขึ้นชื่อของพนัสนิคม เช่น ฝาชี กระจาด หมวก กระบุง ตะกร้า เป็นต้น
+
+Nearby Location: หลังตลาดสดเทศบาลเมืองพนัส (ตลาดเก่า) ตำบลพนัสนิคม
+Address: 36
+Region: ภาคตะวันออก
+Alley: 
+Road: อินทอาษา
+Subdistrict: 
+District: พนัสนิคม
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 3846 1313
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.4513707, 101.1796212
+UUID: 61ca2c3a-40aa-4ead-b87c-1a568daebe1e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

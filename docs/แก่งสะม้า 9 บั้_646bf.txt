@@ -1,0 +1,36 @@
+Title: แก่งสะม้า 9 บั้ง (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ถนนทางหลวงหมายเลข 1080 ตำบลพระพุทธบาท อำเภอเชียงคาน
+Address: หมู่ 10 บ้านตึ๊ด
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เชียงกลาง
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 5471 8938(เทศบาลตำบลพระพุทธบาทเชียงกลาง)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.22645798480857, 100.82250717116361
+UUID: 53ce4480-cfbc-42c7-b0f2-757f09eb61e5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

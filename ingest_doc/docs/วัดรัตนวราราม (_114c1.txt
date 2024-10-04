@@ -1,0 +1,36 @@
+Title: วัดรัตนวราราม (Wat Ruttanawararam)
+Content: เป็นสำนักปฏิบัติธรรมประจำจังหวัดพะเยา แห่งที่ 1
+
+Nearby Location: ใกล้วัดป่าแดงขุนนาค ตำบลท่าวังทอง เมืองพะเยา 
+Address: หมู่ 9
+Region: ภาคเหนือ
+Alley: 
+Road: วัดป่า
+Subdistrict: 
+District: เมืองพะเยา
+Province: พะเยา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5441 0746
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 8.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.191541408222157,99.92889404296875
+UUID: a9549668-81b3-4c4c-8e52-95fa01e5b2de
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

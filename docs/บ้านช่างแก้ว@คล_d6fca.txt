@@ -1,0 +1,36 @@
+Title: บ้านช่างแก้ว@คลองหลา
+Content: แหล่งท่องเที่ยว OTOP นวัตวิถี ในพื้นที่ อ.คลองหอยโข่ง จ.สงขลา
+
+Nearby Location: บ้านช่างแก้ว ไม่ไกลจากท่าอากาศยานนานาชาติหาดใหญ่
+Address: หมู่ที่ 7
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: คลองหอยโข่ง
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 6.89193119999999, 100.3555156
+UUID: 53d14f46-06a5-46a2-808c-52323d5b18f6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

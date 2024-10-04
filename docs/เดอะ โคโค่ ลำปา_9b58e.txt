@@ -1,0 +1,36 @@
+Title: เดอะ โคโค่ ลำปาง (The CoCo Lampang)
+Content: ของฝาก ของกิน ของที่ระลึก แหล่งท่องเที่ยวแห่งใหม่ของนครลำปาง
+
+Nearby Location: ตั้งอยู่บ้านวังพร้าว ตำบลวังพร้าว อำเภอเกาะคา ใกล้ฟาร์มแกะฮักยู
+Address: 683 หมู่ 2 บ้านวังพร้าว
+Region: ภาคเหนือ
+Alley: 
+Road: สายเอเชีย
+Subdistrict: 
+District: เกาะคา
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 0 5420 9609
+Email: Thecocomarket@gmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 07.00 19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1346086, 99.3911447
+UUID: 6311a448-e0e7-4001-b4ae-cb224470bba2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

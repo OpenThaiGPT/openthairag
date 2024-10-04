@@ -1,0 +1,36 @@
+Title: น้ำตกนทีราชันย์ (Natee Rachan Waterfall)
+Content: น้ำตกนทีราชัน ตั้งอยู่หมู่ที่6 บ้านแม่สะกั๊วะ ต.ท่าผาปุ้ม อ.แม่ลาน้อย ลักษณะน้ำตกนทีราชันย์เป็นน้ำตกที่ตกจากผาขนาดกว้าง 10 เมตร สูงประมาณ 20 เมตร เดินทางเข้าถึงได้โดยรถยนต์ เส้นทางแม่ลาน้อย ห้วยห้อม จากทางแยกไปถึงน้ำตกระยะทางประมาณ 17 กิโลเมตร และต้องเดินเท้าเข้าไปถึงตัวน้ำตกอีกประมาณ 100 เมตร
+
+Nearby Location: ตั้งอยู่บ้านแม่สะกั๊วะ ตำบลท่าผาปุ้ม อำเภอแม่ลาน้อย
+Address: หมู่ 6 บ้านแม่สะกั๊วะ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่ลาน้อย
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5306 2251
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.3434285849784,98.02255743074033
+UUID: bd6d8b29-d968-4c84-904a-e6e551600a7a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

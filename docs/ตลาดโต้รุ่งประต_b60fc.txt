@@ -1,0 +1,36 @@
+Title: ตลาดโต้รุ่งประตูชัย (Pratuchai Market)
+Content: เป็นตลาดขายอาหารกลางคืน แต่ไม่ถึงกับโต้รุ่ง มีร้านอาหารนานาชนิดให้ลิ้มลอง และอิ่มท้อง เป็นต้นว่า อาหารตามสั่ง ก๋วยเตี๋ยว โจ๊ก ข้าวต้ม ผัดไท
+
+Nearby Location: ตั้งอยู่ประตูชัย เลยจากปลายทางถนนคนเดินหรือถนนเจริญเมือง ตำบลในเวียง
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: เหมืองหิต 1
+Subdistrict: กาญจนา
+District: เมืองแพร่
+Province: แพร่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 5451 1060, 09 7959 3878 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 17.00 22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1423641, 100.1415754
+UUID: 8616223b-5818-4c09-8691-cd195e1d2aa9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,38 @@
+Title: วัดเขาบ่อ (Wat Khao Bor)
+Content: วัดเขาบ่อนี้เป็นวัดที่มีความเชื่อในเรื่องของสิ่งศักดิ์สิทธิ์ซึ่งมีตำนาน เกี่ยวกับช้างขุด โดยเล่ากันว่า
+
+เมื่อผู้ใดมาขอมักจะได้สิ่งนั้นตามที่ ขอ จึงทำให้เป็นที่รู้จักของผู้คนโดยทั่วไป
+
+Nearby Location: ถนนนครศรีธรรมราช   นาทวี (เกาะยอ) ตำบลเกาะยอ เมืองสงขลา
+Address: บ้านเกาะยอ  
+Region: ภาคใต้
+Alley: 
+Road: ถ.รอบเกาะยอ
+Subdistrict: 
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 7445 0453
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.1832813, 100.5413676
+UUID: 0bd41fe9-bc44-410a-932b-818db9fdf6e5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

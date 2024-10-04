@@ -1,0 +1,36 @@
+Title: น้ำผุดปรบมือ (Nam Phut Prop Mue)
+Content: ลักษณะเป็นตาน้ำผุดใต้ดินนั่นเองที่ผุดขึ้นมาเป็นแอ่งน้ำภายใต้ผืนป่าพรุอันร่มรื่น ที่แปลกคือเมื่อเราปรบมือจะดูเหมือนว่าอัตตราการผุดขึ้นมาของน้ำจะทวีจังหวะเร็วขึ้นได้อย่างน่าประหลาด
+
+Nearby Location:  ตำบลอ่าวลึกใต้ อำเภออ่าวลึก
+Address: บ้านถ้ำเสือ
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: อ่าวลึกใต้
+District: อ่าวลึก
+Province: กระบี่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 080 887 6966
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเที่ยวได้ทั้งปี  เวลาที่เหมาะสม 08.00 – 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.408325236322826, 98.68137906072344
+UUID: 2e8f835f-e1e2-4bfb-9288-2f3b1c35f132
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

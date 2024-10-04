@@ -1,0 +1,37 @@
+Title: ศูนย์อุโมงค์ลดโลกร้อน
+Content: 
+
+Nearby Location: ที่ตั้ง ตำบลอุโมงค์ เมืองลำพูน
+Address: 234 หมู่ 5 บ้านป่าเห็ว
+Region: ภาคเหนือ
+Alley: 
+Road: ลำพูน
+Subdistrict: 
+District: เมืองลำพูน
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 5398 3234
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 0 5398 3234
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.5985577, 99.0209813
+UUID: 1603176f-6246-481f-994f-084d9eca1143
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

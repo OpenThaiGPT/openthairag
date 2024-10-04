@@ -1,0 +1,36 @@
+Title: หอศิลป์จามจุรี (Jamjuree Art Gallery)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่อาคารจามจุรี 8  ติดกับสมาคมนิสิตเก่าจุฬาฯ ถนนพญาไท แขวงปทุมวัน เขตปทุมวัน
+Address: ชั้น 2 ตึกจามจุรี
+Region: ภาคกลาง
+Alley: 
+Road: พญาไท
+Subdistrict: 
+District: ปทุมวัน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2218 3634, 0 2218 3709
+Email: 
+Website: www.chamchuriartgallerg.blogspot.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ ศุกร์ 10.00 19.00น. เสาร์ อาทิตย์ 11.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7415873, 100.5296549
+UUID: b6e57a81-9533-4909-9eb4-11e27dbcc669
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

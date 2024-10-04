@@ -1,0 +1,36 @@
+Title: วัดเกาะแก้ว (Wat Ko Kaeo)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ตำบลจอมทอง อำเภอเมืองพิษณุโลก
+Address: หมู่ 4 บ้านปากโทก
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: งิ้วงาม
+District: เมืองพิษณุโลก
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 055 248 057
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.897542, 100.2278037
+UUID: bace88a6-d890-451e-8eca-75789d746de0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,37 @@
+Title: ไดโนวอเตอร์พาร์ค (Dino Warter Park)
+Content: 
+
+Nearby Location: อยู่ติดกับโรงแรมประตูน้ำ ตำบลเมืองเก่า
+Address: 456 หมู่ 12
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: มิตรภาพ
+Subdistrict: โคกสี
+District: เมืองขอนแก่น
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสนุก/สวนน้ำ
+Facilities Contact: 
+Telephone: 085 002 6565, 
+Email: info@dinowaterpark.com
+Website: www.dinowaterpark.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 10.00 18.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 400.0
+Fee (TH Kid): 300.0
+Fee (EN): 400.0
+Fee (EN Kid): 300.0
+Remark: 
+Location: 16.4019689, 102.8110551
+UUID: 9a63cd4c-4bfa-4e17-b349-7dbc6b83d7b9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

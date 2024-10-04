@@ -1,0 +1,36 @@
+Title: ถ้ำปางคาม (Tham Pang Kam)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านปางคาม ตำบลปางมะผ้า อำเภอปางมะผ้า
+Address: หมู่ 2 บ้านปางคาม
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปางมะผ้า
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 08 6420 4493 (อบต.ปางมะผ้า)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.6850724, 98.193961
+UUID: 8cfb2a2c-5237-461c-8ff1-cc1cc5605f9c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

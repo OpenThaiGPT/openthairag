@@ -1,0 +1,36 @@
+Title: การกีฬาแห่งประเทศไทย (Sports Authority Of Thailand)
+Content: เปิดบริการให้ประชาชนเข้ามาใช้บริการและมีการฝึกสอนกีฬาต่างหลายชนิด เช่น ว่ายน้ำ เทนนิส เป็นต้น
+
+Nearby Location: ใกล้สถานีตำรวจนครบาลหัวหมาก ติดกับมหาวิทยาลัยรามคำแหง เขตบางกะปิ
+Address: 286
+Region: ภาคกลาง
+Alley: 
+Road: รามคำแหง 
+Subdistrict: 
+District: บางกะปิ
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 2318 0938, 0 2318 0940, 0 2186 7111
+Email: 
+Website: www.sat.or.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 05.00 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7592209, 100.626491
+UUID: 03719918-90ec-4e1b-828d-5d8f562ef36a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

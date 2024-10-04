@@ -1,0 +1,36 @@
+Title: บ้านเดือนฉาย (Ban Duen Chay)
+Content: บ้านเก่าสถาปัตยกรรมแบบโคโลเนียล Colonial Style ผสมผสานด้วยศิลปะและสิ่งของสะสมแบบจีน มลายู และยุโรปอย่างกลมกลืน อายุกว่า 80 ปี ยุคสงครามโลก ครั้งที่ 2 ณ ย่านเมืองเก่าสงขลา เป็นสถานที่ท่องเที่ยงเชิงอนุรักษ์แห่งใหม่ในย่านเมืองเก่าสงขลา
+
+Nearby Location: 23
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: หนองจิก รามัญ
+Subdistrict: เกาะแต้ว
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พระตำหนัก/วัง/พระราชวัง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการทุกวันศุกร์ เสาร์ และอาทิตย์ เวลา 10.00   19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.1957486, 100.589913
+UUID: ed765efd-c998-476c-9954-f4d041e7375b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

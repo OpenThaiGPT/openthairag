@@ -1,0 +1,36 @@
+Title: มิวเซียมออฟเจด (Museum of Jade)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนราชดำเนินกลาง แขวงบวรนิเวศ เขตพระนคร  
+Address: 95 ชั้นที่ 1 2
+Region: ภาคกลาง
+Alley: 
+Road: ราชดำเนินกลาง
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2282 0424, 0 2282 0648 9, 0 2282 0644 5
+Email: 
+Website: www.museumofjade.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 09.00  18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7575411, 100.4982166
+UUID: b8adade6-5b65-44cf-9fab-d8ebd4154995
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

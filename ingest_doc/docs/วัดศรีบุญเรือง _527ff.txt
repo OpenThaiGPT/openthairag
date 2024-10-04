@@ -1,0 +1,36 @@
+Title: วัดศรีบุญเรือง (Sri Boon Ruang Temple)
+Content: มีสถาปัตยกรรมที่งดงาม โดยเฉพาะพระอุโบสถและศาลาการเปรียญ มีลวดลายฉลุแบบไทยใหญ่ และยังมีภาพพุทธประวัติที่สวยงามตามแบบศิลปะพม่า
+
+Nearby Location: ตั้งอยู่ใกล้กับวัดจองสูง บ้านเวียงใหม่ ตำบลแม่สะเรียง อำเภอแม่สะเรียง
+Address: 142 หมู่ 2 บ้านเวียงใหม่
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่สะเรียง
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5368 1861, 0 5368 1801
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.159790611425276,97.93141158860779
+UUID: e910d108-f3a0-4d74-8109-8cdacd869cce
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

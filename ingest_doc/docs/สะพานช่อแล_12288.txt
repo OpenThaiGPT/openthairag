@@ -1,0 +1,36 @@
+Title: สะพานช่อแล
+Content: 
+
+Nearby Location: บ้าน ตำบล ช่อแล อำเภอแม่แตง เชียงใหม่ 50150
+Address:  
+Region: ภาคเหนือ
+Alley:  
+Road:  
+Subdistrict: ช่อแล
+District: แม่แตง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 053 479 099
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.1273881, 99.00695669999999
+UUID: e8b159a6-99a4-4296-8582-d06b5206f57b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

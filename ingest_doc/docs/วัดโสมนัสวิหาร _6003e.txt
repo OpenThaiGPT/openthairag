@@ -1,0 +1,36 @@
+Title: วัดโสมนัสวิหาร ราชวรวิหาร (Wat Somanas Ratchaworavihan)
+Content: สร้างขึ้นตามพระราชดำริของพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4 โปรดเกล้าฯ ให้สร้างพระอารามหลวงริมคูเหมือนกรุงศรีอยุธยา ในปี พ.ศ. 2396
+
+Nearby Location: อยู่ใกล้วัดมกุฎกษัตริยาราม แขวงวัดโสมนัส เขตป้อมปราบศัตรูพ่าย
+Address: 646
+Region: ภาคกลาง
+Alley: 
+Road: กรุงเกษม
+Subdistrict: 
+District: ป้อมปราบศัตรูพ่าย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2629 9912, 0 2281 7944
+Email: 
+Website: www.watsomas.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 05.00  17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7606427, 100.5105183
+UUID: 29e63a63-b5c6-4a89-ab9b-b5b321ae80c2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

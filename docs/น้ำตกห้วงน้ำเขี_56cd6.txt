@@ -1,0 +1,36 @@
+Title: น้ำตกห้วงน้ำเขียว (Huong Nam Kaew Waterfall)
+Content: เป็นน้ำตกที่อยู่ใกล้เคียงกับเส้นทางที่ไปต้นมะค่ายักษ์ และต้นไทรใหญ่ เป็นน้ำตกที่มีอยู่ชั้น 3 ชั้นบริเวณที่ลงไปจะเป้นบริเวณชั้นสอง
+
+Nearby Location: ใกล้องค์การบริหารส่วนตำบลเกาะกูด
+Address: หมู่ 1 บ้านเขาดินแดง
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เกาะกูด
+Province: ตราด
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 08 1762 4360
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 11.67079543343121,102.56763570832823
+UUID: 3a5280f3-0379-4b4b-9299-b3a01e539707
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

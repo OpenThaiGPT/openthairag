@@ -1,0 +1,37 @@
+Title: อุทยานแห่งชาติแก่งกรุง (Kaeng Krung National Park)
+Content: ตั้งอยู่ในพื้นที่จังหวัดสุราษฎร์ธานี ครอบคลุมพื้นที่อำเภอท่าชนะ อำเภอไชยา อำเภอท่าฉาง กิ่งอำเภอวิภาวดี เป็นอุทยานที่มีสภาพป่าเป็นเทือกเขาสลับซับซ้อน มีสถานที่น่ารื่นรมย์สำหรับพักผ่อนหย่อนใจ เช่น น้ำตก ลำน้ำ บ่อน้ำร้อน ภูเขา มีทัศนียภาพที่สวยงาม ถือได้ว่าเป็นป่าต้นน้ำลำธารที่หล่อเลี้ยงชาวจังหวัดสุราษฎร์ธานีและจังหวัดชุมพร ด้วยเนื้อที่ประมาณ 338,125 ไร่ หรือ 541 ตารางกิโลเมตร
+
+Nearby Location: ตั้งอยู่ที่ตำบลตะกุกเหนือ อำเภอวิภาวดี ห่างจากหมู่บ้านท่านหญิง 54 กิโลเมตร
+Address: หมู่ 8
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: วิภาวดี
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อุทยานแห่งชาติ
+Facilities Contact: 
+Telephone: 08 7276 9167, 09 0878 0774
+Email: kaengkrungpark@gmail.com
+Website: www.facebook.com/Kaengkrung/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 18.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 100.0
+Fee (EN Kid): 50.0
+Remark: 
+Location: 9.30794809999999, 98.866061
+UUID: 0e00b29e-bdaa-4553-ae0f-0d2c9fe789fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ร้านค้าชัยนาท CEO (Chai Nat OTOP)
+Content: เป็นร้านที่สามารถเลือกซื้อของฝาก และของที่ระลึก ณ ศูนย์จำหน่ายผลิตภัณฑ์ OTOP ระดับ 3 5 ดาวของจังหวัดชัยนาท บริเวณหน้าศาลากลางจังหวัด
+
+Nearby Location: ติดกับศาลากลางจังหวัดชัยนาท ตำบลในเมือง อำเภอเมืองชัยนาท
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เขาท่าพระ
+District: เมืองชัยนาท
+Province: ชัยนาท
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 056 411068 ต่อ 103 , 056 412128
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.1857717, 100.1246077
+UUID: 34aa31b3-c222-47f1-87e0-ea385e21617e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

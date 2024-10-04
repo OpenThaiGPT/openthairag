@@ -1,0 +1,36 @@
+Title: น้ำตกคลองช้างเซ (Namtok Khlong Chang Se)
+Content: 
+
+Nearby Location: อยู่ในหุบเขาบนเส้นทางขึ้นสู่ยอดเขาพระบาท (พลวง) ในอุทยานแห่งชาติเขาคิชฌกูฏ
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาคิชฌกูฏ
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 3945 2074
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 12.814125, 102.154808
+UUID: 8c564f5d-76b9-4f85-8618-7cd0fda6daf8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศูนย์ภูมิรักษ์ธรรมชาติ (Phumirak Thammachad Centre)
+Content: เป็นศูนย์นิทรรศการที่รวบรวมข้อมูล และกิจกรรมที่แสดงให้เห็นโครงการอันเนื่องอันเนื่องมาจากพระราชดำริ ของพระบาทสมเด็จพระเจ้าอยู่หัว อาทิ ด้านการเกษตร ด้านปศุสัตว์ ด้านสิ่งแวดล้อม และด้านพลังงาน ที่ทรงมุ่งการพัฒนาด้วยการแก้ไขปรับปรุงคุณภาพของ คน ดิน น้ำ ป่า อย่างเป็นระบบ
+
+Nearby Location: อยู่ใกล้กับโรงเรียนวัดท่าด่าน ห่างจากเขื่อนขุนด่านปราการชล 200 เมตร
+Address: 98/1 หมู่ 2 บ้านท่าด่าน
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองนครนายก
+Province: นครนายก
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: คุณจอย 086 5490918
+Email: bhumirak.p@gmail.com
+Website: www.bhumirak.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.30404,101.314308
+UUID: f4169040-8ed6-45fd-9dc9-083226fe0269
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

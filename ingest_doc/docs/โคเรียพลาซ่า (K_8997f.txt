@@ -1,0 +1,36 @@
+Title: โคเรียพลาซ่า (Korea Plaza)
+Content: 
+
+Nearby Location: ตั้งอยู่ในศูยน์การค้าเอสพลานาด ถนนสุขุมวิท ใกล้สถานีรถไฟใต้ดินศูยน์วัฒนธรรม 
+Address: 399 ชั้น 25 อาคารอินเตอราเชนจ (ยูนิต 3)
+Region: ภาคกลาง
+Alley: 
+Road: สุขุมวิท
+Subdistrict: 
+District: วัฒนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2611 2731 2
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันศุกร์ 10.00 19.00น. วันเสาร์ วันอาทิตย์ 11.00 20.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.765936504174947, 100.56987672171034
+UUID: 89c8e2de-365f-4b9f-83a1-9896ed89dba8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: สวนนงนุช แคมปิง รีสอร์ท (Suan Nongnut Camping Resort)
+Content: เป็นรีสอร์ทที่รวบรวมความหลากหลายในเนื้อที่กว่า 2,000 ไร่ มีพื้นที่ติดกับเขาใหญ่ มีพรรณไม้ดอกไม้ประดับนานาชนิด สวนสวยแปลกตา และหลากหลายกิจกรรมกลางแจ้ง
+
+Nearby Location: อยู่แยกกบินทร์บุรีใช้ทางหลวงหมายเลข 304 กิโลเมตรที่ 22 ตำบลทุ่งโพธิ์
+Address: บ้านทุ่งโพธิ์
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: นาดี
+Province: ปราจีนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 3740 1371
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการ 06.00 17.00 
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 40.0
+Fee (EN Kid): 20.0
+Remark: 
+Location: 14.138771,101.878086
+UUID: 051d27f2-c7cf-421f-aa7b-b93c6c52c5d2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

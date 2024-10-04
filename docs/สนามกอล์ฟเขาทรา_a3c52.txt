@@ -1,0 +1,37 @@
+Title: สนามกอล์ฟเขาทรายคันทรี่คลับ (Khao Sai Country Club)
+Content: เป็นสนามกอล์เเห่งเเรกของจังหวัดพิจิตร มีจำนวนทั้งหมด 9 หลุม ซึ่งเเต่
+ละหลุมทีความท้าทายที่เเตกต่างกันไป มีสภาพสนามที่วสวยงามกับบรรยายกาศท่ากลางภูเขา ภายในยังมีบริการร้านอาหารที่มีความอร่อยให้ผู้ที่เข้ามาลองเเล้วต้องพูดถึงเเล้วบอกต่อกัน เเละยังมีบริการห้องคาราโอเกะสำหรับผู้ที่ต้องการจัดเลี้ยง
+
+Nearby Location: ตั้งอยู่ที่ตำบลเขาทราย อำเภอทับคล้อ ห่างจากทางเข้าวัดเขาทราย ไปประมาณ 1 กิโลเมตร 
+Address: 889 หมู่ 4
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ทับคล้อ
+Province: พิจิตร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 5664 9112
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.1537763,100.6170938
+UUID: ee84466d-ba24-4c4a-8e41-c04335edc524
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

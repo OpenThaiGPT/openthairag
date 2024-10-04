@@ -1,0 +1,36 @@
+Title: วัดเขาถ้ำคั่นกระได (Wat Khao Tham Khan Kradai)
+Content: ตั้งอยู่เชิงเขาบริเวณอ่าวน้อย ก่อนถึงตัวเมืองประจวบคีรีขันธ์ มีทางเข้าแยกจากถนนเพชรเกษม กิโลเมตรที่ 314 เป็นระยะทาง 3 กิโลเมตร ในบริเวณมีถ้ำขนาดเล็กประดิษฐานพระพุทธไสยาสน์ ในอดีตถ้ำแห่งนี้เป็นสถานที่ซึ่งชาวเรือมักเข้ามาอาศัยหลบพายุฝน
+
+Nearby Location: ตั้งอยู่เชิงเขาบริเวณอ่าวน้อย ก่อนถึงตัวเมืองประจวบคีรีขันธ์ 3 กิโลเมตร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เกาะหลัก
+District: เมืองประจวบคีรีขันธ์
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3255 4342
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 11.814848257326948,99.79886054992676
+UUID: 03159e51-b18d-4f81-b3c9-5026a6f150a7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

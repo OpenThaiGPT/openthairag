@@ -1,0 +1,36 @@
+Title: ไร่องุ่นเทพสถิต (Thep Sathit Grape Farm)
+Content: ไร่องุ่นเทพสถิต เป็นแหล่งท่องเที่ยวเชิงเกษตรที่มีการจัดพื้นที่ 100 ไร่ ถูกจัดสรรเป็นแปลงองุ่น 30 ไร่ ที่เหลือสำหรับเพาะปลูกอย่างอื่นไม่ว่าจะเป็นลำไย มะม่วง รวมถึงการจัดสรรพื้นที่บางส่วนจัดตกแต่งเป็นสวนไม้ดอกสวยงาม
+
+Nearby Location: อยู่ที่ ถนนสุรนารายณ์ ตำบลวะตะแบก อำเภอเทพสถิต ตามเส้นทางหมายเลข 205 หลักกิโลเมตรที่ 28 เลี้ยวซ้าย 1 กิโลเมตร
+Address: 99 หมู่ 1
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: สุรนารายณ์
+Subdistrict: 
+District: เทพสถิต
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 4485 5054
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.38928656716838,101.44774907159422
+UUID: 5082ed01-5d9f-4d0f-bbfe-34a3e79fa798
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดพระศรีมหาธาตุ วรมหาวิหาร (Wat Phra Si Mahathat Woramahawihan)
+Content: 
+
+Nearby Location: อยู่ริมถนนพหลโยธิน แขวงอนุสาวรีย์ เขตบางเขน  
+Address: 1
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: บางเขน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2521 5974, 08 9036 7220
+Email: 
+Website: http.//www.watphasai.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 20.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8742572, 100.5934384
+UUID: 99920a9c-80d5-4bb0-a081-ae4d2eac1905
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

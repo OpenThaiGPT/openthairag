@@ -1,0 +1,36 @@
+Title: วัดคุณาราม (Kunaram Temple)
+Content: วัดคุณารามเป็นวัดที่เก็บศพของพระที่มีชื่อเสียงมากที่สุดของเกาะสมุย คือ หลวงพ่อแดง ซึ่งมรณะภาพไปแล้วกว่า 20 ปีในท่านั่งสมาธิ แต่ร่างกายกลับไม่เน่าเปื้อย จึงนำไปแสดงไว้ที่วัดคุณาราม เพื่อให้นักท่องเที่ยวได้เข้าชมความมหัสจรรย์ของพระองค์นี้ วัดนี้ตั้งอยู่บนถนนวงแหวน 4169 อยู่ระหว่างน้ำตกหน้าเมืองและหัวถนน
+
+Nearby Location: ตั้งอยู่บนถนนวงแหวน 4169 อยู่ระหว่างน้ำตกหน้าเมืองและหัวถนน ตำบลมะเร็ต 
+Address: หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: รอบเกาะ (4169)
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.44950632379281, 100.00043392181396
+UUID: c7ba8005-9915-4229-b953-aa713e2c5eee
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

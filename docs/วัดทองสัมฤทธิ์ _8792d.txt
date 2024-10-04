@@ -1,0 +1,36 @@
+Title: วัดทองสัมฤทธิ์ (Wat Thongsamrit)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนสุวินทวงศ์ แขวงแสนแสบ เขตมีนบุรี 
+Address: 50/1 หมู่ 18
+Region: ภาคกลาง
+Alley: 
+Road: สุวินทวงศ์
+Subdistrict: 
+District: มีนบุรี
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2543 8777
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8005523, 100.7873132
+UUID: 167f26dc-c705-40a6-8071-5150ea569388
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

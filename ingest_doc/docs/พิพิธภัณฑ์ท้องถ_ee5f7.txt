@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตบางเขน (The BMA Local Museum Bangkhen)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่อาคาร 18  มหาวิทยาลัยราชภัฏพระนคร ถนนแจ้งวัฒนะ เขตบางเขน  
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: แจ้งวัฒนะ
+Subdistrict: 
+District: บางเขน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2521 3267
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ วันอาทิตย์ เวลา 10.00น. 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8750444, 100.5898851
+UUID: 826f74b5-c6fa-4115-955a-d298ca1f1645
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

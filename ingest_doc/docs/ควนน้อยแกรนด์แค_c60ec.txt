@@ -1,0 +1,36 @@
+Title: ควนน้อยแกรนด์แคนยอน
+Content: แกรนด์แคนยอน บ้านควนน้อย เกิดจากบ่อดินเก่าที่ถูกทิ้งร้าง เมื่อมีฝนตกลงมาสะสมได้เกิดเป็นบ่อน้ำขังมีสีเขียวมรกตสวยงาม จนกลายเป็นสถานที่ท่องเที่ยวอีกแห่งหนึ่งของเมืองพัทลุง บรรยากาศสวยงาม เงียบสงบ มีร้านอาหารบริเวณใกล้เคียง นักท่องเที่ยวต่างพากันมาเที่ยวชม ถ่ายรูป และแวะมาเช็คอิน
+
+Nearby Location: ใกล้กับตลาดใต้โหนด
+Address:  
+Region: ภาคใต้
+Alley:  
+Road:  
+Subdistrict: 
+District: ควนขนุน
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone:  
+Email:  
+Website:  
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 09.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.672420688317561,99.99618046807858
+UUID: 1f39db92-447d-42d4-a6fa-ec1ec22780c1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

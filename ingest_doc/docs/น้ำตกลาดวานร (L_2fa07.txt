@@ -1,0 +1,36 @@
+Title: น้ำตกลาดวานร (Lard Wanorn Waterfall)
+Content: เป็นน้ำตกสายเล็ก ๆ สงบร่มรื่น จะมีน้ำมากในช่วงฤดูฝน
+
+Nearby Location: อยู่ห่างจากท่าเรือหน้าทอน 3 กิโลเมตร  ตำบลลิปะน้อย เกาะสมุย
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 7728 8818
+Email: 
+Website: Samui2day.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ตั้งแต่วันจันทร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.500987, 99.9602699
+UUID: 6950bfa1-0aca-444a-b980-53cfcb2aa789
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

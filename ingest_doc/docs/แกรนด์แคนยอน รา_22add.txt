@@ -1,0 +1,36 @@
+Title: แกรนด์แคนยอน ราชบุรี (Grand canyon ratchaburi)
+Content: ในปัจจุบันปิดให้บริการ
+
+Nearby Location: อำเภอจอมบึง จังหวัดราชบุรี
+Address:  
+Region: ภาคกลาง
+Alley:  
+Road:  
+Subdistrict: รางบัว
+District: จอมบึง
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ปิดให้บริการ
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: ปิดให้บริการ
+Location: 13.5689999, 99.5842936
+UUID: e5462819-cf51-4b0d-9495-5b53d9770b3e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

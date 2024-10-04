@@ -1,0 +1,36 @@
+Title: ศูนย์หัตถกรรมทอผ้าพื้นเมืองบ้านนาซ่อม (ไม่มี)
+Content: วิสาหกิจชุมชนกลุ่มทอผ้าพื้นเมือง เป็นสินค้าโอทอป ของฝาก ประเภท ผ้าพื้นเมือง
+
+Nearby Location: อยู่ที่บ้านนาซ่อม ตำบลท่าเรือ อำเภอนาหว้า
+Address: บ้านนาซ่อม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: ท่าเรือ
+District: นาหว้า
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 08 5018 3478
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.4839258, 104.1291758
+UUID: 9b581763-9d88-490e-86cb-ca3a9d306841
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

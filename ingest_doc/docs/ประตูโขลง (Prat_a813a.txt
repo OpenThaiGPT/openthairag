@@ -1,0 +1,36 @@
+Title: ประตูโขลง (Pratu Khong)
+Content: ตั้งอยู่ในอุทยานแห่งชาติภูแลนคา กลุ่มหินที่มีลักษณะเหมือนประตู และรอบๆนั้นยังมีกลุ่มหินในพื้นที่ป่าธรรมชาติอยู่บนเนินเขาที่แวดล้อมไปด้วยป่าเต็งรังธรรมชาติ ซึ่งมีก้อนหินแปลก ๆ อีกหลายแห่ง ได้แก่ ป่าหินงามปราสาท ป่าหินงามหงส์ฟ้า ป่าหินงามจันทน์แดง และแนวหน้าผาซึ่งเป็นจุดชมวิวสวยงาม
+
+Nearby Location: อยู่ในบริเวณอุทยานแห่งชาติภูแลนคา ห่างจากที่ทำการอุทยานฯ ประมาณ 2 กิโลเมตร
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชัยภูมิ
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 4481 0902
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 100.0
+Fee (EN Kid): 50.0
+Remark: 
+Location: 16.008444217244342,101.89745707875068
+UUID: 634a4af0-b17e-43ef-85bf-1bc4408d8c77
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

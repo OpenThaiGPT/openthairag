@@ -1,0 +1,36 @@
+Title: หมู่บ้านพลัม (Plum Village)
+Content: สถานปฏิบัติธรรมนานาชาติหมู่บ้านพลัมประเทศไทยตั้งอยู่ที่บ้านสระน้ำใส ต. โป่งตาลอง อ. ปากช่อง จ. นครราชสีมาห่างจากกรุงเทพไปทางตะวันออกเฉียงเหนือเป็นระยะทางประมาณ 240 กิโลเมตร
+
+Nearby Location: ตั้งอยู่ที่บ้านสระน้ำใส ตำบลโป่งตาลอง อำเภอปากช่อง
+Address: บ้านสระน้ำใส
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สถานปฏิบัติธรรม
+Facilities Contact: 
+Telephone: 0 2885 5980, 08 5128 8044
+Email: 
+Website: www.plumvillage.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.557669804297017,101.52848155128572
+UUID: 53b25e56-f490-4f23-a59e-b85c5ee897ac
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

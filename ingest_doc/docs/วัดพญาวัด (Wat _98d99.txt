@@ -1,0 +1,37 @@
+Title: วัดพญาวัด (Wat Phaya Wat)
+Content: แต่เดิมบริเวณที่ตั้งวัดเป็นเขตศูนย์กลางเมืองน่านในสมัยที่ย้ายเมืองจากพระบรมธาตุแช่แห้งมาตั้งอยู่ริมฝั่งตะวันตกของแม่น้ำน่าน  เจดีย์สร้างด้วยศิลาแลงในสมัยพระนางจามเทวี ลักษณะคล้ายเจดีย์กู่กุด จังหวัดลำพูน เป็นทรงซุ้มสี่เหลี่ยมซ้อนกัน ๕ ชั้น แต่ละชั้นประดิษฐานพระพุทธรูปยืน
+
+Nearby Location: ตั้งอยู่ถนนทางหลวงหมายเลข 1025  ตำบลดู่ใต้ อำเภอเมืองน่าน
+Address: บ้านพญาวัด
+Region: ภาคเหนือ
+Alley: 
+Road: ทางหลวงหมายเลข 1025
+Subdistrict: 
+District: เมืองน่าน
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 08 7179 7331
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7703286,100.7627316
+UUID: fa633aa8-7104-4599-8d46-0eaf252c90f3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

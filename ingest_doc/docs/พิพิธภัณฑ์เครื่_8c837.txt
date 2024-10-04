@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์เครื่องปั้นดินเผา (ไม่มี)
+Content: เป็นพิพิธภัณฑ์แสดงเครื่องปั้นดินเผาถ้วยชามเบญจรงค์ในสมัยโบราณ และเป็นพิพิธภัณฑ์บ้านริมน้ำ ตั้งอยู่ข้างมหาวิทยาลัยธรรมศาสตร์ (ด้านหลังของวิทยาลัยนาฏศิลป์)
+
+Nearby Location: อยู่ข้างมหาวิทยาลัยธรรมศาสตร์ บริเวณด้านหลังของวิทยาลัยนาฏศิลป์
+Address: 5
+Region: ภาคกลาง
+Alley: 
+Road: พระอาทิตย์ 
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2224 1373, 0 2224 1388
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์  วันศุกร์ 08.30  16.30น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 50.0
+Fee (TH Kid): 
+Fee (EN): 100.0
+Fee (EN Kid): 
+Remark: 
+Location: 13.760395, 100.5009636
+UUID: 4fe4965b-fe1b-46ba-97b0-d017011ea03e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดสาลี (Wat Sali)
+Content: 
+
+Nearby Location: ใกล้โรงงานตั้งเซี่ยงฮะ ตำบลสาลี อำเภอบางปลาม้า 
+Address: หมู่ 2
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางปลาม้า
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 3567  1226, 0 3561 7227
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.312027945508566, 100.20252413645322
+UUID: 9181375a-cb03-4aa4-aa51-07def21fbdd7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

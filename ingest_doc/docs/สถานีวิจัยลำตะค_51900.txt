@@ -1,0 +1,36 @@
+Title: สถานีวิจัยลำตะคอง (Lam Takhong Research Station)
+Content: เป็นแหล่งวิจัย พัฒนาและศูนย์การถ่ายทอดเทคโนโลยี เพื่อการแก้ไขปัญหาวิกฤติเทคโนโลยี และรองรับความต้องการของประชาชนในภาคตะวันออกเฉียงเหนือ
+
+Nearby Location: ลำตะคอง
+Address: 333
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:  
+Road: มิตรภาพ
+Subdistrict: กลางดง
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 4439 0107
+Email: lamtakhong@tistr.or.th
+Website: www.lamtakhong tistr.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: กรุณาติดต่อจองล่วงหน้าในวันเวลาราชการ
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.7733568, 101.519483
+UUID: 12e1fce5-2f4f-44f7-957c-080bae89aded
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

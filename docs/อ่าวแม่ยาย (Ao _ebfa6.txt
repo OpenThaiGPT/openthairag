@@ -1,0 +1,37 @@
+Title: อ่าวแม่ยาย (Ao Mae Yai)
+Content: อยู่ทางใต้ของเกาะสุรินทร์เหนือ เป็นอ่าวที่มีคลื่นลมสงบ และมีขนาดใหญ่ที่สุดในหมู่เกาะสุรินทร์ มีปะการังน้ำตื้น
+
+Nearby Location: อยู่ในพื้นที่อุทยานแห่งชาติหมู่เกาะสุรินทร์ อำเภอคุระบุรีอยู่ทางใต้ของเกาะสุรินทร์เหนือ 
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: คุระบุรี
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แหล่งปะการังน้ำลึก/น้ำตื้น
+Facilities Contact: 
+Telephone: 0 7647 2145, 0 7647 2146
+Email: 
+Website: www.mokosurin.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00 16.00 น (ขึ้นอยู่กับอุทยานและสภาพอากาศ)
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 9.423107440543879, 97.86886706219119
+UUID: b4c1f8b5-6748-4148-a21f-7dd0c0311e4d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

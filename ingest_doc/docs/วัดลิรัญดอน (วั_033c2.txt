@@ -1,0 +1,37 @@
+Title: วัดลิรัญดอน (วัดต้นตาล) (Wat Li Ran Don)
+Content: นมัสการรูปเหมือนหลวงพ่อสวน อดีตเจ้าอาวาสเกจิอาจารย์ที่มีเมตตาธรรมสูง เป็นที่เคารพของประชาชนทั่วไป และขอพรให้ท่านช่วยในเรื่องการทำมาหากิน การค้าขายก็จะทำให้กิจการของท่านดีขึ้น และยังเป็นศูนย์ศึกษาพระพุทธศาสนาวันอาทิตย์
+
+Nearby Location: ใกล้โรงเรียนวัดลิรัญดอน ตำบลหาดยาง
+Address: หมู่ 1 บ้านต้นตาล
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีมหาโพธิ
+Province: ปราจีนบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 1299 9122, 08 1982 8064
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.979560602940294,101.43639796304319
+UUID: 2b304575-db22-4104-a15f-e1555fef4466
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

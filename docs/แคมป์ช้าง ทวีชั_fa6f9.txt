@@ -1,0 +1,36 @@
+Title: แคมป์ช้าง ทวีชัย (Thaweechai Elephant Camp)
+Content: สนุกสนานกับกิจกรรมนั่งช้าง ล่องแพไม้ไผ่ ชมธรรมชาติ ชมความงามของป่าเขา ผ่านชมหมู่บ้านควาญช้างและลัดเลาะสายธารลำน้ำแควใหญ่
+
+Nearby Location: อยู่ห่างจากตัวเมืองกาญจนบุรีประมาณ 30 นาที มาตามถนนสายลาดหญ้า ศรีสวัสดิ์ ทางหลวงที่ 3199 และ 3457 
+Address: 14/1 หมู่ 6
+Region: ภาคกลาง
+Alley: 
+Road: กาญจนบุรี ศรีสวัสดิ์
+Subdistrict: 
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 081 7748301, 081 9414658
+Email: ateamthai@hotmail.com
+Website: www.twcelephantcamp.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 15.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 300.0
+Fee (TH Kid): 
+Fee (EN): 600.0
+Fee (EN Kid): 
+Remark: 
+Location: 14.219126,99.223709
+UUID: 6fb58cbc-dabd-4e22-a0a0-d7f2a6f2951f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดปริวาสราชสงคราม (Wat Pariwas)
+Content: วัดปริวาสราชสงคราม แต่เดิมนั้นอยู่ในการปกครองของตำบลบางโพงพาง อำเภอบ้านทวาย จังหวัดพระนคร เขื่อนขันธ์ เก่าก่อนที่จะเปลี่ยนมาเป็นในเขตการปกครองปัจจุบัน แขวงบางโพงพาง เขตยานนาวา กรุงเทพมหานคร
+
+Nearby Location: ตั้งอยู่บนถนนพระราม 3 แขวงบางโพงพาง เขตยานนาวา
+Address: 
+Region: ภาคกลาง
+Alley: 3
+Road: พระราม 3
+Subdistrict: 
+District: ยานนาวา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2294 7711, 08 1173 7312
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 07.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6739199, 100.533314
+UUID: 5e811aad-d2ac-4825-a438-d6fb2b1aad35
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

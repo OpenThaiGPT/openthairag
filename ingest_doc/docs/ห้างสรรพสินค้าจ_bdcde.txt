@@ -1,0 +1,36 @@
+Title: ห้างสรรพสินค้าจังซีลอน (Jungcelon The International Shopping)
+Content: เป็นศูนย์กลางแห่งการชอปปิ้งของนักท่องเที่ยวที่มีขนาดใหญ่ และครบวงจร สามารถตอบสนองความต้องการของคนทุกกลุ่มทุกวัย
+
+Nearby Location: ใกล้หาดป่าตอง ตำบลป่าตอง อำเภอกะทู้
+Address: 181
+Region: ภาคใต้
+Alley: 
+Road: ราษฎร์อุทิศ
+Subdistrict: 
+District: กะทู้
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 7636 6022, 0 7660 0111
+Email: info@jungceylon.com
+Website: www.jungceylon.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 11.00   24.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.8925226301736835,98.29845428466797
+UUID: 0772ff51-a49a-4aa3-8402-94a907470ea3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

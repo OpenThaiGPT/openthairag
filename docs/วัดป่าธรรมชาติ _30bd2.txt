@@ -1,0 +1,36 @@
+Title: วัดป่าธรรมชาติ พระชินวัตรมุณี (Wat Badhammachart)
+Content: 
+
+Nearby Location: ใกล้ศูนย์พัฒนาโครงการหลวงห้วยเสี้ยว ตำบลบ้านปง อำเภอหางดง
+Address: 179 หมู่ 3
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ขุนคง
+District: หางดง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 6500 8088
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน เวลา 07:00 18:00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7137453, 98.9189026
+UUID: cf812e81-77ed-4934-852d-f6953f82ea1b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

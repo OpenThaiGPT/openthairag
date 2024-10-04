@@ -1,0 +1,36 @@
+Title: น้ำตกห้วยทรายเหลือง (Huay Sai Luay Waterfall)
+Content: #NAME?
+
+Nearby Location: ตั้งอยู่ตำบลช่างเคิ่ง อำเภอแม่แจ่ม ห่างจากตัวอำเภอเมืองเชียงใหม่ 105.5 กิโลเมตร ตามเส้นทางหลวง 108 (เชียงใหม่ ฮอด) ประมาณกิโลเมตรที่ 58
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road: เชียงใหม่ ฮอด
+Subdistrict: ท่าผา
+District: แม่แจ่ม
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone:  0 2562 0760
+Email: 
+Website: https://chiangmaipao.go.th/cmpao/travel detail/5290/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 6.00 18.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.5238151, 98.455675
+UUID: a374f333-8cc9-46bb-8302-084ee6f5c0ee
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: บ่อน้ำร้อนหาดยาย (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ที่หมู่ 2 ตำบลบางพระเหนือ อำเภอละอุ่น
+Address: หมู่ 2 บ้านบางขุนแพ่ง
+Region: ภาคใต้
+Alley: 
+Road: หาดบาย บ่อน้ำร้อน
+Subdistrict: 
+District: ละอุ่น
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.054990745338891, 98.69487173322953
+UUID: a69a7b65-f687-4833-bd9e-797a6e6e4ae7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

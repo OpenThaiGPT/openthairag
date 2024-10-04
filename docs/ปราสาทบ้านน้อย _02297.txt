@@ -1,0 +1,37 @@
+Title: ปราสาทบ้านน้อย (ไม่มี)
+Content: เป็นปราสาทที่มีแนวกำแพง 2 ชั้น กำแพงชั้นนอกเป็นกำแพงดินสร้างกว้าง 81 เมตร ยาว 58 เมตรนอกคันดินเดิมน่าจะเป็นคูน้ำล้อมรอบแต่ปัจจุบันตื้นเขิน
+
+Nearby Location: ตั้งอยู่หมู่ที่ 4 ตำบลผักขะ อำเภอวัฒนานคร
+Address:  หมู่ที่ 4
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ผักขะ
+District: วัฒนานคร
+Province: สระแก้ว
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 037 212610/สำนักศิลปากรที่ 5 ปราจีนบุรี 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30  16.30 น.ทุกวัน
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.747493,102.394981
+UUID: c524743e-16a3-4804-a178-bb2ee3be82cf
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

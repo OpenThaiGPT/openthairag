@@ -1,0 +1,38 @@
+Title: ร็อคโดเมน ไคล์บิ้ง ยิม (Rock Domain Climbing Gym)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนบางนา ตราด อยู่ก่อนถึงธนาคารทหารไทย บางนา ตราด กิโลเมตรที่ 4 
+Address: 1780
+Region: ภาคกลาง
+Alley: 
+Road: บางนา ตราด 
+Subdistrict: 
+District: บางนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 2399 4648
+Email: 
+Website: www.rockdomaingym.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันศุกร์ 11.00 22.00น. 
+วันเสาร์ 10.00 22.00น. 
+วันอาทิตย์ 10.00 21.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.664028, 100.647941
+UUID: c2d89c36-a568-4490-b35b-82b81c90160f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

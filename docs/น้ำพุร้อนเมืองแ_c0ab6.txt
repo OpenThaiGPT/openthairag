@@ -1,0 +1,36 @@
+Title: น้ำพุร้อนเมืองแปง (ไม่มี)
+Content: เป็นบ่อน้ำร้อนขนาดใหญ่ อุณหภูมิของน้ำร้อนสูงถึง 95 องศาเซลเซียส
+
+Nearby Location: ตั้งอยู่บ้านเมืองแปง ตำบลเมืองแปง อำเภอปาย
+Address: หมู่ 2 บ้านเมืองแปง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปาย
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ
+Facilities Contact: 
+Telephone: 0 5361 5996 (อบต.เมืองแปง)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.2124635, 98.3307468
+UUID: 7c6f764b-8457-4304-9560-bb7b3c3f5ecf
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

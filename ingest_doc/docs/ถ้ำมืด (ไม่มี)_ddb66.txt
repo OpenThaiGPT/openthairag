@@ -1,0 +1,36 @@
+Title: ถ้ำมืด (ไม่มี)
+Content: ถ้ำมืด  เป็นถ้ำหินทรายที่มีความลึกประมาณ 1,200 เมตร มีขนาดใหญ่และลึกที่สุดในประเทศไทยเท่าที่เคยสำรวจพบ ตั้งอยู่ที่อุทยานแห่งชาติผาแต้ม การเดินทางจากท่าเรือ บ้านผาชัน ตำบลสำโรง อำเภอโพธิ์ไทร นั่งเรือไปใช้เวลาประมาณครึ่งชั่วโมง แล้วเดินเท้าต่ออีกประมาณ 1 กิโลเมตร หรือนั่งรถอีแต๊กจาก บ้านผาชัน ใช้เวลาประมาณหนึ่งชั่วโมงครึ่ง
+
+Nearby Location: อยู่ในอุทยานแห่งชาติผาแต้ม ตำบลสำโรง อำเภอโพธิ์ไทร
+Address: บ้านซะซอม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: โพธิ์ไทร
+District: โพธิ์ไทร
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 4525 2581
+Email: phateam_np@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 05.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.6002528, 105.5729098
+UUID: e6500c42-9b0f-4841-8462-c0fd195671c3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

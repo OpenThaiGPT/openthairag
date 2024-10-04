@@ -1,0 +1,36 @@
+Title: ถ้ำภูเขาทอง (Tham Phu Khao Tong)
+Content: 
+
+Nearby Location: อยู่ในเขตตำบลขันเงิน อำเภอหลังสวน
+Address: หมู่ 7
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: หลังสวน
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.92972219999999, 99.0702778
+UUID: db64e70f-310d-4fbe-abf6-ae12ec1167e2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

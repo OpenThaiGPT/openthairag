@@ -1,0 +1,36 @@
+Title: วัดบูรพาราม (Wat Burapharam)
+Content: เป็นวัดที่เคยเป็นที่จำพรรษาของอาจารย์ชื่อดังทาง  วิปัสสนากรรมฐาน ได้แก่ อาจารย์สี ทาชยเสโน อาจารย์มั่น ภูริทัตโต อาจารย์ลี ธัมมธโร อาจารย์เสาร์ กันตสีโล และอาจารย์สิงห์ ขันตยาคโม ปัจจุบันคงมีแต่รูปเหมือนทำจากหินบริสุทธิ์จากลำน้ำต่าง ๆ เป็นที่เคารพสักการะของชาวเมือง
+
+Nearby Location: อยู่ใกล้กับโรงพยาบาลอุบลรักษ์ ตำบลในเมือง อำเภอเมืองอุบลราชธานี
+Address: 24 บ้านแสนตอ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: พโลรังฤทธิ์
+Subdistrict: 
+District: เมืองอุบลราชธานี
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 098 285 1587
+Email: burapa@gmail.com
+Website: www.sac.or.th/databases/archaeology/archaeology/วัดบูรพาราม
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 05.30   18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.2314048446715,104.874365190044
+UUID: 27f42ba8-a71a-48e3-a8f2-26a43cec378f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

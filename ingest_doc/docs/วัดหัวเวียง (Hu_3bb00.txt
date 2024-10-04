@@ -1,0 +1,36 @@
+Title: วัดหัวเวียง (Hua Wiang Temple)
+Content: ?
+
+Nearby Location: อยู่ติดกับตลาดเช้าบริเวณสี่แยกไฟแดง ตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: สิงหนาทบำรุง
+Subdistrict: 
+District: เมืองแม่ฮ่องสอน
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5361 2003
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.3027181, 97.9660141
+UUID: c18aa069-dcfe-46f0-b9e3-1e645f23b57c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

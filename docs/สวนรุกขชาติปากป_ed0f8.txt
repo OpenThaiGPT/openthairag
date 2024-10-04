@@ -1,0 +1,36 @@
+Title: สวนรุกขชาติปากปวน (Pakpuan Arboretum)
+Content: อยู่ในเขตบ้านโป่งกวาง ตำบลปลาบ่า มีลักษณะเป็นเทือกเขาสูงชัน มีที่ราบบนยอดเขา อากาศหนาวเย็นตลอดทั้งปี มีไม้ป่านานาพันธุ์ มีจุดชมทัศนียภาพที่สวยงามหลายแห่ง เป็นแหล่งท่องเที่ยวเชิงอนุรักษ์มีทรัพยากรธรรมชาติที่สมบูรณ์
+
+Nearby Location: อยู่ติดกับทางหลวงแผ่นดินหมายเลข 201 (ขอนแก่น เลย) ห่างจากจังหวัดเลยมาทางอำเภอวังสะพุง ประมาณ 16 กิโลเมตร
+Address: หมู่ 5 บ้านป่าเป้า 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: วังสะพุง
+Province: เลย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 08 5453 5599, 0 4203 9997
+Email: 
+Website: www.facebook.com/pakpuan.arboretum
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 17.34069238861993,101.39108419418335
+UUID: 40f1eccb-2335-4de7-9724-59e1cf86700c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

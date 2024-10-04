@@ -1,0 +1,37 @@
+Title: ฟาร์มปูนิ่ม (Soft Shell Crab Farm)
+Content: จำหน่ายปูนิ่ม ทั้งในประเทศและต่างประเทศ
+The Premium Soft Shell Crab
+
+Nearby Location: ตั้งอยู่เชิงเขานางหงส์ บริเวณปากน้ำระนอง บ้านเขานางหงส์ ห่างจากตัวเมืองไปทางปากน้ำระนอง 6 กิโลเมตร
+Address: 170/380 ม.1
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองระนอง
+Province: ระนอง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 7782 2107
+Email: ranong@doae.go.th
+Website: http://www.rungkitfrozenfoods.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.981659600790518, 98.61500122130136
+UUID: 2e48f0c2-c2b3-4dec-b802-20147206493a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

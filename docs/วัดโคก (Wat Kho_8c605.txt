@@ -1,0 +1,36 @@
+Title: วัดโคก (Wat Khok)
+Content: ภายในวัดมีพระประธานปางสมาธิ เจดีย์มอญก่อสร้างแบบก่ออิฐถือปูนทาสีขาว ธรรมมาสน์เก่าทำด้วยไม้มะเกลือฝังมุขอายุกว่าร้อยปี และศาลาการเปรียญก่อสร้างด้วยไม้สัก เสาเป็นไม้แดง มีอายุ 100 ปีเศษ
+
+Nearby Location: ตั้งอยู่ถนนปทุมธานีสายใน วัดฉาก อยู่ฝั่งขวาของแม่น้ำเจ้าพระยา
+Address: 28-ก.พ.
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2581 1711
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9985365, 100.532484
+UUID: 9c9caa84-819f-4028-875e-d39b7239e579
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

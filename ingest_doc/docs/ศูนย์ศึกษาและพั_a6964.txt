@@ -1,0 +1,36 @@
+Title: ศูนย์ศึกษาและพัฒนาชุมชนลำปาง
+Content: เป็นศูนย์การเรียนรู้ที่จัดตั้งขึ้นเพื่อส่งเสริมเกษตรกร
+
+Nearby Location:  
+Address: 83 หมู่ที่ 10 
+Region: ภาคเหนือ
+Alley:  
+Road: ไฮเวย์ลำปาง   เชียงใหม่
+Subdistrict: 
+District: เมืองลำปาง
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 054 829768
+Email: cdd5pramern@gmail.com
+Website: https://training lampang.cdd.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.300   16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.2935847, 99.4202936
+UUID: aa019132-3298-45dc-b161-5bed85e995c1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

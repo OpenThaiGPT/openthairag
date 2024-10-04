@@ -1,0 +1,36 @@
+Title: อุทยานแห่งชาติสาละวิน (Salawin National Park Thailand)
+Content: อุทยานแห่งชาติสาละวิน เป็นอุทยานแห่งชาติ มีสภาพป่าไม้สมบูรณ์ ทิวทัศน์และลักษณะทางธรรมชาติที่สวยงาม ซึ่งแต่เดิมเป็นป่าสงวนแห่งชาติ "ป่าสาละวิน" ตั้งอยู่ในจังหวัดแม่ฮ่องสอน ในเขตอำเภอสบเมย และ อำเภอแม่สะเรียง มีพื้นทีทั้งหมด 450,950 ไร่ (721.25 ตารางกิโลเมตร) มีพื้นที่ติดชายแดนระหว่างประเทศไทย และ ประเทศพม่า หลังจากรัฐบาลได้ยกเลิกสัมปทานป่าไม้แล้ว ได้ประกาศจัดตั้งเป็นอุทยานแห่งชาติสาละวิน เมื่อวันที่ 9 พฤศจิกายน พ.ศ. 2537
+
+Nearby Location: ตั้งอยู่บ้านแม่สาละวิน ตำบลแม่คง อำเภอแม่สะเรียง
+Address: หมู่ 8 บ้านแม่สาละวิน
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่สะเรียง
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อุทยานแห่งชาติ
+Facilities Contact: 
+Telephone: 0 5307 1429 (VoIP), 08 1366 7356
+Email: Salawinnp@hotmail.co.th
+Website: FB:อุทยานแห่งชาติสาละวิน   Salawin National Park
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 100.0
+Fee (EN Kid): 50.0
+Remark: 
+Location: 18.1643567, 97.8846558
+UUID: 6afda70a-bc1d-4db8-aaa0-965041f7d88c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

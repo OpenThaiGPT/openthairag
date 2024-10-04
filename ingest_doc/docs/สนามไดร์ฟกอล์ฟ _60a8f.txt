@@ -1,0 +1,36 @@
+Title: สนามไดร์ฟกอล์ฟ กรีนเวย์ (Greenway Driving Range Club)
+Content: สนามไดร์ฟกอล์ฟ กรีนเวย์ สนามทางเลือกสำหรับผู้ชื่อชอบกีฬากอล์ฟ มีพื้นที่กว้างขวาง การเดินทางสะดวกมีที่จอดรถ
+
+Nearby Location: ตรงข้ามกับ อันเอร์ วอเตอร์ เวิลด์ พัทยาบนถนนสุขุมวิท ตำบลหนองปรือ
+Address: 15/22  หมู่ 11
+Region: ภาคตะวันออก
+Alley: 
+Road: สุขุมวิท
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 3823 2083
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 20.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.8947048, 100.8992843
+UUID: 50f5d8dc-c899-44ac-bb94-3a5ceecc39e7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

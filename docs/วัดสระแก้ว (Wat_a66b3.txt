@@ -1,0 +1,37 @@
+Title: วัดสระแก้ว (Wat Sakaew)
+Content: หลวงพ่อทอง (พระครูรัตนสราธิคุณ) วัดสระแก้ว มีความรู้ด้านวิชาการ แพทย์แผนโบราณ หลวงพ่อได้ใช้ความรู้ด้านการแพทย์ช่วยเหลือบำบัดรักษาประชาชนผู้เจ็บป่วยและยังเป็นพระนักพัฒนา จึงเป็นที่เลื่อมใสของประชาชนชาวสระแก้วและจังหวัดใกล้เคียง ที่ได้แวะเวียนมากราบไหว้เสริมสิริมงคลให้แก่ชีวิต
+
+Nearby Location: ตั้งอยู่ที่ถนนสุวรรณศร เทศบาลเมืองสระแก้ว เมืองสระแก้ว
+Address: 122 หมู่ 15
+Region: ภาคตะวันออก
+Alley: 
+Road: สุวรรณศร
+Subdistrict: สระแก้ว
+District: เมืองสระแก้ว
+Province: สระแก้ว
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3724 1195, 0 3724 2264
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันเวลา 07.00 17.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.81923413505637,102.06681501852415
+UUID: 2a20d7bf-f32f-48f2-b673-d56a0ceea55e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

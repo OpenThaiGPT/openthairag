@@ -1,0 +1,37 @@
+Title: วัดร่องขุ่น (Wat Rong Khun)
+Content: ออกแบบและก่อสร้างโดยอาจารย์เฉลิมชัย โฆษิตพิพัฒน์ ซึ่งปรารถนาจะสร้างวัดให้เหมือนเมืองสวรรค์ที่มนุษย์สัมผัสได้ เริ่มสร้างตั้งแต่ พ.ศ.2540 จากเดิมมีเนื้อที่3 ไร่ ได้ซื้อที่ดินเพิ่มและมีผู้บริจาคคือคุณวันชัย วิชญชาคร จนปัจจุบันมีเนื้อที่9 ไร่ และมีพระกิตติพงษ์ กัลยาโณ รักษาการเจ้าอาวาสองค์ปัจจุบัน
+
+Nearby Location: อยู่รมถนนพลหลโยธิน ตำบลป่าอ้อดอนชัย ก่อนถึงเมืองเชียงราย 13 กิโลเมตร
+Address: บ้านร่องขุ่น
+Region: ภาคเหนือ
+Alley:  
+Road: พหลโยธิน
+Subdistrict: 
+District: เมืองเชียงราย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5367 3579, 0 5367 3967, 08 5034 4471
+Email: 
+Website: www.facebook.com/วัดร่องขุ่น Wat Rong Khun White Temple Chiang Rai Thailand 215028701875011/v
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 17.30 นทุกวัน 08.00 17.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 100.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 19.82363856923406,99.76298332214355
+UUID: 8901f17a-6807-4b5c-9c6e-9d5d4e86f71f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

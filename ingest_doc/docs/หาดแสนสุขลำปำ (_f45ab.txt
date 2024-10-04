@@ -1,0 +1,36 @@
+Title: หาดแสนสุขลำปำ (Hat Sansook Lampa)
+Content: หาดแสนสุขลำปำ อยู่เลยวัดวังไปตามทางหลวงหมายเลข 4047 อีกประมาณ 2 กิโลเมตร เป็นหาดทรายที่มีทิวสนร่มรื่นริมฝั่งทะเลสาบสงขลา มีศาลากลางน้ำ ชื่อ "ศาลาลำปำที่รัก" สำหรับชมทิวทัศน์บริเวณทะเลสาบ และจากบริเวณชายหาดมีสะพานเชื่อมไปยังเกาะลอย ซึ่งเป็นเกาะที่เกิดจากการทับถมของตะกอนปากน้ำลำปำ
+
+Nearby Location: อยู่ที่ตำบลลำปำ เมืองพัทลุง เลยวัดวัง 2 กิโลเมตร
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: อภัยบริรักษ์
+Subdistrict: 
+District: เมืองพัทลุง
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 0 7461 3409
+Email: 
+Website: www.muanglung.com/lampam.htm
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.625681123867649,100.15811226254277
+UUID: 12e2f370-9a3a-4c8c-b150-9b26e6b53705
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

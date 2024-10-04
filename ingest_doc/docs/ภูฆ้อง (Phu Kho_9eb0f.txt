@@ -1,0 +1,36 @@
+Title: ภูฆ้อง (Phu Khong)
+Content: ภูฆ้องเป็นภูเขาที่ยังคงธรรมชาติ มีต้นสนสามใบ สามารถมองเห็นทิวทัศน์ของอำเภอปากชม ลำน้ำโขงสุดสายตา ชมพระอาทิตย์ขึ้นและพระอาทิตย์ตก เหมาะสำหรับนักท่องเที่ยวที่ชอบการผจญภัย
+
+Nearby Location: อยู่ห่างจากอำเภอปากชม 1 กิโลเมตร ทางขึ้นอยู่บ้านปากชม ระยะทางประมาณ 2 กิโลเมตร
+Address: 91 หมู่ 8 บ้านปากชม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: ปากชม บ้านธาตุ
+Subdistrict: 
+District: ปากชม
+Province: เลย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 4288 1059, 0 4280 1028
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.9991667, 101.8488889
+UUID: cd113243-6e1e-422f-917c-81827af78b36
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

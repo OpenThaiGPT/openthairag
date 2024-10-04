@@ -1,0 +1,37 @@
+Title: พิพิธภัณฑ์บ้านดำ (Baandum Musuem)
+Content: พิพิธภัณฑ์บ้านดำ เป็นพิพิธภัณฑ์ศิลปะพื้นบ้านบนพื้นที่กว่า 100 ไร่ สร้างขึ้นโดย อ.ถวัลย์ ดัชนี ศิลปินแห่งชาติ ลักษณะของบ้านดำจะเป็นกลุ่มอาคารกว่า 40 หลัง สร้างตามแบบศิลปะล้านนา และอาคารปูนรูปทรงแปลกตา เกือบทุกหลังทาด้วยสีดำ ซึ่งเป็นที่มาของคำว่า “บ้านดำ” และยังเป็นสีที่ อ. ถวัลย์ ชื่นชอบอีกด้วย ในบ้านแต่ละหลังจะประดับด้วยไม้แกะสลักที่มีลวดลายงดงาม และจัดแสดงงานศิลปะต่างๆกันออกไปตามแต่เรื่องราวเบื้องหลังของอาคารนั้นๆ
+
+Nearby Location: ห่างจากตัวเมืองเชียงรายไปตามถนนสายเชียงราย แม่จัน ระยะทาง 10 กิโลเมตร
+Address: 333 หมู่ 13
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองเชียงราย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 5377 6333
+Email: info@thawan duchanee.com
+Website: www.thawan duchanee.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00 17.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 80.0
+Fee (TH Kid): 80.0
+Fee (EN): 80.0
+Fee (EN Kid): 80.0
+Remark: 
+Location: 19.992037, 99.8607523
+UUID: c64acc8d-1067-4742-9c65-30f4243247a7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: น้ำตกวังถ้ำ (Wang Tham Waterfall)
+Content: 
+
+Nearby Location: ห่างจากองค์การบริหารส่วนตำบลหาดยาย 18 กิโลเมตร  อำเภอหลังสวน
+Address: หมู่ 6
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: หลังสวน
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 7750 6622, 0 7750 6623
+Email: info@hadyai.go.th
+Website: www.hadyai.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.89372489999999, 99.0923614
+UUID: 5ef4bffa-779c-4d2f-9d35-d60849e9f4c4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

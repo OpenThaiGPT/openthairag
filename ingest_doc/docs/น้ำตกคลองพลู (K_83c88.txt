@@ -1,0 +1,36 @@
+Title: น้ำตกคลองพลู (Klong Plu Waterfall)
+Content: เป็นน้ำตกขนาดใหญ่ที่สวยงามที่สุดของเกาะช้าง มีน้ำตกไหลผ่านหน้าผาลงแอ่งเบื้องล่าง น้ำตกมี 3 ชั้นมีน้ำไหลตลอดทั้งปี มีทิวทัศน์ที่งดงาม โอบล้อมไปด้วยภูเขาและป่าไม้สูงใหญ่นานาพรรณ และเป็นสถานที่ท่องเที่ยวยอดนิยมของเกาะช้าง น้ำตกแห่งนี้พระบาทสมเด็จพระจุลจอมเกล้าเจ้า อยู่หัว เคยเสด็จประพาสถึง 2 ครั้ง
+
+Nearby Location: อยู่ระหว่างหาดคลองพร้าวและหาดไก่แบ้ เกาะช้าง
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: เกาะช้าง
+District: เกาะช้าง
+Province: ตราด
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 3955 5080
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 200.0
+Fee (TH Kid): 100.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 12.064754025824, 102.3127555847168
+UUID: 9d602f0d-3a11-437b-aa1e-9bec874f4bfa
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

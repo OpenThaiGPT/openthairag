@@ -1,0 +1,36 @@
+Title: เขื่อนนเรศวร (Naresuan Diversion Dam)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านหาดใหญ่ ตำบลพรหมพิราม อำเภอพรหมพิราม 
+Address: 57 หมู่ 7
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: พรหมพิราม
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 5536 9040
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.0475733, 100.1821321
+UUID: 8e05e9b7-94e7-401a-af92-35938c6d7c35
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

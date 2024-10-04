@@ -1,0 +1,36 @@
+Title: วัดอนงคคาราม วรวิหาร (Wat Anongkharam Woraviharn)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนสมเด็จเจ้าพระยา แขวงสมเด็จเจ้าพระยา เขตคลองสาน 
+Address: 41
+Region: ภาคกลาง
+Alley: 
+Road: สมเด็จเจ้าพระยา
+Subdistrict: 
+District: คลองสาน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 0 2437 6123
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 19.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7342224, 100.4982065
+UUID: cd81ff5a-3e79-45e1-b7b5-127c9d371f07
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

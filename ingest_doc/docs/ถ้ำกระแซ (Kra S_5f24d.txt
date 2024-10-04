@@ -1,0 +1,36 @@
+Title: ถ้ำกระแซ (Kra Sae Cave)
+Content: เป็นถ้ำขนาดเล็ก ภายในถ้ำมีพระพุทธรูปศักดิ์สิทธิ์ประดิษฐานอยู่ และเคยเป็นที่พักของเชลยศึกเมื่อครั้งสร้างเส้นทางรถไฟสายมรณะจากไทยไปพม่า ซึ่งเป็นบริเวณที่มีวิวทิวทัศน์งดงาม
+
+Nearby Location: ตั้งอยู่ในอำเภอไทรโยค ตั้งอยู่ริมหน้าผาใกล้กับทางรถไฟ
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ลุ่มสุ่ม
+District: ไทรโยค
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 3451 1285 
+Email: 
+Website: http://kanchanaburi.go.th/au/tourkan2015/krasaecave.php
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน  08.00  18.00  น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.1049728, 99.16660689999999
+UUID: 590a92dd-da85-4a72-9e08-caa0fefdc743
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

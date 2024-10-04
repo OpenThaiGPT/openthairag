@@ -1,0 +1,36 @@
+Title: ตลาดท่าน้ำนนท์
+Content: แหล่งรวมร้านอร่อยเจ้าดัง ของฝาก ขนม อาหารสตรีทฟู้ด และร้านค้ามากมายตลอดเส้น อยู่ติดริมน้ำ สามารถเพลิดเพลินและชมบรรยากาศเมืองเก่านนทบุรี
+
+Nearby Location: ท่าน้ำนนท์ นนทบุรี
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ตลาดขวัญ
+District: เมืองนนทบุรี
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.8423399, 100.4917181
+UUID: 11fabc66-643c-4c78-9698-6f0d4952bf73
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

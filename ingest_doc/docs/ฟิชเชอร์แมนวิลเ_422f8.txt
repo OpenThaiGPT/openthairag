@@ -1,0 +1,36 @@
+Title: ฟิชเชอร์แมนวิลเลจ หาดบ่อผุด (Bophut's Fisherman's Village)
+Content: ฟิชเชอร์แมน วิลเลจ เป็นชื่อเรียกของหมู่บ้านชาวประมงที่เก่าแก่ที่สุดแห่งหนึ่งบนเกาะสมุย ตั้งอยู่ถนนริมหาดบ่อผุด เป็นแหล่งดึงดูดนักท่องเที่ยวที่ชอบบรรยากาศแบบชุมชน อีกทั้งยังมีถนนคนเดินที่จัดขึ้นทุกเย็นวันศุกร์ ซึ่งจะทำการปิดถนนจัดเป็นถนนคนเดิน มีศิลปะการแสดง ร้านอาหาร มีร้านค้าขายของต่าง ๆ มากมาย ทั้งเสื้อผ้า ของที่ระลึก ที่จะมาช่วยสร้างสีสันให้เกาะสมุยครึกครื้น
+
+Nearby Location: ตั้งอยู่พื้นที่ตำบลบ่อผุด ถนนวงแหวนรอบเกาะ 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 7742 1762, 0 7742 1421
+Email: info@kohsamuicity.go.th
+Website: www.kohsamuicity.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันศุกร์ ตั้งแตเวลา 17.00   23.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.559151499999997, 100.0315251
+UUID: 930ce7c5-49fb-4a0f-b53a-9698828176ac
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

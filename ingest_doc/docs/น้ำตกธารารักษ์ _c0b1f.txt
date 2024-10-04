@@ -1,0 +1,36 @@
+Title: น้ำตกธารารักษ์ (Tha Ra Ruk Waterfall)
+Content: น้ำตกธารารักษ์ น้ำตกแห่งนี้มีลักษณะพิเศษคือมีเจดีย์อยู่ข้างตัวน้ำตก ในบริเวณนั้นเป็นเทือกเขาไม่สูงนัก ด้านหน้ามีหนองน้ำซึ่งเด็กในพื้นที่จะไปเล่นน้ำกันที่นี่ เนื่องจากเป็นที่ค่อนข้างโล่งกว้าง และมีอ่างเก็บน้ำขนาดใหญ่ใต้น้ำตกจึงมีลมเย็นๆ พัดตลอดน่าเป็นที่พักผ่อน
+
+Nearby Location: ตั้งอยู่ริมทางหลวงหมายเลข 1090 บริเวณหลักกิโลที่ 26 ตำบลช่องแคบ
+Address: บ้านเจดีย์โคะ 
+Region: ภาคเหนือ
+Alley: 
+Road: แม่สอด พบพระ
+Subdistrict: คีรีราษฎร์
+District: พบพระ
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอดเวลา
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.56965,98.695108
+UUID: e317635f-d983-45d1-8d09-1a4745611659
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

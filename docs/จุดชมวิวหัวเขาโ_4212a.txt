@@ -1,0 +1,36 @@
+Title: จุดชมวิวหัวเขาโขน (Hua Khao Kone View Point)
+Content: 
+
+Nearby Location: ใกล้อ่างเก็บน้ำบางพระใต้ หมู่ 3 ตำบลบางพระใต้ อำเภอละอุ่น
+Address: หมู่ 3 บ้านบางนา
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ละอุ่น
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.124629536621981, 98.74718529742765
+UUID: 6fc0c7e9-c988-48db-81ef-608358d17b97
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

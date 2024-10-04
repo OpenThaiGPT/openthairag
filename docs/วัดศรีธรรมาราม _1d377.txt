@@ -1,0 +1,36 @@
+Title: วัดศรีธรรมาราม (Wat Si Thanmaram)
+Content: 
+
+Nearby Location: ตั้งอยู่ในชุมชนบ้านสิงห์ท่า ตำบลในเมือง อำเภอเมืองยโสธร ติดแม่น้ำชี
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองยโสธร
+Province: ยโสธร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.8515169, 104.1698463
+UUID: 5cd38194-f585-4d90-88cb-caa058a0f0e0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: พระตำหนักมหาราช (ไม่มี)
+Content: เป็นพระตำหนักที่สร้างขึ้นในรัชกาลพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัวรัชกาลที่4โดยใช้เป็น อาไศรยสถาน อดีตใช้สำหรับรักษาคนป่วย
+
+Nearby Location: อยู่ใกล้ตลาดใหม่อ่างศิลา ตำบลอ่างศิลา
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชลบุรี
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พระตำหนัก/วัง/พระราชวัง
+Facilities Contact: 
+Telephone: 0 3814 2100 4 ต่อ 108,109
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จ. ศ. 08.30 16.30น. ส. อา. และวันหยุดนักขัตฤกษ์ 09.30 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.3392663, 100.926949
+UUID: eecaf00e-9c51-44a9-a027-32404687984f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

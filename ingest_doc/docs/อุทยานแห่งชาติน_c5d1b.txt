@@ -1,0 +1,37 @@
+Title: อุทยานแห่งชาตินันทบุรี (Nanthaburi National Park)
+Content: ครอบคลุมพื้นที่อำเภอเมืองและอำเภอบ้านหลวง รวมทั้งพื้นที่ป่าสงวนแห่งชาติ ป่าน้ำยาว น้ำสวก และป่าสงวนแห่งชาติถ้ำพุเตย เป็นป่าผสมผลัดใบ ดิบแล้ง ดิบเขา มีไม้ประเภท สัก ประดู่ ตะแบก ฯลฯ
+
+Nearby Location: ตั้งอยู่ตำบลผาทอง อำเภอท่าวังผา
+Address: ตู้ ปณ.3
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่าวังผา
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 06 5416 8853
+Email: nanthaburi_np13@hotmail.com
+Website: www.facebook.com/NanthaburiNationalPark
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 18.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 18.851389,100.438333
+UUID: 7a31876c-8efe-4815-90b8-26603a5b76d3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

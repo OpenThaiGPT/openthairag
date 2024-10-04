@@ -1,0 +1,36 @@
+Title: หาดสำราญ (Samran Beach)
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตะเสะ
+District: หาดสำราญ
+Province: ตรัง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการทุกวัน ตลอด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.234660624172457,99.53781240510556
+UUID: 339d74c7-123d-4757-bc5c-6ec6b10bf265
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

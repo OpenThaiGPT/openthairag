@@ -1,0 +1,36 @@
+Title: วัดถ้ำแฝด (Thamfad Temple)
+Content: วัดถ้ำแฝด ตั้งอยู่ที่บ้านถ้ำ ตำบลเขาน้อย อำเภอท่าม่วง จังหวัดกาญจนบุรี (พุทธธรรมสถานบารมี)
+
+Nearby Location: อยู่ที่ตำบลเขาน้อย อำเภอท่าม่วง
+Address: หมู่ 2 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เขาน้อย
+District: ท่าม่วง
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3465 5098, 095 5345526, 085 3779462
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9639665, 99.58368569999999
+UUID: ed821291-39ed-447d-85bb-b4f1ab671895
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

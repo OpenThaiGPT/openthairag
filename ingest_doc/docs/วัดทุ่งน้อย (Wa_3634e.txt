@@ -1,0 +1,36 @@
+Title: วัดทุ่งน้อย (Wat Thung Noi)
+Content: 
+
+Nearby Location: ใกล้โรงเรียนวัดทุ่งน้อย อำเภอนครชัยศรี
+Address: 72 หมู่ 8
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: นครชัยศรี
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 0 3420 8260
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8643139, 100.1528832
+UUID: 214bbe4b-eae6-4f65-8b99-c3d265300db2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

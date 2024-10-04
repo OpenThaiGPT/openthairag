@@ -1,0 +1,38 @@
+Title: ตลาดนัดจริงใจ (Jing Jai Market)
+Content: ตลาดนัดยามเช้าเพื่อชุมชนอันลือชื่อของจังหวัดเชียงใหม่ อยู่ภายใต้โครงการ  เซ็นทรัล ทำ  ซึ่งเป็นโครงการของกลุ่มเซ็นทรัล
+
+Nearby Location: 
+Address: 46 อาคารโซน  c
+Region: ภาคเหนือ
+Alley: 
+Road: อัษฎาธร
+Subdistrict: ป่าตัน
+District: เมืองเชียงใหม่
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone:  053 231 520
+Email: infojingjaicm@central.co.th
+Website: https://www.facebook.com/FarmersMarketChiangmai/?locale=th_TH
+Facebook: https://www.facebook.com/FarmersMarketChiangmai/
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จ ศ 8.30 21.00
+
+เสา อา 6.30 22.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.8059859, 98.995654
+UUID: bbd73227-412e-4ad8-8037-ea5266d94563
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

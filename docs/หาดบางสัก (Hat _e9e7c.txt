@@ -1,0 +1,37 @@
+Title: หาดบางสัก (Hat Bang Sak)
+Content: อยู่ตำบลบางม่วง ริมถนนสายเพชรเกษม สายท้ายเหมือง ตะกั่วป่า กิโลเมตรที่ ๗๖ ๗๗ มีทางแยกซ้ายมือเข้าไป ๑๐๐ เมตร ชายหาดบางสักมีหาดทรายขาวสะอาดยาวขนานกับทิวสนร่มรื่น เล่นน้ำได้ ยามเย็นจะมีชาวบ้านนักท่องเที่ยวมานั่งชมรอพระอาทิตย์ตกอยู่เสมอ  ชายหาดจะมีที่พัก และร้านอาหารบริการ
+
+Nearby Location: ตั้งอยู่ตำบลบางม่วง อำเภอตะกั่วป่า
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: ตะกั่วป่า
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 7659 3558
+Email: 
+Website: www.bangmoung sao.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.7752778, 98.2630556
+UUID: a6bde079-3fd8-4730-a9ff-b6a10c3397fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

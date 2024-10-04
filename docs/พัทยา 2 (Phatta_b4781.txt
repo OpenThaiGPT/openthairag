@@ -1,0 +1,36 @@
+Title: พัทยา 2 (Phattaya 2)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่บ้านหนองกุงเซิน อำเภอภูเวียง 
+Address: หมู่ 1 บ้านหนองกุงเซิน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูเวียง
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6363889, 102.545349
+UUID: 903e4e05-2356-471f-aad7-0778ca201eba
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

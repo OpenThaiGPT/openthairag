@@ -1,0 +1,36 @@
+Title: วัดศาลาแดงเหนือ (Wat Sala Daeng Nua)
+Content: มีสิ่งที่น่าสนใจคือ ธรรมมาสน์ลายจำหลักไม้ ศาลาการเปรียญ หมู่กุฏิหอไตร
+
+Nearby Location: ตั้งอยู่ตำบลเชียงรากน้อย อำเภอสามโคก ติดคลองบ้านเกริน
+Address: หมู่ 2
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: สามโคก
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2501 1656
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0947242, 100.5448805
+UUID: 0da07455-887e-48e7-a590-55b28e3a1159
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

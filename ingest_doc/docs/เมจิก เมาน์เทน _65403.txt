@@ -1,0 +1,37 @@
+Title: เมจิก เมาน์เทน คาเฟ่ (Magic Mountain cafe)
+Content: Magic Mountain Cafe' คาเฟ่วิวหลักล้านในตำนาน @ภูลังกา จังหวัดพะเยา ตัวร้านสไตล์คลาสสิค สร้างด้วยไม้ทั้งหมด ให้ความเป็นธรรมชาติ บรรยากาศโดยรอบ สวยงาม สดชื่น ร่มรื่นด้วยต้นไม้นานาพันธุ์ 
+โซนที่นั่งก็มีหลายมุมให้เลือก จะด้านนอก ด้านใน นั่งห้อยขา ที่นี่เราจะสามารถชมพระอาทิตย์ขึ้นได้อย่างสวยงามในตอนเช้า ถ้าวันไหนโชคดีก็จะได้เห็นทะเลหมอกเบื้องล่างด้วย
+
+Nearby Location: ภูลังกา จังหวัดพะเยา
+Address: 79/1148
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปง
+Province: พะเยา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 065 5025499 
+Email: 
+Website: https://www.facebook.com/M.magic.mountain/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการ ตั้งแต่ 6 โมงเช้า   6 โมงเย็น (หยุดทุกวันอังคาร)
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 19.3557604, 100.5112311
+UUID: 9af996d4-f827-4440-8d28-b83f82a02a3f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

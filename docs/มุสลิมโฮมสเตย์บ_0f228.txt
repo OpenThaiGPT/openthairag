@@ -1,0 +1,36 @@
+Title: มุสลิมโฮมสเตย์บ้านม่วงกลาง (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านม่วงกลาง หมู่ 3 ตำบลม่วงกลาง อำเภอกะเปอร์ ปากทางเข้าอุทยานแห่งชาติแหลมสน
+Address: 4/5 หมู่ 3 บ้านม่วงกลาง
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 4
+Subdistrict: 
+District: กะเปอร์
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 08 9287 0471, 0 7784 2117
+Email: 
+Website: www.muslimhomestay muangkluang.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.5904163, 98.5487936
+UUID: 11493d8b-f4d8-4dfe-8d1b-142cea7be4d2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

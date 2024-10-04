@@ -1,0 +1,36 @@
+Title: โกลเด้น โดม คาบาเร่ต์ โชว์ (Golden Dome Show)
+Content: 
+
+Nearby Location: ตั้งอยู่ตรงสี่แยกสุทธิสารตัดรัชดาภิเษก ใกล้บริษัทเมืองไทยประกันชีวิต รัชดาภิเษก
+Address: 252/5 
+Region: ภาคกลาง
+Alley: อยู่เจริญ (รัชดา 18)
+Road: รัชดาภิเษก
+Subdistrict: 
+District: ห้วยขวาง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โรงละคร/โรงมหรสพ (โชว์)
+Facilities Contact: 
+Telephone: 0 2692 8202 6, 09 5964 1916
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: โชว์วันละ 4 รอบ 16.45 น. 18.00น. 19.30น. 20.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 350.0
+Fee (TH Kid): 
+Fee (EN): 800.0
+Fee (EN Kid): 
+Remark: 
+Location: 13.785143, 100.5774248
+UUID: 7b32f20f-725a-4e34-be37-fa20eb926db7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

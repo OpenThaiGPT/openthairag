@@ -1,0 +1,36 @@
+Title: วัดทวีการะอนันต์ (ไม่มี)
+Content: 
+
+Nearby Location: อยู่หลังตลาดไท จะติดกับวัดพระธรรมกาย 
+Address: 50/16 หมู่ 11
+Region: ภาคกลาง
+Alley: เทพกุญชร 22
+Road: 
+Subdistrict: 
+District: คลองหลวง
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 1615 8499, 0 2529 4567
+Email: 
+Website: www.วัดทวีการะอนันต์.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0984655, 100.627934
+UUID: 4e4e9687-37b3-458c-97fe-8d562cdd4378
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

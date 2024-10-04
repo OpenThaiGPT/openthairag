@@ -1,0 +1,36 @@
+Title: Kyoto Shi Cafe (Kyoto Shi Cafe)
+Content: เป็นคาเฟ่ที่มีโดนัทโฮมเมดสไตล์ญี่ปุ่นให้เลือกเพียบ เมนูเด่นๆ ยังมีโดนัทไอศกรีม เครื่องดื่มที่เป็นพรีเมี่ยมจากญี่ปุ่น มีอาหารเสิร์ฟด้วยนะ เป็นเมนูราเมน ข้าวแกงกะหรี่หมูทอด เปิดทุกวันเวลา 09.00 20.00
+
+Nearby Location: 
+Address: 108 หมู่8
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: สุเทพ
+District: เมืองเชียงใหม่
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 615626699
+Email: 
+Website: 
+Facebook: https://m.facebook.com/kyoto.shi.cafe.ChiangMai
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 20.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7871396, 98.95547099999999
+UUID: 000be67d-e399-48f0-b910-1a2e83334b52
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

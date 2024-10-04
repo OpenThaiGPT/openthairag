@@ -1,0 +1,36 @@
+Title: เกาะพนัก (Koh Phanak (Phanak Island))
+Content: เป็นเกาะที่มีขนาดใหญ่กว่าเกาะห้อง อยู่ระหว่างเส้นทางเดินเรือ จากภูเก็ต–พังงา ประกอบด้วยถ้ำต่าง ๆ ที่มีความสวยงาม เช่น ถ้ำค้างคาว ถ้ำโกงกาง ถ้ำไอศครีม และถ้ำปีนที่มีลักษณะเป็นทะเลใน โดยในการเข้าสู่ทะเลในต้องใช้เรือซีแคนูเพียงอย่างเดียว จึงจะเข้าไปได้ มีความลึกตั้งแต่ 50–150 เมตร
+
+Nearby Location: ตั้งอยู่ระหว่างเส้นทางเดินเรือจากภูเก็ต–พังงา 
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ตะกั่วทุ่ง
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7648 1188
+Email: aophangnga_np@hotmail.com
+Website: www.facebook.com/Aophangnga
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน   08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 60.0
+Fee (TH Kid): 30.0
+Fee (EN): 300.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 8.18545006918644,98.4901386563721
+UUID: 5d58d0a0-eca3-4a22-9fcc-2ff55cfeed2a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

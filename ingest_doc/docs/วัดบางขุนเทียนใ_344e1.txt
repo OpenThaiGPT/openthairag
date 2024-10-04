@@ -1,0 +1,36 @@
+Title: วัดบางขุนเทียนใน (Wat Bangkhuntiannai)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยเลิศพัฒนาใต้ เขตจอมทอง  
+Address: 37 หมู่ 1
+Region: ภาคกลาง
+Alley: เลิศพัฒนาใต้
+Road: จอมทอง  
+Subdistrict: 
+District: จอมทอง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2468 3750
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.695, 100.4677778
+UUID: 20fd97c8-9a64-4067-83c8-29884fdba8c7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: เขื่อนแม่กลอง (Mae Klong Dam)
+Content: เป็นเขื่อนทดน้ำขนาดใหญ่ มีทิวทัศน์สวยงาม เป็นเขื่อนกั้นน้ำที่ปล่อยมาจากเขื่อนศรีนครินทร์และเขื่อนวชิราลงกรณไหลลงสู่แม่น้ำแม่กลอง เพื่อระบายน้ำไปสู่พื้นที่การเกษตร ตั้งอยู่ทางทิศเหนือของตัวจังหวัด ห่างจากอำเภอท่าม่วง 2 กิโลเมตร
+
+Nearby Location: อยู่ในตัวอำเภอท่าม่วง ห่างจากอำเภอเมืองลงไปทางใต้ประมาณ 10 กิโลเมตร
+Address: 96 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: เขื่อนวชิราลงกรณ์
+Subdistrict: เขาน้อย
+District: ท่าม่วง
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 081 806 0863
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.95380,99.62484
+UUID: e4eef4c9-bf39-4883-845e-63c16c06b4df
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

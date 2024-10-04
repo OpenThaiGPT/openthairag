@@ -1,0 +1,36 @@
+Title: ผาแมว (Pha Maew)
+Content: เป็นหน้าผาสูงชันริมแม่น้ำปิง บรรยากาศสงบร่มรื่นเป็นจุดชมทิวทัศน์ที่ดีอีกจุดหนึ่งเหมาะสำหรับกิจกรรมไต่หน้าผา
+
+Nearby Location: อยู่ในเขตอุทยานแห่งชาติแม่ปิง ตำบลก้อ อำเภอลี้
+Address: หมู่ 4 บ้านก้อท่า 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ลี้
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.59599786881829, 98.80554523494925
+UUID: 253d1945-541b-4771-a714-3ef80275e505
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

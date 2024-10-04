@@ -1,0 +1,36 @@
+Title: เกาะหนู (Ko Nu)
+Content: เป็นสักษณ์ของจังหวัดสงขลา อยูาใน ทะเลมีรูปคล้ายหนู เป็นเกาะที่ไม่ห่างจากฝั่งมากนัก สามารถเดินทางไปกลับได้ ใช้ระยะเวลา 1 ชั่วโมง
+
+Nearby Location: อยู่ในหาดสะมิหลา ในเขตเทศบาลเมืองสงขลา
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7431 1015
+Email: 
+Website: www.songkhlacity.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.2362568, 100.5964325
+UUID: 4bf01c51-90c0-4988-b853-80939e24895a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

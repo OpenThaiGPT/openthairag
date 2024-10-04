@@ -1,0 +1,36 @@
+Title: ริเวอร์เดล กอล์ฟ คลับ (Riverdale Golf Club)
+Content: สนามกอล์ฟมาตรฐาน 18 หลุม พาร์ 72 บนเนื้อที่ 360 ไร่ ตั้งอยู่ใน อ.บางกระดี จังหวัดปทุมธานี เป็นสนามกอล์ฟที่ถูกออกแบบ เป็นพิเศษโดยสร้างภูมิประเทศเลียนแบบหุบเขา ทำให้นักกอล์ฟ รู้สึกเหมือนตีกอล์ฟอยู่ในหุบเขาจริง
+
+Nearby Location: 123/5 หมู่ 1
+Address: 123/5
+Region: ภาคกลาง
+Alley: 
+Road: ติวานนท์
+Subdistrict: บางกะดี
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 25012789
+Email: riverdale@riverdalegolfclub.co.th
+Website: https://www.mbkgolf.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการทุกวัน 06.00 น. 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.9806878, 100.5399365
+UUID: e962ef7a-d206-49e5-b19a-c11d7cc56cfd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

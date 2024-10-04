@@ -1,0 +1,37 @@
+Title: ภูเก็ตแฟนตาซี (Phuket Fantasy)
+Content: ชมการแสดงศิลปวัฒนธรรมไทยที่นำเสนอด้วยเทคโนโลยีชั้นสูงในวังไอยรา ดูตระการตา ภายในมีร้านอาหาร ร้านขายของที่ระลึกและหัดถกรรมไทยต่างๆ ห้องเกมส์
+
+Nearby Location: ใกล้กำสถานีตำรวจภูธรอำเภอกมลา ตำบลกมลา อำเภอกะทู้
+Address: 99 หมู่ 3
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: กะทู้
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โรงละคร/โรงมหรสพ (โชว์)
+Facilities Contact: 
+Telephone: 0 7638 5000,0 7627 1300
+Email: ticket@phuket fantasea.com
+Website: www.phuket fantasea.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันศุกร์ วันพุธ 17.30 น.   23.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 1800.0
+Fee (TH Kid): 1800.0
+Fee (EN): 1800.0
+Fee (EN Kid): 1800.0
+Remark: 
+Location: 7.9239142029331,98.28060150146484
+UUID: 13fb84a0-bf82-45a7-8114-cf5a862686e4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

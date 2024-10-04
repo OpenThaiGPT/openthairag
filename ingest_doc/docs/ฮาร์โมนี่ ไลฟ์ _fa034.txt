@@ -1,0 +1,36 @@
+Title: ฮาร์โมนี่ ไลฟ์ ออร์แกนิค ฟาร์ม (Harmony Life Organic Farm)
+Content: เป็นฟาร์มเกษตรอินทรีย์ที่ ตำบลกลางดง อำเภอปากช่อง จังหวัดนครราชสีมา ของคุณโอกะ โช ที่ดำเนินการมาตั้งแต่ปี พศ. 2542 ในไร่จะมีการปลูกผักโมโรเฮยะและผักปลอดสารพิษ และมีการจัดอบรมแก่เกษตรกรหรือผู้ที่สนใจ
+
+Nearby Location: อยู่บนถนนมิตรภาพ ตำบลกลางดง ก่อนถึงฟาร์มโชคชัยเล็กน้อย
+Address: 35 หมู่ 9
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: มิตรภาพ
+Subdistrict: 
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 4432 2219,0 2721 7511 12 
+Email: 
+Website: www.harmonylife.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: จันทร์ ศุกร์ 08.00 1600 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.625041419001073,101.27433072473673
+UUID: 336a27c1-5240-4150-b300-884316b60b52
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

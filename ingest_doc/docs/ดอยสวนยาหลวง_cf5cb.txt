@@ -1,0 +1,36 @@
+Title: ดอยสวนยาหลวง
+Content: สวนยาหลวงเป็นพื้นที่ปลูกฝิ่นของชาวเขาเผ่าเมี่ยนที่ใหญ่มากๆ แห่งหนึ่งในประเทศไทย แต่ด้วยน้ำพระทัยของพ่อหลวงรัชกาลที่ 9 ที่ทรงให้ชาวบ้านหันมาปลูกพืชไร่ และพืชเศรษฐกิจอย่างเมล็ดกาแฟพันธ์อะราบิก้า ทดแทนฝิ่น ปัจจุบันกาแฟจึงกลายเป็นรายได้หลักของชาวบ้าน
+
+Nearby Location: บ้านสันเจริญ
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: จอมพระ
+District: ท่าวังผา
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 096 952 2223
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 19.2522222, 100.5983333
+UUID: 52ac2177-426f-4f85-b43a-5054467d7306
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

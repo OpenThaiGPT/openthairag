@@ -1,0 +1,37 @@
+Title: เขาขามหินโยก หรือ ชุมชนป่าเขาขามหินโยก (Khao Kham Hin Yok)
+Content: หินโยก เป็นก้อนหินขนาดหนักกว่า 60 ตัน ตั้งอยู่บริเวณกลุ่มและลานหินบนเขาขาม ซึ่งสามารถโยกให้เคลื่อนไหวได้ด้วยมือเพียงข้างเดียวโดยที่หินไม่หล่นจากหน้าผา แต่จริงๆแล้วเป็นเพียงความรู้สึกว่ามันขยับเท่านั้นเอง
+
+Nearby Location: อยู่ที่บ้านตาดพัฒนา ตำบลตลาดแร้ง อำเภอบ้านเขว้า
+Address: หมู่ 13 บ้านตาดพัฒนา
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: บ้านเขว้า
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 4483 9832
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 15.876543698385714,101.86794393586729
+UUID: 7720d801-5b85-4f24-8e0d-16875f087683
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

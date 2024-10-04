@@ -1,0 +1,36 @@
+Title: อนุสาวรีย์ประชาธิปไตย (Democracy Monument)
+Content: อยู่ที่ถนนราชดำเนินกลาง สร้างขึ้นเพื่อเป็นที่ระลึกถึงการเปลี่ยนแปลงการปกครองจากระบอบสมบูรณาญาสิทธิราชย์
+
+Nearby Location: อยู่กึ่งกลางวงเวียนระหว่างถนนราชดำเนินกลางกับถนนดินสอ แขวงวัดบวรนิเวศ เขตพระนคร  
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: ราชดำเนินกลาง
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: อนุสาวรีย์/อนุสรณ์สถาน
+Facilities Contact: 
+Telephone: 0 2628 9068 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7567075, 100.5018461
+UUID: 9dbd299b-cae5-496b-8aa5-3bbee7c26c50
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

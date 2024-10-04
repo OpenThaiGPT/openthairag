@@ -1,0 +1,36 @@
+Title: น้ำตกเซปละ (Namtok Se Pla)
+Content: น้ำตกเซปละ เป็นน้ำตกที่ตั้งอยู่ในเขตพื้นที่ของบ้านเซปละ ตำบลแม่ละมุ้ง ซึ่งต้องใช้เส้นทางหลวง 1090 เส้น ส่วนทางเข้าน้ำตกแยกขวามือ ใกล้หน่วยพิทักษ์ป่าลายยาน้อย โดยน้ำตกนั้นอยู่ห่างจากบ้านปะละทะ 3 กิโลเมตร สภาพโดยทั่วไปของน้ำตกนั้นเป็นน้ำตกภูเขาหินปูนที่ไหลลดหลั่นเป็นชั้น ๆ มีความกว้าง 10 เมตร ยาว 50 เมตร โดยกระแสน้ำที่ตกลงกระทบโขดหินทำให้ดูคล้ายกับก้อนเมฆสี ขาวที่มีความสวยงาม
+
+Nearby Location: ตั้งอยู่ตำบลแม่ละมุ้ง ห่างจากหมู่บ้านปะละทะ 3 กิโลเมตร 
+Address: บ้านเซปละ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แม่กลอง
+District: อุ้มผาง
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 081 888 4811
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอดเวลา
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.5520984, 98.9687010999999
+UUID: 1a9dca1c-b4ae-44be-b363-6f81f3bdc4f7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: แก่งตาดฟ้า (Kaeng Tad Fa)
+Content: แก่งตาดฟ้า เป็นแหล่งท่องเที่ยวสำหรับพักผ่อนหย่อนใจ และเล่นน้ำ ตั้งอยู่ในพื้นที่ อ.ศรีบุญเรือง จ.หนองบัวลำภู
+
+Nearby Location: ทางเข้าอยู่ข้างโรงเรียนบ้านโนนงาม เข้าไปอีก 10 กิโลเมตร
+Address: บ้านโนนสำราญ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีบุญเรือง
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.878668389333153,102.13584297227476
+UUID: e3432362-eae0-4abf-97e8-ff214a11d816
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

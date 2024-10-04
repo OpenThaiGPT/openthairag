@@ -1,0 +1,36 @@
+Title: วัดประทุมสาคร (Wat Pratum Sakorn)
+Content: 
+
+Nearby Location: ตั้งอยู่หมู่ที่ 1 ตำบลละอุ่นเหนือ อยู่ห่างจากตัวอำเภอละอุ่นประมาณ 5.6 กิโลเมตร
+Address: หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ละอุ่น
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.089713, 98.7845993
+UUID: 7ba70b1e-8ba8-4670-aed0-dcdd2486a997
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

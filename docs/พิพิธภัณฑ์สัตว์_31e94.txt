@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์สัตว์น้ำสมุยและสวนเสือ (Samui Aquarium & Tiger Zoo)
+Content: อยู่ที่อ่าวแหลมเส็ต มีการแสดงสัตว์น้ำหลากชนิดที่น่าสนใจ เช่น เสือ เบงกอล เสือดาว
+
+Nearby Location: ตั้งอยู่ที่สมุยออร์คิดรีสอร์ท หาดบ้านหาน ตำบลมะเร็ต
+Address: 33/2 หมู่ 2
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 0 7742 4017 8
+Email: info@samuiorchid.com
+Website: www.samuiaquariumandtigerzoo.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 100.0
+Fee (TH Kid): 100.0
+Fee (EN): 250.0
+Fee (EN Kid): 150.0
+Remark: 
+Location: 9.431081560263076, 100.01653020185555
+UUID: 1aa79886-a36c-4d6d-b60e-9886d59d0aca
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

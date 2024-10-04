@@ -1,0 +1,36 @@
+Title: น้ำพุร้อนโป่งเดือด (Pong Duet Geyser)
+Content: เป็นบ่อน้ำพุร้อนแบบไกเซอร์ขนาดใหญ่ ซึ่งอุณหภูมิสูง และมีแรงดันสูงมาก ลักษณะของน้ำพุร้อนพุ่งสู่ผิวดินตลอดเวลาบางครั้งพุ่งสูงขึ้นถึง 2 เมตร มีกลิ่นค่อนข้างแรง จากลานจอดรถต้องเดินเข้าไปประมาณ 500 เมตร การเดินทางไปสู่โป่งเดือดใช้ทางหลวงหมายเลข 10956 (แม่มาลัย ปาย) กิโลเมตรที่ 42 ก่อนถึงอุทยานแห่งชาติห้วยน้ำดัง จะพบป้ายให้เลี้ยวขาวเข้าไป 6.5 กิโลเมตร
+
+Nearby Location: อยู่ในเขตอุทยานแห่งชาติห้วยน้ำดัง ตำบลเวียงเหนือ อำเภอปาย
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: แม่มาลัย ปาย
+Subdistrict: 
+District: ปาย
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ
+Facilities Contact: 
+Telephone: 08 2187 7834
+Email: 
+Website: park.dnp.go.th/visitor/scenicshow.php?id=753
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 50.0
+Fee (TH Kid): 20.0
+Fee (EN): 300.0
+Fee (EN Kid): 150.0
+Remark: 
+Location: 19.241956287610407,98.68431203889463
+UUID: d0dbc6c8-18ea-42ba-82f6-f681ca180e80
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดภูจำปา (Wat Phu Jampa)
+Content: 
+
+Nearby Location: ตั้งอยู่ทางทิศเหนือของหมู่ที่ 8 บ้านภูจำปา ตำบลนาหมอม้า อำเภอเมืองอำนาจเจริญ อยู่ห่างจากเทศบาลตำบลนาหมอม้า ประมาณ 8 กิโลเมตร
+Address: หมู่ 8 บ้านภูจำปา
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองอำนาจเจริญ
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.9221364, 104.4969415
+UUID: 27ad0a72-9ede-4ac7-943b-0fe6947b88ec
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

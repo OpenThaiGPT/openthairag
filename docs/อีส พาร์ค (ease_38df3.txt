@@ -1,0 +1,36 @@
+Title: อีส พาร์ค (ease park)
+Content: ease park : The landmark of happiness เป็นคอมมูนิตี้มอลล์แห่งใหม่ และถือเป็นแห่งแรกที่ตั้งอยู่ติดถนนรามอินทรา
+
+Nearby Location: ติดถนนรามอินทรา
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางเขน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.8561707, 100.6292477
+UUID: 9bbfaf6f-be7f-4ec3-8b90-59b94a37bedd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

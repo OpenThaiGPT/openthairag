@@ -1,0 +1,37 @@
+Title: ผาข้าง (Pha Khang)
+Content: อยู่ตรงข้ามที่ทำการอุทยานฯ เป็นภูเขาลูกเล็กๆริมอ่างเก็บน้ำห้วยแม่ยอง  บนเขามองลงมาเห็นอ่างเก็บน้ำ ที่ทำการอุทยานฯและทิวเขาสลับซับซ้อนเป็นฉากหลัง
+	นอกจากนี้ยังมีถ้ำและน้ำตกอื่นๆ ที่สำรวจพบแต่ยังไม่ได้พัฒนาเป็นแหล่งท่องเที่ยวอย่างเต็มที่ เช่น น้ำตกห้วยแม่ปู  น้ำตกห้วยค่าง  ผายอง  ถ้ำห้วยแดง  ถ้ำก้นหอย  และถ้ำแม่เก่ง
+
+Nearby Location: อยู่ตรงข้ามที่ทำการอุทยานแห่งชาติดอยจง ตำบลนายาง
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: สบปราบ
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 1951 3624
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.917239445206974, 99.25044761534555
+UUID: 73e87b3f-f356-4cf6-ad3c-b33cb80bdef2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

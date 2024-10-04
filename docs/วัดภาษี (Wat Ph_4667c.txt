@@ -1,0 +1,36 @@
+Title: วัดภาษี (Wat Phasee)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยเอกมัย 23 ถนนสุขุมวิท  แขวงคลองตันเหนือ
+Address: 12
+Region: ภาคกลาง
+Alley: เอกมัย 23
+Road: สุขุมวิท 
+Subdistrict: 
+District: วัฒนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2711 4002
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.741665, 100.588545
+UUID: c63709d7-3fa1-458e-a4f3-d9a51efa70c2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: แหล่งเรียนรู้เศรษฐกิจพอเพียงเรือนจำพิเศษบ้านดินเขากลิ้ง (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ตำบลวังจันทร์ อำเภอแก่งกระจาน 
+Address: 87 หมู่ 8
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: แก่งกระจาน
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 3246 5171
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.9267662, 99.7316666
+UUID: ea7d2709-368a-4a24-aa39-d10b8e045661
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

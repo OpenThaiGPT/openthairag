@@ -1,0 +1,36 @@
+Title: วัดป่าเลไลย์ (Pa Le Lai Temple)
+Content: วัดป่าเลไลยก์ ชาวบ้านเรียกกันว่า วัดผ่าอก เนื่องจากแต่เดิม มีพระพุทธรูปปางมารวิชัยประดิษฐานอยู่ภายในมณฑป วิหาร และเจดีย์ทรงกลมก่อด้วยอิฐสอดินฉาบปูน
+
+Nearby Location: อยู่ห่างจากวัดขุนแผนไปทางทิศเหนือประมาณ 500 เมตร ตำบลลาดหญ้า อำเภอเมืองกาญจนบุรี
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เกาะสำโรง
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอด
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.122176,99.400949
+UUID: a525e872-57de-4384-a2d3-1a4adcbb6de7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

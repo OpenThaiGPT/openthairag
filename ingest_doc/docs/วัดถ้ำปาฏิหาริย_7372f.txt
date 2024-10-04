@@ -1,0 +1,36 @@
+Title: วัดถ้ำปาฏิหาริย์ (ไม่มี)
+Content: 
+
+Nearby Location: ทางเข้าวัดนั้นจะอยู่ก่อนถึงทางไปผาชนะได ตำบลนาโพธิ์กลาง อำเภอโขงเจียม
+Address: บ้านนาโพธิ์กลาง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: โขงเจียม
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.60040252828392,105.57280361962887
+UUID: 43eca4b5-10d3-48aa-b776-7b21893743fb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

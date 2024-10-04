@@ -1,0 +1,36 @@
+Title: ภูคำเดือย (Phu Kham Duei)
+Content: #NAME?
+
+Nearby Location: อยู่ที่ตำบลคำเขื่อนแก้ว อำเภอชานุมาน ห่างจากบ้านคำเดือยประมาณ 3 กิโลเมตร 
+Address: บ้านคำเดือย
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ชานุมาน
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 4555 5401
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.1595209, 104.8423604
+UUID: c15c2b1b-e050-46f7-82ba-f5c84e34dafb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

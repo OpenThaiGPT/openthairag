@@ -1,0 +1,37 @@
+Title: วัดพระเกิด
+Content: ทำตุงก้าคิง เสริมดวงบารมี ณ วัดพระเกิด อำเภอเมือง จังหวัดน่าน 
+ตุงก้าคิง เป็นการจัดทำตุงที่เป็นวิถีชีวิตของชาวบ้านชุมชนวัดพระเกิด ทำขึ้นเพื่อส่งเสริมบุญบารมีให้แก่เจ้าของ โดยตุงก้าคิงจะมีแบบตามนักษัตรราศีของผู้ทำ เป็นลายแตกต่างกันไป
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ในเวียง
+District: เมืองน่าน
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 087 981 5338, 081 499 7850, 0868314928
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7908369, 100.7869832
+UUID: a727e138-a89f-4d7d-a7d8-559f52bd0211
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: สวนจตุจักร (Chatuchak Park)
+Content: 
+
+Nearby Location: ตรงข้ามสถานีขนส่งสายเหนือ ถนนกำแพงเพชร 3 เขตจตุจักร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: กำแพงเพชร 3
+Subdistrict: 
+District: จตุจักร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 2272 4575
+Email: 
+Website: http.//garden.minipininteraction.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 04.00 21.00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.807484, 100.5554198
+UUID: bc063a76-f41b-4ca8-9e26-321e879b6f59
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

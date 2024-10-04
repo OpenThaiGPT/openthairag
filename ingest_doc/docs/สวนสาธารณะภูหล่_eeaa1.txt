@@ -1,0 +1,36 @@
+Title: สวนสาธารณะภูหล่น (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ก่อนถึงวัดภูเขาแก้ว ตำบลพิบูล อำเภอพิบูลมังสาหาร
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: พิบูลมังสาหาร
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.2472832, 105.2218087
+UUID: 193b28d4-62b9-40c1-b6a2-eafae1b2d6a3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

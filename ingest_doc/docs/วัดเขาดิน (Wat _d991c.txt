@@ -1,0 +1,36 @@
+Title: วัดเขาดิน (Wat Khao Din)
+Content: 
+
+Nearby Location: ตำบลเขาดิน อำเภอเดิมบางนางบวช
+Address: 75 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เดิมบางนางบวช
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 6164 9634
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.796820055483305, 100.14637232489154
+UUID: 52a4b218-4362-44e3-987f-dc420ec1e561
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

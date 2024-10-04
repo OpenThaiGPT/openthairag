@@ -1,0 +1,36 @@
+Title: อนุสาวรีย์จีนฮ่อ (The Haw Memorial)
+Content: เป็นอนุสาวรีย์ทหารอาสาจากหน่วยรบกองพลที่ 93 ซึ่งมาช่วยรบในพื้นที่เขาค้อ และเสียชีวิตในการสู้รบ
+
+Nearby Location: ตั้งอยู่บนเขาย่า ตำบลเขาค้อ อำเภอเขาค้อ อยู่บริเวณหลักกิโลเมตรที่ 23 ของทางหลวงหมายเลข 2196 
+Address: สิมารักษ์ 
+Region: ภาคเหนือ
+Alley: 
+Road: แคมป์สน สะเดาะพง
+Subdistrict: 
+District: เขาค้อ
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: อนุสาวรีย์/อนุสรณ์สถาน
+Facilities Contact: 
+Telephone: 05 6737 0945
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.5757391, 100.9354944
+UUID: 4eb43cf5-7fb6-49f9-9e8e-77054b077144
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

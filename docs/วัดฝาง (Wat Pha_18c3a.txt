@@ -1,0 +1,36 @@
+Title: วัดฝาง (Wat Phang)
+Content: วัดฝาง ตั้งอยู่ที่ อ.วิเศษชัยชาญ จ.อ่างทอง สร้างมานานกว่า 20 ปี ภายในวัดมีอุโบสถหินทราย แห่งเดียวในจังหวัดอ่างทอง ซึ่งมีลักษณะเด่นคือ การนำศิลปะแบบขอมมาใช้ในการก่อสร้าง
+
+Nearby Location: หมู่ 7 บ้านไผ่จำศิล ตำบลไผ่จำศิล อำเภอวิเศษชัยชาญ ใกล้วัดอ้อย
+Address: หมู่ 7 บ้านไผ่จำศิล
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: คลองขนาก
+District: วิเศษชัยชาญ
+Province: อ่างทอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3562 2060
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.6171611, 100.3557164
+UUID: f406a068-2146-4db9-991e-b479a224e506
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,37 @@
+Title: หาดเจ้าสำราญ (Chaow Sumran Beach)
+Content: หาดเจ้าสำราญ ตั้งอยู่ห่างจากตัวเมืองเพชรบุรี ประมาณ 15 กิโลเมตร เป็นชายหาดที่เคยเป็นสถานที่ท่องเที่ยวสำคัญมาแต่สมัยโบราณ มีประวัติเล่ากันมาว่า สมเด็จพระนเรศวรมหาราช เคยเสด็จมาที่นี่ พร้อมด้วยสมเด็จพระเอกาทศรถ ทรงพอพระชหฤทัยในความงามของหาดนี้มาก ทรงประทับแรมอยู่หลายวัน จนชาวบ้านเรียกหาดนี้ว่า หาดจ้าวสำราญ
+
+Nearby Location: ตั้งอยู่ที่ตำบลหาดเจ้าชำราญ อำเมืองเพชรบุรี อยู่ห่างจากตลาดเมืองเพชรบุรี 15 กิโลเมตร 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองเพชรบุรี
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 0 3247 8555
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.0051448, 100.0656849
+UUID: ffeae93d-9f16-4902-8ec7-9f7e1800f9da
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

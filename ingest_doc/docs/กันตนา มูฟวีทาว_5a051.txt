@@ -1,0 +1,36 @@
+Title: กันตนา มูฟวีทาวน์ (Kantana Movie Town)
+Content: 
+
+Nearby Location: ใกล้สนามกอล์ฟ รอยัลเจมส์ ตำบลคลองโยง อำเภอพุทธมณฑล
+Address: 111/1 หมู่ 2
+Region: ภาคกลาง
+Alley: 
+Road: ศาลายา   บางภาษี
+Subdistrict: 
+District: พุทธมณฑล
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 0 3424 0333
+Email: movietown2002@gmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เสาร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.863989960386998, 100.2727420068394
+UUID: 80259386-b375-4508-99df-7fa7590ac699
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

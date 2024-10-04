@@ -1,0 +1,36 @@
+Title: วัดเสด็จ (Wat Sadej)
+Content: 
+
+Nearby Location: ใกล้ประกันสังคมจังหวัดปทุมธานี ใช้ทางหลวงหมายเลข 3309
+Address: 1 หมู่ 5 บ้านคลองกระแชง
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: สวนพริกไทย
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2581 6034, 0 2598 0142
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0304673, 100.5635462
+UUID: 3e2492d8-1f34-43eb-8a95-ac5eb7d254bd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

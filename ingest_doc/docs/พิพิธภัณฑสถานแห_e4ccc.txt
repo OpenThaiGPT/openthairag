@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑสถานแห่งชาติ พิมาย (Phimai National Museum)
+Content: เป็นสถานที่รวบรวมหลักฐานทางโบราณคดีและจัดแสดงเรื่องราวเกี่ยวกับความเจริญรุ่งเรืองของวัฒนธรรมอีสานมต้ในอดีตโดยเฉพาะโบราณวัตถุศิลปวัตถุที่ค้นพบในเขตอีสานตอนล่าง
+
+Nearby Location: ตั้งอยู่ในตัวอำเภอพิมาย บริเวณเชิงสะพานท่าสงกรานต์ ก่อนถึงปราสาทหินพิมาย 300 เมตร
+Address:   
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:  
+Road: ท่าสงกรานต์
+Subdistrict: 
+District: พิมาย
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 4447 1167  
+Email: phimaimuseum@hotmai.com
+Website: www.facebook.com/PhimaiNationalMuseum/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 09.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 0.0
+Fee (EN): 100.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 15.22481246447897,102.49445386230946
+UUID: 9e98470b-4d10-4a56-9021-34e6085f682c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศูนย์วิทยาศาสตร์เพื่อการศึกษากาญจนบุรี (Kanchanaburi Science Center for Education)
+Content: ศูนย์วิทยาศาสตร์เพื่อการศึกษากาญจนบุรี จัดตั้งตามมติคณะรัฐมนตรี วันที่ 16 สิงหาคม 2537 เปิดให้บริการเมื่อวันที่ 21 กันยายน 2545 ตั้งอยู่เลขที่ 12 ม.1 บ้านลิ้นช้าง ตำบลปากแพรก อำเภอเมือง จังหวัดกาญจนบุรี จัดบริการส่งเสริมการเรียนรู้ด้านวิทยาศาสตร์ให้กับเด็ก และเยาวชนและประชาชนในพื้นที่ 4 จังหวัด คือ กาญจนบุรี สุพรรณบุรี นครปฐม และราชบุรี
+
+Nearby Location: อยู่ใกล้โรงเรียนโสตศึกษา ตำบลปากแพรก อำเภอเมืองกาญจนบุรี 
+Address: 12 หมู่1
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 3460 2629 30, 0 3460 2628
+Email: kansci@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ วันศุกร์ 08.30 16.30 น. วันเสาร์ วันอาทิตย์ 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.01797,99.52305
+UUID: 4bb80c12-d52e-4b49-8741-0909fdf21067
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

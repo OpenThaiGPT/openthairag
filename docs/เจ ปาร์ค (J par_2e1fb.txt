@@ -1,0 +1,36 @@
+Title: เจ ปาร์ค (J park)
+Content: เจปาร์ค ห้างสรรพสินค้านี้เป็นแบรนด์โครงการใหม่ของ บริษัท สหพัฒนาอินเตอร์โฮลดิ้ง แนวคิดของเราคือสไตล์ญี่ปุ่นแบบดั้งเดิม ศูนย์กลางของการช้อปปิ้งมอลล์มีสวนหย่อมที่สวยงามของญี่ปุ่น บรรยากาศนี้จะทำให้คุณรู้สึกว่าอยู่ในประเทศญี่ปุ่น.
+
+Nearby Location: อยู่ใกล้โรงเรียนอัสสัมชัญศรีราชา ตำบลสุรศักดิ์ อำเภอศรีราชา
+Address: บ้านหนองค้อ
+Region: ภาคตะวันออก
+Alley: 
+Road: อัสสัมชัญ หนองค้อ
+Subdistrict: 
+District: ศรีราชา
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 3848 0444
+Email: j park@spi.co.th
+Website: www.saha jpark.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.1657456, 100.9344975
+UUID: 8425b17b-54b4-4303-9945-6a6c30b5a26a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

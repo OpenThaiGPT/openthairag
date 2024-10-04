@@ -1,0 +1,36 @@
+Title: บ้านยะมะรัชโช
+Content: บ้านหลังนี้มีประวัติศาสคร์ที่น่าสนใจสำหรับคนสุพรรณ หลายคนอาจจะไม่เคยรู้เรื่องราวของสถานที่แห่งนี้ .....หลายคนอาจจะเคยผ่านตา บ้านทรงไทยที่ทรุดโทรมดูเหมือนบ้านร้างเก่าๆกลางตัวเมืองหลังหนึ่ง แต่หากได้ทราบเรื่องราวความเป็นมาของตัวบ้านและผู้เป็นเจ้าของ คงจะทำให้เราต้องหันกลับมามองดูสถานที่แห่งนี้อย่างตั้งใจอีกครั้ง
+
+Nearby Location: ตั้งอยู่ในเขตเทศบาลเมืองสุพรรณบุรี
+Address: 109
+Region: ภาคกลาง
+Alley: 
+Road: หมื่นหาญ
+Subdistrict: 
+District: เมืองสุพรรณบุรี
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 082 3590669
+Email: korapinphan@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   15.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.467461491289711, 100.11576391798636
+UUID: 8cffc5ee-b681-4002-a474-7485a4c99806
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

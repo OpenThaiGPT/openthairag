@@ -1,0 +1,36 @@
+Title: ช้างสยามกระทิงลายและมอนสเตอร์เวิล์ด (Siam Elephant Village and Monsterworld)
+Content: ชมพิพิธภัณฑ์ช้าง พิพิธภัณฑ์สัตว์แปลก ชมโชวจากลิงแสนรู็ให้อาหารปลาฉลามหรือกิจกรรมผจญภัยต่างๆ
+
+Nearby Location: อยู่บนถนนทางหลวงพิเศษระหว่างเมืองพัทยา ระยอง ตำบลหนองปลาไหล
+Address: 112/1
+Region: ภาคตะวันออก
+Alley: 
+Road: พัทยา ระยอง
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 0 3817 0849, 0 3822 3904
+Email: chang.siam@hotmail.com
+Website: www.chang siam.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.30 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.9915276, 100.921806
+UUID: 33d6e451-ae77-4329-b8b9-290447310b1f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

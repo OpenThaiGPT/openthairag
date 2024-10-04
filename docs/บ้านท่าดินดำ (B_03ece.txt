@@ -1,0 +1,36 @@
+Title: บ้านท่าดินดำ (Ban Tha Din Dum)
+Content: อยู่ตำบลท่าดินดำ อำเภอชัยบาดาล ใกล้น้ำตกวังก้านเหลืองประมาณ 3 กม. จากถนนใหญ่เป็นหมู่บ้านพัฒนาแห่งหนึ่งของจังหวัดลพบุรี ชาวบ้านส่วนใหญ่มีอาชีพในการทำไร่ข้าวโพด และมีอาชีพรองในการทอเสื่อ ปลูกกระเทียมพันธุ์ดีและเลี้ยงโคนม
+
+Nearby Location: อยู่ใกล้องค์การบริหารส่วนตำบลท่าดินดำ อำเภอชัยบาดาล
+Address: 79 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: บัวชุม วังม่วง
+Subdistrict: 
+District: ชัยบาดาล
+Province: ลพบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.1420712, 101.1277659
+UUID: 7c2e406e-ace5-41bf-a04c-75801dcc5670
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

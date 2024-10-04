@@ -1,0 +1,36 @@
+Title: เขารัง (Khao Rang)
+Content: เป็นจุดชมวิวที่มองเห็นทิวทัศน์ได้กว้างไกล ตั้งอยู่บนเส้นทางสายเพชรบูรณ์ ตะพานหิน ถนนสายนี้สร้างขึ้นในสมัยสงครามโลกครั้งที่ 2 เพื่อเปิดสู่เมืองเพชรบูรณ์ การก่อสร้างถนนเต็มไปด้วยความยากลำบาก ผู้คนที่สร้างทางจำนวนมากเสียชีวิตด้วยโรคไข้มาลาเรีย
+
+Nearby Location: ตั้งอยู่บนเส้นทางสายเพชรบูรณ์ ตะพานหิน ตำบลวังชมภู อำเภอเมืองเพชรบูรณ์
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: เพชรบูรณ์ ตะพานหิน
+Subdistrict: ชอนไพร
+District: เมืองเพชรบูรณ์
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 02 561 0777 ต่อ 1742
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.2419527, 101.0176943
+UUID: 270dc53d-b3fc-4cde-ba8c-ceeda00ef2fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

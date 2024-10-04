@@ -1,0 +1,36 @@
+Title: วัดจันทร์ประสิทธิ์ (Wat Chan Prasit)
+Content: 
+
+Nearby Location: อยู่ในหมู่บ้านสร้างเสี่ยน ตำบลหนองบัวใต้ อำเภอศรีบุญเรือง
+Address: หมู่ 3 บ้านสร้างเสี่ยน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีบุญเรือง
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.8929767, 102.3709114
+UUID: 91664ee0-dfe3-4629-be7a-fd81accf6672
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

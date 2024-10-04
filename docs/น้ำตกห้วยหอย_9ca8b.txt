@@ -1,0 +1,36 @@
+Title: น้ำตกห้วยหอย
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แม่วิน
+District: แม่วาง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 20.30
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.6587554, 98.648966
+UUID: de07d046-8aa4-4e89-a77a-647331c4b1b8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

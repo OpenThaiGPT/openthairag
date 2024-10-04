@@ -1,0 +1,36 @@
+Title: สะพานพระปฐมบรมราชานุสรณ์ (Momorial Bridge)
+Content: 
+
+Nearby Location: ปลายถนนตรีเพชร แขวงวังบูรพาภิรมย์ เขตพระนคร กับปลายถนนประชาธิปก แขวงวัดกัลยาณ์ เขตธนบุรี  
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: ตรีเพชร
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: อนุสาวรีย์/อนุสรณ์สถาน
+Facilities Contact: 
+Telephone: 0 2628 9068 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.744593, 100.4996385
+UUID: 546ff053-abae-4642-bb10-74d81e04e1f6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

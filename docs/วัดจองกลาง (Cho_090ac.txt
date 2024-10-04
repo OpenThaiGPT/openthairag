@@ -1,0 +1,36 @@
+Title: วัดจองกลาง (Chong Klang Temple)
+Content: เป็นวัดแฝดของวัดจองคำ ตั้งอยู่ในขอบรั้ววัดเดียวกัน ภายในวิหารมีแท่นประทับสำหรับประดิษฐานองค์พระพุทธสิหิงค์จำลอง ปิดทองทั้งองค์ และภาพเขียนกระจก
+
+Nearby Location: ตั้งอยู่ข้างวัดจองคำ ตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน
+Address: 801
+Region: ภาคเหนือ
+Alley: 
+Road: ชำนาญสถิตย์
+Subdistrict: 
+District: เมืองแม่ฮ่องสอน
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5361 4494 , 08 1602 4304 , 0 5361 4417 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.29823967164298,97.9673831052246
+UUID: 177bbb92-8fb7-4961-9f71-1db882c8a6de
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

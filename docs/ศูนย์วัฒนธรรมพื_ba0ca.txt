@@ -1,0 +1,36 @@
+Title: ศูนย์วัฒนธรรมพื้นบ้านไทยทรงดำ
+Content: 
+
+Nearby Location: ใกล้วัดสะแกราย ตำบลดอนยายหอม
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ดอนยายหอม
+District: เมืองนครปฐม
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 08 6173 2307
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เวลา 08.00 17.00 น. (ควรติดต่อก่อนล่วงหน้า)
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.686513603681064, 100.06536728358292
+UUID: b4d089c6-bc61-4b3c-bb43-fdc9d96bb0a0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

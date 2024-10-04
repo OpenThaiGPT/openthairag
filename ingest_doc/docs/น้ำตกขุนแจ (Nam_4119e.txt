@@ -1,0 +1,38 @@
+Title: น้ำตกขุนแจ (Namtok Khun Chae)
+Content: เป็นน้ำตกที่สวยงาม มี 6 ชั้น บริเวณน้ำตกมีพื้นที่สำหรับปิกนิกและกางเต็นท์ ใช้เวลาเดินทางโดยรถยนต์จากที่ทำการอุทยานฯ 2 ชั่วโมง จากนั้นเดินเท้าต่ออีก 1 ชั่วโมง เพื่อไปยังน้ำตก
+
+Nearby Location: อยู่ในเขตอุทยานแห่งชาติขุนแจ ตำบลแม่เจดีย์ใหม่ อำเภอเวียงป่าเป้า
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เวียงป่าเป้า
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 09 5497 0659
+Email: 
+Website: www.facebook.com/KhunchaeNationalPark
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00   16.30 น.
+
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 19.1693733, 99.4078998
+UUID: 31f2a655-c8a1-4e3c-8eaf-57d6dc8d2994
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

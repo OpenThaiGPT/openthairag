@@ -1,0 +1,36 @@
+Title: โฮมสเตย์บ้านเมาะหลวง (Ban Mo Luang Homestay)
+Content: 
+
+Nearby Location: ตั้งอยู่แยกเด่นชัยเข้ามาประมาณ 6 กิโลเมตร ตรงข้ามวัดเวียงสวรรค์ ทางเข้าสังเกตุหน่วยป้องกันป่า
+Address: 25 หมู่ 8 บ้านเมาะหลวง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่เมาะ
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 09 3309 1686
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.2703925, 99.6315523999999
+UUID: ba86e4b8-81cb-4056-b20e-44c416247186
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

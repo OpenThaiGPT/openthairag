@@ -1,0 +1,36 @@
+Title: วัดสระหงษ์ (Wat Sra Hong)
+Content: บริเวณวัดเป็นลาดหินเนินเขา มีหินก้อนหนึ่งรูปร่างคล้ายหงส์ ซึ่งเกิดขึ้นเองตามธรรมชาติ ถัดจากศาลาวัดไปด้านหลังมีสระน้ำโบราณกว้างประมาณ 10 เมตร มีน้ำตลอดปี
+
+Nearby Location: อยู่ที่บ้านนกเขาน้อย ตำบลนาเสียว ห่างจากเมืองชัยภูมิ 12 กิโลเมตร มีแยกทางเข้าเดียวกับไปอ่างเก็บน้ำช่อระกา
+Address: บ้านนกเขาน้อย
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: กุดตุ้ม
+District: เมืองชัยภูมิ
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 088 077 3032
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.863450604096055,101.9644083827734
+UUID: 3421bd45-82f4-4e43-90de-0cb5dfad4317
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

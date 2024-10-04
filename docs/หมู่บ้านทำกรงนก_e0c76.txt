@@ -1,0 +1,36 @@
+Title: หมู่บ้านทำกรงนก (ไม่มี)
+Content: กลุ่มแม่บ้านกรงนก ก่อตั้งขึ้นในปี พ.ศ. 2539 เพื่อแก้ไขปัญหาการถูกเอาเปรียบจากพ่อค้าคนกลาง นอกจากนั้นยังขยายสู่การตั้งกลุ่มสัจจะออมทรัพย์และร้านค้าชุมชน กลุ่มแม่บ้านที่หมู่ 2 บ้านนา ตำบลบ้านนา ริเริ่มประดิษฐ์โคมไฟจากกรงนกขนาดเล็ก เพื่อจำหน่ายเป็นของที่ระลึกแก่นักท่องเที่ยวและร้านค้าในอำเภอจะนะ กรงนกมีหลายขนาด สนนราคาก็ไม่แพง?
+
+Nearby Location: ตั้งอยู่ที่หมู่ 2 บ้านนา ตำบลบ้านนา อำเภอจะนะ
+Address: หมู่ 2 บ้านสะกอม
+Region: ภาคใต้
+Alley:  
+Road: 
+Subdistrict: 
+District: จะนะ
+Province: สงขลา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์หัตถกรรม
+Facilities Contact: 
+Telephone: 0 7431 1899
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30   16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 6.943084, 100.798291
+UUID: 9ce5e7af-1763-47f1-850d-4409af606736
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

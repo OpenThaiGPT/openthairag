@@ -1,0 +1,36 @@
+Title: น้ำตกสุวรรณศิริ (Suwan Siri Waterfall)
+Content: 
+
+Nearby Location: อยู่ในเขตพื้นที่ตำบลบางใหญ่ อำเภอกระบุรี ห่างจากตัวอำเภอ 24 กิโลเมตร 
+Address: หมู่ 5 
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: กระบุรี
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.225419978259671, 98.7521066138118
+UUID: 04534055-6968-4fcc-bd0c-bb1764cc7e10
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

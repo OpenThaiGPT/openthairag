@@ -1,0 +1,36 @@
+Title: พลานถ้ำหินไฮ (ไม่มี)
+Content: เป็นพลานหินขนาดใหญ่เป็นจุดชมวิวที่สวนงาม
+
+Nearby Location: อยู่ในบริเวณภูนาทามทางตอนเหนือของอุทยานแห่งชาติผาแต้ม ตำบลนาโพธิ์กลาง อำเภอโขงเจียม
+Address: บ้านซะซอม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: โขงเจียม
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 4525 2581
+Email: phateam_np@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 05.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.448649475646477,105.58104336572262
+UUID: bef0f394-fa99-4351-a5f4-7f435d28928b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

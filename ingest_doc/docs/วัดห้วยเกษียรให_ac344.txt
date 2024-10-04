@@ -1,0 +1,37 @@
+Title: วัดห้วยเกษียรใหญ่ (Wat Tham Phutthacharo)
+Content: เป็นสถานที่อบรมสั่งสอนวิปัสสนากรรมฐาน สายพระอาจารย์มั่น ภูริทัตโต บริเวณวัดเงียบสงบ ร่มรื่น เหมาะกับการบำเพ็ญบุญและปฏิบัติธรรม
+
+Nearby Location: อยู่ใกล้ศูนย์ธรรมกมลา  ตำบลดงขี้เหล็ก
+Address: 75 หมู่ 12
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองปราจีนบุรี
+Province: ปราจีนบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3757 0277,0 3740 3296
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00 17.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.167538596948951,101.44449823426817
+UUID: 60b47a81-38e1-44c7-a209-99502467c718
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

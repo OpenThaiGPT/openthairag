@@ -1,0 +1,36 @@
+Title: วัดสะแก (Wat Sakae)
+Content: ภายในวัดมีกุฏิสงฆ์ อาคารทรงไทยแบบรามัญ เป็นอาคารเจดีย์ย่อมุมไม้สิบสองและเจดีย์แบบอื่น มีโบสถ์และหอระฆังเก่าสมัยอยุธยา
+
+Nearby Location: ห่างจากจังหวัดปทุมธานีประมาณ 6 กิโลเมตร ตำบลสามโคก อำเภอสามโคก
+Address: 42
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: สามโคก
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2977 2061
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0584607, 100.5366164
+UUID: 48a87a5b-c36d-400d-9fd2-b2319853fbc4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

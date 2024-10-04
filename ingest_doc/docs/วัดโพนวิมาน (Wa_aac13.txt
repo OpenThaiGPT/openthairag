@@ -1,0 +1,36 @@
+Title: วัดโพนวิมาน (Wat Pone Vimarn)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านโพนสว่าง ตำบลกุดสิมคุ้มใหม่
+Address: 93 หมู่ 7 บ้านโพนสว่าง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาวง
+Province: กาฬสินธุ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 1059 0732
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6903998, 104.0248096
+UUID: 23f16f81-7df2-4850-bba9-0d72a7b0ff23
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

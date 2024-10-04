@@ -1,0 +1,36 @@
+Title: วัดราษฎร์นิยมธรรม (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยสายไหม 52 ถนนสายไหม แขวงสาย เขตสายไหม
+Address: 41
+Region: ภาคกลาง
+Alley: สายไหม 52
+Road: สายไหม
+Subdistrict: 
+District: สายไหม
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2973 9999, 08 9992 1234
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9211999, 100.6607022
+UUID: 3b3d8a62-4b03-46a3-a01d-cc12d2cc48e5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

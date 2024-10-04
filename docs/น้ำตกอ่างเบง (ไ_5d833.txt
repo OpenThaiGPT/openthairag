@@ -1,0 +1,36 @@
+Title: น้ำตกอ่างเบง (ไม่มี)
+Content: น้ำตกอ่างเบง   ตั้งอยู่ในเขตรักษาพันธุ์สัตว์ป่าเขาสอยดาว ตำบลฉมัน อำเภอมะขาม จังหวัดจันทบุรี มีต้นน้ำมาจาก เขาสอยดาว ไหลลัดเลาะผ่านป่าเขาและลำธารจนเกิดเป็นน้ำตกขนาดกลางที่มีทั้งหมด 3 ชั้น
+
+Nearby Location: ตั้งอยู่ที่บ้านช่องแคบ หมู่ 8 ตำบลฉมัน อำเภอมะขาม
+Address: หมู่ 8 บ้านช่องแคบ
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ฉมัน
+District: มะขาม
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 081 774 7763
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.8659856, 102.2244717
+UUID: 0f2bcd32-f157-4679-bf06-9aee2c0df828
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

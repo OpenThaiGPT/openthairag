@@ -1,0 +1,36 @@
+Title: วัดผ่องพลอย วิริยาราม (Wat Phong Ploy Wiriyaram)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่หมู่บ้านศรีพงษ์ ถนนสุขุมวิท 105 เขตบางนา
+Address: 111 หมู่ 7 
+Region: ภาคกลาง
+Alley: ศรีพงษ์
+Road: สุขุมวิท 105
+Subdistrict: 
+District: บางนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2748 6833
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6533228, 100.6302226
+UUID: 7b55138e-7655-499a-9814-bd4bbbc8973d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

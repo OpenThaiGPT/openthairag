@@ -1,0 +1,36 @@
+Title: อ่าวยาง (Ao Yang)
+Content: มีบรรยากาศร่มรื่น มีบ้านพักและร้านอาหารของเอกชนบริการ อาจเช่าเรือจากหาดแหลมสิงห์ไปประมาณ ๓๐ นาที หรือทางรถยนต์ใช้เส้นทางสายท่าใหม่ บางกะไชย ถึงปากทางเข้าอ่าวยาง ระยะทาง ๒๒ กิโลเมตร จากนั้นเดินเท้าเข้าไปอีก ๑ กิโลเมตร มีบ้านพักบริการ
+
+Nearby Location: อยู่ใกล้กับอ่าวกระทิง ตำบลบางกะไชย อำเภอแหลมสิงห์
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: เกาะเปริด
+District: แหลมสิงห์
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone:  0 3939 7905
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการ 24 ชม.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.4777083, 102.0438021
+UUID: 8020fb80-536a-4b66-953b-6f9b130ed915
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

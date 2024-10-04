@@ -1,0 +1,36 @@
+Title: ดอยลาง (Doi Lang)
+Content: 
+
+Nearby Location: อยู่ในพื้นที่อุทยานแห่งชาติดอยผ้าห่มปก ตำบลแม่อาย อำเภอแม่อาย
+Address: หมู่ 9 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: มะลิกา
+District: แม่อาย
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 081 8853728 องค์การบริหารส่วนตำบลดอยลาง
+Email: 
+Website: www.abtdoilang.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 8.00 18.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.0862532, 99.2887485
+UUID: 349d5132-8aa4-4f27-abb2-ce3ca6e39a2f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

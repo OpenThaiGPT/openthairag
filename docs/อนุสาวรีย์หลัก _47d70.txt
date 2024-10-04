@@ -1,0 +1,36 @@
+Title: อนุสาวรีย์หลัก 60 ปี (60 Years Monument)
+Content: ชมสองอนุสาวรีย์หลัก 60 ปีถาวรวัตถุเกิดขี้นที่เรือขุดลำแรกของโลกได้มาทำการขุดแร่ดีบุกในทะเลจนได้รับความสำเร็จ
+
+Nearby Location: อยู่บริเวณสวนสาธารณะสะพานหิน ตำบลตลาดใหญ่ เมืองภูเก็ต
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: ภูเก็ต
+Subdistrict: ตลาดใหญ่
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 7621 2196, 0 7621 3551
+Email: admin@pkm.mail.go.th
+Website: www.phuketcity.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  ทุกวัน 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.8705237288469805,98.39527130126953
+UUID: 05f1df57-463b-4370-b50c-6475522b44ce
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

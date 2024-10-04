@@ -1,0 +1,36 @@
+Title: วัดถนนมะม่วง (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ที่ตำบลบางกะไชย มีพระองค์ใหญ่อยู่บนเขา มองเห็นได้จากระยะไกล
+Address: หมู่ 8
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: แหลมสิงห์
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3945 6314
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.5487307, 102.0045337
+UUID: 4db788c9-4ee7-4793-b47f-67991294638f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

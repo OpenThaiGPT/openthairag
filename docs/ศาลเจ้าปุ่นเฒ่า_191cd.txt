@@ -1,0 +1,36 @@
+Title: ศาลเจ้าปุ่นเฒ่ากง (Pueng Thao Kong Shrine)
+Content: 
+
+Nearby Location: ใกล้วัดคูขุด ตำบลบางหมาก เมืองชุมพร
+Address: หมู่ 3
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชุมพร
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.440696018121416, 99.24746464573275
+UUID: b0371ea9-59a2-4594-b373-119b139aefca
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

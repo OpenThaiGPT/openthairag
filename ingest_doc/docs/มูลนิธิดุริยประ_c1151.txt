@@ -1,0 +1,36 @@
+Title: มูลนิธิดุริยประณีต (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ในโรงเรียนวัดสังเวชวิศยาราม ใกล้ย่านบางลำภู เขตพระนคร
+Address: 83
+Region: ภาคกลาง
+Alley: สามเสน 1
+Road: สามเสน
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 2282 1006
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00  17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7649102, 100.4972184
+UUID: 85b236db-2b67-42b6-aefb-d330c86b0f0e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

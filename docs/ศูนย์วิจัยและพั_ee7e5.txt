@@ -1,0 +1,36 @@
+Title: ศูนย์วิจัยและพัฒนาประมงชายฝั่งพังงา (Phang nga Coastal Fisheries Research and Development Center)
+Content: ศูนย์วิจัยและพัฒนาประมงชายฝั่งพังงา จะมีการศึกษา วิจัย และพัฒนาการเพาะเลี้ยวสัตว์น้ำชายฝั่ง โดยมีการเพาะเลี้ยงชนิดสัตว์น้ำที่น่าสนใจคือ ปลาการ์ตูน  ปลาผีเสื้อ ปลาเก๋า ปลาหมอทะเล กุ้งทะเล หอยชักตีน รวมทั้งงานอนุรักษ์พันธ์สัตว์น้ำ เช่น หอยเมือเสือ เต่าทะเล บริเวณหน้าศูนย์ฯเป็นแหล่งวางไข่ของเต่ามะเฟือง ศูนย์ฯทำการรวบรวมไข่เต่าเพื่อนำมาฟักและอนุบาลให้แข็งแรงก่อนปล่อยคืนสู่ธรรมชาติ
+
+Nearby Location: ตั้งอยู่ตำบลท้ายเหมือง อำเภอท้ายเหมือง
+Address: 164 หมู่ 9
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ท้ายเหมือง
+Province: พังงา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 0 7643 2212
+Email: 
+Website: http://www.fisheries.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.4199728, 98.2423185
+UUID: 05765594-0b7e-4f89-bb23-0c8727e47542
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

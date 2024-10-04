@@ -1,0 +1,36 @@
+Title: บอลลูน แอดเวนเจอร์ ไทยแลนด์ เชียงใหม่ (Balloon Adventure Thailand)
+Content: ให้บริการบอลลูนเพื่อชมวิวของเมืองเชียงใหม่    ลอยขึ้นไปใน  บอลลูน  ลมร้อนเพื่อชมพระอาทิตย์ขึ้นจากด้านหลังภูเขา เพลิดเพลินไปกับทัศนียภาพมุมสูงของ  เชียงใหม่  อันงดงามในขณะที่คุณสัมผัสความงามอันกว้างใหญ่และไม่มีที่สิ้นสุดของท้องฟ้า
+
+Nearby Location: ภายในสวนพฤกษาศาสตร์ทวีชล
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: เชิงดอย
+District: ดอยสะเก็ด
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสนุก/สวนน้ำ
+Facilities Contact: 
+Telephone: 896851188
+Email: 
+Website: https://www.balloonadventurethailand.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.8571525, 99.101006
+UUID: a4d76861-3c12-4a51-a3fa-852f9e9b07b7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศูนย์กีฬาทางน้ำ (Water Sport Center)
+Content: 
+
+Nearby Location: อยู่บริเวณรอบสระหนองใหญ่ ตำบลบางลึก เมืองชุมพร
+Address: บริเวณรอบสระหนองใหญ่
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชุมพร
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.bangluek.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันอังคาร วันอาทิตย์ 09.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.542552382909669, 99.1963925120895
+UUID: 59b25f5c-332b-4de2-ac1d-e553a691be54
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

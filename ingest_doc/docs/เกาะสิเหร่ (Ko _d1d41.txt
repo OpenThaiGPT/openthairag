@@ -1,0 +1,40 @@
+Title: เกาะสิเหร่ (Ko Si re)
+Content: เป็นที่อยู่อาศัยของชาวเลหรือชาวน้ำที่เป็นประชากรดั้งเดิมของชาวภูเก็ต ชายหาดไม่เหมาะสำหรับการเล่นน้ำ พื้นทรายมีโคลนปน กราบนมัสการพรพุทธไสยาสน์องค์ใหญ่
+
+Nearby Location: อยู่ทางทิศตะวันออกเฉียงใต้ของเกาะภูเก็ต ตำบลรัษฏา เมืองภูเก็ต 
+Address: หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: รัษฎา
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: เทศบาลตำบลรัษฎา เบอร์โทร 076 525779 85
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 
+
+พื้นที่ชุมชน 
+
+เวลาที่แนะนำ 08.00 18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.885827436180613,98.42926025390625
+UUID: 2761abfb-0468-4633-8b3d-eaf2ed728463
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

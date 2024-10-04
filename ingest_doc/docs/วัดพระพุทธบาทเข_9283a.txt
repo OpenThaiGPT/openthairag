@@ -1,0 +1,36 @@
+Title: วัดพระพุทธบาทเขายายหอม (Wat Phra Phuttha Bat Khao Yai Hom)
+Content: ในบริเวณวัด มีลักษณะเป็นรอยพระพุทธบาทข้างซ้ายสีแดง ประทับลึกลงไปในลานหิน ปลายรอบพระพุทธบาทหันเยื้องไปทางทิศอาคเนย์
+
+Nearby Location: บริเวณลานหินบนยอดภูเขาหอม เทือกเขาพังเหย ดงพญาเย็น ตำบลนายางกลัก
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: นายางกลัก
+District: เทพสถิต
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 02 338 3324
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.683384022027086,101.6031688869
+UUID: 9fdfca2a-b5a7-47f5-b022-81b9c48c267c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

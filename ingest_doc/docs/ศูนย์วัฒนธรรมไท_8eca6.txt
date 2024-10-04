@@ -1,0 +1,36 @@
+Title: ศูนย์วัฒนธรรมไทยทรงดำ (Thai Song Dam Cultural Centre)
+Content: ตั้งอยู่ตำบลเขาย้อย เดินทางตามทางหลวงหมายเลข 4 เลยจากแยกอำเภอเขาย้อย มาทางตัวเมืองเพชรบุรีประมาณ 1 กิโลเมตร เลี้ยวซ้ายตรงทางเข้าโรงเรียนบ้านวัง
+
+Nearby Location: ตั้งอยู่ที่ตำบลเขาย้อย อำเภอเขาย้อย
+Address: หมู่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาย้อย
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 3256 1200
+Email: mod_thaisongdam@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.228123, 99.828153
+UUID: f1da106f-42bf-4e96-964b-97017022da30
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

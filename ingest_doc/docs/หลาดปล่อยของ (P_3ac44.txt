@@ -1,0 +1,36 @@
+Title: หลาดปล่อยของ (Phuket Indy Market)
+Content: ตั้งอยู่ในพื้นที่ลานจอดรถของศูนย์การค้า Limelight Avenue จำหน่ายของกิน ของใช้ แนววัยรุ่นมากมาย
+
+Nearby Location: ใกล้วัดมงคลนิมิตร ตำบลตลาดใหญ่ เมืองภูเก็ต
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: ดีบุกตัดใหม่
+Subdistrict: 
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 08 9474 5253
+Email: peter@bmsevent.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ ศุกร์ 16.00 22.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.88627109999999, 98.3916620999999
+UUID: 647e9f75-ebc1-4af3-9382-228e6bf20e5e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

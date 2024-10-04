@@ -1,0 +1,37 @@
+Title: ภูเขาเจดีย์ (Phu Khao Chedi)
+Content: เป็นการรวมตัวของกลุ่มก้อนหิน มีรอยแตกคล้ายกับหินที่ภูหินร่องกล้า สูงประมาณ 4 เมตร มีเส้นรอบวง 25 เมตร อยู่ที่หน่วยพิทักษ์อุทยานฯ ที่ ปด.1 (แก่งยายมาก)
+
+Nearby Location: อยู่ห่างจากที่ทำการอุทยานแห่งชาติปางสีดาประมาณ 40 กิโลเมตร ใกล้หน่วยพิทักษ์อุทยานฯที่ 1(แก่งยายมาก)
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: แก่งดินสอ
+District: นาดี
+Province: ปราจีนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 081 8621511/อุทยานแห่งชาติปางสีดา
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันเวลา 08.30 16.30 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: ติดต่อเจ้าหน้าที่ก่อนเดินทางท่องเที่ยวทุกครั้ง
+Location: 14.0782606, 102.2611556
+UUID: 219edc8a-e06e-483d-9b5b-244a404312fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

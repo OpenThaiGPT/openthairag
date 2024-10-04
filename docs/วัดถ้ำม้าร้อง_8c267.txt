@@ -1,0 +1,36 @@
+Title: วัดถ้ำม้าร้อง
+Content: วัดเขาถ้ำม้าร้อง ตั้งอยู่ในตำบลพงศ์ประสาสน์ อำเภอบางสะพาน จ.ประจวบคีรีขันธ์ ภายในถ้ำมีหลายคูหา มีหินงอกหินย้อยและบ่อน้ำศักดิ์สิทธิ์ คือถ้ำน้ำทิพย์ มีบ่อน้ำทิพย์ ของจังหวัดประจวบคีรีขันธ์
+
+Nearby Location: ตั้งอยุ่ตำบลพงศ์ประศาสน์ ห่างจากที่ว่าการอำเภอบางสะพานไปทางทิศใต้ประมาณ 2 กิโลเมตร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: พงศ์ประศาสน์
+District: บางสะพาน
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 032 691207
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดเวลา 08.30 16.30 น.ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.039232869643806, 99.82086814507277
+UUID: c3ec12a2-e1c1-4a71-90b7-1290dc04def2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

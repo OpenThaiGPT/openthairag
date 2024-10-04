@@ -1,0 +1,36 @@
+Title: วัดธรรมนิมิต (Wat Tham Nimit)
+Content: เป็นวัดโบราณสมัยกรุงศรีอยุธยาตอนปลาย ไม่ปรากฏว่าใครเป็นผุ้สร้างเดิมเรืยกว่า วัดคอกเป็ด  สี่งสําคัญของวัดนี้ ที่ควรมนัสการได้แก่ พระเจดีย์องค์ใหญ่และพระพุทธไสยาสน์ (พระนอนสีดํา)
+
+Nearby Location: ตั้งอยู่ที่ตำบลแม่กลอง อำเภอเมืองสมุทรสงคราม
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสมุทรสงคราม
+Province: สมุทรสงคราม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.4017531, 99.9969570999999
+UUID: d607f624-5385-472b-9d3a-87e2bc5d6bb9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,37 @@
+Title: จุดชมวิวบริเวณสะพานตากสินมหาราช (Taksin Maharat Bridge)
+Content: เป็นสะพานที่ข้ามระหว่างแหลมสิงห์ – บางกะไชย ทอดผ่านปากน้ำแหลมสิงห์ มีความยาว ระยะทาง ๑,๐๖๐ เมตร มีทัศนียภาพที่สวยงาม สามารถมองเห็นชุมชนประมงพื้นบ้าน นับว่าเป็นจุดชมวิวและชมพระอาทิตย์ตกที่สวยของจันทบุรี และยังเป็นจุดของนักนิยมตกปลาด้วย
+
+Nearby Location: อยู่ที่ตำบลบางกะไชย อำเภอแหลมสิงห์ ใกล้วัดปากน้ำแหลมสิงห์
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: แหลมสิงห์
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 3939 7905
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.4838972, 102.0598152
+UUID: bcd4e22a-3bec-47e0-99c0-ff32b7bff3fd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

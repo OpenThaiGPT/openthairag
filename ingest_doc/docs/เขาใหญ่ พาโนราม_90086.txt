@@ -1,0 +1,38 @@
+Title: เขาใหญ่ พาโนรามา ฟาร์ม (Khao Yai Panorama Farm)
+Content: เขาใหญ่พาโนราม่าฟาร์ม ฟาร์มเห็ดเพื่อสุขภาพที่สามารถเก็บเห็ดด้วยตนเองในโรงเพาะ เพื่อนำกลับไปปรุงอาหารที่บ้านด้วยความสนุกสนานพร้อมสาระและความรู้
+
+Nearby Location: อยู่ริมถนนธนะรัชต์ ตรงข้ามกับบ้านไม้เขาใหญ่ ตำบลหนองน้ำแดง อำเภอปากช่อง
+Address: 297 ม.6
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:   
+Road: ธนะรัชต์ 
+Subdistrict: 
+District: ปากช่อง
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 4475 6234
+Email: marketing1.kpf@ gmail.com
+Website: www.khaoyaipanoramafarm.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน (เว้นวันอังคาร) เวลา 09.00   17.00 น.
+
+วันหยุดและวันหยุดนักขัตฤกษ์ เวลา 09.00   19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 40.0
+Fee (EN): 40.0
+Fee (EN Kid): 40.0
+Remark: 
+Location: 14.387339481050965,101.79947083766172
+UUID: 0ce098f7-3bc6-475c-b681-b2ecce2b6f29
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

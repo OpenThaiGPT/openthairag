@@ -1,0 +1,36 @@
+Title: วัดขุมข้าว (Wat Khum Khao)
+Content: นมัสการสรีระหลวงปู่บุญเถิง อัตฐาโน อดีตเจ้าอาวาสซึ่่งไม่เน่าเปื่อย เป็นพระสงฆ์ที่มีเมตตาธรรมสูงเป็นที่เคารพนับถือของประชาชน ทั้งในท้องถพิ่น และต่างจังหวัด นอกจากนี้ ยังมี พระประทานในอุโบสถ เป็นพระพุทธรูปเก่าแก่ อายุนับร้อยปี
+
+Nearby Location: อยู่ใกล้วัดโพธิ์ทอง  ตำบลหนองแสง
+Address: หมู่ 2
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ปากพลี
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 6976 9429
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.199815287536177,101.30686336087797
+UUID: 3903a48a-536d-480c-ac8d-5ed957a70c0f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

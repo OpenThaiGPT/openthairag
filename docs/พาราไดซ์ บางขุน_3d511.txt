@@ -1,0 +1,36 @@
+Title: พาราไดซ์ บางขุนเทียน (Paradise Bangkuntien)
+Content: ตั้งอยู่ที่ 90/1 ตำบลคลองสวน อำเภอพระสมุทรเจดีย์ บริเวณรอยต่อ 3 จังหวัด คือ กรุงเทพฯ สมุทรปราการและสมุทรสาคร แยกจากถนนพระราม 2 ไปตามถนนเทียนทะเล
+
+Nearby Location: ตั้งอยู่ที่ตำบลคลองสวน อำเภอพระสมุทรเจดีย์ แยกจากถนนพระราม 2 ไปตามถนนเทียนทะเล 13 กิโลเมตรแล้วเลี้ยวซ้ายเข้าซอยเทียนทะเล 25 อีก 7 กิโลเมตร
+Address: 90/1
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: พระสมุทรเจดีย์
+Province: สมุทรปราการ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ศูนย์ศึกษาธรรมชาติ/พิพิธภัณธ์ธรรมชาติ (พืชพันธุ์)
+Facilities Contact: 
+Telephone: 0 2541 9508 9
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.5737973, 100.5521142
+UUID: df4a262d-4ce6-4f50-bbc6-df2dc4fee4db
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

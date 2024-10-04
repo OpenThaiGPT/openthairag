@@ -1,0 +1,36 @@
+Title: น้ำตกแม่ระเมิง (Mae Ra Merng Waterfall)
+Content: น้ำตกแม่ระเมิงเป็นแหล่งท่องเที่ยวที่ได้รับความนิยมของจังหวัดตาก เป็นน้ำตกขนาดเล็ก 2 ชั้น มีความสูง 15 เมตร มีความสวยงามร่มรื่นด้วยต้นไม้น้อยใหญ่ ฉ่ำเย็นด้วยละออกน้ำกระจายทั่วบริเวณ ฟังสายน้ำสีขาวที่ไหลยาวลงสู่แอ่งน้ำเบื้องล่าง เหมาะสำหรับการพักผ่อนที่เงียบสงบโดยแท้
+
+Nearby Location: อยู่ห่างจากที่ทำการของอุทยานแห่งชาติแม่เมย ตำบลแม่สอง
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่าสองยาง
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.481848608752273,98.07460301446531
+UUID: a2e4b9d2-07ee-44ff-8482-b93876b7ace6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

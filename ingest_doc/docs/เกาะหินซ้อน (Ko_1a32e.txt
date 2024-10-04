@@ -1,0 +1,36 @@
+Title: เกาะหินซ้อน (Ko Hin Son)
+Content: (รวมอยู่ในหมู่เกาะอาดังราวี)มีลักษณะแปลกคือ หินขนาดใหญ่ 2 ก้อนวางซ้อนตัวกันอยู่กลางทะเล
+
+Nearby Location: อยู่ทางทิศตะวันตกเฉียงเหนือของเกาะหลีเป๊ะ อยู่ห่างจากเกาะอาดังและเกาะสิมิลัน 15 20 กิโลเมตร
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสตูล
+Province: สตูล
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7478 3485
+Email: tarutaosatun.go@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 6.501394820799506,99.18148845434189
+UUID: ff2f4d92-5a65-4cd7-b14c-f57371d74e35
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: คอกช้างดิน (Kok Chang Din)
+Content: เป็นคอกช้างโบราณ สันนิษฐานว่ามีิอายุราว 1,500 ปีที่แล้ว ปัจจุบันขุดพบทั้งหมดสามคอก มีเนื้อที่กินบริเวณประมาณ 10 ไร่
+
+Nearby Location: ตั้งอยู่ใกล้วัดเขาถ้ำเสือ ตำบลจรเข้สามพัน อำเภออู่ทอง
+Address: หมู่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: อู่ทอง
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 08 1943 5188
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.3495396, 99.8619839999999
+UUID: 50a742ac-44c2-4e41-9d72-a9cfbbfd7ab7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

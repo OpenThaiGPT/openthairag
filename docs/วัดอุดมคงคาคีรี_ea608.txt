@@ -1,0 +1,36 @@
+Title: วัดอุดมคงคาคีรีเขต (Wat Udom Khongkha Khiri Khet)
+Content: เป็นวัดป่าของหลวงปู่ผางซึ่งเคยเป็นพระเกจิอาจารย์ที่มีชื่อเสียงเป็นที่เคารพสักการะของพุทธศาสนิกชนทั่วไป ปัจจุบันท่านมรณภาพแล้ว แต่มีอนุสรณ์สถานที่บรรจุอัฐิของหลวงปู่ผางอยู่ในบริเวณวัด วัดนี้ตั้งอยู่บริเวณเชิงเขามีต้นไม้ป่าขึ้นอยู่ร่มรื่น เป็นวัดที่เน้นการปฏิบัติวิปัสสนา
+
+Nearby Location: ใกล้กับอุทยานแห่งชาติน้ำพอง ตำบลบ้านโคก อำเภอโคกโพธิไชย
+Address: หมู่ 6
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: โคกโพธิ์ไชย
+Province: ขอนแก่น
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.145494, 102.384102
+UUID: addd62d7-0bd5-4bd1-ae84-7fea737d88fb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,37 @@
+Title: เขาสามมุข (Khao Sam Muk)
+Content: เขาสามมุขสัญลักษณ์ในดวงตราประจำจังหวัดชลบุรี เป็นเนินเขาเตี้ย ๆ อยู่กึ่งกลางระหว่างบ้านอ่างศิลา และหาดบางแสน เชิงเขาเป็นที่ตั้งศาลเจ้าแม่เขาสามมุข ซึ่งเป็นที่เคารพสักการะของคนทั่วไป บริเวณเขาสามมุขมีลิงป่าอาศัยอยู่เป็นจำนวนมาก หากขับรถไปขึ้นไปบนเขาจะมองเห็นวิวทิวทัศน์ของทะเลบางแสนได้สวยงาม
+
+Nearby Location: อยู่ใกล้หาดบางแสน ตำบลอ่างศิลา
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: อ่างศิลา บางแสน
+Subdistrict: 
+District: เมืองชลบุรี
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 3819 3500
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.3046183, 100.9025866
+UUID: 997c2c04-1af3-4e84-b543-491587496361
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

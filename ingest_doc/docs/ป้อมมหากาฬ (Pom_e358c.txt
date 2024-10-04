@@ -1,0 +1,36 @@
+Title: ป้อมมหากาฬ (Pom Maha Kan)
+Content: ป้อมมหากาฬ ตั้งอยู่บริเวณเชิงสะพานผ่านฟ้าลีลาศ ติดกับถนนมหาไชย แขวงบวรนิเวศ เขตพระนคร กรุงเทพมหานคร ทางด้านหลังมีกำแพงเมืองพระนครหลงเหลืออยู่
+
+Nearby Location: อยู่ตรงสะพานผ่านฟ้า ถนนราชดำเนินกลาง เขตพระนคร
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: ราชดำเนินกลาง
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7537368, 100.5049703
+UUID: a0ae8f81-2af3-410a-a124-6b23fc66e1a6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

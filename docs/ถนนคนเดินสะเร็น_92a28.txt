@@ -1,0 +1,36 @@
+Title: ถนนคนเดินสะเร็นมาร์เก็ต (Saren Market)
+Content: เป็นถนนคนเดินที่รวมสินค้า ของฝาก ของที่ระลึก สินค้าแฮนด์เมด งานศิลปะ ของสะสม อาหารโบราณพื้นบ้านให้ได้เลือกช้อปอย่างมากมาย
+
+Nearby Location: อยู่ริมถนนคชสาร ข้างสนามศรีณรงค์ อำเภอเมืองสุรินทร์
+Address: หมู่ 17 บ้านศรีณรงค์
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: คชสาร
+Subdistrict: 
+District: เมืองสุรินทร์
+Province: สุรินทร์
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 17.00 21.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.8705731, 103.4913048
+UUID: 9a3692c3-3e42-4665-bc3e-6dbffbfc4506
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

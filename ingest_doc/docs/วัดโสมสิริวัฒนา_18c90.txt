@@ -1,0 +1,36 @@
+Title: วัดโสมสิริวัฒนาราม (Wat Som Siri Watthanaram)
+Content: 
+
+Nearby Location: อยู่ที่บ้านหัวหมาด ใกล้วัดสุวรรณนิมิต ตำบลทุ่งหลาง อำเภอละแม
+Address: 120 หมู่ 5 บ้านหัวหมาด
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: ละแม
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.82651499999999, 99.063936
+UUID: 01a68a4c-4d74-4d8e-a1e4-73ffa7dba233
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

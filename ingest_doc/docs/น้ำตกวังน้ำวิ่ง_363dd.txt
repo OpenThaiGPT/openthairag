@@ -1,0 +1,36 @@
+Title: น้ำตกวังน้ำวิ่ง (Wang Nam Wing Waterfall)
+Content: เป็นน้ำตกที่เกิดจากน้ำผุดไหลลดหลั่นกันอย่างสวยงาม ประมาณ 3 ชั้น มีน้ำตลอดทั้งปี บรรยากาศร่มรื่นเย็นสบาย
+
+Nearby Location: ห่างจากตัวจังหวัดประมาณ 100 กิโลเมตร 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ตากฟ้า
+Province: นครสวรรค์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5624 1322 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 15.335973, 100.559925
+UUID: c97b3e35-c63f-4b7c-b4d5-5927665aaa91
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

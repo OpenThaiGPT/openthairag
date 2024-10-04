@@ -1,0 +1,36 @@
+Title: สวนคุณน้อย (ไม่มี)
+Content: ท่องเที่ยวเชิงเกษตร ชมสวน ชิมผลไม้ อาทิ ทุเรียน มังคุด เงาะปลอดสารพิษ พร้อมชมการแปรรูปผลผลิตทางการเกษตร
+
+Nearby Location: ใกล้ชบาแก้วรีสอร์ท ตำบลวังหว้า อำเภอแกลง
+Address: 35
+Region: ภาคตะวันออก
+Alley: 
+Road: เจริญสุข
+Subdistrict: กระแสบน
+District: แกลง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 1940 4384, 08 9025 5259
+Email: suankhunnoy@gmail.com
+Website: https://www.facebook.com/suankhunnoy/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.7803757, 101.6296366
+UUID: 51be5a40-a343-4158-b0fa-0a2022ab906e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

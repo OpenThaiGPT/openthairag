@@ -1,0 +1,36 @@
+Title: สวนกล้วยไม้บุญเติม (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ใกล้กับวัดซำอ้อ ใช้ทางหลวงชนบทปทุมธานี 3221
+Address: 19/2 หมู่ 3
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: หนองเสือ
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 2905 9355
+Email: 
+Website: www.pathumthanitourist.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0411855, 100.7970014
+UUID: c12c4b26-1bfe-461d-930a-6f7fe9b0f4cd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

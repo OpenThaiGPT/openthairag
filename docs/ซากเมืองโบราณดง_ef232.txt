@@ -1,0 +1,36 @@
+Title: ซากเมืองโบราณดงเมืองเตย (Dong Muang Toey Ancient Town)
+Content: 
+
+Nearby Location: อยู่ทางทิศใต้ของบ้านสงเปือย ห่างจากตัวอำเภอคำเขื่อนแก้วประมาณ 7 กิโลเมตร
+Address: หมู่ 8 บ้านสงเปือย
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: คำเขื่อนแก้ว
+Province: ยโสธร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.639914625796292,104.2580772324219
+UUID: 003a030a-2d6a-40d6-b04f-0091b89f8929
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

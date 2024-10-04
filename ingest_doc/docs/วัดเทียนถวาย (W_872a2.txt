@@ -1,0 +1,36 @@
+Title: วัดเทียนถวาย (Wat Tiantawai)
+Content: 
+
+Nearby Location: ตั้งอยู่ในพื้นที่ราบลุ่มริมฝั่งแม่น้ำเจ้าพระยา ใกล้ปากคลองรังสิตประยูรศักดิ์ อยู่ห่างจากถนนติวานนท์เข้าซอยวัดเทียนถวายประมาณ 1,150 เมตร
+Address: 122 หมู่ 2
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: บ้านใหม่
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2501 2295
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9629376, 100.5403128
+UUID: 35f8eb84-9b1c-418f-a7e1-ef17e9448e88
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

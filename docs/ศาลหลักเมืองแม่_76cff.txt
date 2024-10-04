@@ -1,0 +1,36 @@
+Title: ศาลหลักเมืองแม่สาย (Maesai City shrine)
+Content: ศาลหลักเมืองแม่สายที่ซึ่งเป็นที่ตั้งของเสาหลักเมืองอันศักดิ์สิทธิ์พระบรมราชานุสาวรีย์พระเจ้าพรหมมหาราชกษัตริย์มหาราชพระองค์แรกของไทย
+
+Nearby Location: ตั้งอยู่ในบริเวณที่ว่าการอำเภอแม่สาย 
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road:  
+Subdistrict: เกาะช้าง
+District: แม่สาย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 053 731 288 (ที่่ว่าการอำเภอแม่สาย)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชม.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.409959979280756,99.89112854003906
+UUID: 34459f46-11b1-4588-bfc7-98feeabdf996
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

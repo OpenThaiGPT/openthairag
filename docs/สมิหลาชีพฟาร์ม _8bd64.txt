@@ -1,0 +1,36 @@
+Title: สมิหลาชีพฟาร์ม (Samila Sheep Farm)
+Content: สมิหลาชีพฟาร์ม ที่ท่องเที่ยวแบบฟาร์มสัตว์แห่งแรกของภาคใต้ฝั่งอ่าวไทย ซึ่งรวบรวมความน่ารัก น่าหยิก ของสัตว์น้อยนานาชนิดไว้ในที่เดียว ทั้งเจ้าม้า วัว แพะ และแกะสายพันธุ์ใหม่ พ่วงท้ายด้วยบริการที่พักสไตล์แคมป์ปิ้ง ไว้สำหรับผู้มาเยือนที่หลงเจ้าแกะขนปุย
+
+Nearby Location: อยู่ในสงขลาอควาเรียม หาดสมิหลา ตำบลบ่อยาง เมืองสงขลา
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 0 7432 3000
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30   16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.225372053507568, 100.57992993663969
+UUID: b89cb1d2-8fdc-4ce9-9c84-1e36acee8d13
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

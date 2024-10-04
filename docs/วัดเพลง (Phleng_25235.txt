@@ -1,0 +1,36 @@
+Title: วัดเพลง (Phleng Temple)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมคลองวัดสักใหญ่ ตำบลบางขนุน อำเภอบางกรวย
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางกรวย
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 0 2446 7535 อบต.บางขนุน, 08 9455 6699 คุณสมพิศ
+Email: 
+Website: www.bangkhanoon.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  16.00 น.จันทร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8148611, 100.4668611
+UUID: 68e196e8-2c01-4b82-bfb3-7523df991b59
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

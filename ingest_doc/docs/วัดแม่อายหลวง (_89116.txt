@@ -1,0 +1,36 @@
+Title: วัดแม่อายหลวง (Wat Mae Ai Luang)
+Content: เป็นวัดที่สร้างด้วยศิลปะไทยใหญ่ มีความงดงามมากและเป็นศูนย์รวมของชาวไทยใหญ่
+
+Nearby Location: อยู่ใกล้โลตัสอำเภอแม่อาย บ้านแม่อาย ตำบลแม่อาย ถนนสายฝาง ท่าตอน
+Address: บ้านแม่อาย
+Region: ภาคเหนือ
+Alley: 
+Road: ฝาง ท่าตอน
+Subdistrict: แม่อาย
+District: แม่อาย
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 053 459 127
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08:00 21:00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.031449, 99.295689
+UUID: 4e176466-5bef-42d0-86a0-294b44b8a75e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

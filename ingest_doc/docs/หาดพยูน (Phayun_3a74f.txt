@@ -1,0 +1,36 @@
+Title: หาดพยูน (Phayun Beach)
+Content: ตั้งอยู่ที่อำเภอบ้านฉาง ห่างจากตัวเมืองระยอง ๓๒ กม. และ ๓๔ กม. ตามลำดับ เป็นชายหาดยาวติดต่อกัน มีความสวยงามและสงบเหมาะสำหรับเป็นที่พักผ่อน โดยเฉพาะที่หาดพลา มีสวนสนปลูกไว้หนาแน่นสวยงามและร่มรื่น มี โรงแรมระดับมาตรฐาน และบังกะโลให้เลือกพักหลายแห่ง
+
+Nearby Location: อยู่ใกล้สนามบินอู่ตะเภา ห่างจากตัวเมืองระยองประมาณ 32 กิโลเมตร 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: บ้านฉาง
+District: บ้านฉาง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 038 630667 ถึง 70
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอด 24 ชม.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.675006, 101.067281
+UUID: ec6fb5c3-d2da-4813-9dfe-d5354fa101df
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

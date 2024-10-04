@@ -1,0 +1,36 @@
+Title: โครงการหลวงห้วยลึก (Huai Luek Royal Project)
+Content: โครงการนี้ดำเนินการจัดพื้นที่ทำกินให้แก่ชาวเขาเผ่าแม้ว กะเหรี่ยง และคนเมืองในบริเวณพื้นที่ โดยทำการส่งเสริม วิจัย และเพาะพันธุ์ให้แก่เกษตรกร ผลิตผล ได้แก่ ผักจำพวกผักสลัด แคนตาลูป ฯลฯ ไม้ดอก เช่น เบญจมาศ พีค็อก ฯลฯ ไม้ผล เช่น เสาวรส ทับทิม ฝรั่งคั้นน้ำ เป็นต้น ฤดูท่องเที่ยวของที่นี่จะอยู่ระหว่างเดือนพฤศจิกายน มีนาคม เนื่องจากมีผลิตผลให้ชมและซื้อหาได้
+
+Nearby Location: ใกล้วัดศรีเมืองงาม ตำบลปิงโค้ง อำเภอเชียงดาว
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ปิงโค้ง
+District: เชียงดาว
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 5345 1116 ต่อศูนย์ห้วยลึก
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 7.00 17.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.5313159, 99.05488109999999
+UUID: 505ba85f-472b-494d-bc1c-52707db26614
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

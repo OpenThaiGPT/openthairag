@@ -1,0 +1,36 @@
+Title: อุทยานหินเขางู (Khao Ngu Stone Park)
+Content: อุทยานหินเขางู เดิมเป็นแหล่งสัมปทานระเบิดหินและย่อยหินแต่ถูกยกเลิกไปแล้ว ปัจจุบันจึงยังหลงเหลือร่องรอยที่เป็นลวดลายธรรมชาติของภูเขาหินปูนที่ถูกล้อมรอบด้วยบ่อน้ำ และมีสะพานแขวนเป็นจุดไฮไลท์ ที่นักท่องเที่ยวนิยมมาถ่ายรูป ชมวิวทิวทัศน์ที่สวยงามของธรรมชาติ
+
+Nearby Location: อยู่ห่างจากตัวจังหวัดราชบุรีประมาณ 8 กิโลเมตร ตำบลเกาะพลับพลา อำเภอเมือง จังหวัดราชบุรี
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เกาะพลับพลา
+District: เมืองราชบุรี
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 0 3239 1308
+Email: khaongu@hotmail.com , admin@khaongu.go.th
+Website: https://khaongu.go.th/public/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00–18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.5688265, 99.77545429999999
+UUID: 33dbc181-cf31-4692-ae1d-198fd932ece9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

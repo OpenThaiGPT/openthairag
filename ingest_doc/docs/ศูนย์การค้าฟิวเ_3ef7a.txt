@@ -1,0 +1,36 @@
+Title: ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต (Future Park Rangsit)
+Content: 
+
+Nearby Location: อยู่ตรงข้ามตลาดรังสิต ตำบลประชาธิปัตย์
+Address: 94
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: ธัญบุรี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2958 0011 ต่อ 8
+Email: futurepark@futurepark.co.th
+Website: www.futurepark.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.30 22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9892943, 100.6174065
+UUID: b3e0b150-5e83-49f6-bee4-3d0c81f9aa98
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

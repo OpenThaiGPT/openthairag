@@ -1,0 +1,7 @@
+flask
+pymilvus==2.4.7
+transformers
+torch
+scikit-learn
+gunicorn
+numpy

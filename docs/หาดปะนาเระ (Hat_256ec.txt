@@ -1,0 +1,36 @@
+Title: หาดปะนาเระ (Hat Panare)
+Content: เป็นหมู่บ้านชาวประมงหลายร้อยหลังคาเรือน บนหาดทรายมีเรือกอและ และเรือประมงนานาชนิดจอดเรียงรายอยู่ทั่วทั้งหาด หาดทรายไม่เหมาะแก่การเล่นน้ำ เพราะเป็นหมู่บ้านชาวประมงและที่จอดเรือ
+
+Nearby Location: ตำบลปานาเระ อำเภอปานาเระ จังหวัดปัตตานี อยู่ห่างจากตัวอำเภอประมาณ 3 กิโลเมตร
+Address: หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปานาเระ
+Province: ปัตตานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 0 7349 9015
+Email: 
+Website: www.pattanilocal.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 6.87304399999999, 101.474569
+UUID: 1f2a1373-9814-48ce-9d91-c568e94c4303
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำแม่ธิโครงการในพระราชดำริ (Mae Thi Reservoir)
+Content: สันเขื่อนกว้าง 470 เมตร ยาวประมาณ 6  กิโลเมตร บรรจุน้ำ 5 ล้านลูกบาศก์เมตร ใช้ในพื้นที่การเกษตร 5,000 ไร่ และยังเป็นสถานที่ท่องเที่ยวที่มีทัศนียภาพอันสวยงาม ทิวทัศน์ภูเขาสวยต้นไม้เขียวขจี น่ารื่นรมย์ เหมาะแก่การพักผ่อนหย่อนใจ
+
+Nearby Location: อยู่ที่ตำบลบ้านธิ ห่างจากอำเภอบ้านธิ 5 กิโลเมตร  
+Address: หมู่ 9 บ้านดอยเวียง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: บ้านธิ
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอด
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.6138889, 99.1847222
+UUID: 7073bee5-a686-4642-a3a3-71e223ae0092
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ตลาดน้ำมหานคร (Mahanakorn Floating Market)
+Content: ตลาดน้ำมหานคร ได้เปิดให้บริการเป็นแหล่งพักผ่อนหย่อนใจและศูนย์ช้อปปิ้งชานเมืองที่ลาดกระบัง ไม่ไกลจากสนามบินสุวรรณภูมิมากนัก
+
+Nearby Location: อยู่ใกล้กับสนามกอล์ฟรอยัลลาดกระบัง เขตลาดกระบัง
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ลาดกระบัง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2172 9676 8
+Email: mahanakorn_09@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 09.00 24.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7226424, 100.7903217
+UUID: d5ad7514-a0ed-4f5a-9e65-9e434a0d7325
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

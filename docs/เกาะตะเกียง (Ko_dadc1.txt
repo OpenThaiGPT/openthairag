@@ -1,0 +1,36 @@
+Title: เกาะตะเกียง (Ko Takiang)
+Content: เป็นแหล่งดำน้ำดูประการังน้ำตื่นที่มีความสวยงามอีกแหล่งหนึ่ง ในเขตอุทยานแห่งชาติตะรุเตา
+
+Nearby Location: อยู่บนเส้นทางเดินเรือระหว่างเกาะตะรุเตา – เกาะลิดี อยู่ในเขตอุทยานแห่งชาติหมู่เกาะเภตรา ห่างจากฝั่งเขตอำเภอปะเหรียงประมาณ 20 กิโลเมตร
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ละงู
+Province: สตูล
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7478 3485
+Email: Tarutaosatun.go@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00  18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 6.732036205955163,99.70659255981445
+UUID: 040095ae-afd8-4421-ad19-53a6806ed27b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

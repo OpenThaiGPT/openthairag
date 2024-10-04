@@ -1,0 +1,36 @@
+Title: พีระอินเตอร์เนชั่นแนลเซอร์กิต พัทยา (Phira International Circuit Race Course)
+Content: สนามแข่งรถพีระอินเตอร์เนชั่นแนลเซอร์กิตเป็นสนามแข่งรถจักรยานยนต์ระดับนานาชาติ และเป็นสนามแข่งรถมาตรฐานแห่งแรกในประเทศไทย ที่ได้รับการรับรองจากสมาพันธ์กีฬาแข่งรถนานาชาติ (F.I.A.) มีเนื้อที่ประมาณ 326 ไร่  มีการแข่งขันเป็นประจำในวันเสาร์ และอาทิตย์
+
+Nearby Location: อยู่ใกล้กับมหาวิทยาลัยธรรมศาสตร์ ศูนย์พัทยา ตำบลโป่ง
+Address: 111 หมู่ 5
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 3893 8140
+Email: info@bbira.co.th
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 21.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.9218222, 101.0079521
+UUID: fbfdbf88-4de1-42e2-9220-0f9597f68f3e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

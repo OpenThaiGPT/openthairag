@@ -1,0 +1,36 @@
+Title: ฟาร์มงูพังกา (Phang Ka Snake Farm)
+Content: ภายในฟาร์มได้จัดแสดงงูหลายชนิด มีการแสดงโชว์ของงู และแมลงป่อง
+
+Nearby Location: ตั้งอยู่อยู่บริเวณสี่แยกบ้านพังกา ริมทางหลวงหมายเลข 4170  ตำบลตลิ่งงาม
+Address: 88/2 หมู่ 4
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 093 6205784, 092 9793996
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน มีโชว์ตั้งแต่เวลา 11.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 250.0
+Fee (TH Kid): 100.0
+Fee (EN): 300.0
+Fee (EN Kid): 500.0
+Remark: 
+Location: 9.4304375, 99.94506249999999
+UUID: 800944be-bb68-4bd3-ba3f-ca16de2263e0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

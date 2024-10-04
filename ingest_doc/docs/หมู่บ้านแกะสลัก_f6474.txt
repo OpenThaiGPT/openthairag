@@ -1,0 +1,36 @@
+Title: หมู่บ้านแกะสลักอำเภอแม่ทา (Carving Village,Amphoe Mae Tha)
+Content: เป็นแหล่งผลิตไม้แกะสลักรูปแบบต่าง ๆ เช่น รูปคน รูปสัตว์ เครื่องใช้ภายในบ้าน เครื่องประดับบ้าน ของเล่นเด็ก เป็นอุตสาหกรรมภายในครัวเรือนส่งไปขายยังจังหวัดเชียงใหม่และใกล้เคียง
+
+Nearby Location: ตำบลทาทุ่งหลวง อำเภอแม่ทา ห่างแยกไฟแดงป่าห้า 10 กิโลเมตร
+Address: บ้านหนองยางไคล
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่ทา
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: หมู่บ้าน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.4316899, 99.0513630999999
+UUID: dfcd144e-a37c-46f1-91b8-7a5e82f22aa0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

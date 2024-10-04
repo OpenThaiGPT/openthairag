@@ -1,0 +1,36 @@
+Title: ตลาดไนท์บาซ่าสุรินทร์ (Surin Night Bazaar)
+Content: ตลาดกลางคืนของคนเมืองสุรินทร์ อ.เมือง จ.สุรินทร์ มีสินค้าหลากหลายให้เลือกซื้อ ได้แก่ เสื้อผ้าแฟชั่นหลากสไตล์ ผลไม้ อาหารคาว หวาน และอื่นๆ
+
+Nearby Location: อยู่บริเวณหอนาฬิกา ตำบลในเมือง อำเภอเมืองสุรินทร์
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: กรุงศรีใน
+Subdistrict: 
+District: เมืองสุรินทร์
+Province: สุรินทร์
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 18.00 23.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.8876642, 103.4894918
+UUID: 78450307-9e8d-4569-a701-c2415e1062b9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

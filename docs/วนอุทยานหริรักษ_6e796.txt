@@ -1,0 +1,36 @@
+Title: วนอุทยานหริรักษ์ (Hariruk National Park)
+Content: วนอุทยานหริรักษ์ จัดทำขึ้นโดยกรมป่าไม้ ดำเนินการจัดตั้งเป็นวนอุทยาน เพื่อพัฒนาเป็นแหล่งท่องเที่ยวต่อไป และเมื่อวันที่ ๑๗ กันยายน พ.ศ. ๒๕๓๓ กรมป่าไม้ได้จัดตั้งวนอุทยานหริรักษ์ขึ้นซึ่งมีเนื้อที่ ประมาณ ๑๐ ตารางกิโลเมตร หรือประมาณ ๖,๒๕๐ ไร่ ต่อมาได้ขอผนวกพื้นที่ด้านทิศตะวันออกเพิ่มขึ้นอีก ๒,๐๐๐ ไร่ รวมพื้นที่ทั้งหมด ประมาณ ๘,๒๕๐ ไร่ หรือประมาณ ๑๓.๒๐ ตารางกิโลเมตร สภาพพื้นที่เป็นป่าเบญจพรรณ ผสมป่าไผ่มีภูเขาขนาดเล็กล้อมรอบหลายลูก และมีอ่างเก็บน้ำขนาดใหญ่ (ประมาณ ๑,๕๐๐ ไร่)
+
+Nearby Location: ห่างจากอ่างเก็บน้ำห้วยกระทิงไปอีก 7 กิโลเมตร
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองเลย
+Province: เลย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: วนอุทยาน
+Facilities Contact: 
+Telephone: 0 4281 1112
+Email: reserve@dnp.go.th
+Website: https://www.facebook.com/HarirakForestPark/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.5088174, 101.6140421
+UUID: 97bd127c-8862-41a6-8369-e16451176a9e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

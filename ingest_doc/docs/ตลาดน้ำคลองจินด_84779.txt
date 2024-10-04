@@ -1,0 +1,36 @@
+Title: ตลาดน้ำคลองจินดา (Khlong Jinda Floating Market)
+Content: ปัจจุบัน ปิดดำเนินการแล้ว
+
+Nearby Location: บริเวณวัดปรีดาราม ตำบลคลองจินดา
+Address: หมู่ 10 บ้านคลองผู้ใหญ่โต๊ะ
+Region: ภาคกลาง
+Alley: 
+Road: ริมบึง
+Subdistrict: กระทุ่มล้ม
+District: สามพราน
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 3430 7988
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ปัจจุบัน ปิดดำเนินการแล้ว
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: ปัจจุบัน ปิดดำเนินการแล้ว
+Location: 13.711004, 100.1510879
+UUID: be574f27-0491-4bee-abc0-1937d6f59943
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

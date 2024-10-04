@@ -1,0 +1,41 @@
+Title: บ่อน้ำร้อนผาเสริฐ (Phasoet Hot Spa)
+Content: ประกอบด้วย
+บ่อน้ำแร่หลัก
+บ่อน้ำแร่รออง
+สระน้ำกลางแจ้ง
+ห้องแช่น้ำแร่แบบส่วนตัว
+บ่อแช่ไข่
+
+Nearby Location: ตั้งอยู่บริเวณริมลำห้วยโป่งน้ำร้อน ตำบลดอยฮาง ห่างจากตัวเมืองเชียงราย 20 กิโลเมตร 
+Address: 261 หมู่ 3
+Region: ภาคเหนือ
+Alley:  
+Road:  
+Subdistrict: 
+District: เมืองเชียงราย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ
+Facilities Contact: 
+Telephone: 0 5360 9117 , 0 5317 0545 6
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 30.0
+Fee (TH Kid): 10.0
+Fee (EN): 30.0
+Fee (EN Kid): 10.0
+Remark: 
+Location: 19.9224952,99.7660318
+UUID: d132aff9-0056-4818-9404-2b45e98c4352
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

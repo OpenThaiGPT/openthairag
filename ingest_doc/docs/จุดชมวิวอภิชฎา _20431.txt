@@ -1,0 +1,36 @@
+Title: จุดชมวิวอภิชฎา (Apichada view point)
+Content: จุดชมวิวอภิชฎา แหล่งท่องเที่ยวที่ไม่ควรพลาดบนเกาะพะงัน นับเป็นจุดชมวิวที่จะทำให้คุณตกตะลึงกับความงามของท้องทะเลของเกาะพะงันและเกาะสมุยที่อยู่เบื้องหน้า คุณสามารถใช้วันพักผ่อนเพื่อเรียนโยคะในตอนเช้า หรือเพลิดเพลินไปกับปาร์ตี้นั่งชมพระอาทิตย์ตกในตอนเย็น ที่นี่มีบาร์อาหารและเครื่องดื่มไว้คอยบริการ
+
+Nearby Location: ตั้งอยู่ที่ตำบลบ้านใต้ 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: เกาะเต่า
+District: เกาะพะงัน
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 065 3959075
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 9.706251, 100.0396454
+UUID: 28be4407-2611-4109-8340-6ca3456ad2e7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

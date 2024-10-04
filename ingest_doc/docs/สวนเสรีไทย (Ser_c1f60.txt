@@ -1,0 +1,36 @@
+Title: สวนเสรีไทย (Serithai Park)
+Content: สร้างขึ้นตามโครงการพระราชดำริของพระบาทสมเด็จพระเจ้าอยู่หัว โดยการพัฒนาบึงกุ่มให้เป็นพื้นที่เก็บกักน้ำเพื่อแก้ปัญหาน้ำท่วมกรุงเทพฯ
+
+Nearby Location: ใกล้กับตึกสำนักงานเขตบึงกุ่ม หมู่บ้านสหกรณ์ ถนนเสรีไทย เขตบึงกุ่ม 
+Address:  
+Region: ภาคกลาง
+Alley: เสรีไทย 57
+Road: เสรีไทย
+Subdistrict: 
+District: บึงกุ่ม
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 2379 7884
+Email: sereethaipark@gmail.com
+Website: www.bangkok.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 05.00 21.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7870334, 100.674424
+UUID: 6dc9dea8-7735-45e1-a28c-95c7b8708a0d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

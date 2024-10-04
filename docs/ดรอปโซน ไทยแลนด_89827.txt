@@ -1,0 +1,51 @@
+Title: ดรอปโซน ไทยแลนด์ (Drop Zone Thailand)
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ชากพง
+District: แกลง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 062 461 4654
+Email: admin03@dropzone thailand.com
+Website: dropzonethailand.com
+Facebook: https://www.facebook.com/DropzoneThailand/?locale=th_TH
+Instagram: dropzonethailand_official
+Line: @dropzonethailand
+TikTok: 
+YouTube: 
+Start-End: เวลาทำการ
+เปิดอยู่ในขณะนี้
+วันจันทร์
+09:00   17:00
+วันอังคาร
+09:00   17:00
+วันพุธ
+ปิด
+วันพฤหัสบดี
+09:00   17:00
+วันศุกร์
+09:00   17:00
+วันเสาร์
+09:00   17:00
+วันอาทิตย์
+09:00   17:00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6738395, 101.5482711
+UUID: 8688178b-3e07-4ada-928a-8c81712e37f2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

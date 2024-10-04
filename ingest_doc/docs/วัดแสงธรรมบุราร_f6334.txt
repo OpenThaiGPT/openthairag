@@ -1,0 +1,36 @@
+Title: วัดแสงธรรมบุราราม
+Content: วัดแสงธรรมบุราราม ตั้งวัดเมื่อวันที่ 28 ธันวาคม 2513 ไม่ปรากฏนามผู้สร้างและผู้บริจาคที่ดิน มีโรงเรียนพระปริยัติธรรม แผนกธรรม เปิดสอนเมื่อ พ.ศ. 2543
+
+Nearby Location: อยู่ในซอยเทศบาลบางปู126/2 ติดกับถนนสุขวิท
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสมุทรปราการ
+Province: สมุทรปราการ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 233301895
+Email: 
+Website: www.facebook.com/WatSaengthamBuraram
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทำการทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.499576144556595,100.76739937889192
+UUID: f18a4b9c-f8ca-4acd-a38d-cee547106630
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

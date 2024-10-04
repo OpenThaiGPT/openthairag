@@ -1,0 +1,36 @@
+Title: เกาะสาหร่าย (Koh sarai)
+Content: นั่งเรือ 2 ช.ม. หมู่เกาะสาหร่าย นี้มี 2 เกาะใกล้กัน ชาวเมืองเรียกเกาะยะระโตด และยะระโตดนุ้ย มีชายหาดโดยรอบเกาะ ใกล้เกาะยะระโตด มีเกาะหาดหอยงาม ซึ่งคลื่นซัดเปลือกหอยไปกองไว้เป็นเกาะ คล้ายสุสานหอย
+
+Nearby Location: อยู่ห่างจากท่าเรือเจ๊ะบิลัง เมืองสตูล 12 กิโลเมตร ใกล้เกาะยะระโตด และยะระโตดนุ้ย
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสตูล
+Province: สตูล
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7478 3485
+Email: tarutaosatun.go@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 6.663584552824159,99.85267639160156
+UUID: 116b7c1d-b872-4e92-a7e6-7cfd1e178945
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

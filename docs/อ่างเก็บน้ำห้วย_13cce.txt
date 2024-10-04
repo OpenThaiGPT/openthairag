@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำห้วยพันหม (Huay Pan Hom Reservoir)
+Content: อ่างเก็บน้ำห้วยพันหม เป็นแหล่งท่องเที่ยวพักผ่อนจิตใจ หรือใช้เป็นสถานที่ทำกิจกรรมร่วมกันระหว่างกลุ่มเพื่อน หรือครอบครัว ห้วยพันหมเป็นอ่างเก็บน้ำเพื่อการเกษตร การจ่ายน้ำเพื่อผลิตน้ำประปา เป็นสถานที่ท่องเที่ยวที่มีภูมิประเทศที่สวยงามเหมาะสำหรับการนั่งชมวิวทิวทัศน์ ซึ่งแหล่งท่องเที่ยวนี้อยู่ในความรับผิดชอบขององค์การบริหารส่วนตำบลกุดกุง
+
+Nearby Location: ตั้งอยู่ตรงข้ามองค์การบริหารส่วนตำบลกุดกุง อำเภอคำเขื่อนแก้ว
+Address: หมู่ 4 บ้านเหล่ามะเขียว
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: คำเขื่อนแก้ว
+Province: ยโสธร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.6080356, 104.2726636
+UUID: 90929085-f230-4987-b33c-ecda4920efc0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

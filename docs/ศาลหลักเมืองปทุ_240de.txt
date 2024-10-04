@@ -1,0 +1,36 @@
+Title: ศาลหลักเมืองปทุมธานี (City Pillar Shrine Pathum Thani)
+Content: เป็นที่เคารพสักการะของชาวจังหวัดปทุมธานี ตั้งอยู่บริเวณทางเข้าศาลากลางจังหวัด  เป็นศาลาแบบจตุรมุขยอดปรางค์ ประดิษฐานเสาหลักเมืองซึ่งมีลักษณะคล้ายก้านดอกบัวหลวงทำจากไม้ชัยพฤกษ์ และมีรูปหล่อพระนารายณ์สี่กรทรงเหนือหลังนกฮูกและพระวิษณุหล่อด้วยสัมฤทธิ์ ด้านหลังของมณฑปบรรจุพระยอดธงวัดไก่เตี้ย อีกทั้งสิ่งศักดิ์สิทธิ์มากมายประกอบด้วยเครื่องรางของขลังที่รวบรวมมาจากวัดต่างๆ ในจังหวัดปทุมธานี
+
+Nearby Location: อยู่ตรงข้ามกับห้างเทสโก้โลตัสปทุมธานี ตำบลบางปรอก
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: ปทุมธานี บางคูวัด
+Subdistrict: 
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0207997, 100.5250381
+UUID: 99af46cc-d954-4ea2-9ac8-df985c32516c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

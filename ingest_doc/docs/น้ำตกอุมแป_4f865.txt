@@ -1,0 +1,36 @@
+Title: น้ำตกอุมแป
+Content: 
+
+Nearby Location: อยู่ในอุทยานแห่งชาติแม่ปิง จากที่ทำการอุทยานฯไป 9 กิโลเมตร
+Address: หมู่ 4 บ้านก้อท่า 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ลี้
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.686227756079205, 98.75223439814526
+UUID: 248b0cc4-01bd-403b-857b-1f5c432b2ea1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 
