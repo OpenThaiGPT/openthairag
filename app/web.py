@@ -8,11 +8,10 @@ import json
 import os
 import numpy as np
 import logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', force=True)
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', force=True)
 logger = logging.getLogger(__name__)
 
 logger.info("Logger initialized for Flask application")
-
 
 # Configuration for Milvus and vLLM hosts
 MILVUS_HOST = os.environ.get('MILVUS_HOST', 'milvus')
@@ -149,12 +148,18 @@ def index_text():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Flask route for deleting all indexed documents
-@app.route("/delete", methods=["DELETE"])
-def delete_all_documents():
+# Flask route for deleting indexed documents
+@app.route("/delete/<doc_id>", methods=["DELETE"])
+def delete_documents(doc_id):
     try:
-        # Delete all entities in the collection
-        delete_result = collection.delete(expr="id >= 0")  # Use a condition that matches all documents
+        if doc_id == '*':
+            # Delete all entities in the collection
+            delete_result = collection.delete(expr="id >= 0")
+            message = "All documents deleted successfully"
+        else:
+            # Delete specific document
+            delete_result = collection.delete(expr=f"id == {doc_id}")
+            message = f"Document with id {doc_id} deleted successfully"
         
         # Log the delete result
         logger.info(f"Delete result: {delete_result}")
@@ -163,7 +168,7 @@ def delete_all_documents():
         collection.flush()
 
         return jsonify({
-            "message": "All documents deleted successfully",
+            "message": message,
             "num_deleted": delete_result.delete_count
         }), 200
 
@@ -222,7 +227,7 @@ def list_documents():
 # Flask route for handling user queries
 @app.route("/completions", methods=["POST"])
 @app.route("/query", methods=["POST"]) #For backward compatability with the previouse release.
-def completions(): 
+def completions():     
     # Get user query and parameters from request
     data = request.get_json()
     query = data.get("prompt", "")
@@ -231,6 +236,15 @@ def completions():
     max_tokens = data.get("max_tokens", 512)
     top_p = data.get("top_p", 1.0)
     top_k = data.get("top_k", -1)
+    
+    # Print all params for debugging
+    logger.debug("[Completion] Request data:")
+    logger.debug(f"Query: {data.get('prompt')}")
+    logger.debug(f"Stream: {data.get('stream')}")
+    logger.debug(f"Temperature: {data.get('temperature')}")
+    logger.debug(f"Max tokens: {data.get('max_tokens')}")
+    logger.debug(f"Top p: {data.get('top_p')}")
+    logger.debug(f"Top k: {data.get('top_k')}")
     
     # Step 1: Generate query embedding
     query_embedding = generate_embedding(query).numpy().flatten().tolist()

@@ -159,7 +159,7 @@ Published Date:
 ```
 You can see more examples at `/docs`.
 
-## Getting RAG's response.
+## Getting RAG's Response.
 To get a response from the RAG system, you can use the `/v1/completions` endpoint. This endpoint accepts a POST request with a JSON payload containing the user's query and optional parameters. 
 
 Here's a list of query parameters supported by the `/v1/completions` endpoint:
@@ -182,7 +182,7 @@ Here's a list of query parameters supported by the `/v1/completions` endpoint:
 Note: Some parameters may not be applicable depending on the specific model and configuration of your OpenThaiRAG setup.
 
 
-### Non-Streaming
+### via API: Non-Streaming
 ```bash
 >>>Request
 curl --location 'http://localhost:5000/v1/completions' \
@@ -217,7 +217,7 @@ curl --location 'http://localhost:5000/v1/completions' \
 }
 ```
 
-### Streaming
+### via API: Streaming
 ```bash
 >>>Request
 curl --location 'http://localhost:5000/v1/completions' \
@@ -241,7 +241,80 @@ data: {"id":"cmpl-8dbd8bdfbcfb4310bf611cd6f6f7c2e4","object":"text_completion","
 data: [DONE]
 ```
 
-## API Documentation
+### via OpenAI Library
+You can take a look at ``/app/query_rag_using_openai.py``.
+To use the OpenAI library to get RAG responses, you can follow these steps:
+
+1. Install the OpenAI library:
+   ```
+   pip install openai==0.28
+   ```
+
+2. Configure the OpenAI client to use the vLLM server:
+   ```python
+   import openai
+
+   openai.api_base = "http://127.0.0.1:5000"
+   openai.api_key = "dummy"  # vLLM doesn't require a real API key
+   ```
+
+3. Define your prompt:
+   ```python
+   prompt = "วัดพระแก้ว กทม. เดินทางไปอย่างไร"
+   ```
+
+4. For a non-streaming response:
+   ```python
+   def response(prompt):
+       try:
+           response = openai.Completion.create(
+               model=".",  # Specify the model you're using with vLLM
+               prompt=prompt,
+               max_tokens=512,
+               temperature=0.7,
+               top_p=0.8,
+               top_k=40,
+               stop=["<|im_end|>"]
+           )
+           print("Generated Text:", response.choices[0].text)
+       except Exception as e:
+           print("Error:", str(e))
+
+   # Example usage
+   print("Non-streaming response:")
+   response(prompt)
+   ```
+
+5. For a streaming response:
+   ```python
+   def stream_response(prompt):
+       try:
+           response = openai.Completion.create(
+               model=".",  # Specify the model you're using with vLLM
+               prompt=prompt,
+               max_tokens=512,
+               temperature=0.7,
+               top_p=0.8,
+               top_k=40,
+               stop=["<|im_end|>"],
+               stream=True  # Enable streaming
+           )
+           
+           for chunk in response:
+               if chunk.choices[0].text:
+                   print(chunk.choices[0].text, end='', flush=True)
+           print()  # Print a newline at the end
+       except Exception as e:
+           print("Error:", str(e))
+
+   # Example usage
+   print("Streaming response:")
+   stream_response(prompt)
+   ```
+
+You can find the complete example in the `/app/query_rag_using_openai.py` file.
+
+## Full API Documentation
 
 For detailed API documentation and examples, please refer to our Postman collection:
 [OpenThaiRAG API Postman Collection](https://universal-capsule-630444.postman.co/workspace/Travel-LLM~43ad4794-de74-4579-bf8f-24dbe26da1e5/collection/5145656-81239b64-fc7e-4f61-acfd-8e5916e037ce?action=share&creator=5145656)

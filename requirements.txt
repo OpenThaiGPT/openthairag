@@ -5,3 +5,4 @@ torch
 scikit-learn
 gunicorn
 numpy
+openai==0.28
