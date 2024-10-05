@@ -3,10 +3,6 @@
 
 OpenThaiRAG is an open-source Retrieval-Augmented Generation (RAG) framework designed specifically for Thai language processing. This project combines the power of vector databases, large language models, and information retrieval techniques to provide accurate and context-aware responses to user queries in Thai using OpenThaiGPT 1.5 as LLM. For more about OpenThaiGPT project: https://openthaigpt.aieat.or.th
 
-## Maintainer
-
-Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team.
-
 ## Key Features
 
 - **Vector Database Integration**: Utilizes Milvus for efficient storage and retrieval of document embeddings.
@@ -320,6 +316,14 @@ You can find the complete example in the `/app/query_rag_using_openai.py` file.
 For detailed API documentation and examples, please refer to our Postman collection:
 [OpenThaiRAG API Postman Collection](https://universal-capsule-630444.postman.co/workspace/Travel-LLM~43ad4794-de74-4579-bf8f-24dbe26da1e5/collection/5145656-81239b64-fc7e-4f61-acfd-8e5916e037ce?action=share&creator=5145656)
 
+## Maintainer
+
+**OpenThaiGPT Team**
+* Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th)
+* Sumeth Yuenyong (sumeth.yue@mahidol.edu)
+* Apivadee Piyatumrong (apivadee.piy@nectec.or.th)
+* Jillaphat Jaroenkantasima (autsadang41@gmail.com)
+  
 ## License
 
 Apache 2.0
