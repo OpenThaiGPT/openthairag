@@ -4,12 +4,6 @@ OpenThaiRAG is an open-source Retrieval-Augmented Generation (RAG) framework des
 ## Maintainer
 Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team.
 
-## Postman
-https://universal-capsule-630444.postman.co/workspace/Travel-LLM~43ad4794-de74-4579-bf8f-24dbe26da1e5/collection/5145656-81239b64-fc7e-4f61-acfd-8e5916e037ce?action=share&creator=5145656
-
-## License
-Apache 2.0
-
 ## Key Features
 
 - **Vector Database Integration**: Utilizes Milvus for efficient storage and retrieval of document embeddings.
@@ -25,3 +19,44 @@ Apache 2.0
 3. **Document Management**: Provides endpoints for listing and deleting indexed documents.
 
 OpenThaiRAG aims to enhance natural language understanding and generation for Thai language applications, making it a valuable tool for developers working on chatbots, question-answering systems, and other NLP projects focused on Thai language processing.
+
+## Installation
+To install and run OpenThaiRAG using Docker Compose, follow these steps:
+
+1. Ensure you have Docker and Docker Compose installed on your system.
+
+2. Clone the OpenThaiRAG repository:
+   ```
+   git clone https://github.com/your-repo/openthairag.git
+   cd openthairag
+   ```
+
+3. Build and start the containers using Docker Compose:
+   ```
+   docker-compose up -d
+   ```
+
+   This command will:
+   - Build the web service container
+   - Start the Milvus standalone server
+   - Start the etcd service
+   - Start the MinIO service
+   - Link all services together as defined in the docker-compose.yml file
+
+4. Once all containers are up and running, the OpenThaiRAG API will be available at `http://localhost:5000`.
+
+5. To stop the services, run:
+   ```
+   docker-compose down
+   ```
+
+Note: Make sure port 5000 is available on your host machine, as it's used to expose the web service. Also, ensure that you have sufficient disk space for the Milvus, etcd, and MinIO data volumes.
+
+For production deployments, it's recommended to adjust the environment variables and security settings in the docker-compose.yml file according to your specific requirements.
+
+## Postman
+https://universal-capsule-630444.postman.co/workspace/Travel-LLM~43ad4794-de74-4579-bf8f-24dbe26da1e5/collection/5145656-81239b64-fc7e-4f61-acfd-8e5916e037ce?action=share&creator=5145656
+
+## License
+Apache 2.0
+
