@@ -203,7 +203,7 @@ def list_all_documents():
         return jsonify({"error": str(e)}), 500
 
 # Flask route for handling user queries
-@app.route("/v1/completions", methods=["POST"])
+@app.route("/completions", methods=["POST"])
 @app.route("/query", methods=["POST"]) #For backward compatability with the previouse release.
 def completions(): 
     # Get user query and parameters from request
