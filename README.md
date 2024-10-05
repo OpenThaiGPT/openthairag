@@ -161,9 +161,9 @@ Published Date:
 You can see more examples at `/docs`.
 
 ## Getting RAG's Response.
-To get a response from the RAG system, you can use the `/v1/completions` endpoint. This endpoint accepts a POST request with a JSON payload containing the user's query and optional parameters. 
+To get a response from the RAG system, you can use the `/completions` endpoint. This endpoint accepts a POST request with a JSON payload containing the user's query and optional parameters. 
 
-Here's a list of query parameters supported by the `/v1/completions` endpoint:
+Here's a list of query parameters supported by the `/completions` endpoint:
 
 1. `prompt` (required): The input text to generate completions for.
 2. `max_tokens` (optional): The maximum number of tokens to generate. Defaults to 16.
@@ -186,7 +186,7 @@ Note: Some parameters may not be applicable depending on the specific model and 
 ### via API: Non-Streaming
 ```bash
 >>>Request
-curl --location 'http://localhost:5000/v1/completions' \
+curl --location 'http://localhost:5000/completions' \
 --header 'Content-Type: application/json' \
 --data '{
     "prompt": "วัดพระแก้ว กทม. คืออะไร",
@@ -221,7 +221,7 @@ curl --location 'http://localhost:5000/v1/completions' \
 ### via API: Streaming
 ```bash
 >>>Request
-curl --location 'http://localhost:5000/v1/completions' \
+curl --location 'http://localhost:5000/completions' \
 --header 'Content-Type: application/json' \
 --data '{
     "prompt": "วัดพระแก้ว กทม. คืออะไร",
