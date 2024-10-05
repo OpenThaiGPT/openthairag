@@ -27,7 +27,7 @@ To install and run OpenThaiRAG using Docker Compose, follow these steps:
 
 2. Clone the OpenThaiRAG repository:
    ```
-   git clone https://github.com/your-repo/openthairag.git
+   git clone https://github.com/OpenThaiGPT/openthairag
    cd openthairag
    ```
 
