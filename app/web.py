@@ -171,31 +171,48 @@ def delete_all_documents():
         logger.error(f"Error deleting documents: {str(e)}")
         return jsonify({"error": str(e)}), 500
     
-# Flask route for listing all indexed documents
+# Flask route for listing indexed documents
 @app.route("/list", methods=["GET"])
-def list_all_documents():
+def list_documents():
     try:
-        # Query all entities in the collection
+        # Get query parameters
+        query = request.args.get('query', '')
+        limit = min(int(request.args.get('limit', 10)), 16384)  # Default 10, max 16384
+        offset = max(0, int(request.args.get('offset', 0)))  # Ensure non-negative offset
+
+        # Ensure (offset + limit) is within Milvus range
+        if offset + limit > 16384:
+            limit = 16384 - offset
+
+        # Prepare the search expression
+        expr = f"text like '%{query}%'" if query else ""
+
+        # Query entities in the collection
         results = collection.query(
-            expr="",
+            expr=expr,
             output_fields=["id", "text", "embedding"],
-            limit=collection.num_entities
+            offset=offset,
+            limit=limit
         )
         
         # Prepare the response
         documents = [
             {
                 "id": str(doc['id']),
-                "text": doc['text'][:100] + "...",
-                "embedding": [float(x) for x in doc['embedding'][:10]]  # Convert to list of floats
+                "text": doc['text'] + "...",
+                "embedding": [float(x) for x in doc['embedding']]  # Convert to list of floats
             } for doc in results
         ]
+        
         # Log the number of documents retrieved
         logger.info(f"Retrieved {len(documents)} documents")
 
         return jsonify({
             "message": "Documents retrieved successfully",
-            "documents": documents
+            "documents": documents,
+            "total": len(documents),
+            "offset": offset,
+            "limit": limit
         }), 200
 
     except Exception as e:
@@ -282,7 +299,10 @@ def completions():
             )
             for line in response.iter_lines():
                 if line:
-                    yield f"{line.decode('utf-8')}\n\n"
+                    # Decode the byte string to a regular string
+                    decoded_line = line.decode('utf-8')
+                    yield f"{decoded_line}\n\n"
+            yield "\n"
         return Response(generate(), mimetype='text/event-stream')
     else:
         response = requests.post(

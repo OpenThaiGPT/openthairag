@@ -24,13 +24,13 @@ def read_and_index_docs(docs_dir='./docs', index_url='http://localhost:5000/inde
                 with open(file_path, 'r', encoding='utf-8') as file:
                     content = file.read()
                     
-                # Split content into chunks of max 200 characters, including the title in each chunk
+                # Split content into chunks of max 1000 characters, including the title in each chunk
                 chunks = []
                 lines = content.split('\n')
                 title = lines[0]  # Get the first line as the title
                 current_chunk = title + '\n'  # Start each chunk with the title
                 for line in lines[1:]:  # Skip the first line (title) in this loop
-                    if len(current_chunk) + len(line) + 1 <= 200:  # +1 for newline
+                    if len(current_chunk) + len(line) + 1 <= 1000:  # +1 for newline
                         current_chunk += line + '\n'
                     else:
                         if current_chunk:
