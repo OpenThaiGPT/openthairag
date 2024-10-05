@@ -203,8 +203,9 @@ def list_all_documents():
         return jsonify({"error": str(e)}), 500
 
 # Flask route for handling user queries
-@app.route("/query", methods=["POST"])
-def query():
+@app.route("/v1/completions", methods=["POST"])
+@app.route("/query", methods=["POST"]) #For backward compatability with the previouse release.
+def completions(): 
     # Get user query and parameters from request
     data = request.get_json()
     query = data.get("prompt", "")
@@ -281,8 +282,7 @@ def query():
             )
             for line in response.iter_lines():
                 if line:
-                    yield f"data: {line.decode('utf-8')}\n\n"
-            yield "data: [DONE]\n\n"
+                    yield f"{line.decode('utf-8')}\n\n"
         return Response(generate(), mimetype='text/event-stream')
     else:
         response = requests.post(
