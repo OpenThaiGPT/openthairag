@@ -33,7 +33,7 @@ def initialize_milvus_collection():
             FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=1024),  # Adjust dim if needed
             FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=65535)
         ]
-        schema = CollectionSchema(fields, "Document embeddings for travel information")
+        schema = CollectionSchema(fields, "Document embeddings for Information database")
         collection = Collection("document_embeddings", schema)
         
         # Create an IVF_FLAT index for the embedding field
