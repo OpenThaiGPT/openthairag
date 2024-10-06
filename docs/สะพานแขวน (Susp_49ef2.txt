@@ -1,0 +1,36 @@
+Title: สะพานแขวน (Suspension Bridge)
+Content: เป็นสะพานแขวนคนเดินข้ามที่ยาวที่สุดในประเทศ ที่เชื่อมจากฝั่งที่ทำการกับดอนตะนะทั้งสองข้าง โครงสร้างเป็นเหล็กยึดโยงด้วยลวดสลิงขนาดใหญ่ ยาวประมาณข้างละ 295 เมตร เป็นจุดชมวิวสองฝั่งแม่น้ำมูลเหนือแก่งตะนะ และใช้เดินข้ามเข้าไปชมธรรมชาติบนดอนตะนะได้อย่างเพลิดเพลิน
+
+Nearby Location: อยู่ในอุทยานแห่งชาติแก่งตะนะ ตำบลโขงเจียม อำเภอโขงเจียม
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: โขงเจียม
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 4525 2722 3
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 18.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 400.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 15.298737833245324, 105.47174483278079
+UUID: 2c2e7504-1e7d-41c3-8b89-0f3d9d3dfbf5
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

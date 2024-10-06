@@ -1,0 +1,36 @@
+Title: องค์หลวงปู่พระอุปคุตอรหันตเจ้า
+Content: 
+
+Nearby Location: บริเวณสวนสาธารณะเทศบาลเมืองประจวบคีรีขันธ์ ด้านหน้าอ่าวประจวบฯ 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ประจวบคีรีขันธ์
+District: เมืองประจวบคีรีขันธ์
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 032 611491
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดเวลา 08.00 18.00 น. เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 11.68072815820527, 99.68903287812502
+UUID: a67020b9-1dfc-444e-8835-4ca33a9b06ea
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

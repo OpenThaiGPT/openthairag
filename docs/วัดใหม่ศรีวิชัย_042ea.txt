@@ -1,0 +1,36 @@
+Title: วัดใหม่ศรีวิชัย (Wat Mai Srivichai)
+Content: อยู่บริเวณชุมชนทุ่งน้อย ตั้งอยู่ที่ หมู่ 3 ตำบลทุ่งน้อย อำเภอโพทะเล จังหวัดพิจิตร
+
+Nearby Location: ตั้งอยู่ที่ชุมชนทุ่งน้อย ตำบลทุ่งน้อย อำเภอโพทะเล
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: โพทะเล
+Province: พิจิตร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5666 7326
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.102921, 100.321121
+UUID: 75655686-626a-42de-96ac-cda121338948
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

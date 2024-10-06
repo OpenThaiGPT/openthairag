@@ -1,0 +1,36 @@
+Title: น้ำตกทรายอ่อน (Sai Oon Waterfall)
+Content: 
+
+Nearby Location: ใกล้วัดเทพเจริญ (ถ้ำรับร่อ) ตำบลรับร่อ อำเภอท่าแซะ
+Address: หมู่ 17
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ท่าแซะ
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.6961006, 98.9324111
+UUID: 84edbc07-8f88-4b5e-adb8-e795b377c04c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

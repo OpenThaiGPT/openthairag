@@ -1,0 +1,36 @@
+Title: หาดคลองจาก (Hat Klong Jark)
+Content: เป็นจุดชมวิวบริเวณนี้สามารถมองเห็นทิวทัศน์เกาะยาวได้เกือบทั้งหมด
+
+Nearby Location: อยู่ในเกาะยาวน้อยทางทิศตะวันออก อำเภอเกาะยาว
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เกาะยาว
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 08 1968 0877, 08 6942 7999
+Email: koyaomap@hotmail.com
+Website: www.koyaonoi.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.1128503, 98.6235055
+UUID: ab22fbbc-fd63-4f92-9499-3f58f71f6e9a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

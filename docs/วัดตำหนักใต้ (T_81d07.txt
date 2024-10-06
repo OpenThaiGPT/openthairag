@@ -1,0 +1,36 @@
+Title: วัดตำหนักใต้ (Tamnak Tai Temple)
+Content: เป็นวัดเก่าแก่ตามประวัติกล่าวว่าก่อนที่จะสร้างวัด พื้นที่นี้เคยเป็นพลับพลาที่ประทับชั่วคราวของพระเจ้ากรุงธนบุรี
+
+Nearby Location: ตั้งอยู่ซอยนนทบุรี 27 ตำบลท่าทราย อำเภอเมืองนนทบุรี
+Address: หมู่ 4
+Region: ภาคกลาง
+Alley: นนทบุรี 27
+Road: สนามบินน้ำ 
+Subdistrict: 
+District: เมืองนนทบุรี
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2589 0500, 0 2589 0505 (เทศบาลนครนนท์)
+Email: nakornnont@nakornnont.com
+Website: www.nakornnont.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.885858034519739, 100.49072604532057
+UUID: a2162fed-bb7b-4d8f-9ecf-a3ded861da29
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

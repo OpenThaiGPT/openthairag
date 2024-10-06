@@ -1,0 +1,36 @@
+Title: หาดท่าเขา (Hat Tha Khao)
+Content: หาดทรายมีหินเล็ก ๆ หลากลวดลาย ห่างจากฝั่งออกไปเล็กน้อยมีเกาะเล็ก ๆ ยามน้ำแห้งสามารถเดินไปเที่ยวเกาะเหล่านี้ได้สะดวก บนเกาะมีไม้ป่า และกล้วยไม้ขึ้นอยู่ทั่วไป
+
+Nearby Location: อยู่ในเกาะยาวน้อย ห่างจากองค์การบริหารส่วนตำบลเกาะยาว 5 กิโลเมตร
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เกาะยาว
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.koyaonoi.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.1299528, 98.6223249999999
+UUID: 23342e4e-b2cf-4151-8321-16cd2dd46a9f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

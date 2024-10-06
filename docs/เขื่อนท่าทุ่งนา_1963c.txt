@@ -1,0 +1,36 @@
+Title: เขื่อนท่าทุ่งนา (Tha Thung Na Dam)
+Content: เขื่อนท่าทุ่งนาตั้งอยู่บ้านช่องสะเดา ต.วังด้ง อ.เมือง จ.กาญจนบุรี
+
+Nearby Location: ห่างจากเขื่อนศรีนครินทร์ 20 กิโลเมตร ตั้งอยู่ทางท้ายเขื่อนศรีนครินทร์
+Address: 100 หมู่ 1
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: เขาโจด
+District: ศรีสวัสดิ์
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 3457 4002
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.2340905, 99.2370447
+UUID: 8157ef6b-11fc-47ac-bffc-0f71f76b98cb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

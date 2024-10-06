@@ -1,0 +1,36 @@
+Title: วัดตะเคียนทอง
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ชากพง
+District: แกลง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 081 151 1739
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 08.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6440055, 101.4925043
+UUID: d578878c-c7b1-42c3-b76f-86d80b56cfe7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

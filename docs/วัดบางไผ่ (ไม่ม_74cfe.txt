@@ -1,0 +1,36 @@
+Title: วัดบางไผ่ (ไม่มี)
+Content: เป็นพระอารามหลวง เป็นแหล่งท่องเที่ยวทางธรรมอีกแห่งหนึ่ง ภายในวัดยังประกอบด้วยสิ่งปลูกสร้างถาวรวัตถุ พระพุทธรูปทองคำ
+
+Nearby Location: ตั้งอยู่ที่ถนนบางกรวย ไทรน้อย ตำบลบางรักพัฒนา อำเภอบางบัวทอง
+Address: 15 หมู่ 3
+Region: ภาคกลาง
+Alley: วัดบางไผ่
+Road: บางกรวย ไทรน้อย
+Subdistrict: 
+District: บางบัวทอง
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2950 3024 (สำนักงานพระพุทธศาสนานนทบุรี), 025717672 76 (ประชาสัมพันธ์เทศบาลบัวทอง), 0 2950 3506 7
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.968611,100.405556
+UUID: 9f4a0720-8a7e-4bea-9baa-ac6e31877d49
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

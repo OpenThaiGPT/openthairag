@@ -1,0 +1,36 @@
+Title: น้ำตกกองแก้ว (Kongkaew Waterfall)
+Content: เป็นน้ำตกขนาดเล็กที่เกิดจากห้วยลำตะคอง อยู่ห่างจากที่ทำการอุทยานฯ ประมาณ  100  เมตร  ซึ่งเป็นแนวแบ่งเขตจังหวัดนครนายกและจังหวัดนครราชสีมา
+
+Nearby Location: อยู่ห่างจากที่ทำการอุทยานแห่งชาติเขาใหญ่ประมาณ 100 เมตร 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: ทางหลวงหมายเลข 2090
+Subdistrict: 
+District: เมืองนครนายก
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 3735 6033
+Email: khaoyai_np@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.334912,101.508812
+UUID: eac7dc84-1f7d-414d-b174-7d47fdb3fda6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วิสาหกิจชุมชนบ้านเนินสว่าง
+Content: ชุมชนท่องเที่ยว เป็นแหล่งศึกษาดูงานการแปรรูปผลิดภัณฑ์ยางพารา ขนาดเล็ก เป็นอาสนสงฆ์ ที่นอน หมอน ภายใต้ตรา ไก่กา
+
+Nearby Location: ชุมชนบ้านเนินสว่าง
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: บ้านฉาง
+District: บ้านฉาง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 935945365
+Email: kaikarayong@gmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.3021544, 100.1367166
+UUID: 31e46da1-81b7-43d5-867a-084a1bcab2b8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

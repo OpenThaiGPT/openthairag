@@ -1,0 +1,36 @@
+Title: สวนเมเปิ้ล (Maple Gardens)
+Content: สวนดอกไม้ โดยมีบริการบุฟเฟต์ลำไย ในราคา 120 บาท
+
+Nearby Location: ติดถนนหมายเลข 323
+Address: 44 ม.4
+Region: ภาคกลาง
+Alley:  
+Road: 323
+Subdistrict: ลาดหญ้า
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 861630056
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดเดือนธันวาคม  กุมภาพันธ์
+Activity: 
+Suitable Duration: 
+Fee (TH): 120.0
+Fee (TH Kid): 0.0
+Fee (EN): 120.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.079050277428905, 99.38736140727997
+UUID: c2f0c0b2-7293-48bb-a219-9c11fc5973dd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

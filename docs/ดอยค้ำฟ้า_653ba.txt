@@ -1,0 +1,36 @@
+Title: ดอยค้ำฟ้า
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ทุ่งข้าวพวง
+District: เชียงดาว
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อุทยานแห่งชาติ
+Facilities Contact: 
+Telephone: 819927346
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันเวลา 8.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.5537096, 98.80873539999999
+UUID: 4afd0369-d4c2-47a0-8676-61e0df2e9569
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

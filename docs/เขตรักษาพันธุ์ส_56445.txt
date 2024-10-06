@@ -1,0 +1,36 @@
+Title: เขตรักษาพันธุ์สัตว์ป่าดอยเวียงหล้า (Doi Wiang La Wildlife Conservative Area)
+Content: เขตรักษาพันธุ์สัตว์ป่าดอยเวียงหล้า ตั้งอยู่ในท้องที่ตำบลแม่เงา ตำบลแม่กิ๊ และตำบลขุนยวม อำเภอขุนยวม จังหวัดแม่ฮ่องสอน มีเนื้อที่ประมาณ 291,610 ไร่
+
+Nearby Location: ตั้งอยู่หน่วยพิทักษ์ป่าอำเภอขุนยวม 
+Address: ตู้ ปณ. 1
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ขุนยวม
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขตรักษาพันธุ์สัตว์ป่า
+Facilities Contact: 
+Telephone: 0 5368 1330 (สำนักงานบริหารพื้นที่อนุรักษ์ 16)
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7944444, 97.8433333
+UUID: bf516fc3-173d-4290-942a-4d971e311f37
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

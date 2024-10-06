@@ -1,0 +1,36 @@
+Title: แวร์เฮาส์ 30 (Warehouse 30)
+Content: ครีเอทีฟ คอมมูนิตี้ คอมเพล็กซ์ แห่งใหม่ที่ตั้งอยู่ในซอยเจริญกรุง 30 จากการแปลงโฉมโกดังเก่าให้กลายมาเป็นแหล่งแฮงก์เอาท์สุดฮิป ที่รวบรวมร้านอาหาร คาเฟ่ ช็อปสินค้าหลากหลายประเภท ไปจนถึงโรงฉายหนัง และเป็นพื้นที่ Co Working Space ให้ทุกคนได้มาเดินช้อป ชิม ชิลล์ หรือร่วมสนุกกับกิจกรรมต่าง ๆ ทั้งในวันธรรมดาและช่วงวันหยุดสุดสัปดาห์
+
+Nearby Location: ซอยเจริญกรุง 30
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางรัก
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน 11.00 20.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.7283667, 100.5145846
+UUID: b8931757-13bc-4668-b5e2-b097da109551
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ประตูเมืองภูเก็ต (Phuket Gateway)
+Content: จัดสร้างโดยองค์การบริหารส่วนจังหวัดภูเก็ต  เนื่องในวโรกาสมหามงคลเฉลิมพระชนมพรรษา 80 พรรษา พระบาทสมเด็จพระเจ้าอยู่หัว ในปี 2550 เพื่อให้ห้องรับแขกแห่งแรก ในการต้อนรับนักท่องเที่ยวที่จะเดินทางเข้ามาท่องเที่ยวที่จังหวัดภูเก็ต
+
+Nearby Location: ใกล้ศูนย์กู้ชีพอบต.ไม้ขาว ตำบลไม้ขาว อำเภอถลาง
+Address: บ้านท่าฉัตรัย
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ถลาง
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: จุดผ่านแดน/ชายแดน
+Facilities Contact: 
+Telephone: 0 7621 1877,0 7621 1866
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.1843918, 98.2979232
+UUID: 67b36a29-258a-4bc7-bfee-82939d6b521a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

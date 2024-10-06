@@ -1,0 +1,36 @@
+Title: วัดถ้ำเขาประทุน
+Content: 
+
+Nearby Location: วัดถ้ำเขาประทุน
+Address: 
+Region: ภาคตะวันออก
+Alley:  
+Road:  
+Subdistrict: เขาน้อย
+District: เขาชะเมา
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 086 138 2869
+Email: Bangto600@gmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.30   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.1234811, 101.5970872
+UUID: 11289859-62ea-471f-9fc8-2e4db3fef624
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

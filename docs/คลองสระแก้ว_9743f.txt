@@ -1,0 +1,36 @@
+Title: คลองสระแก้ว
+Content: เป็นลำธารน้ำจืดที่ใสสามารถมองเห็นปลาและพื้นดินในลำคลองท่ามกลางป่าธรรมชาติของและป่าพรุที่อุดมสมบูรณ์  นักท่องเที่ยวนิยมมาเล่นน้ำ ล่องห่วงยาง พายเรือไปตามคลองสระแก้ว
+
+Nearby Location: 
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: เขาทอง
+District: เมืองกระบี่
+Province: กระบี่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 075 664 584
+Email: khaothong_06@hotmail.com
+Website: https://www.khaothong.go.th/front
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเที่ยวได้ทั้งปี  เวลาที่เหมาะสม 09.00 – 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 80.0
+Fee (EN Kid): 40.0
+Remark: 
+Location: 8.16907545946109, 98.80682025461053
+UUID: f95507ce-96d6-4cde-89bd-b85b6be9c340
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

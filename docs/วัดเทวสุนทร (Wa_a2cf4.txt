@@ -1,0 +1,36 @@
+Title: วัดเทวสุนทร (Wat Thawa Sunthon)
+Content: 
+
+Nearby Location: ตั้งอยู่หมู่ 19 ริมคลองเปรมประชากร คลองบางเขน แขวงลาดยาว เขตจตุจักร 
+Address: 1 หมู่ 19
+Region: ภาคกลาง
+Alley: 
+Road: วิภาวดีรังสิต
+Subdistrict: 
+District: จตุจักร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2580 6729
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8543639, 100.562375
+UUID: 56ffbff2-23f9-4061-8a4f-c00d01d12e97
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

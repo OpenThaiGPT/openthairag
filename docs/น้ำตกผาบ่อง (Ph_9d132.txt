@@ -1,0 +1,36 @@
+Title: น้ำตกผาบ่อง (Pha Bong Waterfall)
+Content: น้ำตกผาบ่อง บ้านผาบ่อง มีอีกชื่อหนึ่งว่าน้ำตกดำข่อน เพราะเกิดจากสายน้ำของห้วยดำข่อนที่ไหลตกมาตามหน้าผาสูงชันลดหลั่นกัน สูงประมาณ ๔๐ เมตร น้ำตกตั้งอยู่ริมทางหลวงหมายเลข ๑๐๘ ห่างจากตัวเมืองแม่ฮ่องสอน ๑๒ กิโลเมตร
+
+Nearby Location: ตั้งอยู่บ้านผาบ่อง ตำบลผาบ่อง อำเภอเมืองแม่ฮองสอน
+Address: บ้านผาบ่อง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองแม่ฮ่องสอน
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5361 2996
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.1924791, 97.9969941999999
+UUID: 61482feb-d37f-4151-bd18-cf4c403b5b85
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

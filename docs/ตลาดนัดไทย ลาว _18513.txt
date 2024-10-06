@@ -1,0 +1,37 @@
+Title: ตลาดนัดไทย ลาว ธาตุพนม (Thai  Laos  That Phanom Market)
+Content: เป็นตลาดเช้า ของชาวนครพนม มีการขายสินค้า แลกเปลี่ยน ทั้งฝั่งไทยลั่งลาว ทุกเช้าจะมีพ่อค้าจากฝั่งลาวนำสินค้าจากประเทศลาว มาชื้อขาย กับคนไทย ตลาดจะคึกตักมากในช่วงเช้า
+
+Nearby Location: จุดผ่อนปรนตลาดไทย ลาว อ.ธาตุพนม
+Address: จุดผ่อนปรนตลาดไทย ลาว อ.ธาตุพนม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley:  
+Road:  
+Subdistrict: กุดฉิม
+District: ธาตุพนม
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 4254 1304
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์และวันพฤหัสบดี  06.00 11.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.9511108, 104.7300872
+UUID: a8bbf48a-1d59-48e2-b094-d67f53934cfb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

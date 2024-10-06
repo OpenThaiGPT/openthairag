@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำห้วยลาน
+Content: อีกหนึ่งโครงการในพระราชดำริ ของพระบาทสมเด็จพระเจ้าอยู่หัว รัชกาลที่ 9
+
+Nearby Location: ตั้งอยู่บริเวณบ้านปง 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แช่ช้าง
+District: สันกำแพง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 8371 4265 4 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการทุกวัน เวลา 07.00 20.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 20.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.7005556, 99.2030556
+UUID: 75a837a8-f946-4473-ab00-fa69902ea806
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

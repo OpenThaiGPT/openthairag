@@ -1,0 +1,36 @@
+Title: น้ำตกท่าเล่ (Tha Le Waterfall)
+Content: น้ำตกท่าเล่ เป็นน้ำตกที่มีลักษณะลาดชันไหลลดหลั่นลงมาจากหน้าผา มีความสูง 50 เมตร ท่ามกลางธรรมชาติที่อุดมสมบูรณ์
+
+Nearby Location: ตั้งอยู่บ้านท่าเล่ ตำบลแม่ท้อ อำเภอเมือง 
+Address: บ้านท่าเล่
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: เชียงเงิน
+District: เมืองตาก
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 55894640
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอดเวลา
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.73927290604577,99.03982275056455
+UUID: 26450f10-9655-4ceb-93e1-2e5dc91fa0bc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

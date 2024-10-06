@@ -1,0 +1,36 @@
+Title: น้ำตกปูแกง (Pu Kaeng Waterfall)
+Content: ตั้งอยู่ในเขต อุทยานแห่งชาติดอยหลวง เป็นน้ำตกที่มีการทับถมของหินปูนที่ปนมากับน้ำ ทำให้เกิดหินงอกหินย้อย และถ้ำมากมายในบริเวณน้ำตก เป็นน้ำตกที่มีความสวยงามมากแห่งหนึ่ง มีจำนวน 9 ชั้น ตั้งอยู่บริเวณบ้านปูแกง อำเภอพาน จังหวัดเชียงราย โดยปกติจะมีราษฎรในท้องถิ่นเดินทางไปเที่ยวพักผ่อนอยู่เป็นประจำ การเดินทางไปยังบริเวณน้ำตกมีทางลาดยาง แยกจากถนนสายเชียงราย พะเยา เข้าไปถึงบริเวณน้ำตกระยะทางประมาณ 8 กิโลเมตร เส้นทางใช้ได้ตลอดทั้งปี
+
+Nearby Location: อยู่ในเขตอุทยานแห่งชาติดอยหลวง ตำบลแม่เย็น อำเภอพาน ห่างบ้านแม่เย็น 8 กิโลเมตร
+Address: บ้านปูแกง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: พาน
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5360 9042
+Email: 
+Website: park.dnp.go.th/visitor/nationparkshow.php?PTA_CODE=1061
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.452348936859017,99.72770690917969
+UUID: c490ab43-d6cc-452e-b124-ac75d10d1bcc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

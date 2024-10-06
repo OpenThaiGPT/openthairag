@@ -1,0 +1,36 @@
+Title: เกาะจาบัง (Ko Jabang)
+Content: ตั้งอยู่ระหว่างเกาะอาดังและเกาะหินงาม อยู่ในเขตอุทยานแห่งชาติหมู่เกาะตะรุเตา เกาะจาบังและร่องน้ำจาบังเป็นแหล่งดำน้ำดื้นและดำน้ำลึกที่มีความสวยงามแห่งหนึ่งในจังหวัดสตูลที่นักท่องเทียวไม่ควรพลาด รอบๆเกาะเหมาะแก่การดำน้ำ เพราะมีปะการังที่มีลักษณะสวยงามและโดดเด่นมาก
+
+Nearby Location: อยู่ใกล้เกาะอาดัง อยู่ระหว่างเกาะราวีและเกาะหลีเป๊ะ
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสตูล
+Province: สตูล
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7478 3485, 0 7478 3597
+Email: tarutaosatun.go@hotmail.com
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ชมได้ตอนน้ำลด เช้า 06.00   เย็น 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 6.515524240009122,99.27331924438476
+UUID: 76cd15ed-e2ee-4cc8-aa78-c0e15091560b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

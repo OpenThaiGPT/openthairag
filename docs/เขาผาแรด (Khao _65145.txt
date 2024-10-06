@@ -1,0 +1,36 @@
+Title: เขาผาแรด (Khao Pha Raet)
+Content: เป็นเขาลูกเล็ก ๆ มีความสูงประมาณ ๓๗๖ เมตร ภายในเขาลูกนี้เป็นที่ตั้งของถ้ำซึ่งมีหินงอกหินย้อย เป็นที่อยู่อาศัยของค้างคาว และมีสำนักสงฆ์อยู่ใกล้เชิงเขา
+
+Nearby Location: ตั้งอยู่ที่ตำบลลานสัก อยู่หลังที่ว่าการอำเภอลานสัก อยู่ห่างจากเขาพระยาพายเรือ 8 กิโลเมตร
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ทุ่งนางาม
+District: ลานสัก
+Province: อุทัยธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 056 514651 2
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.5354602, 99.5701296
+UUID: 95be329b-e400-4086-ac71-5d1841a818b7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

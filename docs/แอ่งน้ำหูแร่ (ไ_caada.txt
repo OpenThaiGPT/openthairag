@@ -1,0 +1,36 @@
+Title: แอ่งน้ำหูแร่ (ไม่มี)
+Content: คลองหูแร่ มีสภาพเป็นคลองขนาดใหญ่ น้ำใสสะอาด พื้นคลองเป็นทรายและโขดหิน บริเวณน้ำลึก เหมาะแก่การพักผ่อนหรือลงเล่นน้ำ มีร้านอาหารบริการนักท่องเที่ยว
+
+Nearby Location: อยู่ตำบลท่ามะเดื่อ อำเภอบางแก้ว ห่างจากตัวเมืองพัทลุง 33 กิโลเมตร
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: บางแก้ว
+Province: พัทลุง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.417420825222174,100.14155991440589
+UUID: 064c640d-f3cd-47e5-9e21-0ac39559af2a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

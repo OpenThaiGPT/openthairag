@@ -1,0 +1,36 @@
+Title: สะพานพระราม 6 (RamaVI Bridge)
+Content: 
+
+Nearby Location: สะพานข้ามแม่น้ำเจ้าพระยาเชื่อมระหว่างแขวงบางซื่อ เขตบางซื่อ กับแขวงบางอ้อ เขตบางพลัด 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางซื่อ
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8132125, 100.5152568
+UUID: 8a8b8d8e-d757-428f-86b7-e3c85e407732
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

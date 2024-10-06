@@ -1,0 +1,36 @@
+Title: วัดลำเลียง (Wat Lam Liang)
+Content: 
+
+Nearby Location: ใกล้โรงเรียนบ้านสองแพรก บ้านลำเลียง ตำบลลำเลียง อำเภอกระบุรี
+Address: หมู่ 1 บ้านลำเลียง
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: กระบุรี
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.3107344, 98.7991862
+UUID: 73da232c-aab9-45d7-aefe-5bd18a604b6d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

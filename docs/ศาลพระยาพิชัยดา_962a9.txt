@@ -1,0 +1,36 @@
+Title: ศาลพระยาพิชัยดาบหัก
+Content: #NAME?
+
+Nearby Location: ริมน้ำน่าน, ริมถนนหน้าวัดมหาธาตุ
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: คอรุม
+District: พิชัย
+Province: อุตรดิตถ์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 055 421529
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 17.29131147709179,100.08581989335629
+UUID: 99bd31b1-76ff-486b-8c90-ea9e80981a1a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

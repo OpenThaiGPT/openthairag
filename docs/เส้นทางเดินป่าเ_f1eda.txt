@@ -1,0 +1,36 @@
+Title: เส้นทางเดินป่าเขาช้างเผือก อุทยานแห่งชาติทองผาภูมิ (Khao Chang Puak)
+Content: เส้นทางเดินป่าเขาช้างเผือก อยู่ในเขตอุทยานแห่งชาติทองผาภูมิ
+
+Nearby Location: อุทยานแห่งชาติทองผาภูมิ 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: กาญจนบุรี ทองผาภูมิ
+Subdistrict: ชะแล
+District: ทองผาภูมิ
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 034 510979, 081 3820359
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: กำหนดการเปิด ปิด ต้องรอประกาศจากทางกรมอุทยานฯ เท่านั้น
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.7269444, 98.38861109999999
+UUID: 57063621-55f9-4655-92cd-129c2830fb6e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

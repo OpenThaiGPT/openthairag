@@ -1,0 +1,36 @@
+Title: เกาะหินดับ (Ko Hin Dap)
+Content: เป็นเกาะที่มีหาดทรายที่สวยงามและยาวที่สุดในเขตอุทยานแห่งชาติหมู่เกาะอ่างทอง สภาพภูมิประเทศและทัศนียภาพรอบเกาะสวยงาม เหมาะสำหรับเล่นน้ำและดำน้ำดูปะการังน้ำตื้น
+
+Nearby Location: อยู่ในอุทยานแห่งชาติหมู่เกาะอ่างทอง  ในท้องที่ตำบลอ่างทอง อำเภอเกาะสมุย
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ตลิ่งงาม
+District: เกาะสมุย
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: หมู่เกาะ
+Facilities Contact: 
+Telephone: 0 7728 6025, 0 7728 0222
+Email: angthong_np@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทำการทุกวัน 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 80.0
+Fee (TH Kid): 40.0
+Fee (EN): 400.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 9.696245099999999, 99.6745114
+UUID: 644b64d6-3d35-4086-bcff-e072eab98966
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

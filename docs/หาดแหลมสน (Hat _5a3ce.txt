@@ -1,0 +1,37 @@
+Title: หาดแหลมสน (Hat Laem Son)
+Content: หาดแหลมสน
+     อยู?ถัดจากหาดบางเบนประมาณ 4กิโลเมตร มีหาดทรายขาวสะอาด และเป็นที่อยู่ของนกนานาชนิด เหมาะสําหรับไปตั้งแค้มป์ดูนก
+
+Nearby Location: อยู่ถัดจากหาดบางเบนประมาณ 4 กิโลเมตร ตำบลม่วงกลาง อำเภอกะเปอร์
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: กะเปอร์
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 0 7786 1431
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.60435369999999, 98.4673692
+UUID: 3b56c272-4e54-4b54-a847-8493efc72012
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

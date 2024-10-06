@@ -1,0 +1,36 @@
+Title: หอศิลป์ทวี รัชนีกร (Tawee Rajaneekorn National Artist)
+Content: ก่อตั้งในปี พ.ศ. 2550 โดยศิลปินแห่งชาติ นายทวี รัชนีกรมีวัตถุประสงค์เพื่อแสดงผลงานศิลปะประเภทต่างๆ ของศิลปิน
+
+Nearby Location: อยู่ที่ตำบลหัวทะเล ใกล้บ้านกาน์ตรีสอร์ท
+Address: 203 หมู่ 10
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: เพชรมาตุคลา 4
+Road: ราชสีมา จักราช
+Subdistrict: 
+District: เมืองนครราชสีมา
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 08 9629 9227
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ อาทิตย์ 10.00 16.00 น. (กรณีเข้าชมเป็นหมู่คณะกรุณาแจ้งล่วงหน้า)
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.956485465289278,102.1286016784868
+UUID: 589f327e-dc40-4f07-b9c6-c78a5f90a5dd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

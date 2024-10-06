@@ -1,0 +1,36 @@
+Title: บ้านใหม่สหพันธ์ (ลีซอ) (Mai Sahaphan Village)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านใหม่ ตำบลเวียงใต้ อำเภอปาย
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ปาย
+Province: แม่ฮ่องสอน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 5369 9544
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.3726157, 98.4088278
+UUID: 648fe3a9-9271-49c1-b073-84a66e275c8e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

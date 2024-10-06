@@ -1,0 +1,36 @@
+Title: ศาลเจ้าหลีตี้เปี้ยว (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ถนนพลับพลาไชย แขวงป้อมปราบ เขตป้อมปราบศัตรูพ่าย เยื้องสน.พลับพลาไชย
+Address: 494
+Region: ภาคกลาง
+Alley: 
+Road: พลับพลาไชย
+Subdistrict: 
+District: ป้อมปราบศัตรูพ่าย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2222 2990, 0 2221 6985
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00  17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7429732, 100.5103868
+UUID: 0d08c048-6a1e-45f3-9778-207e0ac66b7e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

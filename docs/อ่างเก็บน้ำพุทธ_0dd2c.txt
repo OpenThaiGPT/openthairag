@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำพุทธอุทยาน (Buddha Utthayan Reservior)
+Content: เป็นแหล่งน้ำที่สำคัญทางด้านเกษตร และประมง พร้อมทั้งยังเป็นที่พักผ่อนหย่อนใจ มีลมพัดเย็นสบาย ริมอ่างเก็บน้ำเป็นที่ตั้งของรีสอร์ทหลายแห่ง
+
+Nearby Location: อยู่ฝั่งตรงข้ามกับพระมงคลมิ่งเมือง ตำบลบุ่ง อำเภอเมืองอำนาจเจริญ
+Address: บ้านพุทธมงคล
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองอำนาจเจริญ
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 4551 1382
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.8972222, 104.6355556
+UUID: 26a0d06f-b9b0-473c-bfc6-481a9ed76a97
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

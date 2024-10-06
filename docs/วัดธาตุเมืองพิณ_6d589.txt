@@ -1,0 +1,36 @@
+Title: วัดธาตุเมืองพิณ (Wat That Mueng Pin)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่บ้านธาตุเมืองพิณ ตำบลฝั่งแดง อำเภอนากลาง
+Address: หมู่ 7 บ้านธาตุเมืองพิณ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: นากลาง
+Province: หนองบัวลำภู
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.215887, 102.23232
+UUID: cab524b5-c8b8-44e3-b4a2-7ac193033622
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

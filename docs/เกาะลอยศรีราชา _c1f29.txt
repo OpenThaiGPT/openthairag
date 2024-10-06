@@ -1,0 +1,36 @@
+Title: เกาะลอยศรีราชา (Ko Loy Sriracha)
+Content: เป็นเกาะเล็ก ๆ ใกล้ชายฝั่ง ซึ่งมีสะพานคอนกรีตเชื่อมระหว่างชายฝั่งกับเกาะลอย รถเข้าถึงเกาะได้โดยสะดวก มีเนื้อที่ราว 3 ไร่เศษ บนเกาะมีสวนสาธารณะและสวนเต่าทะเล มีบันไดทางเดินขึ้นไปยังวัดที่อยู่บนยอดเขา
+
+Nearby Location: ตั้งอยู่ที่ถนนเทศบาล ทางทิศเหนือของตลาดศรีราชา 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: เทศบาล
+Subdistrict: 
+District: ศรีราชา
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 3832 7888
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 05.00 22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.173935, 100.9203128
+UUID: 41be51dd-d7a8-4aa4-8ee8-10ff4eed7f47
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

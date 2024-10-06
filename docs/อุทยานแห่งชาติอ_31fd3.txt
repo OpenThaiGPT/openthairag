@@ -1,0 +1,36 @@
+Title: อุทยานแห่งชาติออบขาน
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: น้ำแพร่
+District: หางดง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อุทยานแห่งชาติ
+Facilities Contact: 
+Telephone: 861811068
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 8:30   16:30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7230703, 98.8215666
+UUID: e7efeff1-426f-4744-8181-34d17b954399
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

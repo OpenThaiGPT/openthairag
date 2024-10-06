@@ -1,0 +1,36 @@
+Title: วัดต้นเชือก (ไม่มี)
+Content: สร้างเมื่อ พ.ศ. 2324 แต่เพิ่งจะมาเจริญรุ่งเรืองประมาณ พ.ศ. 2490 ในตำบลบ้านใหม่มีวัดเพียงหนึ่งวัด แต่มีพุทธศาสนิกชนในตำบลบ้านใหม่และตำบลใกล้เคียงมาทำบุญอยู่เป็นจำนวนมาก มีหลวงพ่อวิหาร พระประธานในวิหาร สร้างในสมัยอยุธยาเป็นพระพุทธรูปศักดิ์สิทธิ์ชาวบ้านนับถือสักการะกันเป็นประจำ
+
+Nearby Location: อยู่ใกล้กับโรงเรียนชุมชนวัดต้นเชือก ตำบลบ้านใหม่ อำเภอบางใหญ่
+Address: 8 หมู่ 4
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: บางใหญ่
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2985 8491 3
+Email: admin@bym.go.th
+Website: www.bym.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  16.30 น.วันจันทร์  อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.8547284, 100.3301431
+UUID: a475642b-f248-4af6-ace6-9cc7b7ba40d9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

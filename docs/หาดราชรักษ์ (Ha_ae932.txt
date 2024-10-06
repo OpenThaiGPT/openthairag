@@ -1,0 +1,36 @@
+Title: หาดราชรักษ์ (Hat Ratcharak)
+Content: เป็นหาดทรายต่อเนื่องกับหาดชลาลัย หาดมะรวดและหาดแฆแฆ โดยอยู่ถัดจากหาดมะรวดไปเพียง 1 กิโลเมตร และอยู่ก่อนถึงหาดแฆแฆประมาณ 2 กิโลเมตร การเดินทางใช้ทางเดียวกับที่ไปหาดชลาลัย และหาดมะรวด  ลักษณะเด่นของหาดราชรักษ์คือเป็นหาดทรายกว้างล้อมรอบด้วยโขดหิน และหุบเขาเตี้ยๆ บนเนินเขา นับได้ว่าเป็นสถานที่ชมทิวทัศน์ที่สวยงามอีกแห่งหนึ่ง
+
+Nearby Location: ตำบลบ้านน้ำบ่อ อำเภอปะนาเระ อยู่ถัดจากหาดมะรวดไปเพียง 1 กิโลเมตร  
+Address: หมู่ 4
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปานาเระ
+Province: ปัตตานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 6.8636581, 101.5243466
+UUID: 1530f78f-6560-4549-8c3c-8825748a2ef9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

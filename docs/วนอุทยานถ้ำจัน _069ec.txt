@@ -1,0 +1,36 @@
+Title: วนอุทยานถ้ำจัน (Tham Chan)
+Content: เป็นอุทยานขนาดเล็ก ตั้งอยู่ที่บ้านน้ำหมีใหญ่ อำเภอทองแสนขัน จังหวัดอุตรดิตถ์ ภายในวนอุทยาน มีถ้ำหินปูนจำนวนมากมาย โดยถ้ำขนาดใหญ่ที่สุดชื่อ ถ้ำจัน เป็นถ้ำที่มีลักษณะโถงใหญ่และมีขนาดปากถ้ำกว้างที่สุดในจังหวัดอุตรดิตถ์
+
+Nearby Location: อยู่ที่บ้านน้ำหมีใหญ่ ตำบลผักขวง อำเภอทองแสนขัน อยู่ห่างจากตัวเมืองอุตรดิตถ์ประมาณ 45 กิโลเมตร 
+Address: 1 บ้านน้ำหมีใหญ่
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: น้ำพี้
+District: ทองแสนขัน
+Province: อุตรดิตถ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: วนอุทยาน
+Facilities Contact: 
+Telephone: 0 5582 5043
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.58777251379196,100.4208149794922
+UUID: cc88f014-6bbe-45f7-9773-618f1e64bd70
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำห้วยส้มเค็ม (Huay Som Khem Reservoir)
+Content: 
+
+Nearby Location: ทางเข้าอยู่ตรงสถานีอนามัยดอนทอง ถนนสายพิษณุโลก อุตรดิตถ์
+Address: หมู่ 10 บ้านน้ำดำ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองพิษณุโลก
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขื่อน/อ่างเก็บน้ำ
+Facilities Contact: 
+Telephone: 0 5529 5111
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.9370072, 100.4702459
+UUID: a5b88ec3-000d-44f9-b1b7-7fdc96ce7284
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

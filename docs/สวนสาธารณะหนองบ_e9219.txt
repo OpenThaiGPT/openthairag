@@ -1,0 +1,36 @@
+Title: สวนสาธารณะหนองบัว (ไม่มี)
+Content: 
+
+Nearby Location: ใกล้กับวัดหนองบัวและตลาดหนองบัว ตำบลในเมือง อำเภอเมืองอุบลราชธานี
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: ธรรมวิถี
+Subdistrict: 
+District: เมืองอุบลราชธานี
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.262098418303733,104.84124183654785
+UUID: e797066f-7ec4-4f9c-aab8-783b10020664
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

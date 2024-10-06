@@ -1,0 +1,36 @@
+Title: วัดคูขุด (Wat Khu Khut)
+Content: 
+
+Nearby Location: ใกล้วัดบางหมาก และเรือนจำจังหวัดชุมพร ตำบลบางหมาก เมืองชุมพร
+Address: หมู่ 3
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองชุมพร
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.4592609, 99.1976016
+UUID: cfaccf4f-e713-44ba-aff3-95bc355c7b45
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

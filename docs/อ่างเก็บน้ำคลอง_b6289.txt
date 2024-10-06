@@ -1,0 +1,36 @@
+Title: อ่างเก็บน้ำคลองสียัด (Khlong Si Yat Reservoir)
+Content: เป็นเขื่อนดินเก็บกักน้ำเพื่อการเกษตร ภูมิทัศน์ โดยรอบมีความสวยงาม มีร้านอาหารบริการริมอ่างเก็บน้ำ เหมาะเป็นสถานที่พักผ่อนทานอาหารชมธรรมชาติ ใกล้บริเวณอ่างเก็บน้ำมีศาลเจ้าพ่อเขากา เป็นที่เคารพสักการะของชาวบ้านบริเวณนั้น
+
+Nearby Location: ตั้งอยู่ที่ตำบลท่าตะเกียบ อำเภอท่าตะเกียบ
+Address: หมู่ 2
+Region: ภาคตะวันออก
+Alley: 
+Road: ทางหลวงหมายเลข 3259
+Subdistrict: 
+District: ท่าตะเกียบ
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 3850 8242
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เวลาเปิด 6.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.4321174, 101.6478152
+UUID: 5e1cce46-c336-4919-8003-09187aa1e237
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

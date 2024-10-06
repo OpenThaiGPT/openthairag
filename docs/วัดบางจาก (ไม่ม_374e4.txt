@@ -1,0 +1,36 @@
+Title: วัดบางจาก (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ตำบลคลองพระอุดม
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ปากเกร็ด
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2501 7181, 08 1685 4151, 08 1554 1118, 08 1510 0745
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9173691, 100.4881366
+UUID: a4a18d83-e995-4b34-aa9b-1276fab58caa
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

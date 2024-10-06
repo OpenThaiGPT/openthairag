@@ -1,0 +1,36 @@
+Title: ริมสายธารลานกระทงสาย (ไม่มี)
+Content: ตลอดทั่งแนวเป็นสวนสาธารณะพักผ่อนหย่อนใจของชาวเมืองตาก ซึ่งช่วงยามเย็นจะมองเห็นพระอาทิตย์ตกลับเหลี่ยมเขาสวยงามมากและเป็นที่จัดกิจกรรมงานประเพณีลอยกระทงสายไหลประทีป 1,000 ดวง
+
+Nearby Location: ตั้งอยู่เชิงสะพานสมโภชกรุงรัตนโกสินทร์ 200 ปี ถนนกิตติขจร อำเภอเมืองตาก
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: กิตติขจร
+Subdistrict: 
+District: เมืองตาก
+Province: ตาก
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.877305,99.120626
+UUID: ac508c4e-f71a-4ae1-a565-3e209b1f4f57
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

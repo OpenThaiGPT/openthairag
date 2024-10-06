@@ -1,0 +1,36 @@
+Title: วัดหัวกระสังข์
+Content: 
+
+Nearby Location:  
+Address: 2/2 หมู่ 10
+Region: ภาคตะวันออก
+Alley: 
+Road: ทางหลวงแผ่นดินหมายเลข 319
+Subdistrict: เกาะขนุน
+District: พนมสารคาม
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 038514071 / 038535113 สำนักพระพุทธศานาจังหวัดฉะเชิงเทรา
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.8026316, 101.4060744
+UUID: d0a6ef99-f593-4de3-9efd-b43a3396c392
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

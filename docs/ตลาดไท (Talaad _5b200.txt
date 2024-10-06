@@ -1,0 +1,36 @@
+Title: ตลาดไท (Talaad Thai)
+Content: เป็นตลาดกลางสินค้าการเกษตรแห่งประเทศไทย ศูนย์กลางสินค้าการเกษตร และอุตสาหกรรม การเกษตร ครบวงจร เพื่อภาคการเกษตรกรรมไทย ยิ่งใหญ่ ทันสมัย ก้าวไกลไปสู่ความเป็นหนึ่ง
+
+Nearby Location: ตั้งอยู่ริมถนนพหลโยธิน กิโลเมตรที่ 42 เยื้องมหาวิทยาลัยธรรมศาสตร์ศูนย์รังสิต ตำบลคลองหนึ่ง
+Address: 32/44
+Region: ภาคกลาง
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: คลองหลวง
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2908 4490 9, 0 2908 4499 ต่อ 261 
+Email: 
+Website: www.talaadthai.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0819267, 100.6265624
+UUID: 75af3456-f9de-40a2-b157-695fd1e38828
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: สวนเจ้าฟ้า (Chaofa Park)
+Content: สวนเจ้าฟ้า ตั้งอยู่ริมแม่น้ำกระบี่ เป็นสถานที่เหมาะแก่การเดินเล่นพักผ่อนหย่อนใจมองเห็น  เขาขนาบน้ำและป่าโกงกางหน้าเมืองยามค่ำบริเวณท่าเรือจะกลายเป็นตลาดโต้รุ่งให้เลือกชิม
+
+Nearby Location: บริเวณท่าเทียบเรือเจ้าฟ้า ริมแม่น้ำกระบี่ ตำบลปากน้ำ เมืองกระบี่
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ปากน้ำ
+District: เมืองกระบี่
+Province: กระบี่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 7562 0601
+Email: krabicity@gmail.com
+Website: https://www.krabicity.go.th/frontpage
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเที่ยวได้ทั้งปี  เวลาที่เหมาะสม 06.00 – 20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.061652824163675, 98.91970723642845
+UUID: df6751db-d9bf-4833-a763-6cd34a782ce4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

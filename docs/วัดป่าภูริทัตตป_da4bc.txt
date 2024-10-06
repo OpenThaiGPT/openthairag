@@ -1,0 +1,36 @@
+Title: วัดป่าภูริทัตตปฏิปทาราม (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ระหว่างหมู่บ้านคลองสระ หมู่ที่ 2 กับหมู่ที่ 3
+Address: หมู่ 2 บ้านคลองสระ
+Region: ภาคกลาง
+Alley: 
+Road: รพช.
+Subdistrict: 
+District: สามโคก
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2593 2433
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0900319, 100.5072169
+UUID: 652d091e-db9a-4b19-8007-f4d625c85a1c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

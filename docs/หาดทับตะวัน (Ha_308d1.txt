@@ -1,0 +1,36 @@
+Title: หาดทับตะวัน (Hat Thap Tawan)
+Content: 
+
+Nearby Location: อยู่ในอุทยานแห่งชาติเขาหลัก ลำรู่ ตำบลบางม่วง
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ตะกั่วป่า
+Province: พังงา
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.8033333, 98.2580555999999
+UUID: 08b916b2-153c-4a47-80a9-e2a806154bad
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

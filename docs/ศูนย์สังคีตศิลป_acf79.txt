@@ -1,0 +1,36 @@
+Title: ศูนย์สังคีตศิลป์ (Music Art Center)
+Content: 
+
+Nearby Location: ชั้น 2 ของอาคารธนาคารกรุงเทพ สาขาสะพานผ่านฟ้า ย่านแพร่งนารา ใกล้ศาลเจ้าพ่อเสือ
+Address: 391 ธนาคารกรุงเทพ ชั้น 2
+Region: ภาคกลาง
+Alley: 
+Road: ตะนาว
+Subdistrict: 
+District: พระนคร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์วัฒนธรรม
+Facilities Contact: 
+Telephone: 0 2282 2390, 0 2224 8169
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ ศุกร์ 08.30 15.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7556935, 100.4987294
+UUID: 91ac6e90-a6c0-4f68-a80b-d88b35cedc63
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

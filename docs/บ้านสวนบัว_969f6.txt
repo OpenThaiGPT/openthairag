@@ -1,0 +1,36 @@
+Title: บ้านสวนบัว
+Content: แหล่งท่องเที่ยวเช็คอิน ถ่ายรูปกับสวนบัวขนาดใหญ่ และจุดถ่ายรูปในธีมสวนดอกไม้ พร้อมทั้งบริการอาหารและเครื่องดื่ม
+
+Nearby Location: ไม่ไกลจากมหาวิทยาลัยสงขลานครินทร์
+Address:  
+Region: ภาคใต้
+Alley: สันติสุข
+Road:  
+Subdistrict: คลองแห
+District: หาดใหญ่
+Province: สงขลา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 093 750 5554
+Email: 
+Website: https://www.facebook.com/kaibandokmai/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดให้บริการทุกวัน 09.00   20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 350.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.042923999999999, 100.5771223
+UUID: 16d35341-588e-4aca-9131-9f9659fcd621
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

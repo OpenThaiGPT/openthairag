@@ -1,0 +1,36 @@
+Title: วัดป่าน้ำโจน (Wat Pa Nam Jone)
+Content: 
+
+Nearby Location: ตั้งอยู่ตำบลพันสาลี อำเภอวังทอง 
+Address: 419 หมู่ 13
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: วังทอง
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 1886 8761, 08 9438 7648
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.6392494, 100.5577949
+UUID: e9f1d6f6-c0cc-4616-9df8-fdecb35d38ba
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

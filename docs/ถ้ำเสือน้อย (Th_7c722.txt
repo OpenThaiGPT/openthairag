@@ -1,0 +1,36 @@
+Title: ถ้ำเสือน้อย (Tham Suea Noi)
+Content: ทเป็นวัดเล็กๆ ที่  มีถ้ำที่น่าสนใจอยู่ภายในบริเวณวัด บนฝาผนังถ้ำจะมีหินย้อยแปลกตา รูปร่างคล้ายเจ้าเสือตัวน้อยยืนอยู่บนผนังถ้ำ  และเป็นที่มาของชื่อ ถ้ำเสือน้อย   ที่สำคัญยังมีซากหอยอยู่เป็นจำนวนมากตามพื้นถ้ำ เป็นหลักฐานว่า  ครั้งหนึ่งแถวนี้น่าจะเคยจมอยู่ใต้ทะเลมาก่อน ไม่ได้มีเพียงแค่ถ้ำนะจ๊ะ ภายในวัดเค้ายังมีบรรยากาศที่ร่มรื่น เต็มไปด้วยต้นไม้ใหญ่อายุนับร้อยนับพันปี
+
+Nearby Location: ใกล้ถ้ำหัวกระโหลก ตำบลอ่าวลึกใต้ อำเภออ่าวลึก
+Address: หมู่ 5
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: อ่าวลึกใต้
+District: อ่าวลึก
+Province: กระบี่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สามารถเที่ยวได้ทั้งปี  เวลาที่เหมาะสม  08.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.408754885258448, 98.68117868900299
+UUID: b16c12d5-9adc-4e14-bcf0-c46313245f5b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

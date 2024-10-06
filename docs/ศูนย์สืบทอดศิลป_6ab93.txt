@@ -1,0 +1,36 @@
+Title: ศูนย์สืบทอดศิลปผ้าจก ราชบุรี (Ratchaburi Pha Chok Art Centre)
+Content: อยู่ภายในวัดแคทราย ถนนเพชรเกษม ตำบลคูบัว อำเภอเมืองราชบุรี อยู่ห่างจากตัวจังหวัดประมาณ 8 กิโลเมตร เป็นศูนย์รวบรวมข้อมูลเกี่ยวกับศิลปะผ้าจกไท ยวน เก็บรักษาตัวอย่างผ้าจกที่มีลวดลายดั้งเดิม       มีการสาธิตการทอผ้าและจำหน่ายสินค้าพื้นเมือง อาทิ ผ้าฝ้ายตีนจก เสื้อผ้าสำเร็จรูป ผ้าถุง ผ้าขาวม้า
+
+Nearby Location: อยู่ภายในวัดแคทราย ถนนเพชรเกษม ตำบลคูบัว อำเภอเมืองราชบุรี อยู่ห่างจากตัวจังหวัดประมาณ 8 กิโลเมตร
+Address: หมู่ 13
+Region: ภาคกลาง
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: เมืองราชบุรี
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์หัตถกรรม
+Facilities Contact: 
+Telephone: 0 3230 0031 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.5504568, 99.8131947999999
+UUID: 9e787548-b0fd-4d2e-af1e-ac2fdbc6ecd7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดตรอกปรือ (Wat Trok Prue)
+Content: 
+
+Nearby Location: ใกล้โรงเรียนบ้านน้ำจืดน้อย อยู่หมู่ที่ 4 ตำบลน้ำจืดน้อย อำเภอกระบุรี
+Address: หมู่ 4 บ้านตรอกปรือ
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: กระบุรี
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.417435, 98.7992769999999
+UUID: dacad3cd-95d4-47e9-8f1f-a8c2d1d6b2dc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

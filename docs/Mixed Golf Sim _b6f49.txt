@@ -1,0 +1,36 @@
+Title: Mixed Golf Sim (Mixed Golf Sim)
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: Ratchumpol เทศบาลนครระยอง
+Subdistrict: เนินพระ
+District: เมืองระยอง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 084 016 6648
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line:  @263djprq
+TikTok: 
+YouTube: 
+Start-End: 10.00   22.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6867618, 101.2536163
+UUID: 2df076e3-1796-4281-9851-aa7330daf0c0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

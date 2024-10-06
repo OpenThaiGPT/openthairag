@@ -1,0 +1,36 @@
+Title: กาดเมกฮิมคือ
+Content: ถนนคนเดินวันอาทิตย์ขายสินค้าอาหารพื้นถิ่น ชมการแสดงทางวัฒนธรรมฯ
+
+Nearby Location:  
+Address:  
+Region: ภาคเหนือ
+Alley:  
+Road: ริมคือ
+Subdistrict: กาญจนา
+District: เมืองแพร่
+Province: แพร่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 054 511 060
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 15:00 21:00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.143480442560758,100.14298044967266
+UUID: aab5bb73-1df1-40c4-ae1e-ca83a8f58563
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

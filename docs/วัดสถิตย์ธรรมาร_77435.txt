@@ -1,0 +1,36 @@
+Title: วัดสถิตย์ธรรมาราม (Wat Satit Thammaram)
+Content: 
+
+Nearby Location: ใกล้มัสยิดอัตเดาฟีกีย๊ะห์ ตั้งอยู่บ้านเหนือ ตำบลกำพวน อำเภอสุขสำราญ
+Address: หมู่ 2 บ้านเหนือ
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: สุขสำราญ
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.370671, 98.4129375
+UUID: 554ada31-8688-437b-ab9d-8c27465f4e6b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

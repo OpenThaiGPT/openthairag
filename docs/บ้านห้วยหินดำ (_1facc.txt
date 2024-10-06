@@ -1,0 +1,36 @@
+Title: บ้านห้วยหินดำ (Ban Hhoaw Hin Dam)
+Content: 
+
+Nearby Location: ใกล้องค์การบริหารส่วนตำบลวังยาว ตำบลวังยาว อำเภอด่านช้าง 
+Address: หมู่ 6 บ้านห้วยหินดำ
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ด่านช้าง
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 08 1194 4847, 0 3544 6263
+Email: phutaei_mp@hotmail.com
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.941387957450925, 99.36936573738829
+UUID: 1689abdf-9524-4642-9b2c-e6cd26a48eb2
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ไดโนเสาร์เขาค้อ (Amazing Dinosaur เขาค้อ)
+Content: สวนไดโนเสาร์
+
+Nearby Location: อ.เขาค้อ
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาค้อ
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 087 782 2494
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.6523191, 101.0156186
+UUID: 4d2225d3-47a8-4358-ad6f-6a02e4a279e3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

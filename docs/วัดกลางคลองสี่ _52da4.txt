@@ -1,0 +1,36 @@
+Title: วัดกลางคลองสี่ (Wat Klang Klong 4)
+Content: วัดกลางคลองสี่ เดิมมีนามว่า วัดใหม่กลางคลองสี่ ตั้งอยู่ที่บ้านคลองสี่ หมู่ที่ 5 ตำบลลาดสวาย อำเภอลำลูกกา จังหวัดปทุมธานี สร้างขึ้นในปี พ.ศ. 2453 โดยชาวมอญ
+
+Nearby Location: อยู่ใกล้บิ๊กซีคลอง 4 ลำลูกกาและโรงเรียนแย้มสะอาด
+Address: 24 หมู่ 5 บ้านคลองสี่สายกลาง
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: ลาดสวาย
+District: ลำลูกกา
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2533 2953
+Email: 
+Website: www.watklangkhlong4.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9598544, 100.6873077
+UUID: 6c128133-a24a-422e-81f5-7128df9c2b26
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

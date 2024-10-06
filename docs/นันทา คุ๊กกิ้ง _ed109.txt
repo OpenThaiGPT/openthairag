@@ -1,0 +1,36 @@
+Title: นันทา คุ๊กกิ้ง (Cooking Nanta)
+Content: 
+
+Nearby Location: ตั้งอยู่ในอาคารอาร์ซีเอ พลาซ่า ชั้น 1 ซอยศูนย์วิจัย เขตห้วยขวาง
+Address: 31/6 อาคารอาร์ซีเอ พลาซ่า ชั้น 1 
+Region: ภาคกลาง
+Alley: ศูนย์วิจัย
+Road: พระราม 9
+Subdistrict: 
+District: ห้วยขวาง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์ประชุมฯ
+Facilities Contact: 
+Telephone: 0 2641 4407 10
+Email: info@nantathailand.com
+Website: www.facebook.com/bangkoknanta
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ เว้นวันจันทร์แรกของเดือน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7501364, 100.5970305
+UUID: 31d54770-bc3c-45e4-8925-3fbd15373d55
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

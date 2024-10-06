@@ -1,0 +1,36 @@
+Title: ถ้ำตาชี (Tham Ta Chi)
+Content: 
+
+Nearby Location: ใกล้โรงเรียนบ้านคลองน้อย ตำบลทุ่งระยะ อำเภอสวี
+Address: หมู่ 5 บ้านคลองน้อย
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: สวี
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 7751 0865
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.2572085, 98.9922895
+UUID: 8cc8be25-a9f9-4eba-b469-07dfff650320
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ถ้ำเมืองออน (Tham Mueang On)
+Content: เป็นถ้ำนมผา มีนมผาเป็นพระธาตุตั้งอยู่กลางลานในถ้ำ ผนังถ้ำเป็นหินงอกหินย้อย เป็นประกายระยิบระยับยามต้องแสงไฟ
+
+Nearby Location: ตั้งอยู่ในเขตหมู่บ้านสหกรณ์ ตำบลบ้านสหกรณ์ อำเภอแม่ออน ห่างจากตัวเมืองเชียงใหม่ประมาณ 40 กิโลเมตร 
+Address: หมู่ 2 บ้านสหกรณ์
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: บ้านสหกรณ์
+District: แม่ออน
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone:  064 001 0014
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.78633229999999, 99.2380744
+UUID: 5e5923e6-cda9-4925-b63f-a6aeab9cfbdc
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

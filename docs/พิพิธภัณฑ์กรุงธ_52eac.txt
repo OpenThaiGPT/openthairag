@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์กรุงธนศึกษา บ้านเอกะนาค (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ภายในมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา ติดกับโรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: อิสรภาพ
+Subdistrict: 
+District: ธนบุรี
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 2473 7000
+Email: 
+Website: www.ศิลปและวัฒนธรรมบ้านสมเด็จ.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์,พุธ,ศุกร์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7313373, 100.4876619
+UUID: 2efaeb7c-2812-477c-877d-2b3f0ad22c77
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

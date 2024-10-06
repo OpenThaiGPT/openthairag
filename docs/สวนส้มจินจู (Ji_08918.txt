@@ -1,0 +1,36 @@
+Title: สวนส้มจินจู (Jinju The Orange Farm)
+Content: สวนส้มสายน้ำผึ้งเชียงใหม่ที่ตั้งอยู่บนม่อนแจ่ม จังหวัดเชียงใหม่ เป็นแลนด์มาร์คที่กำลังได้รับความนิยม บรรยากาศดี พื้นที่สวย ดูแล้วคล้ายๆ กับสวนส้มบนเกาะเจจู
+
+Nearby Location: ม่อนแจ่ม เชียงใหม่
+Address:  93/1 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่ริม
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 096 302 5211
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: สวนเปิดทุกวัน 08.00 18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 50.0
+Fee (TH Kid): 30.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.9511337, 98.8037319
+UUID: 2b856398-3885-4d2e-b7f9-31943f502b9c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

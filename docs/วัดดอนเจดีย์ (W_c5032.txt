@@ -1,0 +1,36 @@
+Title: วัดดอนเจดีย์ (Wat Don Jedee)
+Content: 
+
+Nearby Location: ติดพระบรมราชานุสรณ์เจดีย์ ตำบลดอนเจดีย์
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: ดอนเจดีย์
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3559 1199 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.632613207450197, 100.02501977427937
+UUID: 7de6c427-eb05-4c12-b7dc-6c454610e5ef
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

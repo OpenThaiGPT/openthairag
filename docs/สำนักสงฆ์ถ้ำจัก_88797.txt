@@ -1,0 +1,36 @@
+Title: สำนักสงฆ์ถ้ำจักรพรรดิ์ (Wat Tham Chakaphat)
+Content: เป็นสำนักปฎิบัติธรรมอันร่มรื่นท่ามกลางป่าไม้ที่อุดมสมบูรณ์ สงบเงียบ
+
+Nearby Location: บริเวณต้าผาหมอก หมู่ 5 ตำบลต้าผามอก อำเภอลอง 
+Address: 123 หมู่ 5 บ้านอิม
+Region: ภาคเหนือ
+Alley: 
+Road: แพร่ สูงเม่น
+Subdistrict: ต้าผามอก
+District: ลอง
+Province: แพร่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 081 111 778
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1003185, 99.9466989
+UUID: 6ac86f35-2764-4054-bc5a-5a154847eedd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

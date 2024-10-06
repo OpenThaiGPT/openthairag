@@ -1,0 +1,36 @@
+Title: หาดดวงตะวัน (Duangtawan Beach)
+Content: หาดดวงตะวัน เป็นหาดที่ดูจะไม่ค่อยมีใครรู้จักสักเท่าไหร่ จึงค่อนข้างเงียบสงบและเป็นส่วนตัวเอามากๆ อาจเป็นเพราะว่า เป็นหาดที่ไม่ได้มีถนนเชื่อมต่อกับหาดยอดนิยม นักท่องเที่ยวที่แวะมาหาดนี้ จึงมักเป็นคนที่มาพักบ้านพักบริเวณริมหาดดวงตะวันซะเป็นส่วนใหญ่
+
+Nearby Location: อยู่บริเวณปากคลองแกลงห่างจากตัวเมืองระยอง 33 กิโลเมตร
+Address: หมู่ 3
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: กะเฉด
+District: เมืองระยอง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 02 141 1296 99 / 02 141 1246 7
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดตลอด 24 ชม.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6316667, 101.5119079
+UUID: 9b5145f5-3e32-4de2-b725-ef7be3e09124
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

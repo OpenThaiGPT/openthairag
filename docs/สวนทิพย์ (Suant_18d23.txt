@@ -1,0 +1,36 @@
+Title: สวนทิพย์ (Suanthip)
+Content: 
+
+Nearby Location: ตั้งอยู่ในซอยวัดกู้ ตำบลบางพูด
+Address: 17-ก.ย.
+Region: ภาคกลาง
+Alley: 
+Road: สุขา ประชาสวรรค์ 2
+Subdistrict: 
+District: ปากเกร็ด
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 2583 3748
+Email: 
+Website: www.suanthip.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 11.00  23.00 น.ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.926984, 100.502217
+UUID: 5dda8de5-965b-4b30-9046-b00555fc3a6e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

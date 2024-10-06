@@ -1,0 +1,36 @@
+Title: บ้านม้า ลำพูน (Banma Lamphun)
+Content: ในหมู่บ้านทำเฟอร์นิเจอร์ทุกประเภทซึ่งใช้ไม้อัด ไม้สัก ไม้ยางพารา ฯลฯ มีให้เลือกมากมาย ราคาประหยัด สินค้ามีความประณีต
+
+Nearby Location: ถนนซุปเปอร์ไฮเวย์เชียงใหม่ ลำปาง แยกเข้าหมู่บ้านม้า ลำพูน 2 กิโลเมตร ตำบลศรีบัวบาน
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: ซุปเปอร์ไฮเวย์เชียงใหม่   ลำปาง
+Subdistrict: 
+District: เมืองลำพูน
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.561639, 99.0630592
+UUID: 23414ab7-2721-4fb3-9f6a-e471bed27e8b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

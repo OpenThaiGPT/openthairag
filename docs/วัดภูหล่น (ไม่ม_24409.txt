@@ -1,0 +1,36 @@
+Title: วัดภูหล่น (ไม่มี)
+Content: เป็นภูเขาขนาดย่อมมีต้นไม้ปกคลุมเป็นระยะสลับกับโขดหินน้อยใหญ่ บริเวณนั้นมีถ้ำซึ่งสร้างโดยพระอาจารย์มั่น ภูริทัตโต ใช้เป็นที่วิปัสสนาธรรม บริเวณโดยรอบเย็นสบาย เงียบสงบเหมาะแก่การพักผ่อนและปฏิบัติธรรม
+
+Nearby Location: ตั้งอยู่ที่ตำบลสงยาง อำเภอศรีเมืองใหม่
+Address: 9 บ้านภูหล่น
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีเมืองใหม่
+Province: อุบลราชธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.6361875, 105.2768125
+UUID: fbe5bd56-da5b-4f26-91f5-d63a45c9dc3e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

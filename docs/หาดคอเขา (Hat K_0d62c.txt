@@ -1,0 +1,36 @@
+Title: หาดคอเขา (Hat Kor Khao)
+Content: เป็นชาดหาดที่เงียบสงบ มีศาลกรมหลวงชุมพรเขตอุดมศักดิ์สร้างบนเรือรบหลวงเจนทะเลซึ่งเป็นเรือจำลอง และวัดคอเขา ประดิษฐานรูปปั้นพระโพธิสัตว์กวนอิม
+
+Nearby Location: ใกล้สำนักสงฆ์เทพนิมิตร ตำบลนาพญา อำเภอหลังสวน
+Address:  
+Region: ภาคใต้
+Alley: 
+Road: เลียบชายหาดปากน้ำหลังสวน ละแบ
+Subdistrict: 
+District: หลังสวน
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 9.9523181, 99.1483827
+UUID: 727da321-509d-41c4-a4d0-24703a9dedbd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

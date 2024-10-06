@@ -1,0 +1,36 @@
+Title: วัดเจตวงศ์ (Wat Chetawong)
+Content: เป็นวัดที่ตั้งอยู่ที่ตำบลบางขะแยง อำเภอเมือง สภาพโบราณสถานโบราณวัตถุด้านหน้าพระอุโบสถมีขนาดเล็ก
+
+Nearby Location: อยู่ก่อนขึ้นสะพานปทุมธานี 2 ซอยวัดชินวรนาราม ตำบลบางขะแยง
+Address: 307
+Region: ภาคกลาง
+Alley: วัดชินวราราม
+Road: 
+Subdistrict: 
+District: เมืองปทุมธานี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9687061, 100.5293655
+UUID: 6bb00eb2-d5e0-477c-8b59-9ab1e4191aca
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

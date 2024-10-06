@@ -1,0 +1,36 @@
+Title: ศาลไทรคู่ (Sai Khu Shrine)
+Content: 
+
+Nearby Location: ตั้งอยู่ใกล้สำนักงานเขตห้วยขวาง 
+Address: หมู่บ้านรัชดานิเวศน์
+Region: ภาคกลาง
+Alley: 
+Road: ประชาราษฎร์บำเพ็ญ
+Subdistrict: 
+District: ห้วยขวาง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2277 9100
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.777919, 100.5802941
+UUID: fe184009-4632-4abd-a37e-124db179359a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

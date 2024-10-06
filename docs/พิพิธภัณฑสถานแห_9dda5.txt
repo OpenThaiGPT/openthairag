@@ -1,0 +1,37 @@
+Title: พิพิธภัณฑสถานแห่งชาติ ราชบุรี (Ratchaburi National Museum)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมถนนวรเดช ตำบลหน้าเมือง ใกล้กับหอนาฬิการิมแม่น้ำแม่กลอง 
+Address:  325/1
+Region: ภาคกลาง
+Alley: 
+Road: วรเดช 
+Subdistrict: เกาะพลับพลา
+District: เมืองราชบุรี
+Province: ราชบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 3232 1513
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันพุธ วันอาทิตย์ 09.00 16.00 น., ปิดวันจันทร์ อังคารและวันหยุดนักขัตฤกษ์
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 20.0
+Fee (EN): 100.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 13.5410643, 99.8176513
+UUID: 3624869a-109c-49a0-8946-5bdf5850b516
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

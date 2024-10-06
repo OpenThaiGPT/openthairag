@@ -1,0 +1,36 @@
+Title: สวนสาธารณะเฉลิมพระเกียรติ 80 พรรษา พระบาทสมเด็จพระเจ้าอยู่หัว
+Content: 
+
+Nearby Location: บริเวณสวนพฤกษศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน จังหวัดนครปฐม
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: กำแพงแสน
+District: กำแพงแสน
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 3428 1066
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันตลอด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0205778, 99.9735639
+UUID: 7703ab61-dbc9-4f4e-91e3-e7021f70fe01
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

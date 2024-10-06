@@ -1,0 +1,36 @@
+Title: น้ำตกห้วยใหญ่ (Huay Yai Waterfall)
+Content: 
+
+Nearby Location: อยู่ในเขตตำบลลำเลียง อำเภอกระบุรี ใกล้น้ำตกห้วยเนียง
+Address: หมู่ 10
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม บ้านน้ำทุน
+Subdistrict: 
+District: กระบุรี
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.232371238472735, 98.8764433282218
+UUID: 46e4fee2-d9ab-492d-bfb7-8d307eb35385
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

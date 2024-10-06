@@ -1,0 +1,36 @@
+Title: สวนรมณีย์ทุ่งสีกัน (Romanee Thungsikan Park)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนเวฬุวนาราม เขตดอนเมือง 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: เวฬุวนาราม
+Subdistrict: 
+District: ดอนเมือง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 05.00 21.00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.9293523, 100.5679971
+UUID: 41ac64d8-84e4-4513-ba16-69efcf210756
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: โคเรียนทาวน์ (Korea Town)
+Content: 
+
+Nearby Location: ตั้งอยู่หน้าปากซอยสุขุมวิท 12 เขตคลองเตย
+Address: อาคาร Korean Towen
+Region: ภาคกลาง
+Alley: สุขุมวิท 12
+Road: สุขุมวิท
+Subdistrict: 
+District: คลองเตย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 10.00 22.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.738351762321825, 100.55804557254419
+UUID: 2b9289b2-5e2c-435b-b8d0-f547e11ac0ec
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

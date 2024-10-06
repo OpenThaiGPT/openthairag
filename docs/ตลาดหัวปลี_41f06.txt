@@ -1,0 +1,36 @@
+Title: ตลาดหัวปลี
+Content: เป็นตลาดชุมชนเกษตรในบรรยากาศเก๋ ตกแต่งในแต่ละมุมได้น่ารัก มีจุดให้ถ่ายภาพหลายจุด ภายในตลาดเย็นสบาย ร่มรื่นด้วยต้นไม้ สวนไผ่ และนาบัว ครบครันด้วยสินค้าโอทอปที่สนับสนุนผลิตภัณฑ์จากชาวบ้าน ทั้งของกิน ของใช้ ผักพื้นบ้าน และผักปลอดสารพิษ ให้ได้เดินช้อปกันเพลิน ๆ เหมาะสำหรับมาเที่ยวพักผ่อน
+
+Nearby Location: 
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: พุแค
+District: เฉลิมพระเกียรติ
+Province: สระบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 085 123 7365
+Email: 
+Website: 
+Facebook: ตลาดหัวปลี ตลาดสร้างสุข ชุมชนร่วมสร้าง
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.6676535, 100.8940709
+UUID: 8996499c-780c-490a-9800-8004b0503403
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

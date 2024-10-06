@@ -1,0 +1,38 @@
+Title: สำนักสงฆ์เกาะแก้วพิศดาร (Ko Keaw Pid Sa Darn)
+Content: เกาะเงียบสงบเหมาะแก่การปฏิบัติธรรมและสักการะรอยพระพุทธบาท รอยที่ห้าซึ่งประดิษฐานอยู่บนก้อนหินริมทะเลเกาะแก้วพิศดารจำนวนสองรอย
+
+Nearby Location: เป็นเกาะตรงข้ามกับแหลมพรหมเทพ ตำบลราไวย์ เมืองภูเก็ต
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: ราไวย์
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: ไม่มีเบอร์โทรติดต่อ
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: แนะนำเวลา 09.00  17.00 น.
+
+ระหว่างเดือน ตุลาคม   มีนาคม เพราะต้องเดินทางโดยเรือเท่านั้น
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.747596100000001, 98.3021923
+UUID: ac2c5707-2ee2-4591-90c7-bd413e313d8a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

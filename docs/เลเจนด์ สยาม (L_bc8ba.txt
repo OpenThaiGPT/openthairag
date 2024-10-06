@@ -1,0 +1,36 @@
+Title: เลเจนด์ สยาม (Legend Siam)
+Content: เมืองแห่งตำนานอารยะสยาม ธีมพาร์คเชิงวัฒนธรรมที่นำเสนอตำนานและอารยะธรรมที่น่าภาคภูมิใจของประเทศไทย
+
+Nearby Location: ติดสวนนงนุช พัทยา
+Address: 139 หมู่ 8
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: สัตหีบ
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 033 073 333
+Email: service@legendsiam.com
+Website: http://www.legendsiam.com/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 20.00 น. เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 12.7779703, 100.919876
+UUID: 226a9eb4-a556-4579-aadd-152b183c22df
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

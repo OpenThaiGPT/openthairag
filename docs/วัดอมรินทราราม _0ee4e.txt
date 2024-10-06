@@ -1,0 +1,36 @@
+Title: วัดอมรินทราราม (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมปากคลองบางกอกน้อยฝั่งใต้ แขวงศิริราช เขตบางกอกน้อย 
+Address: 566
+Region: ภาคกลาง
+Alley: 
+Road: อรุณอมรินทร์
+Subdistrict: 
+District: บางกอกน้อย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2866 1596,09 2939 4594
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: โบสถ์น้อยเปิด 07.00 16.30น. วันอาทิตย์ปฏิบัติธรรม 09.00 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7599049, 100.4833928
+UUID: 41f024ca-4748-441e-85c7-fe28e291408f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

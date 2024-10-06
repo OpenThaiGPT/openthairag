@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์พื้นบ้านแม่ทะ (Ban Mae Tha Museum)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่บ้านหลุก ตำบลนาครัว อำเภอแม่ทะ อยู่ห่างที่ว่าการอำเภอแม่ทะไปประมาณ 2 กิโลเมตร
+Address: หมู่ 6 บ้านหลุก
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แม่ทะ
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 5422 6038
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1306992, 99.5314111
+UUID: e91db13f-6a2a-4f57-bd96-c90db79e31cb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

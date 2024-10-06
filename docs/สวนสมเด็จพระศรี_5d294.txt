@@ -1,0 +1,36 @@
+Title: สวนสมเด็จพระศรีนครินทร์ (Sinagarinra Park)
+Content: บริเวณโดยรอบมีหินงอกขนาดเล็กใหญ่ลักษณะต่างๆ ซึ่งเกิดขึ้นเองตามธรรมชาติ ตั้งเรียงรายอยู่เป็นจำนวนมาก
+
+Nearby Location: ตั้งอยู่ในวิทยาลัยเกษตรและเทคโนโลยีกาญจนบุรี ตำบลหนองหญ้า อำเภอเมืองกาญจนบุรี
+Address: 1 หมู่ 5
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองกาญจนบุรี
+Province: กาญจนบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 34552 106 7
+Email: kasetkan1@hotmail.com
+Website: www.kasetkan.ac.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 16.30
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.98641,99.46485
+UUID: 8a0e95fb-af85-40a9-bcc3-84e47ac3cbf3
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

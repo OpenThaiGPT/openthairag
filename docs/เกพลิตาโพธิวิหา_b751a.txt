@@ -1,0 +1,37 @@
+Title: เกพลิตาโพธิวิหาร (ไม่มี)
+Content: เป็นสถานที่ปฏิบัติธรรมสำหรับคนยุคใหม่ ที่ต้องการความสงบและอยู่ใกล้ชิดกับธรรมชาติ โดยไม่เน้นการปฏิบัติตามรูปแบบที่มีอยู่โดยทั่วไป แต่เน้นการปฏิบัติโดยการเจริญสติปัฏฐานสอดคล้องกลมกลืนไปกับการผลัดเปลี่ยนอิริยาบถตามปกติธรรมชาติ ความเคร่งครัดในการปฏิบัติคือการดูกาย ดูใจของตนเองบ่อยๆเนืองๆ ตลอดทั้งวันจนกว่าจะถึงเวลานอนหลับพักผ่อน
+
+Nearby Location: ตั้งอยู่ที่ตำบลหนองบอน เมืองสระแก้ว
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: หนองบอน
+District: เมืองสระแก้ว
+Province: สระแก้ว
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 085 2378656
+Email: contact@kephalita.com
+Website: www.kephalita.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวันเวลา 07.00 19.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.845766, 102.0546518
+UUID: 48fbb5f4-499f-45ba-a49f-0182811fd8ac
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

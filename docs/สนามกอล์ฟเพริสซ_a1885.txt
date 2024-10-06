@@ -1,0 +1,36 @@
+Title: สนามกอล์ฟเพริสซิเด้นท์คันทรีคลับ (President Country Club)
+Content: สนามยอดนิยมของคนคอกอล์ฟ ตั้งอยู่ห่างจากใจกลางกรุงเทพฯประมาณ 1 ชั่วโมง เป็นสนามกอล์ฟที่มี 36 หลุม  ที่มีคนนิยมเล่นมากโดยได้รับความไว้ไว้วางใจ เป็นเจ้าภาพในการแข่งขันภายในประเทศมากมาย เป็นทำการเมื่อปี ค.ศ. 1993 โดยคุณสุรศักดิ์ ชินวงศ์วัฒนา
+
+Nearby Location: ตั้งอยู่ถนนสุวินทวงศ์ เขตหนองจอก  
+Address: 42 หมู่ 8
+Region: ภาคกลาง
+Alley: 
+Road: สุวินทวงศ์
+Subdistrict: 
+District: หนองจอก
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ
+Facilities Contact: 
+Telephone: 0 2988 7555 63
+Email: golf@presiden.co.th
+Website: www.president.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7685067,100.8699498
+UUID: fa763f53-6231-49d1-9194-2f607b43e0f9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

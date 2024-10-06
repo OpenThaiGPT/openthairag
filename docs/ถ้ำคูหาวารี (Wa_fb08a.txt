@@ -1,0 +1,36 @@
+Title: ถ้ำคูหาวารี (Wat Tham Khuha Wari)
+Content: วัดถ้ำคูหาวารี เป็น สถานที่ ที่มีชื่อเสียงอีกแห่งหนึ่งของ จังหวัดเลย วัดถ้ำคูหาวารี ตั้งอยู่ที่ ตำบลโคกขมิ้น อำเภอวังสะพุง เลย
+
+Nearby Location: อยู่ที่บ้านโนนสว่าง ตำบลโคกขมิ้น อำเภอวังสะพุง ห่างจากทางแยกบ้านลาด 5 กิโลเมตร
+Address: หมู่ 8 บ้านโนนสว่าง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: วังสะพุง
+Province: เลย
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.1608954,101.900579
+UUID: 1612e95e-d3ea-4418-bfb2-6b299ba16654
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: น้ำตกชันตาเถร (Chan Ta Then Waterfall)
+Content: น้ำตกแห่งนี้มีความสูงถึง 5 ชั้น ชั้นที่ 4 มีความสวยงามที่สุด ซึ่งต้องเดินเท้าประมาณ 1 กิโลเมตร ส่วนชั้นที่ 5 ต้องปีนป่ายขึ้นไป มีน้ำเฉพาะช่วงเดือนสิงหาคม พฤศจิกายน เปิดให้เข้าเที่ยวชมระหว่างเวลา 6.00–16.00 น. ช่วงเดือนพฤศจิกายนถึงมกราคมเหมาะที่จะมาดูนก โดยเฉพาะนกเงือก ผู้สนใจจัดกิจกรรมค่ายเยาวชนเพื่ออนุรักษ์ธรรมชาติส่งจดหมายถึงหัวหน้าสถานีพัฒนาและส่งเสริมการอนุรักษ์สัตว์ป่าเขาเขียว
+
+Nearby Location: อยู่ใกล้สวนสัตว์เปิดเขาเขียว ตำบลบางพระ
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: ศรีราชา
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: เขตรักษาพันธุ์สัตว์ป่า
+Facilities Contact: 
+Telephone: 0 3831 1234
+Email: 
+Website: www.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 16.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.2421847, 101.0454846
+UUID: b5e5111e-0f49-4ab1-93e9-48afe65c39ee
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

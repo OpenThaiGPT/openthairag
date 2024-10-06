@@ -1,0 +1,36 @@
+Title: ศาลหลักเมืองจังหวัดนครพนม (Nakhon Phanom City Shrine)
+Content: ศาลหลักเมืองจังหวัดนครพนม ได้สร้างขึ้นตามความเชื่อในประเพณีโบราณ เกี่ยวกับการสร้างบ้านแปงเมือง จะต้องทำพิธีเพื่อความเป็นสิริมงคลแก่บ้านเมืองที่จะสร้างขึ้น พิธีดังกล่าวคือ การยกเสาหลักเมืองของเมือง โดยใช้ไม้จากต้นกันเกราซึ่งเป็นต้นไม้ประจำจังหวัดนครพนม (ไม้มันปลา) ซึ่งเป็นไม้มงคล เพื่อเป็นหลักชัยทางจิตใจว่าบ้านเมืองที่สร้างขึ้นนั้นมีรากบานฝังไว้แน่นหนาถาวร
+
+Nearby Location: ใกล้ศาลากลางจังหวัดนครพนม
+Address: สำนักงานเทศบาลเมืองนครพนม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: อภิบาลบัญชา
+Subdistrict: กุรุคุ
+District: เมืองนครพนม
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 042 512005 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.4081006, 104.7806386
+UUID: d9a3c4f1-74e5-44e3-93b9-6cfab1ebdbda
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

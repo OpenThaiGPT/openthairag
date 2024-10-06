@@ -1,0 +1,36 @@
+Title: สวนเบญจมาศคุณวิภา (ไม่มี)
+Content: "สวนเบญจมาศคุณวิภา" อยู่บริเวณปากทางเข้าหมู่บ้านบุไทรโฮมสเตย์ เมื่อมาถึงสามารถจอดรถได้ที่ฝั่งตรงข้ามสวน บริเวณด้านหน้ามีร้านจำหน่ายผลิตผลทางการเกษตรต่าง  ๆ เช่นผลไม้ตามฤดูกาล ผลไม้แปรรูป ไวน์ผลไม้ และมีจำหน่ายผลิตภัณฑ์หัตถกรรมในชุมชน เช่น กระเป๋าผ้า กระเป๋าสตางค์ กล่องทิชชู
+
+Nearby Location: อยู่บริเวณปากทางเข้าหมู่บ้านบุไทรโฮมสเตย์ วังน้ำเขียว
+Address: หมู่ 4 บ้านบุไทร 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road:  
+Subdistrict: 
+District: วังน้ำเขียว
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.470152331797442,101.81421392488096
+UUID: 0eca2018-44e7-4665-b5bf-e89e0af93c6b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

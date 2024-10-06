@@ -1,0 +1,36 @@
+Title: ศูนย์แสดงและสาธิตงานสกุลช่างเมืองเพชร (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ชั้น 3 อาคารสำนักงานวัฒนธรรมจังหวัดเพชรบุรี ใกล้โรงเรียนวัดดอนไก่เตี้ย (เดิม) ถนนดำเนินเกษม ตำบลคลองกระแซง อำเภอเมืองเพชรบุรี
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: ดำเนินเกษม
+Subdistrict: 
+District: เมืองเพชรบุรี
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 3242 4324
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.101669, 99.946784
+UUID: ef27bf62-38e7-40a7-8ab4-180a4d4d1d05
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

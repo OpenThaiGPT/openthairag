@@ -1,0 +1,36 @@
+Title: วัดหนองพลวง (Wat Nong Phluang)
+Content: วัดหนองพลวง สร้างขึ้นเมื่อ พ.ศ.2232 สิ่งสำคัญภายในวัด ได้แก่ พระอุโบสถ เป็นโบสถ์ท้องสำเภา อาคารก่ออิฐถือปูน ทรงจั่วหน้าบันด้านหน้าประดับลวดลายปูนปั้นและเครื่องถ้วยเคลือบ แต่ด้านหลังเรียบไม่มีลวดลาย เป็นปูนสีขาวฉาบเกลี้ยง ๆ ดูเรียบง่ายงามตา ไม่มีช่อฟ้า มีทางเข้าทางเดียว เสมาเป็นหินสลักสวยงามบนฐานรูปดอกบัว
+
+Nearby Location: ที่ตั้งบ้านหนองพลวง ตำบลหนองขาหย่าง อำเภอหนองขาหย่าง ติดกับโรงเรียนหนองขาหย่างวิทยาคม
+Address: 1 หมู่ 2
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ดงขวาง
+District: หนองขาหย่าง
+Province: อุทัยธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 056 514651 2
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.364167,99.929167
+UUID: 0f59bbff-a11d-4583-9954-d14b25d3419f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

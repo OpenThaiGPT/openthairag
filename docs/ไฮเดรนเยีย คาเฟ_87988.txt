@@ -1,0 +1,36 @@
+Title: ไฮเดรนเยีย คาเฟ่ เขาค้อ (Hydrangea Cafe)
+Content: ร้านกาแฟอยู่บนทุ่งดอกไม้นานาชนิด
+
+Nearby Location: เขาค้อ
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เขาค้อ
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 082 395 5502
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.6801501, 101.0325235
+UUID: 441d791c-d559-4c20-909d-d88d33b30579
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

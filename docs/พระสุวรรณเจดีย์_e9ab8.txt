@@ -1,0 +1,37 @@
+Title: พระสุวรรณเจดีย์หรือปทุมวดีเจดีย์
+Content: 
+
+Nearby Location: อยู่ภายในวัดพระธาตุหริภุญชัยวรมหาวิหาร ตำบลในเมือง เมืองลำพูน
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: รอบเมืองใน
+Subdistrict: 
+District: เมืองลำพูน
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 21.00 น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 20.0
+Fee (EN Kid): 
+Remark: 
+Location: 18.5777521, 99.0076742999999
+UUID: 1ca279a9-1078-449a-9b46-c551deeba87f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

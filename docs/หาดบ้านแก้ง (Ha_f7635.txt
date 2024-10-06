@@ -1,0 +1,36 @@
+Title: หาดบ้านแก้ง (Hat Ban Kaeng)
+Content: หาดบ้านแก้ง ตำบลคูซอด อำเภอเมืองศรีสะเกษ ที่อยู่ใต้สะพานบ้านแก้ง เป็นสะพานข้ามแม่น้ำมูล ระหว่างอำเภอเมืองศรีสะเกษ ไปอำเภอยางชุมน้อย เนื่องจากมีหาดทราย มีแพอาหารตั้งอยู่ริมหาด และแพอาหารอยู่กลางลำน้ำมูล
+
+Nearby Location: อยู่บริเวณใต้สะพานบ้านแก้ง ตำบลคูซอด อำเภอเมืองศรีสะเกษ
+Address: 
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองศรีสะเกษ
+Province: ศรีสะเกษ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: แม่น้ำ/ลำคลอง/แก่ง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.2372371, 104.2980686
+UUID: da3f3d72-b43d-439e-bbcd-897080dd63e9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

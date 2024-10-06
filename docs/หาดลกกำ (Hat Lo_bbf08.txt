@@ -1,0 +1,36 @@
+Title: หาดลกกำ (Hat Lok Kum)
+Content: 
+
+Nearby Location: ใกล้หาดลกแพะ ตำบลด่านสวี อำเภอสวี
+Address: หมู่ 11 บ้านอ่าวคราม
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: สวี
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.2202248, 99.2300807
+UUID: 5fc0a70a-5e96-4c1d-acd1-3a795285d253
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

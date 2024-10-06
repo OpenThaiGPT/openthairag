@@ -1,0 +1,36 @@
+Title: หมู่บ้านม้งแม่ขุนวาก (Mong mae khun Wak Viilage)
+Content: นักท่องเที่ยวสามารถแวะชมวิถีชีวิตความเป็นอยู่ของชาวม้ง และชมงานปักผ้าของหญิงชาวม้งในหมู่บ้านได้
+
+Nearby Location: ใกล้สถานีทดลองเกษตรแม่จอนหลวง ตำบลแม่นาจร อำเภอแม่แจ่ม
+Address: หมู่ 18 บ้านม้งแม่ขุนวาก
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: แม่นาจร
+District: แม่แจ่ม
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 0 5311 4133, 0 5311 4136
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิด 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.6544371, 98.4747665
+UUID: 660d4e17-e72a-48a0-b0de-b5a05c43e3bb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

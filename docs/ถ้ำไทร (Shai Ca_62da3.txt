@@ -1,0 +1,36 @@
+Title: ถ้ำไทร (Shai Cave)
+Content: อยู่บริเวณคุ้งโตนด ห่างจากที่ทำการอุทยานแห่งชาติ 9 กิโลเมตร การขึ้นชมถ้ำมีระยะทางไม่ไกล สามารถนำรถยนต์ไปจอดไว้ที่เชิงเขาแล้วเดินเท้าขึ้นเขาไปอีก 280 เมตร ใช้เวลาประมาณ 30 นาที ภายในถ้ำค่อนข้างมืด ต้องใช้ไฟฉาย หรือ ตะเกียง ซึ่งจะมีบริการในวันหยุดราชการ หากเป็นวันธรรมดา สามารถติดต่อขอเช่าตะเกียงได้ที่บ้านคุ้งโตนด ลักษณะภายในถ้ำพบ หินงอกหินย้อย ที่สวยงาม ระยะเวลาที่เข้าชมภายในถ้ำ ประมาณ 1 ชั่วโมง
+
+Nearby Location: อยู่ห่างจากที่ทำการอุทยานแห่งชาติสามร้อยยอด 9 กิโลเมตร
+Address: หมู่ 2 บ้านคุ้งโตนด
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: กุยบุรี
+District: กุยบุรี
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 032 821568
+Email: reserve@dnp.go.th
+Website: www.dpn.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.180042, 100.0073903
+UUID: dfe1f7f5-dddb-46cd-a166-5d4a52ecb198
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

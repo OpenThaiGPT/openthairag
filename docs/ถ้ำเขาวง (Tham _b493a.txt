@@ -1,0 +1,36 @@
+Title: ถ้ำเขาวง (Tham Khao Wong)
+Content: 
+
+Nearby Location: อยู่บ้านเขาวงกต ในเขตอุทยานแห่งชาติเขาชะเมา เขาวง ห่างจากอำเภอแก่งหางแมว 20 กิโลเมตร
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: แก่งหางแมว
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 20.0
+Fee (TH Kid): 10.0
+Fee (EN): 200.0
+Fee (EN Kid): 100.0
+Remark: 
+Location: 12.8809781, 101.8206205
+UUID: 4b4b82df-5d19-447d-87e4-274841050d58
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: น้ำตกขั้นบันได (Khan Bandai Waterfall)
+Content: 
+
+Nearby Location: ใกล้น้ำตกธารทิพย์และน้ำตกธารสวรรค์ ตำบลบุ่งน้ำเต้า อำเภอหล่มสัก
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: หล่มสัก
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5682 4264
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.30  17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.7733926, 101.2451095
+UUID: 93b6a391-8180-4bcd-a9df-395dc8057980
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดช้าง (Wat Chang)
+Content: สักการะพระบรมสารีริกธาติในอุโบสถ หลวงพ่อเสริมสุข หลวงพ่อภู หลวงปู่ทวด หลวงพ่อสด หลวงพ่อสมปรารถนา บริเวณโดยรอบวัดจัดแต่งภูมิทัศน์ สิ่งปลูกสร้างสวยงามร่มรื่น และมีวัตถุมงคลที่เป็นที่รู้จักแพร่หลายในวงการพระเครื่อง คือ พระกริ่งวัดช้าง
+
+Nearby Location: อยู่ใกล้โรงเรียนอนุบาลบ้านนา (วัดช้าง)
+Address: หมู่ 3
+Region: ภาคตะวันออก
+Alley: 
+Road: เทศบาล 4
+Subdistrict: 
+District: บ้านนา
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 9065 8675
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.259914844282955,101.06637113618467
+UUID: 5372f7ce-ef65-46c5-b69e-ee87323ac902
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

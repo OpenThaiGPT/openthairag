@@ -1,0 +1,36 @@
+Title: ศูนย์ส่งเสริมและพัฒนาอาชีพการเกษตรจังหวัดกระบี่ (พืชสวน) (Krabi Extention and Agriculture Development Center (Horticulture))
+Content: เป็นศูนย์เพื่อรวบรวมพันธุ์พืชในท้องถิ่น ทดสอบพันธุ์พืชในประเทศ และเป็นศูนย์อบรมให้แก่ประชาชนและเยาวชน
+
+Nearby Location: ตั้งอยู่ริมถนนเพชรเกษม ใกล้กับศูนย์ท่องเที่ยวเชิงเกษตร ตำบลเขาทอง เมืองกระบี่
+Address: 401 หมู่ 1
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: เขาทอง
+District: เมืองกระบี่
+Province: กระบี่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)
+Facilities Contact: 
+Telephone: 075 656 388
+Email: 
+Website: 
+Facebook: https://www.facebook.com/aopdh10/?locale=th_TH
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เที่ยวได้ตลอดทั้งปี  เวลาที่เหมาะสม 08.30 – 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.184862690670376,98.83171498775482
+UUID: 8924ab9d-fc46-483e-9192-dfe67486cbf1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,49 @@
+Title: หอดูดาวเฉลิมพระเกียรติ 7 รอบ พระชนมพรรษา สงขลา
+Content: หอดูดาวที่ก่อตั้งโดยสถาบันวิจัยดาราศาสตร์แห่งชาติ (องค์การมหาชน) เน้นองค์ความรู้ด้านดาราศาสตร์อิสลาม
+
+Nearby Location: ใกล้กับโรงแรมสงขลาคีรี รีสอร์ท สงขลา
+Address:  
+Region: ภาคใต้
+Alley:  
+Road: หอดูดาว
+Subdistrict: เกาะแต้ว
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โรงละคร/โรงมหรสพ (โชว์)
+Facilities Contact: 
+Telephone: 0951450411 074300868
+Email: songkhlacamp@narit.or.th
+Website: http://www.narit.or.th/index.php
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ปิดวันจันทร์
+
+วันอังคาร:
+08:30   16:30
+วันพุธ:
+08:30   16:30
+วันพฤหัสบดี:
+08:30   16:30
+วันศุกร์:
+08:30   17:00
+วันเสาร์:
+08:30   22:00
+วันอาทิตย์:
+08:30   16:30
+Activity: 
+Suitable Duration: 
+Fee (TH): 50.0
+Fee (TH Kid): 30.0
+Fee (EN): 50.0
+Fee (EN Kid): 30.0
+Remark: 
+Location: 7.1582045, 100.6112252
+UUID: 86a9f684-547a-479a-b4b3-c3cd71ee7629
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

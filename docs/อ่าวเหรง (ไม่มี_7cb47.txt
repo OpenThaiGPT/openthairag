@@ -1,0 +1,36 @@
+Title: อ่าวเหรง (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ที่ถนนหัวกรัง ปากตะโก ตำบลบางน้ำจืด อำเภอหลังสวน
+Address: หมู่ 13
+Region: ภาคใต้
+Alley: 
+Road: หัวกรัง ปากตะโก
+Subdistrict: 
+District: หลังสวน
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.041036791432711, 99.17513699618652
+UUID: c1d95520-3832-4732-b90d-d937ed8aaeb0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

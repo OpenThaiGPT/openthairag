@@ -1,0 +1,36 @@
+Title: วัดเจ้าขาว (Wat Chao Khao)
+Content: มีปลาเป็นจำนวนมาก
+
+Nearby Location: ไม่ไกลจากวัดไผ่โรงวัว ตำบลตะค่า อำเภอบางปลาม้า
+Address: 102 หมู่ 4 คลองตาจง 
+Region: ภาคกลาง
+Alley: 
+Road: บางยี่หน วัดไผ่โรงวัว
+Subdistrict: 
+District: บางปลาม้า
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 3558 7520
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End:  
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.3875634, 100.1691965
+UUID: 56dc65ed-ee64-41dc-9d71-1531503aa21e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

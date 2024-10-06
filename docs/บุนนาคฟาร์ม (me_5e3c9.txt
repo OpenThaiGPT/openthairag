@@ -1,0 +1,36 @@
+Title: บุนนาคฟาร์ม (melonboonnakfarm)
+Content: แหล่งท่องเที่ยวเชิงเกษตร ท่องเที่ยววิถีใหม่สู่ท่องเที่ยวเชิงเกษตรท่ามกลางบรรยกาศธรรมชาติ สูดอากาศดีๆแบบ สโลไลว์ไลฟ์ สัมผัสประสบการณ์นันทนาการ และ กิจกรรมทำอาหาร Farm to table สดจากฟาร์มที่มีคุณภาพต่อผู้บริโภค ทั้งนี้ทางสวน มีบริการอาหารเครื่องดื่ม และมีผลผลิตทางการเกษตรจำหน่าย อาทิ เมล่อน มะเขือเทศ
+
+Nearby Location: ตำบลพุมเรียง อำเภอไชยา
+Address: 9/8 หมู่5
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: พุมเรียง
+District: ไชยา
+Province: สุราษฎร์ธานี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 089 652 3836 , 095 097 6419
+Email: melonboonnakfarm@gmail.com
+Website: http://www.melonfarmboonnak.com/
+Facebook: https://www.facebook.com/MelonBoonnakFarm
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการ ทุกวัน 10.30 น. ถึง18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 9.405414995852379, 99.28183525800705
+UUID: 8d551856-48ba-4149-a478-6109f6b1833b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

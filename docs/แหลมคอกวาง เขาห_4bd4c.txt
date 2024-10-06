@@ -1,0 +1,36 @@
+Title: แหลมคอกวาง เขาหัวโม่ง (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ระหว่าง อ่าวปากน้ำชุมพร และอ่าวพนังตัก ตำบลนาทุ่ง เมืองชุมพร
+Address: หมู่ 7
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 4008
+Subdistrict: 
+District: เมืองชุมพร
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.514127, 99.2653663999999
+UUID: e6e51aa8-ed24-4cd2-ba77-0b3999b7c6cf
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

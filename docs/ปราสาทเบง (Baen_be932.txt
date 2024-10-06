@@ -1,0 +1,36 @@
+Title: ปราสาทเบง (Baeng Khmer Ruins)
+Content: ททท.สำนักงานสุรินทร์ พิจารณาแล้วเห็นว่าแหล่งท่องเที่ยวนี้ยังไม่มีความพร้อมในการเสนอขายเพื่อต้อนรับนักท่องเที่ยว
+
+Nearby Location: อยู่บ้านปราสาทเบง ตำบลกาบเชิง อำเภอกาบเชิง
+Address: หมู่ 14 บ้านปราสาทเบง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: กาบเชิง
+Province: สุรินทร์
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.5166722, 103.5935236
+UUID: 65499f66-0c57-4027-a8e0-455314895f3b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

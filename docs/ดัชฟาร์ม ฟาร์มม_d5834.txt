@@ -1,0 +1,36 @@
+Title: ดัชฟาร์ม ฟาร์มม้าแคระ เชียงใหม่ (Dutch Farm)
+Content: แหล่งท่องเที่ยวแห่งใหม่ บนถนนสาย สันกำแพง แม่ออน เป็นฟาร์มที่ถูกโอบล้อมไปด้วยวิวภูเขาที่สวยงาม บรรยากาศชนบท การตกแต่งสไตล์ดัตช์
+
+Nearby Location: บนถนนสายสันกำแพง แม่ออน ใกล้นำ้พุร้อนสันกำแพง
+Address: 56
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: สันกำแพง
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 6400 1001 4 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการทุกวัน 09.00   18.00 น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 100.0
+Fee (TH Kid): 30.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.7331969, 99.1956086
+UUID: bd48c63e-66b7-42af-91c7-9efbd4eee0dd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

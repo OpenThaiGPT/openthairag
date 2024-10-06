@@ -1,0 +1,36 @@
+Title: ภูเกษตร (Phu Kaset)
+Content: เป็นภูเขาสูง ลานหินกว้าง น้ำตกตาดฮังในฤดูฝน มีหินเป็นรูปร่างต่าง ๆ มากมายเกิดจากธรรมชาติ และมีหน้าผาสูงชัน เป็นที่ตั้งวัดภูเกษตร (ดานหินหัวนาค) การเดินทางสะดวก ห่างจากบ้านหนองไฮ 4 กม
+
+Nearby Location: อยู่ที่บ้านนาอุดม ตำบลหนองไฮ อำเภอเสนานิคม
+Address: หมู่ 3 บ้านนาอุดม
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เสนานิคม
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ภูเขา/ธรณีสัณฐานเฉพาะ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.0483333, 104.7813889
+UUID: cbc93fa1-a7ad-4f32-a823-4043ee61fb7d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

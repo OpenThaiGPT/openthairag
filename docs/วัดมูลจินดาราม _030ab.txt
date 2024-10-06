@@ -1,0 +1,36 @@
+Title: วัดมูลจินดาราม (Wat Mun Chindaram)
+Content: บริเวณคลองหน้าวัดมีปลาสวายจำนวนมาก มีขนาดใหญ่ตัวละ 3  5 กิโลกรัม แต่ละวันมีนักท่องเที่ยวมาแวะให้อาหารปลาอยู่เสมอ
+
+Nearby Location: เลยถนนวงแหวนตะวันออก มีพระพุทธรูปปางยืนขนาดใหญ่หน้าวัดติดคลองรังสิตประยูรศักดิ์ ตำบลบึงยี่โถ
+Address: 98 หมู่ 3
+Region: ภาคกลาง
+Alley: 
+Road: รังสิต นครนายก
+Subdistrict: 
+District: ธัญบุรี
+Province: ปทุมธานี
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2904 7888, 08 6644 5765
+Email: 
+Website: www.buengyitho.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.0079212, 100.7085342
+UUID: 485efe60-d8bb-4e5d-ab9c-68780b66872d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

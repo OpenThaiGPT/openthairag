@@ -1,0 +1,36 @@
+Title: สวนเสรี (ไม่มี)
+Content: สวนเสรี อยู่บริเวณเขาน้อยใกล้แหลมสมิหลา เป็นสถานที่พักผ่อนหย่อนใจที่สวยงามอีกแห่งหนึ่ง บริเวณสวนตกแต่งด้วยไม้ดัดเป็นรูปสัตว์ต่างๆ
+
+Nearby Location: อยู่บริเวณเขาน้อยใกล้แหลมสมิหลา เมืองสงขลา
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองสงขลา
+Province: สงขลา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.2113379, 100.5956326
+UUID: e7cec9df-4cf5-42a5-b1ba-3e1bae32cf61
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: หาดแสม (Samae Beach)
+Content: หาดแสม เป็นหาดยอดนิยมอีกหาดหนึ่งของคนที่มาเที่ยวเกาะล้าน มีความสงบในระดับหนึ่ง เพราะตั้งอยู่ทางทิดตะวันตกเฉียงใต้ของเกาะล้าน มีอาคารรูปปลากระเบนยักษ์สเน่ห์อีกอย่างหนึ่งที่หาดนี้มีคือ การได้ชมพระอาทิย์ตก ที่สวยงาม
+
+Nearby Location: ตั้งอยู่ทางทิศตะวันตกเฉียงใต้ของเกาะล้าน ตำบลนาเกลือ
+Address: หมู่ 7
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: 
+District: บางละมุง
+Province: ชลบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.9128462, 100.7688194
+UUID: be2bd3c6-107c-42c9-b34e-e0d08e85e267
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

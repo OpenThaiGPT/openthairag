@@ -1,0 +1,36 @@
+Title: สวนทวีวนารมย์ (Thawiwanarom Park)
+Content: 
+
+Nearby Location: ตั้งอยู่เลขที่ 1 ถนนทวีวัฒนา แขวงทวีวัฒนา เขตทวีวัฒนา กรุงเทพมหานคร ใกล้กับตลาดนัดสนามหลวง2 หรือตลาดธนบุรี 
+Address: 1
+Region: ภาคกลาง
+Alley: 
+Road: ทวีวัฒนา
+Subdistrict: 
+District: ทวีวัฒนา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 2487 3199
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 05.00 21.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7440761, 100.3523128
+UUID: 6de9c520-603a-4ebf-85fd-69483c2dd899
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

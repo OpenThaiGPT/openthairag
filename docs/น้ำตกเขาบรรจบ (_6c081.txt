@@ -1,0 +1,36 @@
+Title: น้ำตกเขาบรรจบ (ไม่มี)
+Content: เป็นน้ำตกที่เกิดจากสายน้ำตกและสายคลอง 3 สาย คือ น้ำตกตาเส่ง คลองกลาง และน้ำตกทับญวณ มีธารน้ำใสสะอาด ป่าไม้ที่อุดมสมบูรณ์ การเดินทางโดยเดินเท้าจากสำนักสงฆ์เขาบรรจบใช้เวลาประมาณ 1 ชม. ตั้งอยู่ที่หมู่ 7 บ้านตะบกเตี้ย ตำบลฉมัน อำเภอมะขาม จังหวัดจันทบุรี
+
+Nearby Location: ตั้งอยู่ที่บ้านตะบกเตี้ย ตำบลฉมัน อำเภอมะขาม
+Address: หมู่ 7 บ้านตะบกเตี้ย
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ฉมัน
+District: มะขาม
+Province: จันทบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 08 6142 3007 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.8324875,102.2261125
+UUID: c32d431c-adbb-4102-b48f-88906a61b2f6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

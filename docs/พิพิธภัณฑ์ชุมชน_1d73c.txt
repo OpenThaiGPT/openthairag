@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์ชุมชนบ้านพระเกิด(โฮงครูบาอินผ่อง วิสารโท) (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่ในวัดพระเกิด ตำบลในเวียง อำเภอเมือง ห่างจากตัวเมืองน่าน 2 กิโลเมตร 
+Address: บ้านพระเกิด
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองน่าน
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 08 1882 3188
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00  16.30 น.หยุดวันพุธ
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.7756592, 100.7718557
+UUID: 5072d38e-d961-44d7-9ea3-5d978a4cd6c6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: หาดสามพระยา (Sam Phraya Beach)
+Content: ตั้งอยู่ในเขต อุทยานแห่งชาติเขาสามร้อยยอด อยู่ห่างจากที่ทำการอุทยานแห่งชาติไปทางทิศเหนือประมาณ 5 กิโลเมตร เป็นหาดทรายที่สวยงามสงบเงียบท่ามกลางดงสน ความยาวของหาดทรายประมาณ 1 กิโลเมตร สามารถกางเต็นท์พักแรมและมีอาหารบริการนักท่องเที่ยว กิจกรรม   กิจกรรมชายหาด   แค็มป์ปิ้ง
+
+Nearby Location: อยู่ห่างจากที่ทำการอุทยานแห่งชาติเขาสามร้อยยอดไปทางทิศเหนือ 5 กิโลเมตร 
+Address:  
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: กุยบุรี
+District: กุยบุรี
+Province: ประจวบคีรีขันธ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 0 3282 1568
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน เวลา 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.1542464, 99.9861066
+UUID: 182526fb-441e-444d-9723-5801fd9ef831
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

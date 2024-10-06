@@ -1,0 +1,37 @@
+Title: สวนรุกขชาติ 100 ปี กรมป่าไม้ (100 Year Arboretum Royal Forest Dept.)
+Content: พื้นที่เป็นภูเขาขนาดเล็กที่มองดูคล้ายกองข้าวขนาดใหญ่ ระดับความสูงประมาณ 405 ม. ในอดีตเคยมีน้ำผุดไหลออกมา และเป็นสถานที่ศักดิ์สิทธิ์ใช้เป็นสถานที่ประกอบพิธีกรรมทางศาสนาตามความเชื่อของท้องถิ่น มีเทวรูปเก่าและองค์พระพุทธรูปสถิตอยู่ ดินเป็นดินทราย สภาพป่าเป็นป่าเบญจพรรณ
+
+Nearby Location: ตั้งอยู่ที่บ้านโนนมะค่าง ตำบลกุดเลาะ อำเภอเกษตรสมบูรณ์
+Address: 222 หมู่ 5 บ้านโนนมะค่าง
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เกษตรสมบูรณ์
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: สวนรุกชาติ
+Facilities Contact: 
+Telephone: 0 5622 1140 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 16.30น.
+
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 16.328822175311284,101.90770500230406
+UUID: 4e459297-6544-4eae-b824-bf12ad1ada9f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

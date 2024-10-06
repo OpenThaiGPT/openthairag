@@ -1,0 +1,36 @@
+Title: อ่าวบ่อเมา (Ao Bor Mao)
+Content: เป็นอ่าวกว้างชายหาดยาว ริมทะเลเป็นทิวสนมีชาวประมงอาศัยอยู่  จากอ่าวบ่อเมานักท่องเที่ยวสามารถเช่าเรือไป เกาะไข่ ซึ่งอยู่ห่างจากหาดบ่อเมาประมาณ 6 กิโลเมตร เป็นเกาะขนาดเล็กที่มีหาดทรายสั้น ๆ รอบเกาะ สามารถดำผิวน้ำดูปะการังได้  รอบ ๆ เกาะมีปลาชุกชุม จึงเป็นจุดหนึ่งที่นักท่องเที่ยวนิยมตกปลา
+
+Nearby Location: ใกล้หาดทุ่งวัวแล่น ตำบลชุมโค อำเภอปะทิว
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 7763 0502 
+Email: 
+Website: www.chumco.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 24 ชั่วโมง
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 10.6895292, 99.3586839
+UUID: 1b0cc34e-a5cd-4e9d-8a6b-d0cfe83e45d6
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

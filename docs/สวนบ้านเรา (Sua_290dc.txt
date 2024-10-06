@@ -1,0 +1,36 @@
+Title: สวนบ้านเรา (Suan Bah Rao)
+Content: เที่ยว ชม ชิม ทุเรียนกว่า 100 สายพันธ์ อร่อยและปลอดสารพิษ
+
+Nearby Location: อยู่บนถนนทางหลวงหมายเลข 344 หลักกิโลเมตรที่ 93 เลยศาลพ่อปู่เขาวังจิก ตำบลกระแสบน อำเภอแกลง
+Address: 324 หมู่ 8
+Region: ภาคตะวันออก
+Alley: 
+Road: บ้านบึง แกลง
+Subdistrict: กระแสบน
+District: แกลง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 08 1804 4169 , 061 523 2992
+Email: 
+Website: www.suanbanrao.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 09.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.8502189, 101.610114
+UUID: e44196ef-cc03-4d02-8b80-18ec90cb5974
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

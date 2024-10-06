@@ -1,0 +1,36 @@
+Title: วัดช่องนนทรี (Wat Chong Nonsee)
+Content: 
+
+Nearby Location: อยู่ติดริมแม่น้ำเจ้าพระยาทางฝั่งตะวันออก ถนนพระราม 3 ช่องนนทรี ใกล้โรงเรียนวัดช่องนนทรี
+Address: 463
+Region: ภาคกลาง
+Alley: ช่องนนทรี
+Road: พระราม 3
+Subdistrict: 
+District: ยานนาวา
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2284 1667
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6931568, 100.5458463
+UUID: 15a3165e-806c-4178-b622-bd45a14afc4f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดโพธิ์ศรี (Wat Pho Sri)
+Content: เป็นวัดเก่าแก่สันนิษฐานว่าตั้งขึ้นพร้อมกับเมืองนครพนม โดยบริเวณตรงข้ามกับวัดมีต้นโพธิ์ใหญ่ตระหง่าน จึงได้ตั้งชื่อวัดตามต้นโพธิ์นั้น ต่อมาต้นโพธิ์ได้หักโค่นลงตามอายุขัย เจ้าอาวาสในขณะนั้นได้นำหน่อมาปลูกข้างกำแพงวัดด้านทิศเหนือของโบสถ์ และยังอยู่ให้เห็นจนถึงปัจจุบัน
+
+Nearby Location: ตั้งอยู่ริมถนนสุนทรวิจิตร เลียบริมแม่น้ำโขง ตำบลในเมือง อำเภอเมืองนครพนม
+Address: 690
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: สุนทรวิจิตร
+Subdistrict: กุรุคุ
+District: เมืองนครพนม
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 1369 3260
+Email: 
+Website: www.facebook.com/jomthoingza
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06.00 20.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 17.397712203742945, 104.79055377819991
+UUID: d767d9fd-0155-434a-97de-119f523bd97c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

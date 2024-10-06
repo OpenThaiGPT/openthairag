@@ -1,0 +1,36 @@
+Title: หาดใหญ่ชีวาสุข
+Content: 
+
+Nearby Location: ตั้งอยู่ในบริเวณสวนสาธารณะเทศบาลนครหาดใหญ่
+Address:  
+Region: ภาคใต้
+Alley:  
+Road: กาญจนวณิช
+Subdistrict: คลองแห
+District: หาดใหญ่
+Province: สงขลา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 7.045252, 100.5061468
+UUID: a3d844a4-0ddc-45c4-8621-36de471f1ddb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: วัดป่าสุคะโต (Wat Pa Sukha To)
+Content: ก่อตั้งขึ้นเมื่อปี พ.ศ. 2519 เป็นวัดที่มีความร่มรื่นไปด้วยแมกไม้นานาชนิด คงสภาพธรรมชาติของป่าไม้สมบูรณ์ เหมาะที่จะปฏิบัติธรรมและศึกษาธรรมชาติ โดยมีหลวงพ่อคำเขียน สุวณโณ เป็นเจ้าอาวาส
+
+Nearby Location: อยู่ที่บ้านใหม่ไทยเจริญ ตำบลท่ามะไฟหวาน ห่างจากที่ว่าการอำเภอแก้งคร้อประมาณ 35 กิโลเมตร
+Address: หมู่ 8 บ้านใหม่ไทยเจริญ
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: แก้งคร้อ
+Province: ชัยภูมิ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 087 373 5124
+Email: webeditor@pasukato.org
+Website: www.pasukato.org
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.148937938962774,102.08910767746545
+UUID: af14048d-ee78-4d2e-91a7-d636bfaa9f3c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

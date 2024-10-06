@@ -1,0 +1,36 @@
+Title: ถ้ำเวียงแก (Tham Wiang Kae)
+Content: อยู่ที่บ้านเวียงแก หมู่ที่ 1 ตำบลนาไร่หลวง ห่างอำเภอประมาณ 9 กม. ถนนลาดยางตลอดสาย สามารถนำรถไปถึงได้ ถึงหน้าถ้ำ ปากถ้ำอยู่ระดับเดียวกับพื้นดิน ลักษณะปากถ้ำกว้างและค่อยๆ แคบเข้าไปข้างใน ช่องถ้ำค่อยๆ สูงขึ้นไปประมาณ 1.50 ม.อยู่สูงจากระดับน้ำทะเลมาก สามารถมองเห็นทิวทัศน์ได้สวยงาม
+
+Nearby Location: ตั้งอยู่ที่บ้านถ้ำเวียงแก อำเภอสองแคว
+Address: บ้านถ้ำเวียงแก
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: สองแคว
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.359722,100.700833
+UUID: a502baa1-198d-42ac-a5f7-0d9d8a3f9e97
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

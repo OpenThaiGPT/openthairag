@@ -1,0 +1,36 @@
+Title: หอชมวิวทิวทัศน์เขาขาด (Scenic View Tower KhaoKhad)
+Content: เป็นจุดชมวิวอีกแห่งหนึ่งของจ.ภูเก็ต มองเห็นทิวทัศน์เกาะภูเก็ตได้ทั่วไม่ว่าจะเป็นอ่าวฉลองแหลมพันวา เกาะสิเหร่ รวมทั้งตัวเมืองภูเก็ต
+
+Nearby Location: ใกล้กับโรงเรียนบ้านอ่าวน้ำบ่อ ตำบลวิชิต เมืองภูเก็ต
+Address: หมู่ 6
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองภูเก็ต
+Province: ภูเก็ต
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: จุดชมวิว
+Facilities Contact: 
+Telephone: 0 7621 2196
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 21.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 7.821548073307204,98.38986396789551
+UUID: a2d3a82e-7cf3-4d19-a4e4-c75dc63c5a14
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

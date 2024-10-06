@@ -1,0 +1,36 @@
+Title: ตลาดนัดศิลปะหัวตะเข้ (ไม่มี)
+Content: ตลาดหัวตะเข้ เขตลาดกระบัง กรุงเทพมหานคร กำเนิดจากชุมชนหลวงพรต  ท่านเลี่ยม และวิทยาลัยช่างศิลป ลาดกระบัง ด้วยความร่วมมือกันของชาวบ้าน นักเรียน ครูอาจารย์ ใครมีฝีมือด้านไหนก็มาช่วยกันทำงานศิลปะส่งเสริมให้ชุมชนเข้มแข็ง สามัคคี
+
+Nearby Location: ตั้งอยู่ที่เขตลาดกระบัง ติดริมคลองประเวศบุรีรมย์ 
+Address: 
+Region: ภาคกลาง
+Alley: ลาดกระบัง 77
+Road: ลาดกระบัง
+Subdistrict: 
+District: ลาดกระบัง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone: 0 2326 9149  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันเสาร์ วันอาทิตย์ ของต้นเดือน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.722698051162903, 100.7903400825712
+UUID: e1fbcd9f-7059-40c2-86a4-273d940efb5a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: หนองน้ำมณีบรรพต (ไม่มี)
+Content: หนองน้ำแห่งนี้เป็นบึงน้ำขนาดใหญ่มีพื้นที่กว่า 60 ไร่
+
+Nearby Location: อยู่ริมทางหลวงหมายเลข 1 (ถนนพหลโยธิน) ใกล้วัดมณีบรรพตวรวิหาร 
+Address:  
+Region: ภาคเหนือ
+Alley: 
+Road: พหลโยธิน
+Subdistrict: 
+District: เมืองตาก
+Province: ตาก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทะเลสาบ/หนอง/บึง
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.876669,99.128516
+UUID: 86aff47c-c5a4-4a77-bdf2-d3d738970b25
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

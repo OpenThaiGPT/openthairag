@@ -1,0 +1,36 @@
+Title: ศูนย์ศิลปาชีพบ้านสร้างถ่อ (ไม่มี)
+Content: เป็นศูนย์ผลิตและฝึกอบรมงานหัตถกรรมพื้นบ้านหลายประเภท เช่น การทอผ้า และการเจียระไนพลอย เป็นต้น นักท่องเที่ยวสามารถชมวิธีการผลิต และเลือกซื้อผลิตภัณฑ์ได้ด้วย
+
+Nearby Location: ตรงข้ามองค์การบริหารส่วนตำบลสร้างถ่อน้อย ตำบลสร้างถ่อน้อย อำเภอหัวตะพาน อยู่ห่างจากตัวอำเภอประมาณ 5 กิโลเมตร
+Address: หมู่ 13 บ้านสร้างถ่อใน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: หัวตะพาน
+Province: อำนาจเจริญ
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.30 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 15.6388877, 104.4810648
+UUID: 717e54b9-2542-43d5-ac46-c6499ebda15f
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

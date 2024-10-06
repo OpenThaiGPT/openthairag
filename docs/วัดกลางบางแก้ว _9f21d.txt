@@ -1,0 +1,36 @@
+Title: วัดกลางบางแก้ว (Wat Klang Bang Kaeo)
+Content: เดิมชื่อว่าวัดคงคาราม คนทั่วไปแถบบริเวณนครชัยศรีนี้มักเรียกว่า "วัดกลาง" เป็นวัดโบราณเก่าแก่สร้างมาแต่สมัยกรุงศรีอยุธยาหรือตอนปลายของ ยุคอู่ทอง
+
+Nearby Location: ตั้งอยู่ริมแม่น้ำท่าจีน ปากคลองบางแก้ว ตำบลนครชัยศรี
+Address: 64/4
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: นครชัยศรี
+Province: นครปฐม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 0 3433 2182
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 06:30 18:00
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.79555793,100.1939225
+UUID: 38766c8a-c66b-4b4a-9503-2facf8a70310
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

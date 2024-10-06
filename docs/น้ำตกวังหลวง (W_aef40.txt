@@ -1,0 +1,36 @@
+Title: น้ำตกวังหลวง (Wang Luang Waterfall)
+Content: 
+
+Nearby Location: ตั้งอยู่ที่ตำบลป่าพลู ห่างที่ว่าการอำเภอบ้านโฮ่ง 18 กิโลเมตร ใกล้ค่ายลูกเสือบ้านโฮ่ง
+Address: บ้านวังหลวง
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: บ้านโฮ่ง
+Province: ลำพูน
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.1994869, 98.8439511
+UUID: 2bd7493a-16e2-49fa-8fcf-9e4caa9184eb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

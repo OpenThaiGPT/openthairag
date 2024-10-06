@@ -1,0 +1,36 @@
+Title: วัดพระนารายณ์มหาราช (Pranaraimaharatch Temple)
+Content: เป็นวัดเก่าแก่สร้างมาพร้อมกับการสร้างเมืองในสมัยสมเด็จพระนารายณ์มหาราชและเคย เป็นที่ประดิษฐานอัฐิของท้าวสุระนารี มุมวัดด้านถนนจอมพลเป็นที่ตั้งศาลเจ้าพ่อหลักเมือง ประดิษฐานหลักเมืองนครราชสีมา ซึ่งเป็นสิ่งศักดิ์สิทธิ์เป็นที่เคารพของชาวเมืองนครราชสีมา
+
+Nearby Location: ตั้งอยู่ภายในตัวเมืองนครราชสีมา ติดกับศาลหลักเมือง
+Address: 417
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: จอมพล
+Subdistrict: 
+District: เมืองนครราชสีมา
+Province: นครราชสีมา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 08 9846 1836
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวันทุกวัน 08.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 14.975932524317232,102.10817738544279
+UUID: 00a48ac4-4921-4ba8-bf3c-c1a1540998ba
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

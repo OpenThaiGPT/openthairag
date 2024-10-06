@@ -1,0 +1,36 @@
+Title: สวนนกโรงกลั่นบางจาก (ไม่มี)
+Content: 
+
+Nearby Location: ตั้งอยู่อยู่ในซอยสุขุมวิท 64 ถนนสุขุมวิท แขวงบางจาก
+Address: 
+Region: ภาคกลาง
+Alley: สุขุมวิท 64
+Road: สุขุมวิท
+Subdistrict: 
+District: พระโขนง
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 0 2301 2750, 0 2301 2991
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.6845265, 100.5999876
+UUID: 513cb87f-c2bc-4a8e-b527-b0545158a44a
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

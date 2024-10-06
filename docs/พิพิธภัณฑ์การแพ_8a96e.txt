@@ -1,0 +1,36 @@
+Title: พิพิธภัณฑ์การแพทย์ศิริราช (Siriraj Medical Museum)
+Content: พิพิธภัณฑ์ศิริราชมีทั้งหมด 2 พิพิธภัณฑ์ คือ พิพิธภัณฑ์การแพทย์ศิริราช และ พิพิธภัณฑ์ศิริราชพิมุขสถาน
+
+Nearby Location: ตั้งอยู่ที่ตึกอดุลยเดชวิกรม ชั้น 2 ภายในโรงพยาบาลศิริราช ถนนพรานนก ฝั่งธนบุรี 
+Address: ตึกอดุลยเดชวิกรม ชั้น 2
+Region: ภาคกลาง
+Alley: 
+Road: พรานนก
+Subdistrict: 
+District: บางกอกน้อย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: พิพิธภัณฑ์
+Facilities Contact: 
+Telephone: 0 2419 2618 9
+Email: sirirajmuseum@gmail.com
+Website: www.si.mahidol.ac.th, www.sirirajmuscum.com
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 10.00 17.00น. จันทร์, พุธ อาทิตย์ หยุดวันอังคารและวันหยุดนัตฤกษ์
+Activity: 
+Suitable Duration: 
+Fee (TH): 80.0
+Fee (TH Kid): 25.0
+Fee (EN): 200.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 13.7587943, 100.4851128
+UUID: 82d4df96-6c13-4a85-871c-27aafe1da7ca
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

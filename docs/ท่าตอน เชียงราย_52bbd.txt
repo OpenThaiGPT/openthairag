@@ -1,0 +1,36 @@
+Title: ท่าตอน เชียงราย (ไม่มี)
+Content: 
+
+Nearby Location: อยู่ใกล้วัดท่าตอน ตำบลท่าตอน อำเภอแม่อาย
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: เชียงใหม่ ท่าตอน
+Subdistrict: ท่าตอน
+District: แม่อาย
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 5345 9312, 08 1981 1780
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 8.00 17.00
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.0531032, 99.40497959999999
+UUID: 46e2ec7a-1850-47e1-af66-75b3c208daee
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

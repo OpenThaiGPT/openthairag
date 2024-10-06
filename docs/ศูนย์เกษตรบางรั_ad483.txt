@@ -1,0 +1,36 @@
+Title: ศูนย์เกษตรบางรักน้อย (Bang Rak Noi Agricultural Center)
+Content: เป็นสวนผลไม้ในเขตอำเภอไทรน้อย ปลูกผลไม้ประเภททุเรียน มังคุด มะไฟ มะม่วง สามารถเข้าเยี่ยมชมและชิมผลไม้สดๆ ได้ ใช้เวลาประมาณ 20 นาที   1 ชั่วโมง นอกจากนี้ยังสามารถซื้อผลไม้กลับไปเป็นของฝากจากอำเภอไทรน้อย ในช่วงฤดูผลไม้ออก
+
+Nearby Location: ตั้งอยู่ใกล้กับองค์การบริหารส่วนตำบลบางรักน้อย ตำบลบางรักน้อย
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองนนทบุรี
+Province: นนทบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)
+Facilities Contact: 
+Telephone: 0 2903 5766, 0 1362 9338
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เกือบทั้งปี เมษายนถึงเดือนพฤษภาคม
+Activity: 
+Suitable Duration: 
+Fee (TH): 10.0
+Fee (TH Kid): 
+Fee (EN): 10.0
+Fee (EN Kid): 
+Remark: 
+Location: 13.8792443, 100.4558666
+UUID: 6e8ef8d1-6b2f-44d3-b721-e9a1588906d4
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

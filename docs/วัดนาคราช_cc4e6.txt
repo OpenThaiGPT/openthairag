@@ -1,0 +1,38 @@
+Title: วัดนาคราช
+Content: วัดนาคราช (สังกะสี)  
+ หลวงปู่นก หลวงพ่อเพล่  
+ ต.บางพลีน้อย อ.บางบ่อ จ.สมุทรปราการ
+
+Nearby Location: ตั้งอยู่บ้านคลองพระยานาคราช
+Address: 1 หมู่ 11
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: คลองด่าน
+District: บางบ่อ
+Province: สมุทรปราการ
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 096 416 5528
+Email: 
+Website: 
+Facebook: https://www.facebook.com/WatNakkarach/
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน เวลา 07.00   16.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.6493483, 100.9405437
+UUID: 04a3bb47-0f98-4863-b49a-39970c1caeb0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

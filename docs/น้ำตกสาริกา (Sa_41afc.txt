@@ -1,0 +1,36 @@
+Title: น้ำตกสาริกา (Sarika Waterfall)
+Content: น้ำตกสาริกาเป็นน้ำตกขนาดใหญ่สายน้ำไหลตกจากหน้าผาเป็นทอด ๆ ถึง 9 ชั้น ผาที่สูงที่สุดประมาณ 200 เมตร แต่ละชั้นมีอ่างรับน้ำและมีน้ำมากในฤดูฝน บริเวณด้านล่างของน้ำตกมีบริการห้องอาบน้ำ  ร้านอาหาร ร้านขายของที่ระลึก
+
+Nearby Location: ตั้งอยู่ที่ตำบลสาริกา ห่างจากตัวเมืองนครนายก ประมาณ 12 กิโลเมตร 
+Address: หมู่ 3
+Region: ภาคตะวันออก
+Alley: 
+Road: ทางหลวงหมายเลข 3050 (นครนายก น้ำตกสาริกา)
+Subdistrict: 
+District: เมืองนครนายก
+Province: นครนายก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 3731 5664, 0 3731 2284, 08 9144 0129
+Email: 
+Website: park.dnp.go.th/visitor/scenicshow.php?id=449
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 40.0
+Fee (TH Kid): 20.0
+Fee (EN): 400.0
+Fee (EN Kid): 200.0
+Remark: 
+Location: 14.303456,101.258558
+UUID: 1d6d4774-9c80-4b32-9c6c-88a51ba4d2b7
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

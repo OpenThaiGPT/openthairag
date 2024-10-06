@@ -1,0 +1,36 @@
+Title: สวนดอกไม้ ป้างฮวา&สวนส้ม
+Content: สวนดอกไม้ หอชมวิว สะพานไม้ไผ่บนสวนส้ม และเก็บส้ม     สวนดอกไม้ป้างฮวา ดอกมากาเร็ตสีม่วง กำลังบานสะพรั่งท้าลมหนาว กับวิวสุดปังมองเห็นวิวภูเขารอบทิศ ให้ฟีลญี่ปุ่นมั่กๆ นอกจากสวนดอกไม้ที่นี่ยังมีสวนส้ม ที่มีทางเดินไม้ไผ้รอบสวน
+
+Nearby Location: หลังม่อนแจ่ม ห่างจากม่อนแจ่ม 7 กิโลเมตร
+Address: 
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: ขี้เหล็ก
+District: แม่ริม
+Province: เชียงใหม่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ทุ่งดอกไม้และพืชพันธุ์
+Facilities Contact: 
+Telephone: 065 447 2902
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดบริการทุกวัน 07.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 70.0
+Fee (TH Kid): 40.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.9520847, 98.8026268
+UUID: cc15913a-fcd5-4bd2-9035-880ef022a347
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: น้ำตกแม่พูล (Mea Poo Waterfall)
+Content: ตั้งอยู่สุดทางหลวงหมายเลข 1043 อยู่ทางทิศเหนือสุดของตำบลลับแล น้ำตกแม่พูล เป็นน้ำตกขนาดกลางที่เกิดจากการสร้างสรรค์ธารน้ำที่ไหลลงมาจากเทือกเขาสูง ด้วยการเทปูนให้มีความสูงหลายชั้นลดหลั่นลง ประมาณ 20 กว่าเมตร รอบๆ น้ำตก มีธรรมชาติแวดล้อมสวยงามร่มรื่นเย็นสบาย ด้านหน้ามีร้านอาหารขาย รวมทั้งห้องสุขา ห้องอาบน้ำไว้บริการ
+
+Nearby Location: บ้านต้นเกลือ ตำบลแม่พูล  อำเภอลับแล จังหวัดอุตรดิตถ์ ห่างจากตัวจังหวัดประมาณ 20 กิโลเมตร
+Address: 4
+Region: ภาคเหนือ
+Alley: 
+Road: ทางหลวงหมายเลข 1043
+Subdistrict: ชัยจุมพล
+District: ลับแล
+Province: อุตรดิตถ์
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 0 5545 7359 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 17.729457931018246,99.97786634492489
+UUID: 9d04f7a5-2404-443e-8005-18e769d1932b
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

@@ -1,0 +1,36 @@
+Title: ศูนย์วัฒนธรรมบ้านจะคือ (ไม่มี)
+Content: ซึ่งเป็นพื้นที่ที่อุดมสมบูรณ์มีป่าไม้มีแม่น้ำมีเรือวิ่งผ่านทุกวันสะดวกชุมชนแห่งนี้จึงได้จัดที่พักโฮมสเตย์ขึ้นเพื่อให้นักท่องเที่ยวได้สัมผัสกับวัฒนธรรมประเพณีและหัตถกรรมที่หลากหลายของชาวจะคือ
+
+Nearby Location: อยู่ที่บ้านจะคือ ใกล้โรงเรียนบ้านปางขอน ตำบลห้วยชมภู เมืองเชียงราย 
+Address: บ้านจะคือ
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: เมืองเชียงราย
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์วัฒนธรรม
+Facilities Contact: 
+Telephone: 08 5710 6469 ,  08 9953 5193
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 20.0327167, 99.5351654999999
+UUID: ef1ad3de-81bd-49a3-87c0-93c0b6448720
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

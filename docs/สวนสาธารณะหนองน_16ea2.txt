@@ -1,0 +1,36 @@
+Title: สวนสาธารณะหนองนารี (Nong Naree Public Park)
+Content: 
+
+Nearby Location: ตั้งอยู่บ้านหนองนารี ถนนนารีพัฒนา ตำบลสะเดียง เมืองเพชรบูรณ์
+Address: หมู่ 5 บ้านหนองนารี
+Region: ภาคเหนือ
+Alley: 
+Road: นารีพัฒนา
+Subdistrict: 
+District: เมืองเพชรบูรณ์
+Province: เพชรบูรณ์
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสาธารณะ/สวนหย่อม
+Facilities Contact: 
+Telephone: 0 5671 2120
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 10.0
+Fee (TH Kid): 
+Fee (EN): 10.0
+Fee (EN Kid): 
+Remark: 
+Location: 16.4368687, 101.1446619
+UUID: ba727069-7733-4432-b1a1-8596ed30864d
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

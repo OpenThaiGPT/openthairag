@@ -1,0 +1,36 @@
+Title: River Street Art Lampang (River Street Art Lampang)
+Content: เป็นแหล่งท่องเที่ยวที่มีการวาดรูปภาพ 3 มิติบนกำแพงริมแม่น้ำวังตั้งแต่หลังจวนผู้ว่าจนถึงถนนคนเดินกาดกองต้า
+
+Nearby Location: ริมกำแพงตามแนวถนนเลียบแม่น้ำวัง
+Address:  
+Region: ภาคเหนือ
+Alley:  
+Road:  
+Subdistrict: กล้วยแพะ
+District: เมืองลำปาง
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ห้างสรรพสินค้า/แหล่งช้อปปิ้ง/ตลาดสด/ตลาดนัด/ถนนคนเดิน
+Facilities Contact: 
+Telephone:  
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ตลอดวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 18.293559225234283, 99.50279831886292
+UUID: 34dc9ccf-da45-4e94-bf40-d9a6cc678cb1
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

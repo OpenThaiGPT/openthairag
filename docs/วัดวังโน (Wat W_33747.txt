@@ -1,0 +1,36 @@
+Title: วัดวังโน (Wat Wang No)
+Content: นมัสการพระใหญ่มิ่งมงคล เสริมบุญบารมี
+
+Nearby Location: ใกล้โรงเรียนหนองโพธิ์วิทยาคม ตำบลหนองโพธิ์ อำเภอวังยาง
+Address: 84 หมู่ 2 บ้านวังโน
+Region: ภาคตะวันออกเฉียงเหนือ
+Alley: 
+Road: 
+Subdistrict: โคกสี
+District: วังยาง
+Province: นครพนม
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 04 251 6316
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 17.0720995, 104.4756165
+UUID: d423764a-e087-4910-bd69-701ea4ec57bd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

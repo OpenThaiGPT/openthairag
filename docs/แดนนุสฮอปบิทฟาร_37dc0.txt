@@ -1,0 +1,36 @@
+Title: แดนนุสฮอปบิทฟาร์ม (Danus’ hobby farm)
+Content: เป็นฟาร์มแกะสไตล์วินเทจ สีฟ้าพาสเทล น่ารัก..ที่ตั้งอยู่บนถนนเพชรเกษม ที่มุ่งหน้าสู่จังหวัดเพชรบุรี ซึ่งที่ Danus แห่งนี้มีพิเศษน่ารักตรงนี้เหมือนเรากำลังหลุดเข้าไปยู่ในโลกการ์ตูนหรือเกมส์ออนไลน์ที่ฮิตๆ กัน ที่ Danus' hobby farm แห่งนี้นอกจากจะมีบริเวณไว้สำหรับเป็นที่วิ่งเล่นของแกะตัวน้อยๆ แล้ว ยังมีคาเฟ่น่ารักๆ ที่เราประทับใจตั้งแต่ทางเดิน จนถึงตัวอาคารและหน้าประตูกระจกที่ตกแต่งด้วยของประดับน่ารักๆ ไว้อย่างลงตัว
+
+Nearby Location: อยู่บริเวณแยกมะนาว จะพบสิ่งปลูกสร้างสไตล์วินเทจที่ถูกเพ้นส์ด้วยสีฟ้า
+Address: 129 หมู่ 2
+Region: ภาคกลาง
+Alley:  
+Road: เพชรเกษม
+Subdistrict: 
+District: เขาย้อย
+Province: เพชรบุรี
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: ธีมปาร์ค (Theme Park)
+Facilities Contact: 
+Telephone: 087 9007789
+Email: danushobbyfarm@hotmail.com
+Website: https://www.facebook.com/danushobbyfarm/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน เวลา 08:00 น. ถึง 07:30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 30.0
+Fee (TH Kid): 0.0
+Fee (EN): 30.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 13.3236283, 99.8303732999999
+UUID: ece48695-4c6d-4f01-9faf-0c879d791ac9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

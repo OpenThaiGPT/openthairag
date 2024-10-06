@@ -1,0 +1,36 @@
+Title: น้ำตกไผ่สีทอง (Pai Si Tong Waterfall)
+Content: 
+
+Nearby Location: ตั้งอยู่ถนนสายพิษณุโลก หล่มสัก ตำบลวังนกแอ่น อำเภอวังทอง
+Address: หมุ่ 13 บ้านตอเรือ
+Region: ภาคเหนือ
+Alley: 
+Road: พิษณุโลก หล่มสัก
+Subdistrict: 
+District: วังทอง
+Province: พิษณุโลก
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: น้ำตก
+Facilities Contact: 
+Telephone: 08 7196 2387
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 06.00 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.7306468, 100.566901
+UUID: 2abc95c5-7d30-411c-a4e4-0b97c2673003
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

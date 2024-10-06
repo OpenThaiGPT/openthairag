@@ -1,0 +1,36 @@
+Title: วัดยานนาวา (Wat Yannawa)
+Content: มีพระเจดีย์ฐานเป็นสำเภาขนาดเท่าสำเภาจริงซึ่งสร้างในสมัยรัชกาลที่ 3 โดยพระองค์ทรงมีพระราชดำรัสว่า
+
+Nearby Location: ตั้งอยู่ระหว่างซอยเจริญกรุง 52 และ 54 ถนนเจริญกรุง
+Address: 40
+Region: ภาคกลาง
+Alley: 
+Road: เจริญกรุง
+Subdistrict: 
+District: สาทร
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2672 3216
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7172642, 100.5137964
+UUID: b5f49d92-8683-4ed1-bb8c-541e89110012
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

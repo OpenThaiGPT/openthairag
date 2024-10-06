@@ -1,0 +1,36 @@
+Title: อุทยานการเรียนรู้สมเด็จพระเจ้าตากสินมหาราช
+Content: 
+
+Nearby Location: 
+Address: 
+Region: ภาคตะวันออก
+Alley: 
+Road: 
+Subdistrict: ท่าประดู่
+District: เมืองระยอง
+Province: ระยอง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ประวัติความเป็นมา
+Facilities Contact: 
+Telephone: 038 029 091
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 12.6804372, 101.2824108
+UUID: 73a32075-f294-45c1-8007-3210580f5d17
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

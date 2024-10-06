@@ -1,0 +1,36 @@
+Title: วัดพรหมสุวรรณสามัคคี (Wat Phromsuwan Samakkhi)
+Content: 
+
+Nearby Location: ตั้งอยู่บนถนนอัสสัมชัญ แขวงบางไผ่ เขตบางแค  
+Address: 
+Region: ภาคกลาง
+Alley: 
+Road: อัสสัมชัญ
+Subdistrict: 
+District: บางแค
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2421 3814, 0 2421 7169
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 08.00 17.00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7298857, 100.3687844
+UUID: 875e8573-5d7a-44fc-a0d4-053b65d9d7bd
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

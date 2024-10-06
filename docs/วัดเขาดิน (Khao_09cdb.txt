@@ -1,0 +1,36 @@
+Title: วัดเขาดิน (Khao Din Temple)
+Content: วัดเก่าแก่ที่ตั้งอยู่บนเขาหินแกรนิตลูกเล็ก ๆ ริมเส้นทางมอร์เตอร์เวย์ บริเวณตำบลเขาดิน อำเภอบางปะกง
+
+Nearby Location: ตั้งอยู่ที่ตำบลเขาดิน อำเภอบางปะกง ก่อนถึงโรงไฟฟ้าบางปะกง 
+Address: 33 หมู่ 7
+Region: ภาคตะวันออก
+Alley: 
+Road: ยโสธรเข้าวัดลาดยาว
+Subdistrict: 
+District: บางปะกง
+Province: ฉะเชิงเทรา
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 08 1861 9611
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 07.30 18.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 16.1357079, 104.3791912
+UUID: 3da64193-e1ee-451a-a553-41ec1f629140
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

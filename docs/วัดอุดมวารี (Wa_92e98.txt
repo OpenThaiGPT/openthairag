@@ -1,0 +1,40 @@
+Title: วัดอุดมวารี (Wat Udom Waree)
+Content: เป็นแหล่งเรียนรู้ศรัทธาสาธุชนที่มีความเลื่อมใสในพระพุทธศาสนา
+ในบริเวณวัดมีพระพุทธอุดมมงคลเป็นพระที่มีความงดงามมากและยังมีมีพระอุ
+โบสถ สวยงามมากเมื่อเข้าไปในบริเวณวัดแล้วมีบรรยากาศร่มรื่นด้วยแมกไม้นานา
+พันธุ์และบริเวณด้านหลังรอบมีถ้ำสวยงดงามและมีบรรยากาศเงียบสงบเป็นศูนย์
+ปฎิบัติธรรมที่สถานศึกษาและประชาชนให้ความสำคัญยิ่ง
+
+Nearby Location: อยู่ตำบลทรายขาว อำเภอพาน ใกล้มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา 
+Address: หมู่ 8 
+Region: ภาคเหนือ
+Alley: 
+Road: เอเชีย
+Subdistrict: 
+District: พาน
+Province: เชียงราย
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 5395 8101
+Email: mailbox@udomwaree
+Website: www.udomwaree.net
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 19.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 19.651964238020682,99.74075317382812
+UUID: 67949a13-ecb0-4b94-bec6-d385abf62077
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

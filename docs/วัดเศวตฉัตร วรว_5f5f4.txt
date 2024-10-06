@@ -1,0 +1,36 @@
+Title: วัดเศวตฉัตร วรวิหาร (Wat Sawettachet Woraviharn)
+Content: 
+
+Nearby Location: ตั้งอยู่ริมแม่น้ำเจ้าพระยาฝั่งตะวันตก ริมถนนเจริญนคร แขวงบางลำภูล่าง เขตคลองสาน 
+Address: 1401
+Region: ภาคกลาง
+Alley: เจริญนคร 25
+Road: เจริญนคร 
+Subdistrict: 
+District: คลองสาน
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)
+Facilities Contact: 
+Telephone: 0 2437 2258, 0 2437 8562
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7137742, 100.505405
+UUID: fb012cae-67cf-45dc-a7fa-6f70886ab028
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

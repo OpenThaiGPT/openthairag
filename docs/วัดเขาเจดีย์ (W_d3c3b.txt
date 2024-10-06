@@ -1,0 +1,36 @@
+Title: วัดเขาเจดีย์ (Wat Khao Je Dee)
+Content: ระยะทางห่างจากที่ว่าการอำเภอปะทิว 500 เมตร ริมทางหลวงหมายเลข 4 บนยอดเขามองเห็นพระพุทธรูปยืนสีทององค์ใหญ่โดดเด่นแต่ไกล บริเวณวัดมีเจดีย์เก่าสมัยกรุงศรีอยุธยา
+
+Nearby Location: ตั้งอยู่ที่ตำบลบางสน อำเภอปะทิว ห่างจากที่ว่าการอำเภอปะทิว 500 เมตร
+Address: 119 หมู่ 7
+Region: ภาคใต้
+Alley: 
+Road: ทางหลวงหมายเลข 4
+Subdistrict: 
+District: ปะทิว
+Province: ชุมพร
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.8588, 99.2467359
+UUID: 5c03093a-d7f5-4483-a3cd-274e0d4c7489
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

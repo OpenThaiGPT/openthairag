@@ -1,0 +1,36 @@
+Title: ถ้ำปราสาทนาฬาคีริง (Tham Prasat Nalakiring)
+Content: อยู่ในเขตของวัดวัดถ้ำปราสาทนาฬาคิริง เดิมทีเป็นสำนักสงฆ์ ก่อนจะพัฒนาขึ้นมาเป็นวัดในปัจจุบัน
+
+Nearby Location: อยู่ในวัดถ้ำปราสาทนาฬาคีริง ตำบลปลายพระยา อำเภอปลายพระยา
+Address: 67 หมู่ 6
+Region: ภาคใต้
+Alley: 
+Road: อ่าวลึก พระแสง
+Subdistrict: ปลายพระยา
+District: ปลายพระยา
+Province: กระบี่
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 08 9593 1016
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00   17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.558506861271152, 98.86223358053932
+UUID: 5d20d16e-c883-4875-a5f2-7e6327279ab9
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

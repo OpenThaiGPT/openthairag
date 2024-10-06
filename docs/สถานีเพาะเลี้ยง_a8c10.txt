@@ -1,0 +1,36 @@
+Title: สถานีเพาะเลี้ยงสัตว์ป่าพังงา (Phang nga Wildlife Breeding Centre)
+Content: มีการเลี้ยงสัตว์ป่าที่หายาก และใกล้สูญพันธุ์ เช่น นกปรอดหัวโขนเคราแดง นกแก็บ นกแสก เหยี่ยวแดง ไก่ฟ้าสีทอง นกยูงไทย อินเดีย นอกจากนี้ยังมีเลียงผา เม่น ชะนี ลิง ค่างดำ หมี เป็ด
+
+Nearby Location: เยื้ององค์การโทรศัพท์จังหวัดพังงา ตำบลตากแดด เมืองพังงา
+Address: 
+Region: ภาคใต้
+Alley: 
+Road: เพชรเกษม
+Subdistrict: 
+District: เมืองพังงา
+Province: พังงา
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์
+Facilities Contact: 
+Telephone: 0 7641 3261
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: ทุกวัน 08.30 16.30 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 8.420916936678335, 98.48873201595009
+UUID: eb4a6931-94d6-46c4-82d1-99f4ed2ffbcb
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

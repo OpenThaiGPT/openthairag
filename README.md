@@ -5,7 +5,7 @@ OpenThaiRAG is an open-source Retrieval-Augmented Generation (RAG) framework des
 
 ## Maintainer
 
-Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team.
+Kobkrit Viriyayudhakorn (kobkrit@aieat.or.th), OpenThaiGPT Team, iApp Technology.
 
 ## Key Features
 

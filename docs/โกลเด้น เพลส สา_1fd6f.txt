@@ -1,0 +1,36 @@
+Title: โกลเด้น เพลส สาขาศิริราช (Golden Place Siriraj)
+Content: 
+
+Nearby Location: ตั้งอยู่ในโรงพยาบาลศิริราช ปิยมหาราชการุณย์ เขตบางกอกน้อย
+Address: 264/18
+Region: ภาคกลาง
+Alley: 
+Road: พรานนก
+Subdistrict: 
+District: บางกอกน้อย
+Province: กรุงเทพมหานคร
+Category: แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ
+Sub Type: โครงการหลวง/โครงการพระราชดำริ
+Facilities Contact: 
+Telephone: 0 2866 8999
+Email: 
+Website: www.suvarnachad.co.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: วันจันทร์ อาทิตย์ 06.00 22.00น. 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 13.7595891, 100.4804336
+UUID: 9dba2743-76db-49a9-ac2a-a4ea72148b97
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

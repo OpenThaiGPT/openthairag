@@ -1,0 +1,38 @@
+Title: หอศิลป์ ลำปาง (Lampang Arts Center)
+Content: เป็นแหล่วงรวบรวมศิลปล้านนา ผลงานศิลปะ ผลงานของศิลปินต่าง ๆ ที่สามารถเล่าเรื่องราวสื่อความหมายได้มากมายภายในภาพภาพเดียว
+
+Nearby Location: ใกล้อาคารฟองหลี กาดกองต้า ถนนตลาดเก่า ตำบลสวนดอก
+Address: 256
+Region: ภาคเหนือ
+Alley: 
+Road: ตลาดเก่า
+Subdistrict: 
+District: เมืองลำปาง
+Province: ลำปาง
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)
+Facilities Contact: 
+Telephone: 081 9516099, 054 230651
+Email: admin@pattamasaevi.org
+Website: http://pattamasaevi.org/
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: อังคาร   ศุกร์ เวลา 11.00   18.00 น.
+เสาร์   อาทิตย์ 13.00   21.00 น.
+หยุดทุกวันจันทร์
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.290599, 99.4964579
+UUID: 874135d0-01fd-4c0c-949d-fb552d35b8a8
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

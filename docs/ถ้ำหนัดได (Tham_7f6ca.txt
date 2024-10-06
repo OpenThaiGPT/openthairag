@@ -1,0 +1,36 @@
+Title: ถ้ำหนัดได (Tham Nat Dai)
+Content: 
+
+Nearby Location: ตั้งอยู่ในเขตพื้นที่เขาหนัดได หมู่ที่ 2 บ้านคอกช้าง ตำบลในวงเหนือ ละอุ่น 
+Address: หมู่ 5 บ้านคอกช้าง
+Region: ภาคใต้
+Alley: 
+Road: สายปากแพรก ในวง
+Subdistrict: 
+District: ละอุ่น
+Province: ระนอง
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: ถ้ำ
+Facilities Contact: 
+Telephone: 0 7782 0330, 0 7789 9313 ต่อ 12
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00 17.00 น.
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 10.0640574, 98.8032042
+UUID: 5113a615-efa4-4d10-99d7-6f73279938f0
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

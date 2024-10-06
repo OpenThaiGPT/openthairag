@@ -1,0 +1,36 @@
+Title: หาดชลาลัย (Hat Chalalai)
+Content: หาดแห่งนี้อยู่ที่บึงน้ำขนาดใหญ่ใกล้บริเวณทิวสน ซึ่งให้บรรยากาศที่สงบร่มรื่นเหมาะแก่การท่องเที่ยวพักผ่อนหย่อนใจ
+
+Nearby Location: ตั้งอยู่ในพื้นที่ตำบลปะนาเระ ห่าง จากที่ว่าการอำเภอปะนาเระ 2 กิโลเมตร ไปตามถนนสายปัตตานี นราธิวาส 
+Address: หมู่ 2
+Region: ภาคใต้
+Alley: 
+Road: 
+Subdistrict: 
+District: ปานาเระ
+Province: ปัตตานี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: อ่าว/หาดทราย/ชายทะเล
+Facilities Contact: 
+Telephone: 
+Email: 
+Website: www.Pattanilocal.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: เปิดทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 0.0
+Fee (TH Kid): 0.0
+Fee (EN): 0.0
+Fee (EN Kid): 0.0
+Remark: 
+Location: 6.7550886, 101.4822964
+UUID: 48ca6405-1d7f-4ba2-9f35-c45ef0333d7e
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

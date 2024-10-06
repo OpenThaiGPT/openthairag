@@ -1,0 +1,36 @@
+Title: บ้านหาดผาขน (Ban Hat Pa Kon)
+Content: บ้านหาดผาขนมีอายุ ประมาณ 100  กว่าปี ซึ่งเป็นแหล่งทรัพยากรธรรมชาติที่อุดมสมบูรณ์ ไปด้วยแม่น้ำ ปลา ป่าไม้ สัตว์ป่า ทำให้มีนักท่องเที่ยวทางธรรมชาติเข้ามาศึกษาและทำการวิจัยในชุมชน
+
+Nearby Location: ตั้งอยู่บ้านหาดผาขน ตำบลเมืองจัง อำเภอภูเพียง 
+Address: หมู่ 3 บ้านหาดผาขน
+Region: ภาคเหนือ
+Alley: 
+Road: 
+Subdistrict: 
+District: ภูเพียง
+Province: น่าน
+Category: แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม
+Sub Type: วิถีชีวิตความเป็นอยู่ (ชุมชน)
+Facilities Contact: 
+Telephone: 0 5478 3093(อบต.เมืองจัง), 08 5183 4975
+Email: 
+Website: 
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 18.8845528, 100.7986246
+UUID: 5e07ac76-fd4c-45fc-b386-b3bf5f4e2803
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 

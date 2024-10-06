@@ -1,0 +1,36 @@
+Title: วนอุทยานพุม่วง (Phu Muang Forest Park)
+Content: วนอุทยานพุม่วง อยู่ในเขตป่าสงวนแห่งชาติป่าเขาตะโกปิดทองและป่าเขาเพชรน้อย มีเนื้อที่ประมาณ 1,725 ไร่ ลักษณะเป็นภูเขาติดต่อกัน มีน้ำตกในฤดูฝน ทั้งหมด 5 ชั้น ตลอดเส้นทางการไหลของน้ำตกจะมีจุดที่น่าสนใจหลายจุด เช่น คอกช้างดิน ฐานศิลาแลง แก่งหิน เป็นต้น
+
+Nearby Location: ตั้งอยู่ตำบลจระเข้สามพัน อำเภออู่ทอง จังหวัดสุพรรณบุรี
+Address: หมู่ 5 
+Region: ภาคกลาง
+Alley: 
+Road: 
+Subdistrict: 
+District: อู่ทอง
+Province: สุพรรณบุรี
+Category: แหล่งท่องเที่ยวทางธรรมชาติ
+Sub Type: วนอุทยาน
+Facilities Contact: 
+Telephone: 032   211025 
+Email: 
+Website: www.park.dnp.go.th
+Facebook: 
+Instagram: 
+Line: 
+TikTok: 
+YouTube: 
+Start-End: 08.00  18.00 น.ทุกวัน
+Activity: 
+Suitable Duration: 
+Fee (TH): 
+Fee (TH Kid): 
+Fee (EN): 
+Fee (EN Kid): 
+Remark: 
+Location: 14.3433179, 99.8612618
+UUID: 8c9c9106-6fdf-496a-9def-b860bfe51d9c
+Created Date: 2024-09-23
+Updated Date: 2024-09-23
+URL: 
+Published Date: 
