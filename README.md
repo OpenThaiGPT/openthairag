@@ -319,8 +319,7 @@ You can find the complete example in the `/app/query_rag_using_openai.py` file.
 
 ## Full API Documentation
 
-For detailed API documentation and examples, please refer to our Postman collection:
-[OpenThaiRAG API Postman Collection](https://universal-capsule-630444.postman.co/workspace/Travel-LLM~43ad4794-de74-4579-bf8f-24dbe26da1e5/collection/5145656-81239b64-fc7e-4f61-acfd-8e5916e037ce?action=share&creator=5145656)
+For detailed API documentation and examples, please refer to our Postman collection: https://documenter.getpostman.com/view/5145656/2sAYBd67fw
 
 ## Maintainer
 
