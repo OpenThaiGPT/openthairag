@@ -4,14 +4,14 @@ services:
   web:
     build: .
     ports:
-      - "5000:5000"
+      - "5001:5000"
     volumes:
       - ./app:/app
       - ~/.cache:/root/.cache
     environment:
       - MILVUS_HOST=milvus
       - MILVUS_PORT=19530
-      - VLLM_HOST=172.17.0.1:8000
+      - VLLM_HOST=https://api.aieat.or.th
       - SYSTEM_PROMPT=คุณคือ OpenThaiGPT พัฒนาโดยสมาคมผู้ประกอบการปัญญาประดิษฐ์ประเทศไทย (AIEAT)
     depends_on:
       - milvus

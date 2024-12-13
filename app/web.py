@@ -16,7 +16,7 @@ logger.info("Logger initialized for Flask application")
 # Configuration for Milvus and vLLM hosts
 MILVUS_HOST = os.environ.get('MILVUS_HOST', 'milvus')
 MILVUS_PORT = os.environ.get('MILVUS_PORT', '19530')
-VLLM_HOST = os.environ.get('VLLM_HOST', '172.17.0.1:8000')
+VLLM_HOST = os.environ.get('VLLM_HOST', 'https://api.aieat.or.th')
 
 # Update Milvus connection settings
 connections.connect("default", host=MILVUS_HOST, port=MILVUS_PORT)
@@ -50,6 +50,7 @@ def initialize_milvus_collection():
 
 # Initialize Milvus collection
 collection = initialize_milvus_collection()
+collection.load()
 
 logger.info("Successfully connected with MILVUS database.")
 
@@ -298,7 +299,7 @@ def completions():
     if stream:
         def generate():
             response = requests.post(
-                f'http://{VLLM_HOST}/v1/completions',
+                f'{VLLM_HOST}/v1/completions',
                 json={
                     "model": ".",
                     "prompt": prompt_chatml,
@@ -320,7 +321,7 @@ def completions():
         return Response(generate(), mimetype='text/event-stream')
     else:
         response = requests.post(
-            f'http://{VLLM_HOST}/v1/completions',
+            f'{VLLM_HOST}/v1/completions',
             json={
                 "model": ".",
                 "prompt": prompt_chatml,
